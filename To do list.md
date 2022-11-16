@@ -1,11 +1,7 @@
-#TO DO
+# TO DO
 
 ## Lists
 
-### Unordered
+### À faire
 
-* 
-
-### Ordered
-
-1. 
+* compléter la liste des URL's anglais (Gemma)
