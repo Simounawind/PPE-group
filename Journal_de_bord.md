@@ -2,7 +2,7 @@
 
 
 
-## idées 
+## idées
 
 
 
@@ -41,13 +41,14 @@ Nous avons soumis plusiers versions de 7/12 et de 8/12, dans lesquelles nous avo
 
 # Problèmes rencontrés
 
-## Gemma : 
+## Gemma :
 28.10 : Après le mise à jour de mon OS, j'ai rencontré des problèmes avec les commandes git. J'ai donc réinstallé les commandes git mais je n'arrivais toujours pas à faire le git push. J'ai ensuite supprimé le dossier de notre groupe git sur mon ordinateur pour pouvoir recommencer les étapes depuis le début qui a bien fonctionné. J'ai pu ensuite continuer à faire les commandes push pour mettre à jour ma partie du projet.
 
 
-## Tannina : 
+## Tannina :
+24.11: J'ai rencontré quelques problèmes pour mettre à jour mon git à plusieurs reprises. J'ai donc décidé de le recloner pour faciliter mes ajouts par la suite.
 
-## Simon : 
+## Simon :
 
 ## 10.5  /S1
 
@@ -100,7 +101,7 @@ Etudes des commandes html5
 
 ## 11.23   / S8
 
-Environs 10 commits pendant cette période, j'ai appris CSS et l'application de Bulma, aussi j'ai crée mon site([index.html](https://github.com/Simounawind/PPE1/blob/main/index.html)), y ajoute les informations basiques de mon tableau. C'est très intéressant ! 
+Environs 10 commits pendant cette période, j'ai appris CSS et l'application de Bulma, aussi j'ai crée mon site([index.html](https://github.com/Simounawind/PPE1/blob/main/index.html)), y ajoute les informations basiques de mon tableau. C'est très intéressant !
 
 
 
@@ -112,11 +113,10 @@ Environs 10 commits pendant cette période, j'ai appris CSS et l'application de 
 
 Aujourd'hui on m'a appris l'iTrameur mais j'ai pas encore l'étudier parce que je dois d'abord essayer de créer les dump-texts et les fichiers aspirés. Dans le dossier `deuxieme_exercice 11.23` J'ai réussi à créer ces fichiers avec un script qui s'appelle `dumps_aspirations.sh` . Et avec le script que le prof nous a donné, j'ai modifié le mien pour créer un tableau avec plus d'informations, y compris les occurences.
 
-J'aime bien les trucs ! de sorte que je travaille jusqu'à 2:00-3:00 pour réaliser ce qu'il faut faire ! So far so good. 
+J'aime bien les trucs ! de sorte que je travaille jusqu'à 2:00-3:00 pour réaliser ce qu'il faut faire ! So far so good.
 
 
 
 ## 12.7	/S10
 
 J'ai soumis plusiers versions de 7/12 et de 8/12, dans lesquelles j'ai amélioré le tableau, et basé sur l'interface du prof, j'ai fait le site de notre groupe ([index.html](https://github.com/gemmafelton/PPE-group/blob/main/index.html)). En plus j'ai ajouté 3 colomns : [dumps-text](https://github.com/Simounawind/PPE1/tree/main/deuxieme_exercice 11.23/dumps-text) et [HTML](https://github.com/Simounawind/PPE1/tree/main/deuxieme_exercice 11.23/aspirations) et [concordances](https://github.com/Simounawind/PPE1/tree/main/deuxieme_exercice 11.23/concordances). Ce que je dois faire ensuite, c'est de savoir ce que signifie le contexte et comment le tirer et l'ajouter dans le tableau. Et enfin il faut associer et aider les membres de mon groupe, travailler ensemble pour achever le projet !!
-
