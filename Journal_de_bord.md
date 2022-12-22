@@ -8,24 +8,21 @@
 
 ## Séance 1-2
 ​	Introduction
-
-
+Création de nos comptes GitHub perso.
 
 
 
 
 
 ## Séance 4
-
-Nous avons déterminé comme sujet le syntagme "discrimination raciale".
+Nous avons plusieurs idées concernant le choix de notre mot tel que: 'diversité', 'discrimination', 'phobie sociale'. On c'est par la suite concerté afin de savoir si l'un des mots n'était pas employé en chinois. Nous nous sommes arrêtés sur le mot 'discrimination'. Nous avons aussi demandé l'avis de Monsieur Fleury, il nous a expliqué que c'était un bon mot mais qu'il était trop général et qu'il fallait le spécifier.
+Nous avons alors déterminé comme sujet le syntagme "discrimination raciale", qui nous permettra de recueillir des données plus précises et cohérentes.
 
 
 
 ## Séance 5
 
 Chacun a trouvé les URLs de la langue correspondante, les a enregistrés dans un texte d'encodage UTF-8 et enfin les ***push***  dans le dépôt sur Github.
-
-
 
 
 
@@ -48,6 +45,12 @@ Nous avons soumis plusiers versions de 7/12 et de 8/12, dans lesquelles nous avo
 ## Tannina :
 24.11: J'ai rencontré quelques problèmes pour mettre à jour mon git à plusieurs reprises. J'ai donc décidé de le recloner pour faciliter mes ajouts par la suite.
 
+##Semaine1
+J'ai effectué le clonage du dossier PPE1-group sur ma machine.
+
+##Semaine2
+
+
 ## Simon :
 
 ## 10.5  /S1
@@ -56,11 +59,9 @@ Aujourd'hui j'ai crée le dossier PPE1 sur mon ordinateur, j'ai crée le dépôt
 
 
 
-
-
 ## 10.12  /S2
 
-Aujourd'hui on a discuté le terme de notre site. JE suis dans le groupe avec Gemma et Tannina, qui se charge séparemment des URLs d'anglais et de français. Pour moi, c'est bien sûr le chinois.
+Aujourd'hui on a discuté le terme de notre site. JE suis dans le groupe avec Gemma et Tannina, qui se charge séparément des URLs d'anglais et de français. Pour moi, c'est bien sûr le chinois.
 
 J'ai aussi appris des commands de Shell, y compris cd, rm, mv, diff etc...
 
