@@ -41,6 +41,9 @@ Nous avons soumis plusiers versions de 7/12 et de 8/12, dans lesquelles nous avo
 ## Gemma :
 28.10 : Après le mise à jour de mon OS, j'ai rencontré des problèmes avec les commandes git. J'ai donc réinstallé les commandes git mais je n'arrivais toujours pas à faire le git push. J'ai ensuite supprimé le dossier de notre groupe git sur mon ordinateur pour pouvoir recommencer les étapes depuis le début qui a bien fonctionné. J'ai pu ensuite continuer à faire les commandes push pour mettre à jour ma partie du projet.
 
+7.12 : problèmes git pull et push
+22.12 : 
+
 
 ## Tannina :
 24.11: J'ai rencontré quelques problèmes pour mettre à jour mon git à plusieurs reprises. J'ai donc décidé de le recloner pour faciliter mes ajouts par la suite.
