@@ -18,8 +18,7 @@ then
 	exit
 fi
 
-#mot=$3 # à modifier -fait 
-mot=$"racial discrimination"
+mot=$"racial discrimination"	#à modifier
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
@@ -38,7 +37,7 @@ while read -r URL; do
 	# la façon attendue, sans l'option -w de cURL
 	code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
 	charset=$(curl -ILs $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2 | tail n-1)
-	concordance=$(lynx -accept_all_cookies -dump $URL | egrep "racial discrimination " -wc)
+	concordance=$(lynx -accept_all_cookies -dump $URL | egrep "racial discrimination" -wc)
 
 	# autre façon, avec l'option -w de cURL
 	# code=$(curl -Ls -o /dev/null -w "%{http_code}" $URL)
@@ -75,6 +74,3 @@ while read -r URL; do
 done < $fichier_urls
 echo "</table>" >> $fichier_tableau
 echo "</body></html>" >> $fichier_tableau
-
-#dump c'est le contenu récupéré de la page 
-#Si le code de l'url est 200 on met une variable vide pour l'abandonner, si code différent de 200 et pas  d'erreurs alors on convertit le fichier 
