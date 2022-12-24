@@ -9,7 +9,7 @@
 # Notamment pour quelque chose de plus léger, il n'y a pas de norme en bash.
 #===============================================================================
 
-fichier_urls_eng=$1 # le fichier d'URL en entrée
+fichier_urls=$1 # le fichier d'URL en entrée
 fichier_tableau=$2 # le fichier HTML en sortie
 
 if [[ $# -ne 2 ]]
@@ -21,8 +21,8 @@ fi
 #mot=$3 # à modifier -fait 
 mot=$"racial discrimination"
 
-echo $fichier_urls_eng;
-basename=$(basename -s .txt $fichier_urls_eng)
+echo $fichier_urls;
+basename=$(basename -s .txt $fichier_urls)
 
 echo "<html><body>" > $fichier_tableau
 echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
@@ -72,7 +72,7 @@ while read -r URL; do
 	echo "<tr><td>$lineno</td><td>$code</td><td><a href=\"$URL\">$URL</a></td><td>$charset</td><td>$compte</td></tr>" >> $fichier_tableau
 	echo -e "\t--------------------------------"
 	lineno=$((lineno+1));
-done < $fichier_urls_eng
+done < $fichier_urls
 echo "</table>" >> $fichier_tableau
 echo "</body></html>" >> $fichier_tableau
 
