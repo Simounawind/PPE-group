@@ -23,9 +23,11 @@ mot="种族歧视" # à modifier
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
 
-echo "<html><body>" > $fichier_tableau
+echo "
+	<html>
+	<body>" > $fichier_tableau
 echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
-echo "<br/>" >> $fichier_tableau
+echo "<br></br>" >> $fichier_tableau
 echo "<table>" >> $fichier_tableau
 echo "<tr>
 	<th>ligne</th>
@@ -39,23 +41,15 @@ echo "<tr>
 	<th>Contexte</th>
 	<th>Concordances</th>
 	</tr>" >> $fichier_tableau
-#<th>dump html</th><th>dumt text</th></tr>
+
 lignenum=1;
 while read -r URL || [[ -n ${URL} ]]; do
-	curl -o ../aspirations/cn-$lignenum.html $URL
-	w3m $URL > ../dumps-text/cn-$lignenum.txt
-	echo -e "\tURL : $URL";
+
 	# la façon attendue, sans l'option -w de cURL
 	code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
 	charset=$(curl -Ls $URL | grep -Eo "charset=(\w|-)+" |tail | cut -d= -f2 |tail -n 1)
 	Occurences=$(w3m -cookie $URL | egrep "种族歧视" -wc)
-	
-
-
-	# autre façon, avec l'option -w de cURL
-	# code=$(curl -Ls -o /dev/null -w "%{http_code}" $URL)
-	# charset=$(curl -ILs -o /dev/null -w "%{content_type}" $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2)
-
+	echo -e "\tURL : $URL";
 	echo -e "\tcode : $code";
 
 	if [[ ! $charset ]]
@@ -78,16 +72,16 @@ while read -r URL || [[ -n ${URL} ]]; do
 		dump=""
 		charset=""
 	fi
-	# echo "$dump" > ""cn-$lignenum.txt" 
+
 	echo "<tr>
 	<td>$lignenum</td>
 	<td>$code</td>
 	<td><a href=\"$URL\">$URL</a></td>
 	<td>$charset</td><td>$Occurences</td>
-	<td><a href=\"../dumps-text/cn-$lignenum.txt\">text</a></td>
-	<td><a href=\"../aspirations/cn-$lignenum.html\">html</a></td>
-	<td><a href=\"../contexte/cn-$lignenum.txt\">contexte</a></td>
-	<td><a href=\"https://htmlpreview.github.io/?https://github.com/Simounawind/PPE1/blob/main/deuxieme_exercice%2011.23/concordances/concordance-$lignenum.html\">concordance</a></td>
+	<td><a href=\"../dumps-text/ch-$lignenum.txt\">text</a></td>
+	<td><a href=\"../aspirations/ch-$lignenum.html\">html</a></td>
+	<td><a href=\"../contextes/ch-$lignenum.txt\">contexte</a></td>
+	<td><a href=\"../concordances/concordance_ch-$lignenum.html\">concordance</a></td>
 	</tr>" >> $fichier_tableau
 	echo -e "\t----------------------------------------------------------------"
 	lignenum=$((lignenum+1));
