@@ -1,0 +1,516 @@
+   IFRAME: //www.googletagmanager.com/ns.html?id=GTM-M2X5VXQ
+
+   Matches (29)
+   BAN v IND (1)
+   LPL (1)
+   BBL (3)
+   Ranji Trophy (19)
+   ENG-W in WI (1)
+   Pakistan Cup (3)
+   Super Smash (W) (1)
+   (BUTTON) Previous
+   Bet 365
+   Stumps • 2nd TEST •  Mirpur
+   BAN Flag
+
+   BAN
+   (6 ov) 227 & 7/0
+   IND Flag
+
+   IND
+   314
+
+   Day 2 - Bangladesh trail by 80 runs.
+   ScheduleReportSeries
+   RESULT • Final • LPL •  T20 •  Colombo (RPS)
+   CS Flag
+
+   CS
+   163/5
+   JK Flag
+
+   JK
+   (19.2/20 ov, T:164) 164/8
+
+   Kings won by 2 wickets (with 4 balls remaining)
+   ScheduleTableSeries
+   RESULT • 13th Match • BBL •  T20 •  Brisbane
+   BH Flag
+
+   BH
+   166/9
+   AS Flag
+
+   AS
+   (20 ov, T:167) 160/9
+
+   Heat won by 6 runs
+   ScheduleTableReportSeries
+   RESULT • 12th Match • BBL •  T20 •  Melbourne
+   PS Flag
+
+   PS
+   229/7
+   MS Flag
+
+   MS
+   (20 ov, T:230) 168/8
+
+   Scorchers won by 61 runs
+   ScheduleTableReportSeries
+   RESULT • Elite, Group B • Ranji Trophy •  FC •  Mumbai
+   MUM Flag
+
+   MUM
+   651/6d
+   HYD Flag
+
+   HYD
+   (f/o) 214 & 220
+
+   Mumbai won by an innings and 217 runs
+   ScheduleTableVideosSeries
+   RESULT • Elite, Group C • Ranji Trophy •  FC •  Jamshedpur
+   JHK Flag
+
+   JHK
+   386 & 212/3d
+   GOA Flag
+
+   GOA
+   (T:237) 362 & 61/3
+
+   Match drawn
+   ScheduleTableVideosSeries
+   RESULT • Elite, Group D • Ranji Trophy •  FC •  Ahmedabad
+   GUJ Flag
+
+   GUJ
+   (T:11) 307 & 11/1
+   J + K Flag
+
+   J + K
+   (f/o) 135 & 182
+
+   Gujarat won by 9 wickets
+   ScheduleTableVideosSeries
+   RESULT • 5th T20I •  Bridgetown
+   WI-W Flag
+
+   WI-W
+   43
+   ENG-W Flag
+
+   ENG-W
+   (5.3/20 ov, T:44) 44/2
+
+   ENG Women won by 8 wickets (with 87 balls remaining)
+   ScheduleReportSeries
+   RESULT • Elite, Group C • Ranji Trophy •  FC •  Bengaluru
+   PONDI Flag
+
+   PONDI
+   170 & 127
+   KNTKA Flag
+
+   KNTKA
+   304
+
+   Karnataka won by an innings and 7 runs
+   ScheduleTableVideosSeries
+   RESULT • Elite, Group D • Ranji Trophy •  FC •  Delhi
+   RLYS Flag
+
+   RLYS
+   102 & 49/0
+   PNJB Flag
+
+   PNJB
+   152/6d
+
+   Match drawn
+   ScheduleTableVideosSeries
+   RESULT • Plate Group • Ranji Trophy •  FC •  Anand
+   ARPR Flag
+
+   ARPR
+   63 & 157
+   MIZOR Flag
+
+   MIZOR
+   338
+
+   Mizoram won by an innings and 118 runs
+   ScheduleTableVideosSeries
+   RESULT • Plate Group • Ranji Trophy •  FC •  Shillong
+   SIKM Flag
+
+   SIKM
+   140 & 90
+   MEGHA Flag
+
+   MEGHA
+   (T:78) 153 & 78/0
+
+   Meghalaya won by 10 wickets
+   ScheduleTableVideosSeries
+   RESULT • Elite, Group B • Ranji Trophy •  FC •  Coimbatore
+   AP Flag
+
+   AP
+   297 & 250
+   TN Flag
+
+   TN
+   (T:203) 345 & 194
+
+   Andhra won by 8 runs
+   ScheduleTableVideosSeries
+   RESULT • Elite, Group B • Ranji Trophy •  FC •  Guwahati
+   DELHI Flag
+
+   DELHI
+   439 & 292/1
+   ASSAM Flag
+
+   ASSAM
+   443/9d
+
+   Match drawn
+   ScheduleTableVideosSeries
+   RESULT • Elite, Group C • Ranji Trophy •  FC •  Delhi
+   SVCS Flag
+
+   SVCS
+   213 & 221
+   CGARH Flag
+
+   CGARH
+   (T:46) 389 & 46/0
+
+   Chhattisgarh won by 10 wickets
+   ScheduleTableVideosSeries
+   RESULT • Elite, Group C • Ranji Trophy •  FC •  Jaipur
+   RAJ Flag
+
+   RAJ
+   337 & 363/8d
+   KER Flag
+
+   KER
+   (T:395) 306 & 299/8
+
+   Match drawn
+   ScheduleTableVideosSeries
+   RESULT • Elite, Group D • Ranji Trophy •  FC •  Nagpur
+   VIDAR Flag
+
+   VIDAR
+   264 & 379/8d
+   TPURA Flag
+
+   TPURA
+   (T:345) 299 & 124
+
+   Vidarbha won by 220 runs
+   ScheduleTableVideosSeries
+   RESULT • Elite, Group A • Ranji Trophy •  FC •  Vadodara
+   BRODA Flag
+
+   BRODA
+   615
+   HRYNA Flag
+
+   HRYNA
+   (f/o) 278 & 404/9
+
+   Match drawn
+   ScheduleTableVideosSeries
+   RESULT • Elite, Group A • Ranji Trophy •  FC •  Eden Gardens
+   BENG Flag
+
+   BENG
+   310 & 291/5d
+   HP Flag
+
+   HP
+   (T:472) 130 & 348/4
+
+   Match drawn
+   ScheduleTableVideosSeries
+   RESULT • Elite, Group A • Ranji Trophy •  FC •  Dehradun
+   ODISA Flag
+
+   ODISA
+   213 & 165
+   UKHND Flag
+
+   UKHND
+   477
+
+   Uttarakhand won by an innings and 99 runs
+   ScheduleTableVideosSeries
+   RESULT • Elite, Group A • Ranji Trophy •  FC •  Sovima
+   UP Flag
+
+   UP
+   551/4d
+   NAGA Flag
+
+   NAGA
+   (f/o) 136 & 185
+
+   UP won by an innings and 230 runs
+   ScheduleTableVideosSeries
+   RESULT • Elite, Group B • Ranji Trophy •  FC •  Mumbai
+   MUM Flag
+
+   MUM
+   651/6d
+   HYD Flag
+
+   HYD
+   (f/o) 214 & 220
+
+   Mumbai won by an innings and 217 runs
+   ScheduleTableVideosSeries
+   RESULT • Elite, Group D • Ranji Trophy •  FC •  Indore
+   MP Flag
+
+   MP
+   309
+   CHR Flag
+
+   CHR
+   (f/o) 57 & 127
+
+   M. Pradesh won by an innings and 125 runs
+   ScheduleTableVideosSeries
+   RESULT • Plate Group • Ranji Trophy •  FC •  Ahmedabad
+   BIHAR Flag
+
+   BIHAR
+   311 & 287/9d
+   MNPR Flag
+
+   MNPR
+   (T:303) 296 & 248/8
+
+   Match drawn
+   ScheduleTableVideosSeries
+   RESULT • 16th Match • Pakistan Cup •  List A •  Karachi
+   BALO Flag
+
+   BALO
+   253
+   SINDH Flag
+
+   SINDH
+   (41.1/50 ov, T:254) 254/4
+
+   Sindh won by 6 wickets (with 53 balls remaining)
+   ScheduleTableSeries
+   RESULT • 17th Match • Pakistan Cup •  List A •  Karachi
+   SPNJB Flag
+
+   SPNJB
+   274/8
+   CPNJB Flag
+
+   CPNJB
+   (38/50 ov, T:275) 177
+
+   Southern PNJ won by 97 runs
+   ScheduleTableSeries
+   RESULT • 18th Match • Pakistan Cup •  List A •  Karachi
+   KP Flag
+
+   KP
+   351/4
+   NORTH Flag
+
+   NORTH
+   (46.2/50 ov, T:352) 268
+
+   Khyber won by 83 runs
+   ScheduleTableSeries
+   RESULT • 1st Match • Super Smash (W) •  Mount Maunganui
+   CAN-W Flag
+
+   CAN-W
+   146/7
+   ND-W Flag
+
+   ND-W
+   (20 ov, T:147) 132/9
+
+   Cant Women won by 14 runs
+   ScheduleTableSeries
+   Today, 4:30 AM • 14th Match • BBL •  T20 •  Hobart
+   Hobart Hurricanes Flag
+
+   Hobart Hurricanes
+   Melbourne Renegades Flag
+
+   Melbourne Renegades
+
+   Match starts in 4 hrs 5 mins
+   ScheduleTableVideosSeries
+   (BUTTON) Next
+   ESPNcricinfo
+   Live Scores
+   Series
+   Teams
+   News
+   Features
+   Videos
+   Stats
+   IPL Auction
+   Edition UK
+     * Terminated contractor files case against USA Cricket for 'racial
+       discrimination'
+       7mPeter Della Penna
+     * IPL auction 2023: How the 10 teams stack up
+       6hESPNcricinfo staff
+     * Sam Curran becomes most expensive player in IPL history
+       13hShashank Kishore
+     * 2023 IPL auction: The list of sold and unsold players
+       15hSrinidhi Ramanujam
+     * Vivrant Sharma lives his brother's dream with Sunrisers Hyderabad
+       IPL deal
+       6hShashank Kishore
+     * 'Happy and humbled' Sikandar Raza caps dream year with IPL deal
+       8hMohammad Isam
+     * Stuart Broad, Matt Potts, Dan Lawrence back in England Test squad
+       for New Zealand tour
+       14hESPNcricinfo staff
+     * Jon Lewis on England success in West Indies: 'There's been a real
+       shift in the group'
+       7hAlan Gardner
+     * West Indies slump to record T20I low as England complete 5-0 sweep
+       21hESPNcricinfo staff
+     * Sam Curran becomes most expensive player in IPL history
+       13hShashank Kishore
+     * West Indies slump to record T20I low as England complete 5-0 sweep
+       21hESPNcricinfo staff
+     * PCB overhaul - chief selector Wasim sacked, all committees formed
+       after 2019 disbanded
+       17hUmar Farooq
+     * Sydney Thunder terminate Fazalhaq Farooqi's contract
+       18hESPNcricinfo staff
+     * Jofra Archer returns to England's ODI squad for tour of South
+       Africa
+       1dESPNcricinfo staff
+     * Roland Butcher appointed to West Indies selection panel
+       8hESPNcricinfo staff
+     * Is Rishabh Pant the GWOAT?
+       11hSidharth Monga
+     * Bangladesh let India slip from their grasp, literally
+       10hMohammad Isam
+     * Pant 93, Iyer 87 help India wrest back control
+       18hSidharth Monga
+     * Joe Root signed by Dubai Capitals for ILT20
+       1dESPNcricinfo staff
+     * Robin Uthappa and Yusuf Pathan to play for Dubai Capitals in ILT20
+       4dNagraj Gollapudi
+     * Jofra Archer returns to England's ODI squad for tour of South
+       Africa
+       1dESPNcricinfo staff
+
+   News
+
+Terminated contractor files case against USA Cricket for 'racial
+discrimination'
+
+   The lawsuit, filed by Kirk Greaves, seeks a total of $2 million dollars
+   in damages
+   Peter Della Penna
+   Peter Della Penna
+   13-May-2022
+   Kirk Greaves (C) was terminated from an independent contractor role
+   early last month, Lauderhill, December 23, 2021
+
+   Kirk Greaves (middle) on December 23, 2021, in Lauderhill, Florida, at
+   a T20I between USA and Ireland  •  Peter Della Penna
+   In the midst of a protracted legal battle regarding the delayed general
+   elections from 2020, USA Cricket now has a second lawsuit on its hands
+   after Kirk Greaves, who was terminated from an independent-contractor
+   role early last month, filed legal action in the US Federal Court
+   against the national governing body claiming "racial discrimination in
+   employment".
+   The lawsuit, which was filed by Greaves on April 28 in the Northern
+   District of California (USA Cricket is headquartered in San Francisco)
+   is seeking a total of $2 million dollars in damages: $150,000 in
+   economic damages owing to lost future wages; $350,000 in non-economic
+   damages for "psychological stress and humiliation"; and $1.5 million in
+   punitive damages.
+   "USA Cricket is aware of various details of a lawsuit being brought by
+   a former contractor against USA Cricket," a USA Cricket spokesperson
+   said to ESPNcricinfo in an emailed statement. "The individual is one of
+   a number of contractors previously engaged by USA Cricket whose
+   contracts were recently not renewed. All allegations in the lawsuit are
+   entirely false and without merit, and USA Cricket denies and will
+   aggressively defend against them. The matter is currently in the hands
+   of USA Cricket's lawyers. We look forward to the case being dismissed
+   in due course and will not be making any further comment at this time."
+   Prior to working for USA Cricket, Greaves, a native of Barbados, worked
+   as Team Operations Manager for Barbados Tridents for three seasons in
+   the Caribbean Premier League from 2016 to 2018. He was also appointed
+   as Tournament Operations Manager for the Global T20 Canada when it
+   launched in 2018 and worked in an operations role for Rajasthan Royals
+   during the 2019 IPL. According to the lawsuit, Greaves claims he was
+   brought on board by USA Cricket as an independent contractor for a
+   four-month probationary period as a Cricket Operations Manager
+   beginning in March 2021 at an initial wage of $5,000 per month and
+   tasked with executing four domestic cricket tournaments.
+   Greaves claims a verbal agreement was in place with then board CEO Iain
+   Higgins to give him an offer of full-time employment, contingent upon
+   the successful completion of the four domestic tournaments. However,
+   Greaves was never subsequently presented with a full-time job offer and
+   claims that the budget which was allegedly allocated for the role was
+   instead repackaged as an increased salary offer to a white employee.
+   Among other allegations, Greaves states that he was subjected to a
+   "toxic work environment, unfair employment practices, wage disparity
+   and discrimination". Greaves claims that he was the only black staff
+   member and also the only American citizen on staff and, as such, he was
+   "hired to diversify the management of USA Cricket. It would appear that
+   only the Australians, Indians, New Zealanders and other non-Americans
+   have benefitted from the USA Cricket brand".
+   Though their employment status is not considered full-time, USA Cricket
+   currently has three other black men - who are all American citizens -
+   serving in staff leadership roles affiliated with its national teams:
+   John Aaron as USA Women's national team manager, Kerk Higgins as USA
+   men's national team manager, and Kevin Darlington in the dual role of
+   USA men's assistant coach and USA U-19 men's head coach.
+   Greaves also claims in the suit that he suffered humiliation after
+   having his role reclassified from "Cricket Operations Manager" to
+   "Events Manager", and that the renaming of his role resulted in
+   "eliminating any element of black representation at the senior
+   management level", something he claims "was racially orchestrated and
+   violated US law". Greaves also writes that his job status was that of a
+   permanent employee but claims that classifying him as an independent
+   contractor "demonstrates bad faith and is a contravention of US labor
+   laws".
+   On March 28, a letter was sent by USA Cricket Operations Director
+   Richard Done to Greaves notifying him that his independent contractor
+   agreement - which had been $6,500 for the final five months, an
+   increase of $1,500 above his original - was being terminated as of
+   April 8, "pursuant to the decision of the Cricket Committee". However,
+   Greaves claims that he received an email disputing this from USA
+   Cricket board member Srini Salver. In the email, which is attached in
+   an exhibit as part of the lawsuit filing, Salver writes to Greaves that
+   "your termination was never recommended by the Cricket Committee" in
+   any board meeting but was instead discussed during a conversation about
+   budgets.
+   "The budget isn't approved, nor are the terminations," Salver allegedly
+   wrote to Greaves. Salver is one of the two board member plaintiffs,
+   along with Venu Pisike, in the ongoing legal action filed against five
+   other USA board members and then USA Cricket CEO Iain Higgins over the
+   legality of new members being allowed voting status in the case about
+   the delayed elections from 2020.
+   A court hearing date for the Greaves lawsuit has been set for August 2.
+   United States of America
+
+   Peter Della Penna is ESPNcricinfo's USA correspondent @PeterDellaPenna
+   Terms of Use  •  Privacy Policy  •  Interest-Based Ads  •  EU Privacy
+   Rights  •  Cookie Policy  •  Feedback
