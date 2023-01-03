@@ -16,7 +16,7 @@ Nous avons choisi le mot "discrimination", plus spécifiquement "**discriminatio
 
 - Séance 1 : 5.10.2022
 
-Pendant cette séance "d'introduction" nous avons crées nos comptes GitHub personnels sur lequels nous travaillerons dessus pendant le semestre. 
+Pendant cette séance "d'introduction" nous avons crées nos comptes GitHub personnels sur lequels nous travaillerons dessus pendant le semestre. Les profs nous ont présentés les commandes git (clone, pull, push,...) qu'on utilisera pendant le semestre. 
 
 - Séance 2 : 12.10.2022
 
