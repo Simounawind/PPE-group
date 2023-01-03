@@ -1,9 +1,11 @@
 # Journal de bord du projet encadré
 
+## Choix du mot 
 
-
-## idées
-
+Nous avons choisi le mot "discrimination", plus spécifiquement **discrimination raciale** afin d'avoir les occurrences plus spécifiques dans nos URL's.
+- Gemma prend charge du corpus en Anglais
+- Tannina prend charge du corpus en Français
+- Simon prend charge du corpus en Chinois 
 
 
 ## Séance 1-2
