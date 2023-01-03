@@ -8,7 +8,8 @@ Nous avons choisi le mot "discrimination", plus spécifiquement "**discriminatio
 - Tannina prend charge du corpus en Français
 - Simon prend charge du corpus en Chinois 
 
-## Comment nous avons choisis nos URL's : 
+## Comment nous avons choisis nos URL's 
+
 
 
 ## Travail effectué pendant les séances
