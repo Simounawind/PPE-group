@@ -53,3 +53,21 @@ Nous avons soumis plusieurs versions de 7/12 et de 8/12, dans lesquelles nous av
 - Séance 11 : 
 
 
+## Problèmes recontrées par chacun d'entre nous pendant la création de notre projet
+
+- Gemma
+Pendant le semestre, j'ai rencontré plusieurs problèmes qui concernait la plupart du temps un problème lors du commit ou lors d'un git push après la modification de mon travail. Cela m'a empêché d'avancer autant que je voulais car j'étais souvent bloquée au même étape, ce qui m'a avéré très compliqué. 
+
+28.10.2022 : Après le mise à jour de mon OS, j'ai rencontré des problèmes avec les commandes git. J'ai donc réinstallé les commandes git mais je n'arrivais toujours pas à faire le git push. J'ai ensuite supprimé le dossier de notre groupe git sur mon ordinateur pour pouvoir recommencer les étapes depuis le début qui a bien fonctionné. J'ai pu ensuite continuer à faire les commandes push pour mettre à jour ma partie du projet.
+
+07.12.2022 : Je n'ai pas réussi à faire le git commit à plusieurs reprises dû à un problème de merge. J'ai regarde sur l'internet mais je n'ai pas réussi. Pendant le cours, M. Magistry nous a aidé à trouver le problème. Nous avons fait un 'git status' pour voir ce qui posait de problème afin de le regler. Après plusieurs commandes, et une modification de DS.store (ce qui apparement est souvent un problème avec mac), nous avons réussi à faire un merge et j'ai pu procédé avec mon git push.
+
+22.12.2022 : J'ai rencontré le même erreur que celui du 7.12. J'ai retenté les mêmes étapes qu'on a fait avec M. Magistry mais cela n'a pas fonctionne. J'ai décidé alors de supprimer mon dossier sur ma machine et de refaire un git clone afin de recommencer. Après cette tentative, j'ai pu continuer avec mon travail.
+
+
+- Tannina 
+24.11.2022 : J'ai rencontré quelques problèmes pour mettre à jour mon git à plusieurs reprises. J'ai donc décidé de le recloner pour faciliter mes ajouts par la suite.
+Problème pour commiter a cause du divergence de branches.
+
+
+- Simon
