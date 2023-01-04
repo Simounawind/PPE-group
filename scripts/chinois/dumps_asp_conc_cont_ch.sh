@@ -7,9 +7,9 @@ cible="种族歧视"
 while read URL || [[ -n $URL ]];
 do
 	echo "fichier $lignenum est en cours de traitement."
-	curl -o ../aspirations/ch-$lignenum.html $URL
-	w3m $URL > ../dumps-text/ch-$lignenum.txt
-	grep -E -A3 -B3 $cible ../dumps-text/ch-$lignenum.txt > ../contextes/ch-$lignenum.txt
+	curl -o ../../aspirations/chinois/ch-$lignenum.html $URL
+	w3m $URL > ../../dumps-text/chinois/ch-$lignenum.txt
+	grep -E -A3 -B3 $cible ../../dumps-text/chinois/ch-$lignenum.txt > ../../contextes/chinois/ch-$lignenum.txt
 
 	echo "
 	<!DOCTYPE html>
@@ -30,14 +30,14 @@ do
 						</tr>
 					</thead>
 					<tbody>
-	" > ../concordances/concordance_ch-$lignenum.html
-	w3m -cookie $URL | grep -E -o "(\w+|\W+){0,10}$cible(\W+|\w+){0,10}" |sort|uniq | sed -E "s/(.*)($cible)(.*)/<tr><td class="has-text-right">\1<\/td><td class="has-text-danger"><strong>\2<\/strong><\/td><td class="has-text-left">\3<\/td><\/tr>/" >> ../concordances/concordance_ch-$lignenum.html
+	" > ../../concordances/chinois/concordance_ch-$lignenum.html
+	w3m -cookie $URL | grep -E -o "(\w+|\W+){0,10}$cible(\W+|\w+){0,10}" |sort|uniq | sed -E "s/(.*)($cible)(.*)/<tr><td class="has-text-right">\1<\/td><td class="has-text-danger"><strong>\2<\/strong><\/td><td class="has-text-left">\3<\/td><\/tr>/" >> ../../concordances/chinois/concordance_ch-$lignenum.html
 	echo "
 	</tbody>
 	</table>
 	</body>
 	</html>
-	" >> ../concordances/concordance_ch-$lignenum.html
+	" >> ../../concordances/chinois/concordance_ch-$lignenum.html
 	lignenum=$((lignenum+1));
 done < $fichier_urls
 exit
