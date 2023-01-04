@@ -9,7 +9,7 @@
 
 ## Langues : 
 
-### Anglais (afrique du sud)
+### Anglais américain
 
 
 ### Français 
