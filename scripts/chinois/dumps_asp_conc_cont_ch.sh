@@ -24,9 +24,9 @@ do
 				<table class="table">
 					<thead>
 						<tr>
-						<th class=\"has-text-right\">Contexte droit</th>
+						<th class=\"has-text-right\">Contexte gauche</th>
 						<th>Cible</th>
-						<th class=\"has-text-left\">Contexte gauche</th>
+						<th class=\"has-text-left\">Contexte droit</th>
 						</tr>
 					</thead>
 					<tbody>
