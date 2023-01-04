@@ -1,0 +1,85 @@
+../dumps-text/en-29.txt-   [39]gutted the VRA by [40]rendering Section 5 ineffective, the Court
+../dumps-text/en-29.txt-   has chipped away at the power of the VRA. Most recently, the Court
+../dumps-text/en-29.txt-   weakened Section 2 of the VRA, one of the last protections against
+../dumps-text/en-29.txt:   racially discriminatory voting laws. It did so in the 2021 decision in
+../dumps-text/en-29.txt-   Brnovich v. Democratic National Committee, where the Court [41]made it
+../dumps-text/en-29.txt:   more difficult for voting rights plaintiffs to challenge racially
+../dumps-text/en-29.txt-   discriminatory voting laws in court.
+../dumps-text/en-29.txt-
+../dumps-text/en-29.txt-   This term, the Court considers Section 2 again in [42]Merrill v.
+../dumps-text/en-29.txt-   Milligan. This time, the Court threatens to weaken well-established
+../dumps-text/en-29.txt-   precedent lower courts have used for decades to evaluate redistricting
+../dumps-text/en-29.txt:   plans alleged to be racially discriminatory. In this blog, we will
+../dumps-text/en-29.txt-   explore the history of Section 2 and its impact on discriminatory
+../dumps-text/en-29.txt-   redistricting plans, explain the dispute at issue in Milligan, and
+../dumps-text/en-29.txt-   preview potential next steps to protect voting rights.
+--
+../dumps-text/en-29.txt-   one is prevented from participating in the political process because of
+../dumps-text/en-29.txt-   their race. Its core protections are in Section 5 and Section 2 of the
+../dumps-text/en-29.txt-   Act. Section 5 established a system of "federal preclearance," which
+../dumps-text/en-29.txt:   required jurisdictions with a history of racial discrimination in
+../dumps-text/en-29.txt-   voting to seek preapproval before making any changes to their voting
+../dumps-text/en-29.txt:   practices. For voters harmed by jurisdictions with racially
+../dumps-text/en-29.txt-   discriminatory voting policies and practices, Section 2 provided them
+../dumps-text/en-29.txt-   with legal recourse.
+../dumps-text/en-29.txt-
+--
+../dumps-text/en-29.txt-   without a functioning Section 5, Section 2 is even more necessary to
+../dumps-text/en-29.txt-   challenge policies and practices that intend to or effect of harming
+../dumps-text/en-29.txt-   voters of color. As explored below, Merrill v. Milligan threatens
+../dumps-text/en-29.txt:   Section 2 and voters' ability to use it to challenge racial
+../dumps-text/en-29.txt-   discrimination in voting.
+../dumps-text/en-29.txt-
+../dumps-text/en-29.txt-Claims Under Section 2 of the Voting Rights Act: Vote Denial & Vote Dilution
+--
+../dumps-text/en-29.txt-
+../dumps-text/en-29.txt-   Vote denial claims typically challenge practices that render voting
+../dumps-text/en-29.txt-   "not equally open to participation" for voters protected by Section 2
+../dumps-text/en-29.txt:   -- racial and language minority groups. They became more common as
+../dumps-text/en-29.txt-   states rushed to pass restrictive voting laws after the Shelby County
+../dumps-text/en-29.txt-   decision. A common vote denial claim post-Shelby County are challenges
+../dumps-text/en-29.txt-   to restrictive photo ID laws that disproportionately prevent voters of
+--
+../dumps-text/en-29.txt-   Until the ruling in Brnovich, the Supreme Court had not squarely
+../dumps-text/en-29.txt-   addressed Section 2 vote denial claims. [45]As noted in our previous
+../dumps-text/en-29.txt-   blog, the Court in Brnovich dealt a blow to voters' ability to
+../dumps-text/en-29.txt:   challenge racial discrimination in voting under Section 2.
+../dumps-text/en-29.txt-
+../dumps-text/en-29.txt-Vote Dilution
+../dumps-text/en-29.txt-
+--
+../dumps-text/en-29.txt-
+../dumps-text/en-29.txt-   The Supreme Court has decided several vote dilution cases since the VRA
+../dumps-text/en-29.txt-   was passed in 1965, including Thornburg v. Gingles in 1986, which
+../dumps-text/en-29.txt:   established the test to evaluate claims of racial vote dilution in
+../dumps-text/en-29.txt-   district boundaries. To establish a Section 2 violation under Gingles,
+../dumps-text/en-29.txt-   plaintiffs must show that instead of the challenged map or boundaries
+../dumps-text/en-29.txt-   which dilute the power of voters of color, an acceptable district could
+--
+../dumps-text/en-29.txt-   geographically compact to constitute a majority in a single-member
+../dumps-text/en-29.txt-   district," should be a race-blind test. Alabama's argument does not
+../dumps-text/en-29.txt-   square with the purpose and history of the VRA, which is specifically
+../dumps-text/en-29.txt:   focused on rooting out racial discrimination in voting pursuant to
+../dumps-text/en-29.txt-   Congress's power to enforce the Fourteenth Amendment.
+../dumps-text/en-29.txt-
+../dumps-text/en-29.txt-   Alabama voters in the Milligan case argue that Alabama violated Section
+--
+../dumps-text/en-29.txt-   It's essential that the Supreme Court uphold the Alabama district court
+../dumps-text/en-29.txt-   ruling and protect the longstanding protections Section 2 provides for
+../dumps-text/en-29.txt-   voters. Should the Court rule in Alabama's favor, future rulings
+../dumps-text/en-29.txt:   striking down racially discriminatory redistricting plans could be put
+../dumps-text/en-29.txt-   at risk. This is already occurring: in June 2022, [51]a district court
+../dumps-text/en-29.txt-   in Louisiana found a Section 2 violation for that state's congressional
+../dumps-text/en-29.txt-   map, but the decision has stayed pending the outcoming in Milligan. The
+../dumps-text/en-29.txt:   racially discriminatory Louisiana congressional map has thus been
+../dumps-text/en-29.txt-   allowed to go into effect for the 2022 election season. If the Supreme
+../dumps-text/en-29.txt-   Court rules in favor of Alabama, the Louisiana case could suffer the
+../dumps-text/en-29.txt-   same fate.
+--
+../dumps-text/en-29.txt-  50. https://www.lwv.org/sites/default/files/2022-07/SPLC-LWVALUS-SUM%20Merrill%20v%20Milligan%20Amicus%20Brief.pdf
+../dumps-text/en-29.txt-  51. https://www.supremecourt.gov/orders/courtorders/062822zr1_9ol1.pdf
+../dumps-text/en-29.txt-  52. https://www.lwv.org/blog/protect-voting-rights-act-keep-democracy-safe
+../dumps-text/en-29.txt:  53. https://www.lwv.org/newsroom/press-releases/lwv-watches-oral-arguments-scotus-racial-vote-dilution-case-merrill-v
+../dumps-text/en-29.txt-  54. https://www.lwv.org/legal-center/merrill-v-milligan
+../dumps-text/en-29.txt-  55. https://www.lwv.org/newsroom/press-releases/lwv-and-splc-call-supreme-court-defend-equal-representation-black
+../dumps-text/en-29.txt-  56. https://www.lwv.org/blog/brnovich-significant-blow-our-freedom-vote

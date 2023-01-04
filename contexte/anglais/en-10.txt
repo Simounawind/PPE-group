@@ -1,0 +1,45 @@
+../dumps-text/en-10.txt-   of "liberty and justice for all" has not been achieved.
+../dumps-text/en-10.txt-
+../dumps-text/en-10.txt-   Young people have been at the frontline of this global movement against
+../dumps-text/en-10.txt:   racism and racial discrimination.  Now more than ever, we see
+../dumps-text/en-10.txt-   that youth engagement and political participation are vital to
+../dumps-text/en-10.txt-   addressing systemic racism, as well as other global challenges,
+../dumps-text/en-10.txt-   including climate change, the COVID-19 pandemic, and authoritarian
+--
+../dumps-text/en-10.txt-   In his first weeks in office, President Biden established a
+../dumps-text/en-10.txt-   whole-of-government process to assess and end systemic racism in
+../dumps-text/en-10.txt-   government policy, programs, and institutions.  He signed executive
+../dumps-text/en-10.txt:   actions to redress racially discriminatory federal housing policies and
+../dumps-text/en-10.txt-   end the federal government's use of private prisons, a first step
+../dumps-text/en-10.txt-   towards addressing mass incarceration, which disproportionately
+../dumps-text/en-10.txt-   impacts people of African descent and other people of color.  He also
+--
+../dumps-text/en-10.txt-   1. https://geneva.usmission.gov/feed/
+../dumps-text/en-10.txt-   2. https://geneva.usmission.gov/events/?ical=1
+../dumps-text/en-10.txt-   3. https://geneva.usmission.gov/wp-json/wp/v2/posts/7325
+../dumps-text/en-10.txt:   4. https://geneva.usmission.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgeneva.usmission.gov%2F2021%2F03%2F12%2Fus-statement-at-debate-on-racial-discrimination%2F
+../dumps-text/en-10.txt:   5. https://geneva.usmission.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgeneva.usmission.gov%2F2021%2F03%2F12%2Fus-statement-at-debate-on-racial-discrimination%2F&format=xml
+../dumps-text/en-10.txt-   6. https://geneva.usmission.gov/wp-json/tribe/events/v1/
+../dumps-text/en-10.txt-   7. https://www.googletagmanager.com/ns.html?id=GTM-TCR6PH4
+../dumps-text/en-10.txt-   8. https://geneva.usmission.gov/
+--
+../dumps-text/en-10.txt-  13. https://geneva.usmission.gov/news/
+../dumps-text/en-10.txt-  14. https://geneva.usmission.gov/jobs/
+../dumps-text/en-10.txt-  15. https://geneva.usmission.gov/contact/
+../dumps-text/en-10.txt:  16. https://geneva.usmission.gov/2021/03/12/us-statement-at-debate-on-racial-discrimination/#search
+../dumps-text/en-10.txt-  17. https://af.usembassy.gov/
+../dumps-text/en-10.txt-  18. https://al.usembassy.gov/
+../dumps-text/en-10.txt-  19. https://dz.usembassy.gov/
+--
+../dumps-text/en-10.txt-
+../dumps-text/en-10.txt-   Hidden links:
+../dumps-text/en-10.txt- 226. https://geneva.usmission.gov/
+../dumps-text/en-10.txt: 227. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgeneva.usmission.gov%2F2021%2F03%2F12%2Fus-statement-at-debate-on-racial-discrimination%2F
+../dumps-text/en-10.txt: 228. https://twitter.com/intent/tweet?text=U.S.%20Statement%20at%20Debate%20on%20Racial%20Discrimination&url=https%3A%2F%2Fgeneva.usmission.gov%2F2021%2F03%2F12%2Fus-statement-at-debate-on-racial-discrimination%2F
+../dumps-text/en-10.txt: 229. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgeneva.usmission.gov%2F2021%2F03%2F12%2Fus-statement-at-debate-on-racial-discrimination%2F
+../dumps-text/en-10.txt: 230. https://pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fgeneva.usmission.gov%2F2021%2F03%2F12%2Fus-statement-at-debate-on-racial-discrimination%2F
+../dumps-text/en-10.txt: 231. mailto:?subject=U.S.%20Statement%20at%20Debate%20on%20Racial%20Discrimination%20-%20U.S.%20Mission%20to%20International%20Organizations%20in%20Geneva&body=This%20post%20from%20the%20U.S.%20Mission%20to%20International%20Organizations%20in%20Geneva%20may%20interest%20you:%20https%3A%2F%2Fgeneva.usmission.gov%2F2021%2F03%2F12%2Fus-statement-at-debate-on-racial-discrimination%2F
+../dumps-text/en-10.txt: 232. https://geneva.usmission.gov/2021/03/12/us-statement-at-debate-on-racial-discrimination/
+../dumps-text/en-10.txt- 233. https://www.facebook.com/usmissiongeneva
+../dumps-text/en-10.txt- 234. https://twitter.com/usmissiongeneva
+../dumps-text/en-10.txt- 235. https://www.youtube.com/channel/UCGPJn9Ciiwc3vT2539J6gJg

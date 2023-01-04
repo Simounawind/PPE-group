@@ -1,0 +1,60 @@
+../dumps-text/en-5.txt-
+../dumps-text/en-5.txt-   While all users successfully had their reservations confirmed by hosts
+../dumps-text/en-5.txt-   more than 90% of the time in 2021, Airbnb said it found a notable gap
+../dumps-text/en-5.txt:   in user experiences during that time depending on their apparent racial
+../dumps-text/en-5.txt-   identity. Users who were perceived to be White had a booking success
+../dumps-text/en-5.txt-   rate of 94.1% while users who were thought to be Black had a success
+../dumps-text/en-5.txt-   rate of 91.4%, according to the company. (Those perceived as Asian and
+--
+../dumps-text/en-5.txt-   doing a lot to address."
+../dumps-text/en-5.txt-
+../dumps-text/en-5.txt-   The findings are part of Project Lighthouse, an effort launched by
+../dumps-text/en-5.txt:   Airbnb in 2020 to collect data on racial discrepancies on its service.
+../dumps-text/en-5.txt-   The project was developed in partnership with Color of Change, the
+../dumps-text/en-5.txt:   nation's largest online racial justice organization, and with the
+../dumps-text/en-5.txt-   support of other national privacy and civil rights organizations like
+../dumps-text/en-5.txt-   the NAACP and Asian Americans Advancing Justice.
+../dumps-text/en-5.txt-
+../dumps-text/en-5.txt:   Airbnb's efforts to address racial disparity on its platform come after
+../dumps-text/en-5.txt-   the company repeatedly [142]faced scrutiny on the issue. A 2015
+../dumps-text/en-5.txt-   [143]study from Harvard found that Airbnb hosts were less likely to
+../dumps-text/en-5.txt-   rent to guests with names that sounded African American. The next year,
+--
+../dumps-text/en-5.txt-
+../dumps-text/en-5.txt-   The company said Tuesday that information collected through the Project
+../dumps-text/en-5.txt-   Lighthouse initiative is being used to inform the company's approach to
+../dumps-text/en-5.txt:   bookings and reviews in an effort to minimize racial discrimination for
+../dumps-text/en-5.txt-   prospective guests.
+../dumps-text/en-5.txt-
+../dumps-text/en-5.txt-   "You can't fix what you don't measure," Ingram said.
+../dumps-text/en-5.txt-
+../dumps-text/en-5.txt-   Airbnb has taken a number of steps in recent years to address concerns
+../dumps-text/en-5.txt:   about racial disparities on its platform, including getting rid of
+../dumps-text/en-5.txt-   guests' profile pictures prior to booking, making more people eligible
+../dumps-text/en-5.txt-   for the "Instant Book" feature that bypasses host approval, auditing
+../dumps-text/en-5.txt-   booking rejections and making it easier for all guests to receive
+--
+../dumps-text/en-5.txt-   effort that it hopes will have a large impact on the Black and Latino
+../dumps-text/en-5.txt-   or Hispanic communities.
+../dumps-text/en-5.txt-
+../dumps-text/en-5.txt:   The findings released on Tuesday come after Airbnb conducted two racial
+../dumps-text/en-5.txt-   audits in 2016 and 2019.
+../dumps-text/en-5.txt-
+../dumps-text/en-5.txt-   "Racial audits work, as long as corporations make the changes necessary
+../dumps-text/en-5.txt-   to address what they expose," said Rashad Robinson, president of Color
+../dumps-text/en-5.txt:   Of Change. "Six years after Airbnb's first racial audit, and two years
+../dumps-text/en-5.txt-   after Color Of Change negotiated Project Lighthouse, Airbnb is now a
+../dumps-text/en-5.txt:   leading example of what it looks like to back up the rhetoric of racial
+../dumps-text/en-5.txt-   justice with the policy, practice and personnel that can prevent
+../dumps-text/en-5.txt:   rampant racial discrimination."
+../dumps-text/en-5.txt-
+../dumps-text/en-5.txt-   Ad Feedback
+../dumps-text/en-5.txt-   Ad Feedback
+--
+../dumps-text/en-5.txt- 142. https://money.cnn.com/2015/12/11/technology/airbnb-bias-harvard/
+../dumps-text/en-5.txt- 143. http://www.benedelman.org/publications/airbnb-guest-discrimination-2015-12-09.pdf
+../dumps-text/en-5.txt- 144. https://money.cnn.com/2016/05/18/technology/airbnb-lawsuit-discrimination/
+../dumps-text/en-5.txt: 145. https://www.nytimes.com/2016/11/02/technology/federal-judge-blocks-racial-discrimination-suit-against-airbnb.html?partner=slack&smid=sl-share
+../dumps-text/en-5.txt- 146. https://apnews.com/article/798cb41898b646eea015a8712fd60353
+../dumps-text/en-5.txt- 147. https://edition.cnn.com/account/settings
+../dumps-text/en-5.txt- 148. https://edition.cnn.com/2022/12/13/tech/airbnb-project-lighthouse-data/index.html

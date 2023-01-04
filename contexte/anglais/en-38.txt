@@ -1,0 +1,113 @@
+../dumps-text/en-38.txt-     * [72]Public health
+../dumps-text/en-38.txt-
+../dumps-text/en-38.txt-   The impact of COVID-19 has been disproportionately felt by populations
+../dumps-text/en-38.txt:   experiencing structural racial- and ethnicity-based discrimination.
+../dumps-text/en-38.txt-   Here, we describe opportunities for COVID-19 response and recovery
+../dumps-text/en-38.txt-   efforts to help build more equal and resilient societies, through
+../dumps-text/en-38.txt-   investments in: (i) interventions focused on explicitly addressing
+../dumps-text/en-38.txt:   racial and ethnicity-based discrimination; (ii) interventions
+../dumps-text/en-38.txt-   supporting the delivery of universal services, and in ways that address
+../dumps-text/en-38.txt-   compounding and intersecting drivers of exclusion and marginalization;
+../dumps-text/en-38.txt-   and (iii) cross-cutting enabling measures, such as participatory
+--
+../dumps-text/en-38.txt-   the ability of governments to recover from the inter-connected health,
+../dumps-text/en-38.txt-   economic, and broader human rights crises. Within countries, the impact
+../dumps-text/en-38.txt-   of COVID-19 has been disproportionately felt by populations
+../dumps-text/en-38.txt:   experiencing structural racial- and ethnicity-based discrimination.
+../dumps-text/en-38.txt-   Indeed, where disaggregated epidemiologic data are available, COVID-19
+../dumps-text/en-38.txt-   morbidity and mortality rates are often significantly higher among
+../dumps-text/en-38.txt-   people of African descent, indigenous peoples, and ethnic groups or
+--
+../dumps-text/en-38.txt-   marginalization and discrimination that often have historical roots and
+../dumps-text/en-38.txt-   still have present-day manifestations^[79]7. Importantly, "race" is
+../dumps-text/en-38.txt-   purely a social construct that has no biological basis, and documented
+../dumps-text/en-38.txt:   racial inequities are due to racism not genetics or biology.
+../dumps-text/en-38.txt-
+../dumps-text/en-38.txt:   Ethnicity-based and racial discrimination intersects with other forms
+../dumps-text/en-38.txt-   of exclusion based on income, occupation, gender identity and
+../dumps-text/en-38.txt-   expression, sexual orientation, disability, religion or belief,
+../dumps-text/en-38.txt-   language, migratory status, rural/urban status and more, and is
+../dumps-text/en-38.txt-   unlikely to exist in only one sector. Beyond health inequities,
+../dumps-text/en-38.txt:   COVID-19 racial and ethnicity-based inequities have been documented
+../dumps-text/en-38.txt-   across employment, education, housing and food insecurity, among other
+../dumps-text/en-38.txt-   domains^[80]8. There are different pathways - from differential
+../dumps-text/en-38.txt-   exposure, to inequitable access to health services, to uneven
+--
+../dumps-text/en-38.txt-
+../dumps-text/en-38.txt-   As countries work to respond to the ongoing COVID-19 pandemic and
+../dumps-text/en-38.txt-   address both health challenges and broader socio-economic impacts,
+../dumps-text/en-38.txt:   attention must be given to tackling racial and ethnic discrimination.
+../dumps-text/en-38.txt-   With this in mind, and consistent with the UN Secretary General's Call
+../dumps-text/en-38.txt-   to Action for Human Rights^[83]11, members of the United Nations
+../dumps-text/en-38.txt-   Sustainable Development Group released a report on opportunities to
+../dumps-text/en-38.txt:   address racial- and ethnicity-based discrimination^[84]12.
+../dumps-text/en-38.txt-
+../dumps-text/en-38.txt-   The report was developed through a consultative process that began in
+../dumps-text/en-38.txt-   late 2020 through early 2021, involving UN senior executives and
+../dumps-text/en-38.txt-   technical staff, civil society, public health practitioners and human
+../dumps-text/en-38.txt-   rights experts. It identified three strategic approaches to addressing
+../dumps-text/en-38.txt:   racial and ethnicity-based discrimination in COVID-19 response and
+../dumps-text/en-38.txt-   recovery efforts. These are: (i) interventions explicitly tackling
+../dumps-text/en-38.txt:   racial and ethnicity-based discrimination, including improving
+../dumps-text/en-38.txt-   anti-discrimination and redress mechanisms; (ii) interventions
+../dumps-text/en-38.txt-   supporting the delivery of universal services, but in ways that address
+../dumps-text/en-38.txt-   compounding and intersecting drivers of social exclusion and draw on
+--
+../dumps-text/en-38.txt-   investments in cross-cutting enabling measures, such as participatory
+../dumps-text/en-38.txt-   mechanisms and data disaggregation (see Table [86]1 which is replicated
+../dumps-text/en-38.txt-   from the report).
+../dumps-text/en-38.txt:   Table 1 Summary of potential entry points to address racial- and
+../dumps-text/en-38.txt-   ethnicity-based discrimination, replicated from UN report.
+../dumps-text/en-38.txt-   [87]Full size table
+../dumps-text/en-38.txt-
+--
+../dumps-text/en-38.txt-   umbrella of the UN Network on addressing Racial Discrimination and the
+../dumps-text/en-38.txt-   Protection of Minorities.
+../dumps-text/en-38.txt-
+../dumps-text/en-38.txt:Explicitly tackle racial and ethnicity-based discrimination
+../dumps-text/en-38.txt-
+../dumps-text/en-38.txt-   COVID-19 made clear that there is a need for explicit policies to
+../dumps-text/en-38.txt:   tackle racial and ethnicity-based discrimination in the immediate term,
+../dumps-text/en-38.txt-   to address current pressing needs, and in the long term. The
+../dumps-text/en-38.txt-   longstanding impact of colonialism, theft of land, resources and
+../dumps-text/en-38.txt-   exclusionary actions, for example, left indigenous peoples more
+--
+../dumps-text/en-38.txt-Addressing compounding and intersecting drivers of exclusion
+../dumps-text/en-38.txt-
+../dumps-text/en-38.txt-   COVID-19 made inequities experienced by persons facing ethnicity-based
+../dumps-text/en-38.txt:   and racial discrimination more visible, but unfair and discriminatory
+../dumps-text/en-38.txt-   practices in education, housing, labor markets, the criminal justice
+../dumps-text/en-38.txt-   system, to name a few, are often overlapping and compounding, and did
+../dumps-text/en-38.txt-   not emerge simply as a result of the pandemic. Universal and
+--
+../dumps-text/en-38.txt-   protections including for workers in the informal economy, expansion of
+../dumps-text/en-38.txt-   free Wi-Fi and open education resources, release and decarceration
+../dumps-text/en-38.txt-   efforts - among other measures - can have a differential positive
+../dumps-text/en-38.txt:   impact on populations experiencing racial and ethnicity-based
+../dumps-text/en-38.txt-   discrimination. This is because structural racism acts to skew
+../dumps-text/en-38.txt-   distributions such that excluded and marginalized groups are
+../dumps-text/en-38.txt-   over-represented among those working in the informal economy, those
+--
+../dumps-text/en-38.txt-   community-based interventions, can similarly help mitigate the
+../dumps-text/en-38.txt-   disproportionate impact of COVID-19 in geographic regions that have
+../dumps-text/en-38.txt-   historically been underserved and contain large numbers of people that
+../dumps-text/en-38.txt:   may have experienced racial and ethnicity-based discrimination. For
+../dumps-text/en-38.txt-   example, investments in infrastructure, including health
+../dumps-text/en-38.txt-   infrastructure, can help to ensure basic minimum needs for shelter,
+../dumps-text/en-38.txt-   health, water, sanitation and hygiene are being met during and
+--
+../dumps-text/en-38.txt-       systematic review and meta-analysis. EClinicalMedicine 29, 100630
+../dumps-text/en-38.txt-       (2020).
+../dumps-text/en-38.txt-    6. Yaya, S., Yeboah, H., Charles, C. H., Otu, A. & Labonte, R. Ethnic
+../dumps-text/en-38.txt:       and racial disparities in COVID-19-related deaths: counting the
+../dumps-text/en-38.txt-       trees, hiding the forest. BMJ Global Health 5, e002913 (2020).
+../dumps-text/en-38.txt-    7. Bailey, Z. D. et al. Structural racism and health inequities in the
+../dumps-text/en-38.txt-       USA: evidence and interventions. Lancet 389, 1453-1463 (2017).
+--
+../dumps-text/en-38.txt-   11. United Nations. The highest aspiration: a call to action for human
+../dumps-text/en-38.txt-       rights (United Nations, 2020).
+../dumps-text/en-38.txt-   12. World Health Organization. Frontier dialogue consultations on
+../dumps-text/en-38.txt:       addressing structural racial and ethnicity-based discrimination:
+../dumps-text/en-38.txt-       key action areas for COVID-19 recovery plans (World Health
+../dumps-text/en-38.txt-       Organization, 2021).
+../dumps-text/en-38.txt-   13. Francis-Oliviero, F., Cambon, L., Wittwer, J., Marmot, M. & Alla,

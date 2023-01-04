@@ -1,0 +1,151 @@
+../dumps-text/en-30.txt-   (BUTTON)
+../dumps-text/en-30.txt-
+../dumps-text/en-30.txt-   Pew Research Center conducted this analysis to understand the nuances
+../dumps-text/en-30.txt:   among Black people on issues of racial inequality and social change in
+../dumps-text/en-30.txt-   the United States. This in-depth survey explores differences among
+../dumps-text/en-30.txt-   Black Americans in their views on the social status of the Black
+../dumps-text/en-30.txt:   population in the U.S.; their assessments of racial inequality; their
+../dumps-text/en-30.txt-   visions for institutional and social change; and their outlook on the
+../dumps-text/en-30.txt-   chances that these improvements will be made. The analysis is the
+../dumps-text/en-30.txt-   latest in the Center's [93]series of in-depth surveys of public opinion
+--
+../dumps-text/en-30.txt-
+../dumps-text/en-30.txt-   The online survey of 3,912 Black U.S. adults was conducted Oct. 4-17,
+../dumps-text/en-30.txt-   2021. Black U.S. adults include those who are single-race, non-Hispanic
+../dumps-text/en-30.txt:   Black Americans; multiracial non-Hispanic Black Americans; and adults
+../dumps-text/en-30.txt-   who indicate they are Black and Hispanic. The survey includes 1,025
+../dumps-text/en-30.txt-   Black adults on Pew Research Center's [96]American Trends Panel (ATP)
+../dumps-text/en-30.txt-   and 2,887 Black adults on Ipsos' KnowledgePanel. Respondents on both
+--
+../dumps-text/en-30.txt-   identify as single-race Black and say they have no Hispanic background.
+../dumps-text/en-30.txt-   "Black Hispanic" respondents are those who identify as Black and say
+../dumps-text/en-30.txt-   they have Hispanic background. We use the terms "Black Hispanic" and
+../dumps-text/en-30.txt:   "Hispanic Black" interchangeably. "Multiracial" respondents are those
+../dumps-text/en-30.txt:   who indicate two or more racial backgrounds (one of which is Black) and
+../dumps-text/en-30.txt-   say they are not Hispanic.
+../dumps-text/en-30.txt-
+../dumps-text/en-30.txt-   Respondents were asked a question about how important being Black was
+--
+../dumps-text/en-30.txt-   information about how the income tiers were created, read the
+../dumps-text/en-30.txt-   [100]methodology.
+../dumps-text/en-30.txt-   [101]Bar chart showing after George Floyd's murder, half of Black
+../dumps-text/en-30.txt:   Americans expected policy changes to address racial inequality, After
+../dumps-text/en-30.txt-   George Floyd's murder, half of Black Americans expected policy changes
+../dumps-text/en-30.txt:   to address racial inequality
+../dumps-text/en-30.txt-
+../dumps-text/en-30.txt-   More than a year after the murder of George Floyd and the national
+../dumps-text/en-30.txt-   protests, debate and political promises that ensued, 65% of Black
+../dumps-text/en-30.txt:   Americans say the increased national attention on racial inequality has
+../dumps-text/en-30.txt-   not led to changes that improved their lives.^[102]1 And 44% say
+../dumps-text/en-30.txt-   equality for Black people in the United States is not likely to be
+../dumps-text/en-30.txt-   achieved, according to newly released findings from an October 2021
+--
+../dumps-text/en-30.txt-
+../dumps-text/en-30.txt-   This is somewhat of a reversal in views from September 2020, when half
+../dumps-text/en-30.txt-   of Black adults said the increased national focus on issues of race
+../dumps-text/en-30.txt:   would lead to major policy changes to address racial inequality in the
+../dumps-text/en-30.txt-   country and 56% expected changes that would make their lives better.
+../dumps-text/en-30.txt-
+../dumps-text/en-30.txt:   At the same time, many Black Americans are concerned about racial
+../dumps-text/en-30.txt-   discrimination and its impact. Roughly eight-in-ten say they have
+../dumps-text/en-30.txt-   personally experienced discrimination because of their race or
+../dumps-text/en-30.txt-   ethnicity (79%), and most also say discrimination is the main reason
+../dumps-text/en-30.txt-   many Black people cannot get ahead (68%).
+../dumps-text/en-30.txt-
+../dumps-text/en-30.txt-   Even so, Black Americans have a clear vision for how to achieve change
+../dumps-text/en-30.txt:   when it comes to racial inequality. This includes support for
+../dumps-text/en-30.txt-   significant reforms to or complete overhauls of several U.S.
+../dumps-text/en-30.txt-   institutions to ensure fair treatment, particularly the criminal
+../dumps-text/en-30.txt-   justice system; political engagement, primarily in the form of voting;
+--
+../dumps-text/en-30.txt-   the quality of K-12 schools (40%).
+../dumps-text/en-30.txt-
+../dumps-text/en-30.txt-   Aside from their critiques of U.S. institutions, Black adults also feel
+../dumps-text/en-30.txt:   the impact of racial inequality personally. Most Black adults say they
+../dumps-text/en-30.txt-   occasionally or frequently experience unfair treatment because of their
+../dumps-text/en-30.txt:   race or ethnicity (79%), and two-thirds (68%) cite racial
+../dumps-text/en-30.txt-   discrimination as the main reason many Black people cannot get ahead
+../dumps-text/en-30.txt-   today.
+../dumps-text/en-30.txt-
+../dumps-text/en-30.txt:Black Americans' views on reducing racial inequality
+../dumps-text/en-30.txt-
+../dumps-text/en-30.txt-   [104]Bar chart showing many Black adults say institutional overhauls
+../dumps-text/en-30.txt-   are necessary to ensure fair treatment
+--
+../dumps-text/en-30.txt-   economic and political independence in moving them toward equality.
+../dumps-text/en-30.txt-   About four-in-ten (39%) say Black ownership of all businesses in Black
+../dumps-text/en-30.txt-   neighborhoods would be an extremely or very effective strategy for
+../dumps-text/en-30.txt:   moving toward racial equality, while roughly three-in-ten (31%) say the
+../dumps-text/en-30.txt-   same about establishing a national Black political party. And about a
+../dumps-text/en-30.txt-   quarter of Black adults (27%) say having Black neighborhoods governed
+../dumps-text/en-30.txt-   entirely by Black elected officials would be extremely or very
+--
+../dumps-text/en-30.txt-Black Americans are skeptical change will happen
+../dumps-text/en-30.txt-
+../dumps-text/en-30.txt-   [109]Bar chart showing little hope among Black adults that changes to
+../dumps-text/en-30.txt:   address racial inequality are likely
+../dumps-text/en-30.txt-
+../dumps-text/en-30.txt-   Even though Black Americans' visions for social change are clear, very
+../dumps-text/en-30.txt-   few expect them to be implemented. Overall, 44% of Black adults say
+--
+../dumps-text/en-30.txt-for social change
+../dumps-text/en-30.txt-
+../dumps-text/en-30.txt-   [110]Bar chart showing Black adults differ by party in their views on
+../dumps-text/en-30.txt:   racial discrimination and changes to policing
+../dumps-text/en-30.txt-
+../dumps-text/en-30.txt-   Party affiliation is one key point of difference among Black Americans
+../dumps-text/en-30.txt:   in their assessments of racial inequality and their visions for social
+../dumps-text/en-30.txt-   change. Black Republicans and Republican leaners are more likely than
+../dumps-text/en-30.txt-   Black Democrats and Democratic leaners to focus on the acts of
+../dumps-text/en-30.txt-   individuals. For example, when summarizing the nature of racism against
+--
+../dumps-text/en-30.txt-   Black Republicans (45%) are also more likely than Black Democrats (21%)
+../dumps-text/en-30.txt-   to say that Black people who cannot get ahead in the U.S. are mostly
+../dumps-text/en-30.txt-   responsible for their own condition. And while similar shares of Black
+../dumps-text/en-30.txt:   Republicans (79%) and Democrats (80%) say they experience racial
+../dumps-text/en-30.txt-   discrimination on a regular basis, Republicans (64%) are more likely
+../dumps-text/en-30.txt-   than Democrats (36%) to say that most Black people who want to get
+../dumps-text/en-30.txt-   ahead can make it if they are willing to work hard.
+../dumps-text/en-30.txt-
+../dumps-text/en-30.txt-   On the other hand, Black Democrats are more likely than Black
+../dumps-text/en-30.txt:   Republicans to focus on the impact that racial inequality has on Black
+../dumps-text/en-30.txt:   Americans. Seven-in-ten Black Democrats (73%) say racial discrimination
+../dumps-text/en-30.txt-   is the main reason many Black people cannot get ahead in the U.S, while
+../dumps-text/en-30.txt-   about four-in-ten Black Republicans (44%) say the same. And Black
+../dumps-text/en-30.txt-   Democrats are more likely than Black Republicans to say racism (67% vs.
+--
+../dumps-text/en-30.txt-   It Will Happen
+../dumps-text/en-30.txt-   [123]Black Americans see racism in our laws as a big problem and
+../dumps-text/en-30.txt-   discrimination as a roadblock to progress[124]Black Americans' views on
+../dumps-text/en-30.txt:   reducing racial inequality[125]Black Americans are skeptical change
+../dumps-text/en-30.txt-   will happen[126]Black Democrats, Republicans differ on assessments of
+../dumps-text/en-30.txt-   inequality and visions for social change
+../dumps-text/en-30.txt-   [127]1. Black Americans are pessimistic about their position in U.S.
+--
+../dumps-text/en-30.txt-  86. https://www.pewresearch.org/
+../dumps-text/en-30.txt-  87. https://www.pewresearch.org/topics-categorized
+../dumps-text/en-30.txt-  88. https://www.pewresearch.org/topic/race-ethnicity/
+../dumps-text/en-30.txt:  89. https://www.pewresearch.org/topic/race-ethnicity/racial-ethnic-groups/
+../dumps-text/en-30.txt:  90. https://www.pewresearch.org/topic/race-ethnicity/racial-ethnic-groups/black-americans/
+../dumps-text/en-30.txt-  91. https://www.pewresearch.org/staff/kiana-cox
+../dumps-text/en-30.txt-  92. https://www.pewresearch.org/staff/khadijah-edwards
+../dumps-text/en-30.txt:  93. https://www.pewresearch.org/topic/race-ethnicity/racial-ethnic-groups/black-americans/
+../dumps-text/en-30.txt-  94. https://www.pewforum.org/2021/02/16/faith-among-black-americans/
+../dumps-text/en-30.txt-  95. https://www.pewresearch.org/race-ethnicity/2022/04/14/race-is-central-to-identity-for-black-americans-and-affects-how-they-connect-with-each-other/
+../dumps-text/en-30.txt-  96. https://www.pewresearch.org/our-methods/u-s-surveys/the-american-trends-panel/
+--
+../dumps-text/en-30.txt- 121. https://www.pewresearch.org/race-ethnicity/wp-content/uploads/sites/18/2022/08/RE_2022.08.30_Black-Voices-Politics_REPORT.pdf
+../dumps-text/en-30.txt- 122. https://www.pewresearch.org/race-ethnicity/wp-content/uploads/sites/18/2022/08/RE_2022.08.30_Black-Voices-Politics_TOPLINE.pdf
+../dumps-text/en-30.txt- 123. https://www.pewresearch.org/race-ethnicity/2022/08/30/black-americans-have-a-clear-vision-for-reducing-racism-but-little-hope-it-will-happen/#h-black-americans-see-racism-in-our-laws-as-a-big-problem-and-discrimination-as-a-roadblock-to-progress
+../dumps-text/en-30.txt: 124. https://www.pewresearch.org/race-ethnicity/2022/08/30/black-americans-have-a-clear-vision-for-reducing-racism-but-little-hope-it-will-happen/#h-black-americans-views-on-reducing-racial-inequality
+../dumps-text/en-30.txt- 125. https://www.pewresearch.org/race-ethnicity/2022/08/30/black-americans-have-a-clear-vision-for-reducing-racism-but-little-hope-it-will-happen/#h-black-americans-are-skeptical-change-will-happen
+../dumps-text/en-30.txt- 126. https://www.pewresearch.org/race-ethnicity/2022/08/30/black-americans-have-a-clear-vision-for-reducing-racism-but-little-hope-it-will-happen/#h-black-democrats-republicans-differ-on-assessments-of-inequality-and-visions-for-social-change
+../dumps-text/en-30.txt- 127. https://www.pewresearch.org/race-ethnicity/2022/08/30/black-americans-are-pessimistic-about-their-position-in-u-s-society/
+--
+../dumps-text/en-30.txt- 136. https://www.pewresearch.org/religion/2022/03/15/black-catholics-in-america/
+../dumps-text/en-30.txt- 137. https://www.pewresearch.org/social-trends/fact-sheet/facts-about-the-us-black-population/
+../dumps-text/en-30.txt- 138. https://www.pewresearch.org/social-trends/2021/03/25/the-growing-diversity-of-black-america/
+../dumps-text/en-30.txt: 139. https://www.pewresearch.org/topic/race-ethnicity/racial-ethnic-groups/black-americans/
+../dumps-text/en-30.txt- 140. https://www.pewresearch.org/topic/income-wealth-poverty/economic-inequality/
+../dumps-text/en-30.txt- 141. https://www.pewresearch.org/topic/discrimination-prejudice/
+../dumps-text/en-30.txt- 142. https://www.pewresearch.org/topic/criminal-justice/police/

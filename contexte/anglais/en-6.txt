@@ -1,0 +1,52 @@
+../dumps-text/en-6.txt-
+../dumps-text/en-6.txt-   The Biden-Harris administration is deeply committed to addressing the
+../dumps-text/en-6.txt-   challenges of systemic racism both at home and abroad, including the
+../dumps-text/en-6.txt:   structures, policies, laws, and practices that sustain racial
+../dumps-text/en-6.txt-   injustices.  The administration further believes that any pledge to
+../dumps-text/en-6.txt-   advance human rights around the world must begin with a pledge to
+../dumps-text/en-6.txt-   advance human rights at home.
+--
+../dumps-text/en-6.txt-   While in Geneva, the delegation will present the 2021 report on the
+../dumps-text/en-6.txt-   implementation of U.S. obligations under the International Convention
+../dumps-text/en-6.txt-   on the Elimination of All Forms of Racial Discrimination.  The report
+../dumps-text/en-6.txt:   outlines actions taken by the U.S. Government to promote racial equity
+../dumps-text/en-6.txt-   and address systemic racism and discrimination.
+../dumps-text/en-6.txt-
+../dumps-text/en-6.txt-   In preparation for the presentation, the United States hosted a series
+../dumps-text/en-6.txt-   of consultations with American civil society on a wide range of issues
+../dumps-text/en-6.txt:   of concern to marginalized racial and ethnic communities.  U.S.
+../dumps-text/en-6.txt-   participation in this process reflects the administration's abiding
+../dumps-text/en-6.txt-   commitment to human rights treaty obligations, and its firm belief that
+../dumps-text/en-6.txt-   the United States must lead by example.
+--
+../dumps-text/en-6.txt-   Visible links:
+../dumps-text/en-6.txt-   1. https://www.state.gov/feed/
+../dumps-text/en-6.txt-   2. https://www.state.gov/wp-json/wp/v2/pages/367729
+../dumps-text/en-6.txt:   3. https://www.state.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.state.gov%2Fu-s-delegation-to-the-committee-on-the-elimination-of-racial-discrimination%2F
+../dumps-text/en-6.txt:   4. https://www.state.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.state.gov%2Fu-s-delegation-to-the-committee-on-the-elimination-of-racial-discrimination%2F&format=xml
+../dumps-text/en-6.txt-   5. https://www.googletagmanager.com/ns.html?id=GTM-T9WK49Q
+../dumps-text/en-6.txt:   6. https://www.state.gov/u-s-delegation-to-the-committee-on-the-elimination-of-racial-discrimination/#content
+../dumps-text/en-6.txt-   7. https://www.state.gov/newsroom/
+../dumps-text/en-6.txt-   8. https://www.state.gov/business/
+../dumps-text/en-6.txt-   9. https://www.state.gov/employees/
+--
+../dumps-text/en-6.txt-  17. https://www.youtube.com/user/statevideo
+../dumps-text/en-6.txt-  18. https://www.flickr.com/photos/statephotos/
+../dumps-text/en-6.txt-  19. https://www.state.gov/department-email-updates/
+../dumps-text/en-6.txt:  20. https://www.state.gov/u-s-delegation-to-the-committee-on-the-elimination-of-racial-discrimination/#nav__primary-nav
+../dumps-text/en-6.txt-  21. https://www.state.gov/
+../dumps-text/en-6.txt-  22. https://www.state.gov/policy-issues/anti-corruption-and-transparency/
+../dumps-text/en-6.txt-  23. https://www.state.gov/policy-issues/arms-control-and-nonproliferation/
+--
+../dumps-text/en-6.txt- 152. https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/bureau-of-global-public-affairs/office-of-the-spokesperson/
+../dumps-text/en-6.txt- 153. https://www.state.gov/press-releases/
+../dumps-text/en-6.txt- 154. https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/bureau-of-global-public-affairs/office-of-the-spokesperson/
+../dumps-text/en-6.txt: 155. https://www.state.gov/periodic-report-of-the-united-states-of-america-to-the-united-nations-committee-on-the-elimination-of-racial-discrimination/
+../dumps-text/en-6.txt- 156. https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/bureau-of-democracy-human-rights-and-labor/
+../dumps-text/en-6.txt- 157. https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-international-organization-affairs/
+../dumps-text/en-6.txt- 158. https://www.state.gov/policy-issues/human-rights-and-democracy/
+../dumps-text/en-6.txt- 159. https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/bureau-of-global-public-affairs/office-of-the-spokesperson/
+../dumps-text/en-6.txt: 160. https://www.state.gov/subjects/racial-equity-and-justice/
+../dumps-text/en-6.txt- 161. https://www.state.gov/countries-areas/switzerland/
+../dumps-text/en-6.txt- 162. https://www.state.gov/subjects/united-nations/
+../dumps-text/en-6.txt- 163. https://www.whitehouse.gov/

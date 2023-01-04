@@ -1,0 +1,47 @@
+../dumps-text/en-12.txt-
+../dumps-text/en-12.txt-   News
+../dumps-text/en-12.txt-   > [25]News > [26]Press Releases > [27]2017 Release > Poll finds at
+../dumps-text/en-12.txt:   least half of Black Americans say they have experienced racial
+../dumps-text/en-12.txt-   discrimination in their jobs and from the police
+../dumps-text/en-12.txt-   [28]News (BUTTON) Menu
+../dumps-text/en-12.txt-   Search for: ____________________ (Search)
+--
+../dumps-text/en-12.txt-     * [63]Office of Communications
+../dumps-text/en-12.txt-     * [64]Make a Gift
+../dumps-text/en-12.txt-
+../dumps-text/en-12.txt:Poll finds at least half of Black Americans say they have experienced racial
+../dumps-text/en-12.txt-discrimination in their jobs and from the police
+../dumps-text/en-12.txt-
+../dumps-text/en-12.txt-   people in crowd
+--
+../dumps-text/en-12.txt-   Q19, Q21, S7/Q23, S8/Q25. Each question asked of half-sample. Total
+../dumps-text/en-12.txt-   N=802 African-American U.S. adults.
+../dumps-text/en-12.txt-
+../dumps-text/en-12.txt:   "What is portrayed in the daily news about racial discrimination in
+../dumps-text/en-12.txt-   America corresponds to the very real personal experiences of Black
+../dumps-text/en-12.txt-   Americans today, particularly in the areas of employment, interacting
+../dumps-text/en-12.txt-   with the police, and housing," says [67]Robert Blendon, Richard L.
+--
+../dumps-text/en-12.txt-   African Americans, January 26 - April 9, 2017. Q91. Question asked of
+../dumps-text/en-12.txt-   half-sample. Total N=802 African-American U.S. adults.
+../dumps-text/en-12.txt-
+../dumps-text/en-12.txt:   Half of Black Americans have experienced racial slurs and negative
+../dumps-text/en-12.txt-   comments; Roughly four in ten have experienced violence and threats or
+../dumps-text/en-12.txt-   harassment
+../dumps-text/en-12.txt-
+../dumps-text/en-12.txt-   In the context of individual or interpersonal forms of discrimination,
+../dumps-text/en-12.txt-   at least half of Black Americans say they have personally experienced
+../dumps-text/en-12.txt:   people using racial slurs against them (51%) or making insensitive or
+../dumps-text/en-12.txt-   offensive comments about their race or ethnicity (52%) (Chart 3).
+../dumps-text/en-12.txt-   [69]chart NPR/Robert Wood Johnson Foundation/Harvard T.H. Chan School
+../dumps-text/en-12.txt-   of Public Health, Discrimination in America: Experiences and Views of
+--
+../dumps-text/en-12.txt-  78. https://www.hsph.harvard.edu/news/multimedia_categories/2017/
+../dumps-text/en-12.txt-  79. https://www.hsph.harvard.edu/
+../dumps-text/en-12.txt-  80. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnews%2Fpress-releases%2Fblack-americans-discrimination-work-police%2F
+../dumps-text/en-12.txt:  81. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnews%2Fpress-releases%2Fblack-americans-discrimination-work-police%2F&text=Poll+finds+at+least+half+of+Black+Americans+say+they+have+experienced+racial+discrimination+in+their+jobs+and+from+the+police
+../dumps-text/en-12.txt:  82. https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnews%2Fpress-releases%2Fblack-americans-discrimination-work-police%2F&title=Poll+finds+at+least+half+of+Black+Americans+say+they+have+experienced+racial+discrimination+in+their+jobs+and+from+the+police
+../dumps-text/en-12.txt:  83. http://www.reddit.com/submit?url=https%3A%2F%2Fwww.hsph.harvard.edu%2Fnews%2Fpress-releases%2Fblack-americans-discrimination-work-police%2F&title=Poll+finds+at+least+half+of+Black+Americans+say+they+have+experienced+racial+discrimination+in+their+jobs+and+from+the+police
+../dumps-text/en-12.txt-  84. https://signup.e2ma.net/signup/1940466/1914949/
+../dumps-text/en-12.txt-  85. https://www.hsph.harvard.edu/news/newsletters/
+../dumps-text/en-12.txt-  86. https://www.hsph.harvard.edu/news/multitaxo/topic/health-disparities/

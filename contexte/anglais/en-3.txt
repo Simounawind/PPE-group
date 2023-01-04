@@ -1,0 +1,201 @@
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-Race in America 2019
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt:Public has negative views of the country's racial progress; more than half
+../dumps-text/en-3.txt-say Trump has made race relations worse
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   By [90]Juliana Menasce Horowitz, [91]Anna Brown and [92]Kiana Cox
+../dumps-text/en-3.txt-   (iStock photo)
+../dumps-text/en-3.txt:   [93]Most black adults have negative views about the country's racial
+../dumps-text/en-3.txt-   progress
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt:   For updated findings on views about racial inequality in the U.S., see
+../dumps-text/en-3.txt-   "[94]Amid National Reckoning, Americans Divided on Whether Increased
+../dumps-text/en-3.txt-   Focus on Race Will Lead to Major Policy Change."
+../dumps-text/en-3.txt-
+--
+../dumps-text/en-3.txt-   United States, most U.S. adults say the legacy of slavery continues to
+../dumps-text/en-3.txt-   have an impact on the position of black people in American society
+../dumps-text/en-3.txt-   today. More than four-in-ten say the country hasn't made enough
+../dumps-text/en-3.txt:   progress toward racial equality, and there is some skepticism,
+../dumps-text/en-3.txt-   particularly among blacks, that black people will ever have equal
+../dumps-text/en-3.txt-   rights with whites, according to a new Pew Research Center survey.
+../dumps-text/en-3.txt-
+--
+../dumps-text/en-3.txt-   In addition, roughly two-thirds say it's become more common for people
+../dumps-text/en-3.txt-   to express racist views since Trump became president.
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt:   Blacks are particularly gloomy about the country's racial progress.
+../dumps-text/en-3.txt-   More than eight-in-ten black adults say the legacy of slavery affects
+../dumps-text/en-3.txt-   the position of black people in America today, including 59% who say it
+../dumps-text/en-3.txt-   affects it a great deal. About eight-in-ten blacks (78%) say the
+../dumps-text/en-3.txt-   country hasn't gone far enough when it comes to giving black people
+../dumps-text/en-3.txt-   equal rights with whites, and fully half say it's unlikely that the
+../dumps-text/en-3.txt:   country will eventually achieve racial equality.
+../dumps-text/en-3.txt-   [95]Nonwhites are more likely to see advantages in being white
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   Americans see disadvantages for blacks and Hispanics in the U.S. A
+--
+../dumps-text/en-3.txt-   The nationally representative survey of 6,637 adults was conducted
+../dumps-text/en-3.txt-   online Jan. 22-Feb. 5, 2019, in English and Spanish, using Pew Research
+../dumps-text/en-3.txt-   Center's [96]American Trends Panel.^[97]1 In addition to exploring the
+../dumps-text/en-3.txt:   public's views about the state of race relations and racial inequality
+../dumps-text/en-3.txt:   in America, the survey also looks at personal experiences with racial
+../dumps-text/en-3.txt-   and ethnic discrimination and the role race plays in people's lives.
+../dumps-text/en-3.txt-   Among the report's key findings:
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-Most Americans say it's now more common for people to express racist or
+../dumps-text/en-3.txt:racially insensitive views; more than four-in-ten say it's more acceptable
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   [98]Most say it's now more common for people to express racist or
+../dumps-text/en-3.txt:   racially insensitive views
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt:   Most Americans (65%) - including majorities across racial and ethnic
+../dumps-text/en-3.txt-   groups - say it has become more common for people to express racist or
+../dumps-text/en-3.txt:   racially insensitive views since Trump was elected president. A smaller
+../dumps-text/en-3.txt-   but substantial share (45%) say this has become more acceptable.
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   Democrats and those who lean Democratic are more likely than
+../dumps-text/en-3.txt-   Republicans and Republican leaners to say it has become more common and
+../dumps-text/en-3.txt:   more acceptable for people to express racist and racially insensitive
+../dumps-text/en-3.txt-   views since Trump was elected president. Among Democrats, 84% say this
+../dumps-text/en-3.txt-   is now more common and 64% say it's more acceptable; fewer than half of
+../dumps-text/en-3.txt-   Republicans say it has become more common (42%) and just 22% say it has
+--
+../dumps-text/en-3.txt-Republicans and Democrats have vastly different views on race
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   [102]White Republicans, white Democrats differ widely in their views of
+../dumps-text/en-3.txt:   the country's racial progress
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   In addition to being linked to views of Trump's handling of race
+../dumps-text/en-3.txt:   relations, partisanship is strongly associated with racial attitudes
+../dumps-text/en-3.txt-   more broadly. In fact, after controlling for other factors,
+../dumps-text/en-3.txt-   partisanship has a greater association with views about the country's
+../dumps-text/en-3.txt:   racial progress than demographic factors, though being young and more
+../dumps-text/en-3.txt-   educated are also significant predictors, particularly among
+../dumps-text/en-3.txt-   whites.^[103]3
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   Because whites and nonwhites often have widely different views of
+../dumps-text/en-3.txt:   racial issues, and nonwhites disproportionately identify with or lean
+../dumps-text/en-3.txt-   to the Democratic Party, gaps between Republicans and Democrats are
+../dumps-text/en-3.txt-   often shown among whites in this report in order to account for
+../dumps-text/en-3.txt:   differences in the racial composition of the two parties.^[104]4
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   White Democrats (64%) are far more likely than white Republicans (15%)
+../dumps-text/en-3.txt-   to say the country hasn't gone far enough when it comes to giving black
+--
+../dumps-text/en-3.txt-   Eight-in-ten white Democrats - vs. 40% of white Republicans - say the
+../dumps-text/en-3.txt-   legacy of slavery continues to have an impact on black people's
+../dumps-text/en-3.txt-   position in American society today. And when it comes to views about
+../dumps-text/en-3.txt:   racial discrimination, 78% of white Democrats say the bigger problem is
+../dumps-text/en-3.txt-   people not seeing it where it really does exist, while a similar share
+../dumps-text/en-3.txt:   of white Republicans say people seeing racial discrimination where it
+../dumps-text/en-3.txt-   really does not exist is the bigger problem.
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-Blacks are more likely than other groups to say their race has had a negative
+--
+../dumps-text/en-3.txt-   to get ahead at least a little, with 18% saying it has hurt a lot.
+../dumps-text/en-3.txt-   About a quarter of Hispanics and Asians (24% each) and just 5% of
+../dumps-text/en-3.txt-   whites say their race or ethnicity has had a negative impact. In turn,
+../dumps-text/en-3.txt:   whites are more likely than other groups to say their racial background
+../dumps-text/en-3.txt-   has helped them at least a little.
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   Among blacks, those with at least some college experience are more
+--
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   Education is also linked with whites' perceptions of the impact their
+../dumps-text/en-3.txt-   race has had on their ability to get ahead. Small shares of whites
+../dumps-text/en-3.txt:   across educational levels say their racial background has hurt their
+../dumps-text/en-3.txt-   ability to succeed, but those with a bachelor's degree are more likely
+../dumps-text/en-3.txt-   than those with less education to say being white helped them at least
+../dumps-text/en-3.txt-   a little.
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt:   Across all racial and ethnic groups, more point to their own hard work
+../dumps-text/en-3.txt-   than to any other attribute, including their race, their gender, the
+../dumps-text/en-3.txt-   people they know or their family's financial situation, as something
+../dumps-text/en-3.txt-   that helped them get ahead.
+--
+../dumps-text/en-3.txt-   same.
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   Among those who say being black hurts a person's ability to get ahead,
+../dumps-text/en-3.txt:   blacks are far more likely than whites to point to racial
+../dumps-text/en-3.txt-   discrimination, less access to high-paying jobs and less access to good
+../dumps-text/en-3.txt-   schools as major reasons why this is the case. In turn, whites are more
+../dumps-text/en-3.txt-   likely than blacks to point to family instability and lack of good role
+--
+../dumps-text/en-3.txt-   groups (22%) say a lack of motivation to work hard is to blame.
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   There are wide partisan gaps in these views. Most white Democrats who
+../dumps-text/en-3.txt:   say being black hurts a person's ability to succeed point to racial
+../dumps-text/en-3.txt-   discrimination (70%) and less access to good schools (75%) or
+../dumps-text/en-3.txt-   high-paying jobs (64%) as major reasons for this (among black
+../dumps-text/en-3.txt-   Democrats, the shares are 86%, 74% and 78%, respectively). By
+--
+../dumps-text/en-3.txt-   feared for their safety.
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   Among blacks, those with darker skin tones are more likely to say they
+../dumps-text/en-3.txt:   have experienced racial discrimination generally, but skin color is not
+../dumps-text/en-3.txt-   necessarily associated with having faced specific situations because of
+../dumps-text/en-3.txt-   their race or ethnicity. In fact, for blacks, being male and having
+../dumps-text/en-3.txt-   higher levels of education are more consistently associated with the
+--
+../dumps-text/en-3.txt-   country, compared with 78% of the U.S. Asian adult population overall).
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   Despite this limitation, it is important to report the views of Asians
+../dumps-text/en-3.txt:   on race relations and racial inequality, as well as their personal
+../dumps-text/en-3.txt:   experiences with racial discrimination, as the U.S. Asian population is
+../dumps-text/en-3.txt:   [114]growing faster than any other major racial or ethnic group.
+../dumps-text/en-3.txt-   Measuring the attitudes of Asians on these topics is an important piece
+../dumps-text/en-3.txt-   in understanding the state of race in America today.
+../dumps-text/en-3.txt-
+--
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   Race in America 2019
+../dumps-text/en-3.txt-   [135]1. How Americans see the state of race relations [136]2. Views of
+../dumps-text/en-3.txt:   racial inequality [137]3. The role of race and ethnicity in Americans'
+../dumps-text/en-3.txt-   personal lives [138]Acknowledgments [139]Methodology
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-Related
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   short read | Dec 10, 2021
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt:[140]America's public school teachers are far less racially and ethnically
+../dumps-text/en-3.txt-diverse than their students
+../dumps-text/en-3.txt-
+../dumps-text/en-3.txt-   short read | Apr 21, 2021
+--
+../dumps-text/en-3.txt-  86. https://www.pewresearch.org/
+../dumps-text/en-3.txt-  87. https://www.pewresearch.org/topics-categorized
+../dumps-text/en-3.txt-  88. https://www.pewresearch.org/topic/race-ethnicity/
+../dumps-text/en-3.txt:  89. https://www.pewresearch.org/topic/race-ethnicity/racial-bias-discrimination/
+../dumps-text/en-3.txt-  90. https://www.pewresearch.org/staff/juliana-menasce-horowitz
+../dumps-text/en-3.txt-  91. https://www.pewresearch.org/staff/anna-brown
+../dumps-text/en-3.txt-  92. https://www.pewresearch.org/staff/kiana-cox
+--
+../dumps-text/en-3.txt- 114. http://www.pewresearch.org/fact-tank/2017/09/08/key-facts-about-asian-americans/
+../dumps-text/en-3.txt- 115. https://www.pewresearch.org/social-trends/2019/04/09/how-americans-see-the-state-of-race-relations/
+../dumps-text/en-3.txt- 116. https://www.pewresearch.org/social-trends/2019/04/09/how-americans-see-the-state-of-race-relations/
+../dumps-text/en-3.txt: 117. https://www.pewresearch.org/social-trends/2019/04/09/views-of-racial-inequality/
+../dumps-text/en-3.txt- 118. https://www.pewresearch.org/social-trends/2019/04/09/the-role-of-race-and-ethnicity-in-americans-personal-lives/
+../dumps-text/en-3.txt- 119. https://www.pewresearch.org/social-trends/2019/04/09/acknowledgments-27/
+../dumps-text/en-3.txt- 120. https://www.pewresearch.org/social-trends/2019/04/09/race-in-america-2019-methodology/
+--
+../dumps-text/en-3.txt- 133. https://www.pewresearch.org/social-trends/interactives/who-shares-your-views-on-race/
+../dumps-text/en-3.txt- 134. https://www.pewresearch.org/social-trends/dataset/american-trends-panel-wave-43/
+../dumps-text/en-3.txt- 135. https://www.pewresearch.org/social-trends/2019/04/09/how-americans-see-the-state-of-race-relations/
+../dumps-text/en-3.txt: 136. https://www.pewresearch.org/social-trends/2019/04/09/views-of-racial-inequality/
+../dumps-text/en-3.txt- 137. https://www.pewresearch.org/social-trends/2019/04/09/the-role-of-race-and-ethnicity-in-americans-personal-lives/
+../dumps-text/en-3.txt- 138. https://www.pewresearch.org/social-trends/2019/04/09/acknowledgments-27/
+../dumps-text/en-3.txt- 139. https://www.pewresearch.org/social-trends/2019/04/09/race-in-america-2019-methodology/
+../dumps-text/en-3.txt: 140. https://www.pewresearch.org/fact-tank/2021/12/10/americas-public-school-teachers-are-far-less-racially-and-ethnically-diverse-than-their-students/
+../dumps-text/en-3.txt- 141. https://www.pewresearch.org/fact-tank/2021/04/21/one-third-of-asian-americans-fear-threats-physical-attacks-and-most-say-violence-against-them-is-rising/
+../dumps-text/en-3.txt- 142. https://www.pewresearch.org/fact-tank/2021/03/18/majorities-of-americans-see-at-least-some-discrimination-against-black-hispanic-and-asian-people-in-the-u-s/
+../dumps-text/en-3.txt- 143. https://www.pewresearch.org/social-trends/2020/10/06/amid-national-reckoning-americans-divided-on-whether-increased-focus-on-race-will-lead-to-major-policy-change/
+--
+../dumps-text/en-3.txt- 145. https://www.pewresearch.org/topic/race-ethnicity/
+../dumps-text/en-3.txt- 146. https://www.pewresearch.org/topic/other-topics/occupational-groups/police-2/
+../dumps-text/en-3.txt- 147. https://www.pewresearch.org/topic/police-1/
+../dumps-text/en-3.txt: 148. https://www.pewresearch.org/topic/race-ethnicity/racial-bias-discrimination/
+../dumps-text/en-3.txt- 149. https://www.pewresearch.org/topic/race-ethnicity/race-relations/
+../dumps-text/en-3.txt- 150. https://www.pewresearch.org/fact-tank/2022/04/27/key-facts-about-title-42-the-pandemic-policy-that-has-reshaped-immigration-enforcement-at-u-s-mexico-border/
+../dumps-text/en-3.txt- 151. https://www.pewresearch.org/politics/quiz/political-typology/

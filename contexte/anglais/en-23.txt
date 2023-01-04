@@ -1,0 +1,29 @@
+../dumps-text/en-23.txt-   codes he referred to rise to the dignity of law at all. They are
+../dumps-text/en-23.txt-   pseudolaws, not just bad laws.
+../dumps-text/en-23.txt-
+../dumps-text/en-23.txt:   The pseudolaws supporting slavery and mandating racial segregation have
+../dumps-text/en-23.txt-   been repealed or declared unconstitutional. But lingering social
+../dumps-text/en-23.txt-   attitudes, institutional inertia and continued suffering of descendants
+../dumps-text/en-23.txt-   of the former slaves called for further major reforms.
+../dumps-text/en-23.txt-
+../dumps-text/en-23.txt:   Laws whose goal was to reduce or eliminate racial discrimination were
+../dumps-text/en-23.txt-   an obvious and legitimate next step.
+../dumps-text/en-23.txt-
+../dumps-text/en-23.txt:   A genuine civil rights law whose goal is to combat racial
+../dumps-text/en-23.txt-   discrimination could have been a requirement that stores and other
+../dumps-text/en-23.txt-   public facilities accept all would be customers first come, first
+../dumps-text/en-23.txt-   served.
+--
+../dumps-text/en-23.txt-
+../dumps-text/en-23.txt-   By contrast, although the motive for violating a first come, first
+../dumps-text/en-23.txt-   served rule would be legally irrelevant, such laws would prevent
+../dumps-text/en-23.txt:   establishments from engaging in racial discrimination. Since
+../dumps-text/en-23.txt-   discrimination is not an action, efforts to make it illegal are
+../dumps-text/en-23.txt-   pseudolaws.
+../dumps-text/en-23.txt-
+../dumps-text/en-23.txt:   Paradoxically, our efforts to eliminate racial discrimination have
+../dumps-text/en-23.txt-   employed the same kind of illegitimate tools that created slavery and
+../dumps-text/en-23.txt:   racial segregation.
+../dumps-text/en-23.txt-
+../dumps-text/en-23.txt-   Formerly, individuals and organizations wishing to enter into voluntary
+../dumps-text/en-23.txt-   associations with people of another race were "legally" prevented from

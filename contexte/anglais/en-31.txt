@@ -1,0 +1,487 @@
+../dumps-text/en-31.txt-Environmental Justice Efforts
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt-   The government-sponsored enterprises are in a unique position to reduce
+../dumps-text/en-31.txt:   the racial homeownership gap while simultaneously addressing climate
+../dumps-text/en-31.txt-   change-related risks and systemic environmental racism.
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt-     * [64]Author
+--
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt-Introduction and summary
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt:   America's legacy of segregation and racial discrimination--particularly
+../dumps-text/en-31.txt-   in the area of housing--has made communities of color more vulnerable
+../dumps-text/en-31.txt-   to the effects of climate change. People of color are more likely than
+../dumps-text/en-31.txt-   white people to reside in low-income neighborhoods, which have fewer
+--
+../dumps-text/en-31.txt-   environmental hazards and natural disasters compared with affluent and
+../dumps-text/en-31.txt-   white communities.[82]^2
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt:   Racial inequalities in homeownership, the racial wealth gap, and racial
+../dumps-text/en-31.txt-   disparities in climate risks and exposure to environmental hazards
+../dumps-text/en-31.txt-   require a robust federal policy response to dismantle decadeslong
+../dumps-text/en-31.txt-   inequities and achieve a just and equitable society. Key to that
+--
+../dumps-text/en-31.txt-   enterprises (GSEs)--which own or guarantee more than 60 percent of the
+../dumps-text/en-31.txt-   nation's home mortgages, including more than half of single-family home
+../dumps-text/en-31.txt-   mortgage loans.[83]^3 These two organizations are uniquely positioned
+../dumps-text/en-31.txt:   to reduce the nation's racial homeownership and wealth gaps while
+../dumps-text/en-31.txt-   promoting climate and environmental resilience in communities of
+../dumps-text/en-31.txt-   color.[84]^4
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt:   The GSEs--also known as the enterprises--can close racial housing and
+../dumps-text/en-31.txt-   wealth gaps and address environmental racism by including climate risk
+../dumps-text/en-31.txt-   and environmental justice considerations when designating areas that
+../dumps-text/en-31.txt-   are underserved by mortgage lending and by prioritizing the types of
+--
+../dumps-text/en-31.txt-   climate resilience. Following the Biden administration's
+../dumps-text/en-31.txt-   recommendations, federal agencies throughout the entire policy spectrum
+../dumps-text/en-31.txt-   have begun to respond to the challenges of climate change, which are
+../dumps-text/en-31.txt:   deeply intertwined with racial inequities. Moreover, such inequalities
+../dumps-text/en-31.txt-   have a substantial geographic component. Therefore, when addressing
+../dumps-text/en-31.txt-   them, it is critical for policies to explicitly target underserved
+../dumps-text/en-31.txt-   communities of color to reverse the decadeslong patterns of
+--
+../dumps-text/en-31.txt-   The United States is becoming increasingly diverse. Data from the 2020
+../dumps-text/en-31.txt-   census reveal that the country's population of color is rapidly
+../dumps-text/en-31.txt-   growing, whereas the white population is declining. As demographer
+../dumps-text/en-31.txt:   William H. Frey puts it, racial and ethnic diversity is taking
+../dumps-text/en-31.txt-   "different forms in different places."[88]^6 While Black people are
+../dumps-text/en-31.txt-   concentrated in the South and spill into several urban areas in the
+../dumps-text/en-31.txt-   North and parts of the West, the growing Hispanic population is largely
+--
+../dumps-text/en-31.txt-   represent a growing threat to communities of color. The constant
+../dumps-text/en-31.txt-   overexposure of these communities to environmental hazards and risks
+../dumps-text/en-31.txt-   makes them even more vulnerable to climate-related natural disasters.
+../dumps-text/en-31.txt:   Because residential patterns vary greatly by racial and ethnic
+../dumps-text/en-31.txt-   group--and because some areas face elevated natural risks--some groups
+../dumps-text/en-31.txt-   face a greater exposure to natural risk than others.[119]^16 These
+../dumps-text/en-31.txt-   differences, which are quantified in Table 1 and illustrated in Figure
+--
+../dumps-text/en-31.txt-   efforts particularly challenging.[128]^18 As Table 1 illustrates,
+../dumps-text/en-31.txt-   census tracts at very high risk of hydrometeorological natural
+../dumps-text/en-31.txt-   disasters such as hurricanes, coastal flooding, and riverine flooding
+../dumps-text/en-31.txt:   are overrepresented by nonwhite racial and ethnic groups. Only 16
+../dumps-text/en-31.txt-   percent of non-Hispanic white people reside in such areas, compared
+../dumps-text/en-31.txt-   with 18 percent of Black people, 19 percent of Hispanic people, and 21
+../dumps-text/en-31.txt-   percent of Native Americans. The geographic distribution of areas at
+../dumps-text/en-31.txt-   high risk of exposure--particularly to hydrometeorological natural
+../dumps-text/en-31.txt:   disasters--largely overlaps with the racial and ethnic distribution of
+../dumps-text/en-31.txt-   U.S. residents. (see Figure 1 and Figure 4) Areas along the Gulf of
+../dumps-text/en-31.txt-   Mexico and coastal Atlantic regions are especially vulnerable to
+../dumps-text/en-31.txt-   hurricanes and coastal flooding. Black and Hispanic populations
+--
+../dumps-text/en-31.txt-   characteristics, limited greenspace, the density of buildings and
+../dumps-text/en-31.txt-   structures, and heat-retaining construction materials all combine with
+../dumps-text/en-31.txt-   increasing heat levels to produce what is known as the urban heat
+../dumps-text/en-31.txt:   island effect--particularly in racially segregated areas.[147]^30
+../dumps-text/en-31.txt-   According to data reported by the National Oceanic and Atmospheric
+../dumps-text/en-31.txt-   Administration (NOAA), extreme heat waves represent the most serious
+../dumps-text/en-31.txt-   weather-related threats to human health.[148]^31 Evidence shows that in
+--
+../dumps-text/en-31.txt-   types of sources than white people.[164]^40 People of color are
+../dumps-text/en-31.txt-   estimated to have an air pollution index that is 15 points higher than
+../dumps-text/en-31.txt-   that of white people.[165]^41 Black people, in particular, are
+../dumps-text/en-31.txt:   disproportionately more exposed than other racial and ethnic groups to
+../dumps-text/en-31.txt-   large concentrations of ambient fine particulate air pollution
+../dumps-text/en-31.txt-   (particulate matter 2.5)--the largest environmental cause of
+../dumps-text/en-31.txt-   mortality.[166]^42
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt-   Usually, the disproportionate exposure of people of color to air
+../dumps-text/en-31.txt-   pollution and other pollutants is due to the close proximity of
+../dumps-text/en-31.txt:   racially segregated neighborhoods to highways, industrial plants, and
+../dumps-text/en-31.txt-   other sources of pollution.[167]^43 Areas with a high exposure to
+../dumps-text/en-31.txt-   environmental hazards and risks such as air pollution, lead paint, and
+../dumps-text/en-31.txt-   toxic facilities, among others, largely overlap with areas in which
+../dumps-text/en-31.txt-   different people of color are overrepresented. (see Figure 6) There
+../dumps-text/en-31.txt:   are, however, some geographic and racial variations in the exposure to
+../dumps-text/en-31.txt-   specific types of pollutants. For example, while proximity to toxic
+../dumps-text/en-31.txt-   sites is scattered throughout the U.S. territory and is particularly
+../dumps-text/en-31.txt-   high in urban areas, exposure to air pollutants and lead is remarkably
+../dumps-text/en-31.txt-   high in the Western part of the country, and exposure to respiratory
+../dumps-text/en-31.txt-   hazards and airborne toxic cancer risks is particularly elevated in the
+../dumps-text/en-31.txt-   Southeast region. Compared with non-Hispanic white people, virtually
+../dumps-text/en-31.txt:   all nonwhite racial and ethnic groups are overrepresented in such
+../dumps-text/en-31.txt-   areas. In particular, 41 percent of Black people, 50 percent of Asian
+../dumps-text/en-31.txt-   Americans and Pacific Islanders, and 47 percent of Hispanics reside in
+../dumps-text/en-31.txt-   very close proximity to traffic and toxic sites. Furthermore, more than
+--
+../dumps-text/en-31.txt-   climate-related natural disasters pose to the GSEs and the implications
+../dumps-text/en-31.txt-   for communities of color, followed by a series of policy
+../dumps-text/en-31.txt-   recommendations. Specifically, the authors explore how the GSEs could
+../dumps-text/en-31.txt:   contribute to reducing the racial and ethnic homeownership gap while
+../dumps-text/en-31.txt-   simultaneously tackling the risks associated with climate change and
+../dumps-text/en-31.txt-   environmental injustice discussed above.
+../dumps-text/en-31.txt-
+--
+../dumps-text/en-31.txt-   To complement the initiatives outlined in the strategic plan, the FHFA
+../dumps-text/en-31.txt-   also directed Fannie Mae and Freddie Mac to draft equitable plans with
+../dumps-text/en-31.txt-   the explicit goal of promoting equitable access to affordable and
+../dumps-text/en-31.txt:   sustainable housing by reducing the disparities in racial and ethnic
+../dumps-text/en-31.txt-   homeownership and reducing underinvestment or undervaluation in
+../dumps-text/en-31.txt-   formerly redlined areas.[208]^70
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt-   The equitable housing finance plans for 2022-2024 represent a step
+../dumps-text/en-31.txt:   forward in addressing racial inequalities in access to homeownership.
+../dumps-text/en-31.txt-   In their plans, Fannie Mae and Freddie Mac recognize the
+../dumps-text/en-31.txt-   disproportionate risks climate change poses to underserved communities
+../dumps-text/en-31.txt-   of color. However, similar to the strategic plan, the equitable housing
+--
+../dumps-text/en-31.txt-   communities.[209]^71
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt-   The GSEs already have promising tools to better target underserved
+../dumps-text/en-31.txt:   communities of color to reduce the racial homeownership gap and, at the
+../dumps-text/en-31.txt-   same time, address environmental injustice and the increasing climate
+../dumps-text/en-31.txt:   risk in these communities. Because of the geographic nature of racial
+../dumps-text/en-31.txt:   disparities in homeownership, the racial wealth gap, and the
+../dumps-text/en-31.txt-   disproportionate vulnerability that communities of color have to
+../dumps-text/en-31.txt-   environmental hazards and climate-related disasters, the FHFA should
+../dumps-text/en-31.txt-   direct the GSEs to fine-tune their geographic targeting of communities
+--
+../dumps-text/en-31.txt-   presence in geographically targeted areas, the affordable housing goals
+../dumps-text/en-31.txt-   have continued to be based predominantly on economic factors.
+../dumps-text/en-31.txt-   Furthermore, although the third goal explicitly addresses minority
+../dumps-text/en-31.txt:   status, the goals have never distinguished among the racial and ethnic
+../dumps-text/en-31.txt-   groups that make up minority neighborhoods.
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt-   The designation of affordable housing goals has changed periodically
+--
+../dumps-text/en-31.txt-   better job including communities of color than older definitions,
+../dumps-text/en-31.txt-   especially from a geographic perspective. (see Figure 7) The proposed
+../dumps-text/en-31.txt-   underserved areas, particularly in the minority census tracts subgoal,
+../dumps-text/en-31.txt:   cover areas characterized by larger percentages of nonwhite racial and
+../dumps-text/en-31.txt-   ethnic groups than the current underserved areas specified in the
+../dumps-text/en-31.txt-   current third goal, especially regarding Black and Hispanic people.
+../dumps-text/en-31.txt-   (see Table 4) Had the proposed new subgoals been effective in the past
+--
+../dumps-text/en-31.txt-     * [240]LinkedIn
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt-   These findings lead to an important policy prescription related to the
+../dumps-text/en-31.txt:   GSEs' commitment to reducing the racial homeownership gap while
+../dumps-text/en-31.txt-   addressing climate and environmental risks in communities of color.
+../dumps-text/en-31.txt-   When promoting affordable homeownership in communities of color, it is
+../dumps-text/en-31.txt-   critical that the GSEs not contribute to the already high exposure of
+--
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt-Policy recommendations
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt:   To boost the FHFA's capacity to reduce the racial homeownership gap
+../dumps-text/en-31.txt-   while simultaneously addressing climate change-related risks and
+../dumps-text/en-31.txt-   systemic environmental racism reflected in the disproportionate
+../dumps-text/en-31.txt-   vulnerability of communities of color to environmental hazards, CAP
+--
+../dumps-text/en-31.txt-   equitably managed retreat from at-risk areas, and boost investment and
+../dumps-text/en-31.txt-   climate resilience where they are needed the most. As this report has
+../dumps-text/en-31.txt-   discussed, there are important variations in the exposure to climate
+../dumps-text/en-31.txt:   and environmental risks for nonwhite racial and ethnic groups depending
+../dumps-text/en-31.txt-   on the areas where they tend to be overrepresented. For example, while
+../dumps-text/en-31.txt-   some groups are more exposed to hydrometeorological disasters, others
+../dumps-text/en-31.txt-   are more vulnerable to climatological hazards. Furthermore, while some
+--
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt-Conclusion
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt:   Decadeslong inequities in homeownership, the racial wealth gap, and
+../dumps-text/en-31.txt-   exposure to climate risks and environmental hazards require a robust
+../dumps-text/en-31.txt-   set of initiatives across the entire policy spectrum to achieve a just
+../dumps-text/en-31.txt-   and equitable society. The GSEs are in a unique position to reduce the
+../dumps-text/en-31.txt:   racial homeownership and wealth gaps in the nation while promoting
+../dumps-text/en-31.txt-   climate resilience and environmental justice in communities of color
+../dumps-text/en-31.txt-   without creating a modern form of redlining.[246]^80 They can do so by
+../dumps-text/en-31.txt-   including climate risk and environmental justice considerations in the
+--
+../dumps-text/en-31.txt-       acial%20and%20ethnic,American%20residents%20are%2012.1%25%20and%206
+../dumps-text/en-31.txt-       .1%25%2C%20respectively.%20.
+../dumps-text/en-31.txt-    7. Consistent with William H. Frey, "Mapping America's diversity with
+../dumps-text/en-31.txt:       the 2020 census," this analysis shows that a racial/ethnic group is
+../dumps-text/en-31.txt-       highly represented if its share of the area (census tract)
+../dumps-text/en-31.txt-       population is larger than its share of the national population.
+../dumps-text/en-31.txt-    8. Ibid. About one-third of the U.S. population resides in counties
+--
+../dumps-text/en-31.txt-       census-data-highlights-diverse-growing-asian-american-population.
+../dumps-text/en-31.txt-   12. The Home Owners' Loan Corporation institutionalized redlining
+../dumps-text/en-31.txt-       during the 1930s as a way to evaluate the quality of neighborhoods
+../dumps-text/en-31.txt:       based on their racial and ethnic makeup. Neighborhoods with a large
+../dumps-text/en-31.txt-       population of African Americans and other people of color typically
+../dumps-text/en-31.txt-       received the lowest ratings and were deemed too risky to secure
+../dumps-text/en-31.txt-       government-backed mortgages. Investment money was consistently
+--
+../dumps-text/en-31.txt-   1. https://www.americanprogress.org/feed/
+../dumps-text/en-31.txt-   2. https://www.americanprogress.org/comments/feed/
+../dumps-text/en-31.txt-   3. https://www.americanprogress.org/wp-json/wp/v2/article/92936
+../dumps-text/en-31.txt:   4. https://www.americanprogress.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.americanprogress.org%2Farticle%2Ffannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts%2F
+../dumps-text/en-31.txt:   5. https://www.americanprogress.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.americanprogress.org%2Farticle%2Ffannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts%2F&format=xml
+../dumps-text/en-31.txt-   6. https://www.googletagmanager.com/ns.html?id=GTM-NWVL6VL
+../dumps-text/en-31.txt-   7. https://www.americanprogress.org/
+../dumps-text/en-31.txt:   8. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#nav
+../dumps-text/en-31.txt:   9. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#content
+../dumps-text/en-31.txt:  10. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#footer
+../dumps-text/en-31.txt-  11. https://donate.americanprogress.org/page/28290/donate/1?&utm_medium=web&utm_source=website&utm_campaign=askstring_Control&utm_content=headerbutton&_ga=2.182450017.731658105.1634677623-317662333.1634056104
+../dumps-text/en-31.txt-  12. https://www.americanprogress.org/topic/climate-change
+../dumps-text/en-31.txt-  13. https://www.americanprogress.org/topic/supreme-court
+--
+../dumps-text/en-31.txt-  51. https://www.americanprogress.org/contact-us/
+../dumps-text/en-31.txt-  52. https://donate.americanprogress.org/page/28290/donate/1?&utm_medium=web&utm_source=website&utm_campaign=askstring_Control&utm_content=headerbutton&_ga=2.182450017.731658105.1634677623-317662333.1634056104
+../dumps-text/en-31.txt-  53. https://www.americanprogress.org/
+../dumps-text/en-31.txt:  54. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt:  55. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt:  56. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Farticle%2Ffannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts%2F&text=Fannie+Mae+and+Freddie+Mac+Can+Support+Racial+Equity+in+Homeownership+and+Environmental+Justice+Efforts
+../dumps-text/en-31.txt:  57. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Farticle%2Ffannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts%2F
+../dumps-text/en-31.txt:  58. mailto:?subject=https://www.americanprogress.org:%20Fannie%20Mae%20and%20Freddie%20Mac%20Can%20Support%20Racial%20Equity%20in%20Homeownership%20and%20Environmental%20Justice%20Efforts&body=Fannie%20Mae%20and%20Freddie%20Mac%20Can%20Support%20Racial%20Equity%20in%20Homeownership%20and%20Environmental%20Justice%20Efforts%0D%0A%0D%0Ahttps%3A%2F%2Fwww.americanprogress.org%2Farticle%2Ffannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts%2F
+../dumps-text/en-31.txt:  59. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt:  60. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Farticle%2Ffannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts%2F&text=Fannie+Mae+and+Freddie+Mac+Can+Support+Racial+Equity+in+Homeownership+and+Environmental+Justice+Efforts
+../dumps-text/en-31.txt:  61. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Farticle%2Ffannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts%2F
+../dumps-text/en-31.txt:  62. mailto:?subject=https://www.americanprogress.org:%20Fannie%20Mae%20and%20Freddie%20Mac%20Can%20Support%20Racial%20Equity%20in%20Homeownership%20and%20Environmental%20Justice%20Efforts&body=Fannie%20Mae%20and%20Freddie%20Mac%20Can%20Support%20Racial%20Equity%20in%20Homeownership%20and%20Environmental%20Justice%20Efforts%0D%0A%0D%0Ahttps%3A%2F%2Fwww.americanprogress.org%2Farticle%2Ffannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts%2F
+../dumps-text/en-31.txt:  63. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt:  64. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt-  65. https://www.americanprogress.org/issues/building-an-economy-for-all/
+../dumps-text/en-31.txt-  66. https://www.americanprogress.org/topic/housing/
+../dumps-text/en-31.txt-  67. https://www.americanprogress.org/topic/climate-impacts/
+--
+../dumps-text/en-31.txt-  70. https://www.americanprogress.org/topic/environmental-and-climate-justice/
+../dumps-text/en-31.txt-  71. https://www.americanprogress.org/topic/infrastructure/
+../dumps-text/en-31.txt-  72. https://www.americanprogress.org/topic/poverty/
+../dumps-text/en-31.txt:  73. https://www.americanprogress.org/topic/racial-wealth/
+../dumps-text/en-31.txt:  74. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Farticle%2Ffannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts%2F&text=Fannie+Mae+and+Freddie+Mac+Can+Support+Racial+Equity+in+Homeownership+and+Environmental+Justice+Efforts
+../dumps-text/en-31.txt:  75. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Farticle%2Ffannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts%2F
+../dumps-text/en-31.txt:  76. mailto:?subject=https://www.americanprogress.org:%20Fannie%20Mae%20and%20Freddie%20Mac%20Can%20Support%20Racial%20Equity%20in%20Homeownership%20and%20Environmental%20Justice%20Efforts&body=Fannie%20Mae%20and%20Freddie%20Mac%20Can%20Support%20Racial%20Equity%20in%20Homeownership%20and%20Environmental%20Justice%20Efforts%0D%0A%0D%0Ahttps%3A%2F%2Fwww.americanprogress.org%2Farticle%2Ffannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts%2F
+../dumps-text/en-31.txt:  77. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt:  78. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt:  79. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt:  80. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt:  81. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f1
+../dumps-text/en-31.txt:  82. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f2
+../dumps-text/en-31.txt:  83. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f3
+../dumps-text/en-31.txt:  84. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f4
+../dumps-text/en-31.txt-  85. https://policies.google.com/privacy
+../dumps-text/en-31.txt-  86. https://policies.google.com/terms
+../dumps-text/en-31.txt:  87. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f5
+../dumps-text/en-31.txt:  88. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f6
+../dumps-text/en-31.txt:  89. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f7
+../dumps-text/en-31.txt:  90. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f8
+../dumps-text/en-31.txt-  91. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fthe-united-states-is-becoming-increasingly-diverse%2F%3Fr%3D92936%26l%3D7
+../dumps-text/en-31.txt-  92. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fthe-united-states-is-becoming-increasingly-diverse%2F%3Fr%3D92936%26l%3D7
+../dumps-text/en-31.txt-  93. https://interactives.americanprogress.org/maps/2022/10/gse-report/figure_1/index.html
+../dumps-text/en-31.txt-  94. https://interactives.americanprogress.org/maps/2022/10/gse-report/figure_1/index.html
+../dumps-text/en-31.txt:  95. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#shareable-93014-7
+../dumps-text/en-31.txt-  96. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fthe-united-states-is-becoming-increasingly-diverse%2F%3Fr%3D92936%26l%3D7
+../dumps-text/en-31.txt-  97. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fthe-united-states-is-becoming-increasingly-diverse%2F%3Fr%3D92936%26l%3D7
+../dumps-text/en-31.txt-  98. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fpeople-of-color-still-lag-behind-non-hispanic-white-people-in-access-to-homeownership%2F%3Fr%3D92936%26l%3D9
+../dumps-text/en-31.txt-  99. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fpeople-of-color-still-lag-behind-non-hispanic-white-people-in-access-to-homeownership%2F%3Fr%3D92936%26l%3D9
+../dumps-text/en-31.txt- 100. https://datawrapper.dwcdn.net/n8ysC
+../dumps-text/en-31.txt- 101. https://datawrapper.dwcdn.net/n8ysC
+../dumps-text/en-31.txt: 102. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#shareable-93066-9
+../dumps-text/en-31.txt- 103. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fpeople-of-color-still-lag-behind-non-hispanic-white-people-in-access-to-homeownership%2F%3Fr%3D92936%26l%3D9
+../dumps-text/en-31.txt- 104. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fpeople-of-color-still-lag-behind-non-hispanic-white-people-in-access-to-homeownership%2F%3Fr%3D92936%26l%3D9
+../dumps-text/en-31.txt: 105. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f9
+../dumps-text/en-31.txt: 106. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f10
+../dumps-text/en-31.txt: 107. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f11
+../dumps-text/en-31.txt- 108. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fpeople-of-color-are-more-likely-than-non-hispanic-white-people-to-reside-in-low-income-neighborhoods%2F%3Fr%3D92936%26l%3D11
+../dumps-text/en-31.txt- 109. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fpeople-of-color-are-more-likely-than-non-hispanic-white-people-to-reside-in-low-income-neighborhoods%2F%3Fr%3D92936%26l%3D11
+../dumps-text/en-31.txt- 110. https://datawrapper.dwcdn.net/1hYxl
+../dumps-text/en-31.txt- 111. https://datawrapper.dwcdn.net/1hYxl
+../dumps-text/en-31.txt: 112. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#shareable-93069-11
+../dumps-text/en-31.txt- 113. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fpeople-of-color-are-more-likely-than-non-hispanic-white-people-to-reside-in-low-income-neighborhoods%2F%3Fr%3D92936%26l%3D11
+../dumps-text/en-31.txt- 114. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fpeople-of-color-are-more-likely-than-non-hispanic-white-people-to-reside-in-low-income-neighborhoods%2F%3Fr%3D92936%26l%3D11
+../dumps-text/en-31.txt: 115. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f12
+../dumps-text/en-31.txt: 116. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f13
+../dumps-text/en-31.txt: 117. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f14
+../dumps-text/en-31.txt: 118. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f15
+../dumps-text/en-31.txt: 119. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f16
+../dumps-text/en-31.txt- 120. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fpeople-of-color-are-disproportionately-exposed-to-climate-related-disasters-and-environmental-risks-and-hazards%2F%3Fr%3D92936%26l%3D13
+../dumps-text/en-31.txt- 121. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fpeople-of-color-are-disproportionately-exposed-to-climate-related-disasters-and-environmental-risks-and-hazards%2F%3Fr%3D92936%26l%3D13
+../dumps-text/en-31.txt- 122. https://datawrapper.dwcdn.net/EFmwt
+../dumps-text/en-31.txt- 123. https://datawrapper.dwcdn.net/EFmwt
+../dumps-text/en-31.txt: 124. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#shareable-93072-13
+../dumps-text/en-31.txt- 125. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fpeople-of-color-are-disproportionately-exposed-to-climate-related-disasters-and-environmental-risks-and-hazards%2F%3Fr%3D92936%26l%3D13
+../dumps-text/en-31.txt- 126. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fpeople-of-color-are-disproportionately-exposed-to-climate-related-disasters-and-environmental-risks-and-hazards%2F%3Fr%3D92936%26l%3D13
+../dumps-text/en-31.txt: 127. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f17
+../dumps-text/en-31.txt: 128. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f18
+../dumps-text/en-31.txt- 129. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fareas-at-high-risk-of-exposure-to-hydrometeorlogical-natural-disasters%2F%3Fr%3D92936%26l%3D15
+../dumps-text/en-31.txt- 130. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fareas-at-high-risk-of-exposure-to-hydrometeorlogical-natural-disasters%2F%3Fr%3D92936%26l%3D15
+../dumps-text/en-31.txt- 131. https://interactives.americanprogress.org/maps/2022/10/gse-report/figure_4/index.html
+../dumps-text/en-31.txt- 132. https://interactives.americanprogress.org/maps/2022/10/gse-report/figure_4/index.html
+../dumps-text/en-31.txt: 133. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#shareable-93019-15
+../dumps-text/en-31.txt- 134. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fareas-at-high-risk-of-exposure-to-hydrometeorlogical-natural-disasters%2F%3Fr%3D92936%26l%3D15
+../dumps-text/en-31.txt- 135. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fareas-at-high-risk-of-exposure-to-hydrometeorlogical-natural-disasters%2F%3Fr%3D92936%26l%3D15
+../dumps-text/en-31.txt: 136. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f19
+../dumps-text/en-31.txt: 137. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f20
+../dumps-text/en-31.txt: 138. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f21
+../dumps-text/en-31.txt: 139. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f22
+../dumps-text/en-31.txt: 140. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f23
+../dumps-text/en-31.txt: 141. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f24
+../dumps-text/en-31.txt: 142. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f25
+../dumps-text/en-31.txt: 143. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f26
+../dumps-text/en-31.txt: 144. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f27
+../dumps-text/en-31.txt: 145. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f28
+../dumps-text/en-31.txt: 146. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f29
+../dumps-text/en-31.txt: 147. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f30
+../dumps-text/en-31.txt: 148. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f31
+../dumps-text/en-31.txt: 149. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f32
+../dumps-text/en-31.txt- 150. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fareas-at-high-risk-of-exposure-to-climatological-natural-disasters%2F%3Fr%3D92936%26l%3D17
+../dumps-text/en-31.txt- 151. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fareas-at-high-risk-of-exposure-to-climatological-natural-disasters%2F%3Fr%3D92936%26l%3D17
+../dumps-text/en-31.txt- 152. https://interactives.americanprogress.org/maps/2022/10/gse-report/figure_5/index.html
+../dumps-text/en-31.txt- 153. https://interactives.americanprogress.org/maps/2022/10/gse-report/figure_5/index.html
+../dumps-text/en-31.txt: 154. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#shareable-93024-17
+../dumps-text/en-31.txt- 155. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fareas-at-high-risk-of-exposure-to-climatological-natural-disasters%2F%3Fr%3D92936%26l%3D17
+../dumps-text/en-31.txt- 156. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fareas-at-high-risk-of-exposure-to-climatological-natural-disasters%2F%3Fr%3D92936%26l%3D17
+../dumps-text/en-31.txt: 157. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f33
+../dumps-text/en-31.txt: 158. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f34
+../dumps-text/en-31.txt: 159. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f35
+../dumps-text/en-31.txt: 160. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f36
+../dumps-text/en-31.txt: 161. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f37
+../dumps-text/en-31.txt: 162. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f38
+../dumps-text/en-31.txt: 163. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f39
+../dumps-text/en-31.txt: 164. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f40
+../dumps-text/en-31.txt: 165. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f41
+../dumps-text/en-31.txt: 166. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f42
+../dumps-text/en-31.txt: 167. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f43
+../dumps-text/en-31.txt- 168. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fareas-with-very-high-exposure-to-environmental-risks-and-hazards%2F%3Fr%3D92936%26l%3D19
+../dumps-text/en-31.txt- 169. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fareas-with-very-high-exposure-to-environmental-risks-and-hazards%2F%3Fr%3D92936%26l%3D19
+../dumps-text/en-31.txt- 170. https://interactives.americanprogress.org/maps/2022/10/gse-report/figure_6/index.html
+../dumps-text/en-31.txt- 171. https://interactives.americanprogress.org/maps/2022/10/gse-report/figure_6/index.html
+../dumps-text/en-31.txt: 172. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#shareable-93028-19
+../dumps-text/en-31.txt- 173. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fareas-with-very-high-exposure-to-environmental-risks-and-hazards%2F%3Fr%3D92936%26l%3D19
+../dumps-text/en-31.txt- 174. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fareas-with-very-high-exposure-to-environmental-risks-and-hazards%2F%3Fr%3D92936%26l%3D19
+../dumps-text/en-31.txt: 175. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f44
+../dumps-text/en-31.txt: 176. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f45
+../dumps-text/en-31.txt: 177. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f46
+../dumps-text/en-31.txt: 178. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f47
+../dumps-text/en-31.txt: 179. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f48
+../dumps-text/en-31.txt: 180. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f49
+../dumps-text/en-31.txt: 181. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f50
+../dumps-text/en-31.txt: 182. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f51
+../dumps-text/en-31.txt: 183. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f52
+../dumps-text/en-31.txt: 184. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f53
+../dumps-text/en-31.txt- 185. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fbetween-2018-and-2020-the-government-sponsored-enterprises-have-purchased-more-than-half-of-single-family-home-loans-in-areas-exposed-to-different-types-of-climate-related-disasters%2F%3Fr%3D92936%26l%3D23
+../dumps-text/en-31.txt- 186. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fbetween-2018-and-2020-the-government-sponsored-enterprises-have-purchased-more-than-half-of-single-family-home-loans-in-areas-exposed-to-different-types-of-climate-related-disasters%2F%3Fr%3D92936%26l%3D23
+../dumps-text/en-31.txt- 187. https://datawrapper.dwcdn.net/kKgs4
+../dumps-text/en-31.txt- 188. https://datawrapper.dwcdn.net/kKgs4
+../dumps-text/en-31.txt: 189. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#shareable-93075-23
+../dumps-text/en-31.txt- 190. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fbetween-2018-and-2020-the-government-sponsored-enterprises-have-purchased-more-than-half-of-single-family-home-loans-in-areas-exposed-to-different-types-of-climate-related-disasters%2F%3Fr%3D92936%26l%3D23
+../dumps-text/en-31.txt- 191. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fbetween-2018-and-2020-the-government-sponsored-enterprises-have-purchased-more-than-half-of-single-family-home-loans-in-areas-exposed-to-different-types-of-climate-related-disasters%2F%3Fr%3D92936%26l%3D23
+../dumps-text/en-31.txt: 192. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f54
+../dumps-text/en-31.txt: 193. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f55
+../dumps-text/en-31.txt: 194. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f56
+../dumps-text/en-31.txt: 195. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f57
+../dumps-text/en-31.txt: 196. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f58
+../dumps-text/en-31.txt: 197. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f59
+../dumps-text/en-31.txt: 198. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f60
+../dumps-text/en-31.txt: 199. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f61
+../dumps-text/en-31.txt: 200. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f62
+../dumps-text/en-31.txt: 201. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f63
+../dumps-text/en-31.txt: 202. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f64
+../dumps-text/en-31.txt: 203. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f65
+../dumps-text/en-31.txt: 204. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f66
+../dumps-text/en-31.txt: 205. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f67
+../dumps-text/en-31.txt: 206. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f68
+../dumps-text/en-31.txt: 207. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f69
+../dumps-text/en-31.txt: 208. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f70
+../dumps-text/en-31.txt: 209. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f71
+../dumps-text/en-31.txt: 210. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f72
+../dumps-text/en-31.txt: 211. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f73
+../dumps-text/en-31.txt: 212. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f74
+../dumps-text/en-31.txt- 213. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fcurrent-and-proposed-federal-housing-finance-agency-affordable-housing-goals-for-single-family-home-purchases%2F%3Fr%3D92936%26l%3D27
+../dumps-text/en-31.txt- 214. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fcurrent-and-proposed-federal-housing-finance-agency-affordable-housing-goals-for-single-family-home-purchases%2F%3Fr%3D92936%26l%3D27
+../dumps-text/en-31.txt- 215. https://datawrapper.dwcdn.net/Ph6vg
+../dumps-text/en-31.txt- 216. https://datawrapper.dwcdn.net/Ph6vg
+../dumps-text/en-31.txt: 217. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#shareable-93078-27
+../dumps-text/en-31.txt- 218. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fcurrent-and-proposed-federal-housing-finance-agency-affordable-housing-goals-for-single-family-home-purchases%2F%3Fr%3D92936%26l%3D27
+../dumps-text/en-31.txt- 219. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fcurrent-and-proposed-federal-housing-finance-agency-affordable-housing-goals-for-single-family-home-purchases%2F%3Fr%3D92936%26l%3D27
+../dumps-text/en-31.txt- 220. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fdesignated-underserved-census-tracts-based-on-proposed-affordable-housing-subgoals%2F%3Fr%3D92936%26l%3D29
+../dumps-text/en-31.txt- 221. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fdesignated-underserved-census-tracts-based-on-proposed-affordable-housing-subgoals%2F%3Fr%3D92936%26l%3D29
+../dumps-text/en-31.txt- 222. https://interactives.americanprogress.org/maps/2022/10/gse-report/figure_7/index.html
+../dumps-text/en-31.txt- 223. https://interactives.americanprogress.org/maps/2022/10/gse-report/figure_7/index.html
+../dumps-text/en-31.txt: 224. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#shareable-93031-29
+../dumps-text/en-31.txt- 225. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fdesignated-underserved-census-tracts-based-on-proposed-affordable-housing-subgoals%2F%3Fr%3D92936%26l%3D29
+../dumps-text/en-31.txt- 226. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fdesignated-underserved-census-tracts-based-on-proposed-affordable-housing-subgoals%2F%3Fr%3D92936%26l%3D29
+../dumps-text/en-31.txt: 227. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fthe-proposed-underserved-census-tracts-cover-areas-characterized-by-larger-percentages-of-nonwhite-racial-and-ethnic-groups-compared-with-those-designated-in-current-goal-three%2F%3Fr%3D92936%26l%3D31
+../dumps-text/en-31.txt: 228. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fthe-proposed-underserved-census-tracts-cover-areas-characterized-by-larger-percentages-of-nonwhite-racial-and-ethnic-groups-compared-with-those-designated-in-current-goal-three%2F%3Fr%3D92936%26l%3D31
+../dumps-text/en-31.txt- 229. https://datawrapper.dwcdn.net/MxlVo
+../dumps-text/en-31.txt- 230. https://datawrapper.dwcdn.net/MxlVo
+../dumps-text/en-31.txt: 231. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#shareable-93081-31
+../dumps-text/en-31.txt: 232. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fthe-proposed-underserved-census-tracts-cover-areas-characterized-by-larger-percentages-of-nonwhite-racial-and-ethnic-groups-compared-with-those-designated-in-current-goal-three%2F%3Fr%3D92936%26l%3D31
+../dumps-text/en-31.txt: 233. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fthe-proposed-underserved-census-tracts-cover-areas-characterized-by-larger-percentages-of-nonwhite-racial-and-ethnic-groups-compared-with-those-designated-in-current-goal-three%2F%3Fr%3D92936%26l%3D31
+../dumps-text/en-31.txt- 234. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fif-the-proposed-subgoals-had-been-in-effect-for-the-past-three-years-a-larger-percentage-of-loans-would-have-been-purchased-in-underserved-census-tracts-highly-exposed-to-environmental-hazards-and-ri%2F%3Fr%3D92936%26l%3D33
+../dumps-text/en-31.txt- 235. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fif-the-proposed-subgoals-had-been-in-effect-for-the-past-three-years-a-larger-percentage-of-loans-would-have-been-purchased-in-underserved-census-tracts-highly-exposed-to-environmental-hazards-and-ri%2F%3Fr%3D92936%26l%3D33
+../dumps-text/en-31.txt- 236. https://datawrapper.dwcdn.net/IfeDV/
+../dumps-text/en-31.txt- 237. https://datawrapper.dwcdn.net/IfeDV/
+../dumps-text/en-31.txt: 238. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#shareable-93085-33
+../dumps-text/en-31.txt- 239. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fif-the-proposed-subgoals-had-been-in-effect-for-the-past-three-years-a-larger-percentage-of-loans-would-have-been-purchased-in-underserved-census-tracts-highly-exposed-to-environmental-hazards-and-ri%2F%3Fr%3D92936%26l%3D33
+../dumps-text/en-31.txt- 240. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.americanprogress.org%2Fshareable%2Fif-the-proposed-subgoals-had-been-in-effect-for-the-past-three-years-a-larger-percentage-of-loans-would-have-been-purchased-in-underserved-census-tracts-highly-exposed-to-environmental-hazards-and-ri%2F%3Fr%3D92936%26l%3D33
+../dumps-text/en-31.txt: 241. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f75
+../dumps-text/en-31.txt: 242. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f76
+../dumps-text/en-31.txt: 243. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f77
+../dumps-text/en-31.txt: 244. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f78
+../dumps-text/en-31.txt: 245. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f79
+../dumps-text/en-31.txt: 246. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#f80
+../dumps-text/en-31.txt- 247. https://www.epa.gov/system/files/documents/2021-09/climate-vulnerability_september-2021_508.pdf
+../dumps-text/en-31.txt- 248. https://nationalequityatlas.org/indicators/Neighborhood_poverty#/
+../dumps-text/en-31.txt- 249. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0205825
+../dumps-text/en-31.txt- 250. https://www.fhfa.gov/Media/Blog/Pages/What-Types-of-Mortgages-Do-Fannie-Mae-and-Freddie-Mac-Acquire.aspx
+../dumps-text/en-31.txt- 251. https://www.cfsreview.com/2021/12/fhfa-releases-statement-on-climate-change/
+../dumps-text/en-31.txt: 252. https://www.brookings.edu/research/mapping-americas-diversity-with-the-2020-census/#:~:text=When%20it%20comes%20to%20nonwhite%20racial%20and%20ethnic,American%20residents%20are%2012.1%25%20and%206.1%25%2C%20respectively.%20
+../dumps-text/en-31.txt- 253. https://asiamattersforamerica.org/articles/2020-united-states-census-data-highlights-diverse-growing-asian-american-population
+../dumps-text/en-31.txt- 254. https://www.americanprogress.org/article/5-things-to-know-about-communities-of-color-and-environmental-justice/
+../dumps-text/en-31.txt- 255. https://journals.sagepub.com/doi/abs/10.1177/0885412218812080?journalCode=jplb0&
+--
+../dumps-text/en-31.txt- 329. https://hazards.fema.gov/nri/
+../dumps-text/en-31.txt- 330. https://firststreet.org/
+../dumps-text/en-31.txt- 331. https://grist.org/housing/fhfa-fannie-mae-freddie-mac-mortgages-climate-risk/
+../dumps-text/en-31.txt: 332. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt- 333. https://americanprogress.org/c3-our-supporters/
+../dumps-text/en-31.txt- 334. https://www.americanprogress.org/people/zonta-michela/
+../dumps-text/en-31.txt- 335. https://www.americanprogress.org/article/hurricane-fiona-4-ways-the-federal-government-can-help-puerto-rico-rebuild-better/
+--
+../dumps-text/en-31.txt- 347. https://www.americanprogress.org/people/correa-buntley-tymoni/
+../dumps-text/en-31.txt- 348. https://www.americanprogress.org/people/ala-sadi/
+../dumps-text/en-31.txt- 349. https://www.americanprogress.org/people/toni-pandolfo/
+../dumps-text/en-31.txt: 350. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt- 351. https://www.americanprogress.org/people/phan-hai/
+../dumps-text/en-31.txt- 352. https://www.americanprogress.org/people/andrew-sonntag/
+../dumps-text/en-31.txt- 353. https://www.americanprogress.org/article/january-6-final-hearing-4-criminal-referrals/
+../dumps-text/en-31.txt- 354. https://www.americanprogress.org/people/sozan-michael/
+../dumps-text/en-31.txt- 355. https://www.americanprogress.org/people/phan-hai/
+../dumps-text/en-31.txt- 356. https://www.americanprogress.org/people/ala-sadi/
+../dumps-text/en-31.txt: 357. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt- 358. https://www.americanprogress.org/people/toni-pandolfo/
+../dumps-text/en-31.txt- 359. https://www.americanprogress.org/people/miller-meghan/
+../dumps-text/en-31.txt- 360. https://www.americanprogress.org/article/under-the-pala-pala-episode-4/
+../dumps-text/en-31.txt- 361. https://www.americanprogress.org/people/angelo-villagomez/
+../dumps-text/en-31.txt- 362. https://www.americanprogress.org/people/cooney-margaret/
+../dumps-text/en-31.txt- 363. https://www.americanprogress.org/people/toni-pandolfo/
+../dumps-text/en-31.txt: 364. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt- 365. https://www.americanprogress.org/people/miller-meghan/
+../dumps-text/en-31.txt: 366. https://www.americanprogress.org/article/the-latest-poverty-income-and-food-insecurity-data-reveal-continuing-racial-disparities/
+../dumps-text/en-31.txt- 367. https://www.americanprogress.org/people/ross-kyle/
+../dumps-text/en-31.txt- 368. https://www.americanprogress.org/people/dorazio-justin/
+../dumps-text/en-31.txt- 369. https://www.americanprogress.org/
+--
+../dumps-text/en-31.txt- 381. https://americanprogress.org/c3-our-supporters/
+../dumps-text/en-31.txt-
+../dumps-text/en-31.txt-   Hidden links:
+../dumps-text/en-31.txt: 383. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/#nav
+../dumps-text/en-31.txt: 384. https://www.americanprogress.org/issues/advancing-racial-equity-and-justice/
+../dumps-text/en-31.txt- 385. https://www.americanprogress.org/issues/building-an-economy-for-all/
+../dumps-text/en-31.txt- 386. https://www.americanprogress.org/issues/restoring-social-trust-in-democracy/
+../dumps-text/en-31.txt- 387. https://www.americanprogress.org/issues/strengthening-public-health-and-ending-the-pandemic/
+../dumps-text/en-31.txt- 388. https://www.americanprogress.org/issues/tackling-climate-change-and-environmental-injustice/
+../dumps-text/en-31.txt: 389. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt: 390. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt- 391. https://www.americanprogress.org/people/zonta-michela/
+../dumps-text/en-31.txt- 392. https://www.americanprogress.org/people/cusick-julia/
+../dumps-text/en-31.txt- 393. https://www.americanprogress.org/people/shepherd-madeline/
+../dumps-text/en-31.txt- 394. https://www.americanprogress.org/people/emma-lofgren/
+../dumps-text/en-31.txt: 395. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt: 396. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt: 397. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt: 398. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt: 399. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt: 400. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt: 401. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt: 402. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt: 403. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt: 404. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt: 405. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt: 406. https://www.americanprogress.org/article/fannie-mae-and-freddie-mac-can-support-racial-equity-in-homeownership-and-environmental-justice-efforts/
+../dumps-text/en-31.txt- 407. https://www.americanprogressaction.org/

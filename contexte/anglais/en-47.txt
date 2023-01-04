@@ -1,0 +1,36 @@
+../dumps-text/en-47.txt-
+../dumps-text/en-47.txt-   [121]Company Town
+../dumps-text/en-47.txt-
+../dumps-text/en-47.txt:Randall Emmett settles racial discrimination lawsuit brought by former
+../dumps-text/en-47.txt-assistant
+../dumps-text/en-47.txt-
+../dumps-text/en-47.txt-   Man in a suit stands in front of a red carpet backdrop
+--
+../dumps-text/en-47.txt-     * Print
+../dumps-text/en-47.txt-
+../dumps-text/en-47.txt-   Film producer Randall Emmett has settled a lawsuit brought by a former
+../dumps-text/en-47.txt:   assistant who had accused him of racial discrimination and creating a
+../dumps-text/en-47.txt-   hostile workplace that included the use of the N-word.
+../dumps-text/en-47.txt-
+../dumps-text/en-47.txt-   Martin G'Blae, 29, who worked at the production company Emmett/Furla
+--
+../dumps-text/en-47.txt- 113. https://www.latimes.com/environment
+../dumps-text/en-47.txt- 114. https://www.latimes.com/lifestyle/image
+../dumps-text/en-47.txt- 115. https://www.latimes.com/opinion
+../dumps-text/en-47.txt: 116. https://www.latimes.com/entertainment-arts/business/story/2022-11-16/randall-emmett-settles-former-assistant-racial-discrimination-lawsuit
+../dumps-text/en-47.txt- 117. https://www.latimes.com/bestcovery/?utm_source=on_site&utm_medium=navigation_bar&utm_campaign=bestcovery
+../dumps-text/en-47.txt- 118. https://www.latimes.com/coupon-codes
+../dumps-text/en-47.txt- 119. https://www.latimes.com/games
+../dumps-text/en-47.txt- 120. https://enewspaper.latimes.com/desktop/latimes/default.aspx?pubid=50435180-e58e-48b5-8e0c-236bf740270e
+../dumps-text/en-47.txt- 121. https://www.latimes.com/entertainment-arts/business
+../dumps-text/en-47.txt- 122. https://www.latimes.com/people/meg-james
+../dumps-text/en-47.txt: 123. https://www.facebook.com/dialog/share?app_id=134435029966155&display=popup&href=https%3A%2F%2Fwww.latimes.com%2Fentertainment-arts%2Fbusiness%2Fstory%2F2022-11-16%2Frandall-emmett-settles-former-assistant-racial-discrimination-lawsuit
+../dumps-text/en-47.txt: 124. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.latimes.com%2Fentertainment-arts%2Fbusiness%2Fstory%2F2022-11-16%2Frandall-emmett-settles-former-assistant-racial-discrimination-lawsuit&text=Randall%20Emmett%20settles%20racial%20discrimination%20lawsuit%20brought%20by%20former%20assistant
+../dumps-text/en-47.txt: 125. https://www.latimes.com/entertainment-arts/business/story/2022-11-16/randall-emmett-settles-former-assistant-racial-discrimination-lawsuit
+../dumps-text/en-47.txt: 126. https://www.facebook.com/dialog/share?app_id=134435029966155&display=popup&href=https%3A%2F%2Fwww.latimes.com%2Fentertainment-arts%2Fbusiness%2Fstory%2F2022-11-16%2Frandall-emmett-settles-former-assistant-racial-discrimination-lawsuit
+../dumps-text/en-47.txt: 127. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.latimes.com%2Fentertainment-arts%2Fbusiness%2Fstory%2F2022-11-16%2Frandall-emmett-settles-former-assistant-racial-discrimination-lawsuit&text=Randall%20Emmett%20settles%20racial%20discrimination%20lawsuit%20brought%20by%20former%20assistant
+../dumps-text/en-47.txt: 128. https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.latimes.com%2Fentertainment-arts%2Fbusiness%2Fstory%2F2022-11-16%2Frandall-emmett-settles-former-assistant-racial-discrimination-lawsuit&mini=true&title=Randall%20Emmett%20settles%20racial%20discrimination%20lawsuit%20brought%20by%20former%20assistant&summary=Martin%20G%27Blae%2C%20who%20worked%20for%20Emmett%20in%202020%2C%20brought%20a%20lawsuit%20claiming%20the%20low-budget%20film%20producer%20had%20created%20a%20toxic%20workplace.%20Terms%20were%20not%20disclosed.&source=Los%20Angeles%20Times
+../dumps-text/en-47.txt: 129. mailto:?body=Randall%20Emmett%20settles%20racial%20discrimination%20lawsuit%20brought%20by%20former%20assistant%0A%0Ahttps%3A%2F%2Fwww.latimes.com%2Fentertainment-arts%2Fbusiness%2Fstory%2F2022-11-16%2Frandall-emmett-settles-former-assistant-racial-discrimination-lawsuit%0A%0AMartin%20G%27Blae%2C%20who%20worked%20for%20Emmett%20in%202020%2C%20brought%20a%20lawsuit%20claiming%20the%20low-budget%20film%20producer%20had%20created%20a%20toxic%20workplace.%20Terms%20were%20not%20disclosed.
+../dumps-text/en-47.txt- 130. https://www.latimes.com/entertainment-arts/business/story/2022-11-01/randall-emmett-sued-for-race-discrimination-hostile-workplace-martin-gblae
+../dumps-text/en-47.txt- 131. https://www.latimes.com/entertainment-arts/business/story/2022-11-01/randall-emmett-sued-for-race-discrimination-hostile-workplace-martin-gblae
+../dumps-text/en-47.txt- 132. https://www.latimes.com/entertainment-arts/business

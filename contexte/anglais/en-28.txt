@@ -1,0 +1,33 @@
+../dumps-text/en-28.txt-    comscore no script image
+../dumps-text/en-28.txt-   [1]Political News
+../dumps-text/en-28.txt-
+../dumps-text/en-28.txt:DOJ touts first-of-its-kind settlement in racial discrimination case
+../dumps-text/en-28.txt-targeting 'crime-free housing' policy
+../dumps-text/en-28.txt-
+../dumps-text/en-28.txt-   The US Justice Department on Wednesday filed what it is describing as a
+../dumps-text/en-28.txt:   first-of-its-kind settlement in a racial discrimination case
+../dumps-text/en-28.txt-   challenging a so-called "crime-free housing ordinance."
+../dumps-text/en-28.txt-   Posted 9:29 p.m. Dec 14 -- Updated 9:29 p.m. Dec 14
+../dumps-text/en-28.txt-     __________________________________________________________________
+--
+../dumps-text/en-28.txt-   , CNN
+../dumps-text/en-28.txt-   (BUTTON) (BUTTON) (BUTTON)
+../dumps-text/en-28.txt-   CNN -- The US Justice Department on Wednesday filed what it is
+../dumps-text/en-28.txt:   describing as a first-of-its-kind settlement in a racial discrimination
+../dumps-text/en-28.txt-   case challenging a so-called "crime-free housing ordinance."
+../dumps-text/en-28.txt-
+../dumps-text/en-28.txt-   The proposed consent decree was filed Wednesday in a lawsuit the
+../dumps-text/en-28.txt-   Justice Department brought in 2019 against the central California city
+../dumps-text/en-28.txt-   of Hesperia, alleging that the city's ordinance violated the Fair
+../dumps-text/en-28.txt:   Housing Act's prohibitions on racial discrimination in housing access.
+../dumps-text/en-28.txt-
+../dumps-text/en-28.txt-   Hesperia continues to deny the allegations.
+../dumps-text/en-28.txt-
+--
+../dumps-text/en-28.txt-   allegations have not resulted in an arrest or a conviction.
+../dumps-text/en-28.txt-
+../dumps-text/en-28.txt-   "As our complaint makes clear, Hesperia's ordinance was a blatantly
+../dumps-text/en-28.txt:   racially discriminatory solution to a problem that didn't exist,"
+../dumps-text/en-28.txt-   Assistant Attorney General Kristen Clark, who leads the DOJ Civil
+../dumps-text/en-28.txt-   Rights division, said on a press call Wednesday.
+../dumps-text/en-28.txt-
