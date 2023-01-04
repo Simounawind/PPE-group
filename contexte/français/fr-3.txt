@@ -1,0 +1,72 @@
+../dumps-text/fr-3.txt-   [59]Lire la suite
+../dumps-text/fr-3.txt-
+../dumps-text/fr-3.txt-   L'association SOS Racisme a déclaré mercredi 2 novembre avoir porté
+../dumps-text/fr-3.txt:   plainte pour discrimination raciale contre la société Foncia, après les
+../dumps-text/fr-3.txt-   révélations du Canard enchaîné évoquant l'existence dans cette société
+../dumps-text/fr-3.txt-   d'un manuel professionnel qui inviterait à prendre en compte la
+../dumps-text/fr-3.txt-   nationalité des candidats à la location parmi les critères de
+--
+../dumps-text/fr-3.txt-   1. https://www.googletagmanager.com/ns.html?id=GTM-KTJ4VND
+../dumps-text/fr-3.txt-   2. https://www.business-humanrights.org/fr/subscribe/
+../dumps-text/fr-3.txt-   3. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/
+../dumps-text/fr-3.txt:   4. https://www.business-humanrights.org/en/latest-news/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:   5. https://www.business-humanrights.org/ar/%D8%A3%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:   6. https://www.business-humanrights.org/de/neuste-meldungen/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:   7. https://www.business-humanrights.org/es/%C3%BAltimas-noticias/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:   8. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-1/
+../dumps-text/fr-3.txt:   9. https://www.business-humanrights.org/ja/%E6%9C%80%E6%96%B0%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:  10. https://www.business-humanrights.org/pt/%C3%BAltimas-not%C3%ADcias/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:  11. https://www.business-humanrights.org/ru/%D1%81%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:  12. https://www.business-humanrights.org/zh-hans/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:  13. https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt-  14. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/
+../dumps-text/fr-3.txt-  15. https://www.business-humanrights.org/fr/entreprises/
+../dumps-text/fr-3.txt-  16. https://www.business-humanrights.org/fr/th%C3%A8mes-majeurs/
+--
+../dumps-text/fr-3.txt-  20. https://www.business-humanrights.org/fr/about-us/
+../dumps-text/fr-3.txt-  21. https://www.business-humanrights.org/fr/
+../dumps-text/fr-3.txt-  22. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/
+../dumps-text/fr-3.txt:  23. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-1/
+../dumps-text/fr-3.txt:  24. https://www.business-humanrights.org/en/latest-news/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:  25. https://www.business-humanrights.org/ar/%D8%A3%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:  26. https://www.business-humanrights.org/de/neuste-meldungen/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:  27. https://www.business-humanrights.org/es/%C3%BAltimas-noticias/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:  28. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-1/
+../dumps-text/fr-3.txt:  29. https://www.business-humanrights.org/ja/%E6%9C%80%E6%96%B0%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:  30. https://www.business-humanrights.org/pt/%C3%BAltimas-not%C3%ADcias/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:  31. https://www.business-humanrights.org/ru/%D1%81%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:  32. https://www.business-humanrights.org/zh-hans/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt:  33. https://www.business-humanrights.org/zh-hant/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-2/
+../dumps-text/fr-3.txt-  34. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/
+../dumps-text/fr-3.txt-  35. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/
+../dumps-text/fr-3.txt-  36. https://www.business-humanrights.org/fr/entreprises/
+--
+../dumps-text/fr-3.txt-  47. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/?tags=93
+../dumps-text/fr-3.txt-  48. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/?tags=525
+../dumps-text/fr-3.txt-  49. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/?tags=542
+../dumps-text/fr-3.txt:  50. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-1/
+../dumps-text/fr-3.txt-  51. https://www.business-humanrights.org/fr/entreprises/foncia/?companies=757111
+../dumps-text/fr-3.txt-  52. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/?sectors=123
+../dumps-text/fr-3.txt-  53. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/?countries=FR
+--
+../dumps-text/fr-3.txt-  58. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/?tags=542
+../dumps-text/fr-3.txt-  59. http://permanent.nouvelobs.com/societe/20051102.OBS3950.html
+../dumps-text/fr-3.txt-  60. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/la-r%C3%A9ponse-de-foncia-au-canard-france/
+../dumps-text/fr-3.txt:  61. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-1/
+../dumps-text/fr-3.txt:  62. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france/
+../dumps-text/fr-3.txt-  63. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/la-r%C3%A9ponse-de-foncia-au-canard-france/
+../dumps-text/fr-3.txt:  64. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-1/
+../dumps-text/fr-3.txt:  65. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-1/#timeline
+../dumps-text/fr-3.txt:  66. https://www.business-humanrights.org/fr/derni%C3%A8res-actualit%C3%A9s/discrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-1/#timeline
+../dumps-text/fr-3.txt-  67. https://www.business-humanrights.org/fr/events/
+../dumps-text/fr-3.txt-  68. https://www.business-humanrights.org/fr/jobs/
+../dumps-text/fr-3.txt-  69. https://www.business-humanrights.org/fr/from-us/media-centre/
+--
+../dumps-text/fr-3.txt-   Hidden links:
+../dumps-text/fr-3.txt-  74. https://www.business-humanrights.org/fr/
+../dumps-text/fr-3.txt-  75. https://www.business-humanrights.org/fr/
+../dumps-text/fr-3.txt:  76. https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.business-humanrights.org%2Ffr%2Fderni%25C3%25A8res-actualit%25C3%25A9s%2Fdiscrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-1%2F
+../dumps-text/fr-3.txt:  77. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.business-humanrights.org%2Ffr%2Fderni%25C3%25A8res-actualit%25C3%25A9s%2Fdiscrimination-raciale-plainte-de-sos-racisme-contre-foncia-france-1%2F&related=
+../dumps-text/fr-3.txt-  78. https://www.business-humanrights.org/cdn-cgi/l/email-protection#7e410d0b1c141b1d0a43341b5e08110b0d5e1b100811171b5e0b101b5e0e1f191b5e1a0b5e0d170a1b5e091b1c5e3c362c2c3d581f130e451c111a07435e5e34591f17131b0c1f170d5e08110b0d5e1b100811071b0c5e1d1b0a0a1b5e0e1f191b5e091b1c5e1a0b5e0d170a1b5e3c362c2c3d5e445e160a0a0e0d445151090909501c0b0d17101b0d0d53160b131f100c1719160a0d50110c1951180c511a1b0c10175b3d4d5b3f460c1b0d531f1d0a0b1f12170a5b3d4d5b3f470d511a170d1d0c171317101f0a171110530c1f1d171f121b530e121f17100a1b531a1b530d110d530c1f1d170d131b531d11100a0c1b531811101d171f53180c1f101d1b534f515e
+../dumps-text/fr-3.txt-  79. https://www.business-humanrights.org/fr/
+../dumps-text/fr-3.txt-  80. https://www.facebook.com/BHRRC/

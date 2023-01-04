@@ -1,0 +1,70 @@
+../dumps-text/fr-33.txt-     * [14]Infos
+../dumps-text/fr-33.txt-     * [15]Faits divers - Justice
+../dumps-text/fr-33.txt-     * Trois lycéens de Seine-Saint-Denis et leur professeure attaquent
+../dumps-text/fr-33.txt:       l'Etat pour "discrimination raciale"
+../dumps-text/fr-33.txt-
+../dumps-text/fr-33.txt-   [16]Faits divers - Justice
+../dumps-text/fr-33.txt-
+../dumps-text/fr-33.txt-Trois lycéens de Seine-Saint-Denis et leur professeure attaquent l'Etat pour
+../dumps-text/fr-33.txt:"discrimination raciale"
+../dumps-text/fr-33.txt-
+../dumps-text/fr-33.txt-   [17]Gare du Nord, Paris, France
+../dumps-text/fr-33.txt-   De
+--
+../dumps-text/fr-33.txt-
+../dumps-text/fr-33.txt-   Contrôlés par la police en gare du Nord, au retour d'un voyage de
+../dumps-text/fr-33.txt-   classe, le 1er mars dernier, trois lycéens se disent victimes de
+../dumps-text/fr-33.txt:   "discrimination raciale". Ils assignent l'Etat devant le tribunal de
+../dumps-text/fr-33.txt-   grande instance de Paris.
+../dumps-text/fr-33.txt-   Mamadou et Zakaria entourés de leur professeure, Elise Boscherel, et de
+../dumps-text/fr-33.txt-   leur avocat, Slim Ben Achour
+--
+../dumps-text/fr-33.txt-   Leur professeure s'interpose d'abord sans succès, puis, se sentant en
+../dumps-text/fr-33.txt-   danger, crie qu'elle est enceinte et demande à ses élèves de quitter
+../dumps-text/fr-33.txt-   les lieux, mettant fin au contrôle. Suite à cet incident, Elise
+../dumps-text/fr-33.txt:   Boscherel [21]lance un "appel contre les discriminations lors de
+../dumps-text/fr-33.txt-   sorties scolaires" , largement relayé.
+../dumps-text/fr-33.txt-
+../dumps-text/fr-33.txt-   Aujourd'hui, c'est vers la justice qu'elle se tourne, avec ses élèves.
+../dumps-text/fr-33.txt-   Avec leur avocat Slim Ben Achour, ils attaquent l'Etat pour
+../dumps-text/fr-33.txt:   "discrimination raciale", une action civile en responsabilité devant le
+../dumps-text/fr-33.txt-   Tribunal de Grande Instance de Paris. "Une dame âgée blanche s'est
+../dumps-text/fr-33.txt-   arrêtée et a précisé que elle n'était jamais contrôlée et tenait à le
+../dumps-text/fr-33.txt-   faire savoir, donc on est probablement dans un contrôle
+--
+../dumps-text/fr-33.txt-References
+../dumps-text/fr-33.txt-
+../dumps-text/fr-33.txt-   Visible links:
+../dumps-text/fr-33.txt:   1. https://www.francebleu.fr/infos/faits-divers-justice/trois-lyceens-de-seine-saint-denis-et-leur-professeure-attaquent-l-etat-pour-discrimination-raciale-1491842406#MainContent
+../dumps-text/fr-33.txt-   2. https://www.radiofrance.fr/
+../dumps-text/fr-33.txt-   3. https://www.radiofrance.fr/franceinter
+../dumps-text/fr-33.txt-   4. https://www.francetvinfo.fr/
+--
+../dumps-text/fr-33.txt-  14. https://www.francebleu.fr/infos
+../dumps-text/fr-33.txt-  15. https://www.francebleu.fr/infos/faits-divers-justice
+../dumps-text/fr-33.txt-  16. https://www.francebleu.fr/infos/faits-divers-justice
+../dumps-text/fr-33.txt:  17. https://www.francebleu.fr/infos/faits-divers-justice/trois-lyceens-de-seine-saint-denis-et-leur-professeure-attaquent-l-etat-pour-discrimination-raciale-1491842406
+../dumps-text/fr-33.txt-  18. https://www.francebleu.fr/107-1
+../dumps-text/fr-33.txt-  19. https://www.francebleu.fr/
+../dumps-text/fr-33.txt-  20. https://www.francebleu.fr/les-equipes/remi-brancato
+../dumps-text/fr-33.txt:  21. http://www.francetvinfo.fr/politique/banlieues/une-enseignante-de-seine-saint-denis-lance-un-appel-contre-les-discriminations-lors-de-sorties-scolaires_2101973.html
+../dumps-text/fr-33.txt-  22. https://www.francebleu.fr/les-equipes/remi-brancato
+../dumps-text/fr-33.txt-  23. https://www.francebleu.fr/
+../dumps-text/fr-33.txt-  24. https://www.francebleu.fr/theme/justice
+../dumps-text/fr-33.txt-  25. https://www.francebleu.fr/theme/lyceen
+../dumps-text/fr-33.txt-  26. https://www.francebleu.fr/theme/police-nationale
+../dumps-text/fr-33.txt:  27. https://www.francebleu.fr/theme/discriminations
+../dumps-text/fr-33.txt-  28. https://www.francebleu.fr/theme/transports-en-commun
+../dumps-text/fr-33.txt-  29. mailto:%20undefined
+../dumps-text/fr-33.txt-  30. mailto:%20undefined
+--
+../dumps-text/fr-33.txt-  69. https://mediateur.radiofrance.com/
+../dumps-text/fr-33.txt-
+../dumps-text/fr-33.txt-   Hidden links:
+../dumps-text/fr-33.txt:  71. https://www.facebook.com/sharer.php?u=https://www.francebleu.fr/infos/faits-divers-justice/trois-lyceens-de-seine-saint-denis-et-leur-professeure-attaquent-l-etat-pour-discrimination-raciale-1491842406
+../dumps-text/fr-33.txt:  72. https://twitter.com/share?lang=fr&text=Trois%20lyc%C3%A9ens%20de%20Seine-Saint-Denis%20et%20leur%20professeure%20attaquent%20l'Etat%20pour%20%22discrimination%20raciale%22&url=https://www.francebleu.fr/infos/faits-divers-justice/trois-lyceens-de-seine-saint-denis-et-leur-professeure-attaquent-l-etat-pour-discrimination-raciale-1491842406
+../dumps-text/fr-33.txt:  73. mailto:?subject=Trois%20lyc%C3%A9ens%20de%20Seine-Saint-Denis%20et%20leur%20professeure%20attaquent%20l'Etat%20pour%20%22discrimination%20raciale%22&body=undefined%20https://www.francebleu.fr/infos/faits-divers-justice/trois-lyceens-de-seine-saint-denis-et-leur-professeure-attaquent-l-etat-pour-discrimination-raciale-1491842406.%20Plus%20d%E2%80%99informations%20sur%20https://www.francebleu.fr.
+../dumps-text/fr-33.txt:  74. sms:?body=%C3%80 d%C3%A9couvrir sur France Bleu : Trois%20lyc%C3%A9ens%20de%20Seine-Saint-Denis%20et%20leur%20professeure%20attaquent%20l'Etat%20pour%20%22discrimination%20raciale%22 https://www.francebleu.fr/infos/faits-divers-justice/trois-lyceens-de-seine-saint-denis-et-leur-professeure-attaquent-l-etat-pour-discrimination-raciale-1491842406
+../dumps-text/fr-33.txt-  75. https://www.francebleu.fr/infos/faits-divers-justice/controles-au-facies-trois-lyceens-de-seine-saint-denis-deboutes-1545068626
+../dumps-text/fr-33.txt-  76. https://www.francebleu.fr/infos/faits-divers-justice/controle-d-identite-de-trois-lyceens-en-gare-du-nord-decision-attendue-en-decembre-1540227137
+../dumps-text/fr-33.txt-  77. https://www.francebleu.fr/infos/faits-divers-justice/justice-trop-lente-en-seine-saint-denis-l-etat-a-nouveau-condamne-1507565437

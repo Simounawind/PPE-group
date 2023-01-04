@@ -1,0 +1,258 @@
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-   Par [15]Justifit | 07/01/2022
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt:   Vous vous estimez victime de [16]discrimination liée à votre âge, à
+../dumps-text/fr-50.txt-   votre orientation sexuelle, à votre état de santé ou à votre religion ?
+../dumps-text/fr-50.txt:   Agissez vite, car la discrimination porte atteinte à vos droits
+../dumps-text/fr-50.txt-   humains ! Pour ce faire, vous pouvez solliciter l'aide d'un [17]avocat
+../dumps-text/fr-50.txt-   spécialisé en droit pénal. Discrimination : quel est le sens précis de
+../dumps-text/fr-50.txt-   ce terme ? Que dit la loi à propos de la discrimination positive, la
+../dumps-text/fr-50.txt:   discrimination homme/femme ? Comment lutter contre la discrimination au
+../dumps-text/fr-50.txt-   handicap ? Qui est concerné par la discrimination syndicale ? Qu'en
+../dumps-text/fr-50.txt:   est-il de la discrimination raciale et la discrimination à l'embauche ?
+../dumps-text/fr-50.txt-   Table des matières
+../dumps-text/fr-50.txt-   [18]À RETENIR : Discrimination : quel est le sens précis de ce terme ?
+../dumps-text/fr-50.txt-   Que dit la loi à propos de la discrimination positive, la
+../dumps-text/fr-50.txt:   discrimination homme/femme ?
+../dumps-text/fr-50.txt-   [19]Discrimination, définition : quel est le sens précis de ce terme ?
+../dumps-text/fr-50.txt-   [20]Discrimination positive en France : définition
+../dumps-text/fr-50.txt-   [21]Discrimination à l'embauche : peut-on porter plainte ?
+--
+../dumps-text/fr-50.txt-loi à propos de la discrimination positive, la discrimination homme/femme ?
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-     En France, ce sont des millions de personnes qui ont subi une forme
+../dumps-text/fr-50.txt:     de discrimination. Cette dernière peut porter sur la race,
+../dumps-text/fr-50.txt-     l'orientation sexuelle, le sexe, un handicap, la religion ou encore
+../dumps-text/fr-50.txt:     le physique. La discrimination peut être directe ou indirecte. Les
+../dumps-text/fr-50.txt:     victimes de discrimination dont la situation requiert une
+../dumps-text/fr-50.txt-     intervention urgente des forces de l'ordre peuvent alerter la
+../dumps-text/fr-50.txt-     gendarmerie ou la police. Elles peuvent aussi porter plainte ou
+../dumps-text/fr-50.txt-     saisir le Défenseur des Droits par courrier, sur place ou en ligne.
+--
+../dumps-text/fr-50.txt-   chez vous
+../dumps-text/fr-50.txt-   [25]Trouver mon Avocat
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt:   La discrimination est un délit sévèrement puni par la loi. Tour
+../dumps-text/fr-50.txt-   d'horizon des différents types de discrimination.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-Discrimination, définition : quel est le sens précis de ce terme ?
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt:   Le terme discrimination revêt plusieurs sens figurant dans la liste
+../dumps-text/fr-50.txt-   suivante :
+../dumps-text/fr-50.txt-     * Dans son sens usuel et banal, « discriminer » est un terme neutre
+../dumps-text/fr-50.txt-       qui est synonyme de « différencier », « distinguer » ou
+../dumps-text/fr-50.txt-       « séparer ». Discriminer signifie distinguer quelque chose à partir
+../dumps-text/fr-50.txt-       de critères spécifiques.
+../dumps-text/fr-50.txt:     * Dans son sens social, la discrimination désigne le fait de traiter
+../dumps-text/fr-50.txt-       différemment des personnes en fonction de critères liés à leurs
+../dumps-text/fr-50.txt-       caractéristiques sociales (riches/pauvres), raciales
+../dumps-text/fr-50.txt-       (blancs/noirs), religieuses, sexuelles (homme/femme,
+../dumps-text/fr-50.txt-       homosexuel/hétérosexuel) ou ethniques (étrangers/français). Dans ce
+../dumps-text/fr-50.txt:       cadre, la discrimination n'est plus un terme neutre, mais a un sens
+../dumps-text/fr-50.txt-       péjoratif et consiste à traiter certaines personnes de manière
+../dumps-text/fr-50.txt-       défavorable.
+../dumps-text/fr-50.txt:     * Dans le champ social et politique, la discrimination va à
+../dumps-text/fr-50.txt-       l'encontre du principe d'égalité des hommes ou d'égalité des
+../dumps-text/fr-50.txt:       citoyens devant la loi. La discrimination porte également atteinte
+../dumps-text/fr-50.txt-       à l'égalité des droits et à l'égalité des chances.
+../dumps-text/fr-50.txt-     * L'[26]article 225-1 du Code pénal énumère 20 critères de
+../dumps-text/fr-50.txt:       discrimination :
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-   « Constitue une discrimination toute distinction opérée entre les
+../dumps-text/fr-50.txt-   personnes physiques sur le fondement de leur origine, de leur sexe, de
+--
+../dumps-text/fr-50.txt-   déterminée ».
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-     Points clés à retenir :
+../dumps-text/fr-50.txt:     * Dans son champ politique et social, la discrimination est
+../dumps-text/fr-50.txt-       contradictoire au principe d'égalité des citoyens ou des hommes
+../dumps-text/fr-50.txt-       devant la loi.
+../dumps-text/fr-50.txt-     * Le Code pénal désigne 20 critères permettant de déterminer la
+../dumps-text/fr-50.txt:       discrimination : discrimination physique, raciale, sexiste...
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-Discrimination positive en France : définition
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt:   La discrimination positive est un thème qui fait débat en
+../dumps-text/fr-50.txt-   France. Certes, elle fait partie des sujets d'actualité, mais encore
+../dumps-text/fr-50.txt-   peu de personnes connaissent sa définition précise.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-   Elle consiste, dans son principe, à favoriser certaines personnes ou
+../dumps-text/fr-50.txt:   groupes de personnes victimes de discriminations.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt:   Tandis que la discrimination « tout court » (= négative) consiste à
+../dumps-text/fr-50.txt-   traiter de manière moins favorable, la [27]discrimination
+../dumps-text/fr-50.txt-   positive consiste au contraire à favoriser certaines personnes ou
+../dumps-text/fr-50.txt-   certains groupes.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt:   La discrimination positive fait débat dans la mesure où elle va - tout
+../dumps-text/fr-50.txt:   comme la discrimination négative - à l'encontre du principe d'égalité
+../dumps-text/fr-50.txt-   de traitement des hommes entre eux et, plus spécifiquement, des
+../dumps-text/fr-50.txt-   citoyens.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-   Il n'existe en France qu'une seule loi rattachée directement à l'idée
+../dumps-text/fr-50.txt:   de discrimination positive. Il s'agit de la loi du 11 février 2005
+../dumps-text/fr-50.txt-   relative aux personnes handicapées. La loi pour l'égalité des droits et
+../dumps-text/fr-50.txt-   des chances, la participation et la citoyenneté des personnes
+../dumps-text/fr-50.txt-   handicapées fixe des quotas obligatoires pour les employeurs. Elle vise
+--
+../dumps-text/fr-50.txt-   de handicap.
+../dumps-text/fr-50.txt-   Bon à savoir :
+../dumps-text/fr-50.txt-   La loi du 17 décembre 2008 s'inspire également du principe de
+../dumps-text/fr-50.txt:   discrimination positive, mais de façon indirecte. Cette loi oblige en
+../dumps-text/fr-50.txt-   effet les entreprises employant plus de 50 travailleurs à mettre en
+../dumps-text/fr-50.txt-   place un plan d'action ou un accord en faveur des femmes et de seniors
+../dumps-text/fr-50.txt-   sous peine de pénalité financière.
+--
+../dumps-text/fr-50.txt-     Points clés à retenir :
+../dumps-text/fr-50.txt-     * Principe très controversé en France, la discrimination positive a
+../dumps-text/fr-50.txt-       pour but de favoriser certaines personnes ou groupes de personnes
+../dumps-text/fr-50.txt:       victimes de discrimination.
+../dumps-text/fr-50.txt-     * La loi du 11 février 2005 relative aux personnes handicapées est
+../dumps-text/fr-50.txt-       directement rattachée à la discrimination positive.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-Discrimination à l'embauche : peut-on porter plainte ?
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt:   Les discriminations à l'embauche sont une réalité vécue au quotidien
+../dumps-text/fr-50.txt:   par des milliers de personnes en France. La [28]discrimination à
+../dumps-text/fr-50.txt-   l'embauche consiste à rejeter certaines candidatures pour un motif en
+../dumps-text/fr-50.txt-   rapport avec les caractéristiques physiques, sexuelles, religieuses ou
+../dumps-text/fr-50.txt-   encore ethniques des postulants.
+--
+../dumps-text/fr-50.txt-   que les critères de sélection entre les candidats ne peuvent être que
+../dumps-text/fr-50.txt-   professionnels et objectifs.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt:   Vous vous estimez victime d'une discrimination à l'embauche ? Vous
+../dumps-text/fr-50.txt:   pouvez [29]porter plainte contre l'auteur de la discrimination. Les
+../dumps-text/fr-50.txt-   affaires relatives à la discrimination à l'embauche sont traitées par
+../dumps-text/fr-50.txt-   les juridictions compétentes énumérées dans la liste suivante :
+../dumps-text/fr-50.txt-     * Le tribunal correctionnel ;
+../dumps-text/fr-50.txt-     * Le [30]conseil de prud'hommes.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-     Points clés à retenir :
+../dumps-text/fr-50.txt:     * La discrimination à l'embauche est le fait pour un employeur de
+../dumps-text/fr-50.txt-       rejeter certaines candidatures pour des motifs liés à des
+../dumps-text/fr-50.txt-       caractéristiques sexuelles ou physiques d'un candidat.
+../dumps-text/fr-50.txt:     * La victime d'une discrimination à l'embauche peut saisir le conseil
+../dumps-text/fr-50.txt-       de prud'hommes ou le tribunal correctionnel.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-Discrimination raciale : quelles sont les sanctions pénales ?
+--
+../dumps-text/fr-50.txt-   ses origines ethniques, nationales ou « raciales » prétendues ou
+../dumps-text/fr-50.txt-   réelles.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt:   La discrimination raciale est une réalité bien réelle en France, et ce,
+../dumps-text/fr-50.txt:   dans de nombreux secteurs - pas seulement au travail. La discrimination
+../dumps-text/fr-50.txt-   raciale est un délit puni par la loi. En effet, une personne reconnue
+../dumps-text/fr-50.txt:   coupable de discrimination raciale encourt des peines sévères figurant
+../dumps-text/fr-50.txt-   dans la liste suivante :
+../dumps-text/fr-50.txt-     * Une peine d'emprisonnement de 2 ans ;
+../dumps-text/fr-50.txt-     * Une amende pouvant s'élever jusqu'à 30 000 EUR.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-     Points clés à retenir :
+../dumps-text/fr-50.txt:     * La discrimination raciale est le fait de traiter de façon
+../dumps-text/fr-50.txt-       défavorable une ou personne personnes en raison de leurs origines
+../dumps-text/fr-50.txt-       raciales ou ethniques.
+../dumps-text/fr-50.txt:     * Une personne coupable de discrimination raciale risque une peine
+../dumps-text/fr-50.txt-       d'emprisonnement de 2 ou le paiement d'une amende.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-Discrimination syndicale : qui est concerné ?
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt:   La discrimination syndicale ne concerne que le monde du travail. Elle
+../dumps-text/fr-50.txt-   consiste, pour un employeur, à juger un salarié différemment (= de
+../dumps-text/fr-50.txt-   manière moins favorable) au motif de son appartenance à un syndicat.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt:   L'interdiction de la discrimination syndicale est énoncée dans
+../dumps-text/fr-50.txt-   l'[32]article L2141-5 du Code du travail :
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-   « Il est interdit à l'employeur de prendre en considération
+../dumps-text/fr-50.txt-   l'appartenance à un syndicat ou l'exercice d'une activité syndicale
+../dumps-text/fr-50.txt-   pour arrêter ses décisions ».
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt:   La [33]discrimination syndicale peut toucher tous les salariés
+../dumps-text/fr-50.txt-   syndiqués, et en particulier ceux qui exercent des fonctions syndicales
+../dumps-text/fr-50.txt-   qui figurent dans la liste suivante :
+../dumps-text/fr-50.txt-     * Les délégués du personnel ;
+--
+../dumps-text/fr-50.txt-     Points clés à retenir :
+../dumps-text/fr-50.txt-     * L'employeur qui traite différemment un salarié en raison de son
+../dumps-text/fr-50.txt-       appartenance à un syndical est accusé de discrimination syndicale.
+../dumps-text/fr-50.txt:     * La discrimination syndicale touche les salariés syndiqués
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-Discrimination au handicap : comment lutter contre ?
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt:   La discrimination au handicap consiste à traiter de manière moins
+../dumps-text/fr-50.txt-   favorable une personne au motif qu'elle souffre d'un handicap (physique
+../dumps-text/fr-50.txt-   ou psychique). On estime qu'entre un tiers et un quart des personnes en
+../dumps-text/fr-50.txt-   situation de handicap ont eu un jour ou l'autre à subir une
+../dumps-text/fr-50.txt:   discrimination au handicap.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt:   Cette discrimination est importante dans le monde professionnel. Le
+../dumps-text/fr-50.txt-   législateur a pris plusieurs mesures citées dans la liste ci-dessous
+../dumps-text/fr-50.txt:   pour combattre la discrimination au handicap au travail :
+../dumps-text/fr-50.txt-     * Mise en place de la retraite anticipée dès l'âge de 55 ans ;
+../dumps-text/fr-50.txt-     * Instaurer le régime de licenciement protecteur à l'intention des
+../dumps-text/fr-50.txt-       personnes en situation de handicap ;
+--
+../dumps-text/fr-50.txt-       Qualité de Travailleur Handicapé » ou RQTH.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-     Points clés à retenir :
+../dumps-text/fr-50.txt:     * La discrimination liée au handicap est le fait de traiter une
+../dumps-text/fr-50.txt-       personne de façon moins favorable en raison de son handicap
+../dumps-text/fr-50.txt-       psychique ou physique.
+../dumps-text/fr-50.txt-     * Nombreuses sont les mesures mises en place pour aider les personnes
+../dumps-text/fr-50.txt:       victimes de discrimination au handicap : retraite anticipée à
+../dumps-text/fr-50.txt-       partir de 55 ans, licenciement protecteur...
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-   Pour conclure, il existe actuellement différents types de
+../dumps-text/fr-50.txt:   discrimination qui est liée à l'âge, aux origines ou à la religion.
+../dumps-text/fr-50.txt:   Toutes les formes de discrimination sont punies par la loi, qu'il
+../dumps-text/fr-50.txt:   s'agisse de la discrimination au handicap, de la discrimination
+../dumps-text/fr-50.txt:   syndicale ou encore de la discrimination raciale.
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-A propos de l'auteur :
+../dumps-text/fr-50.txt-
+--
+../dumps-text/fr-50.txt-  12. https://www.justifit.fr/
+../dumps-text/fr-50.txt-  13. https://www.justifit.fr/b/guides/
+../dumps-text/fr-50.txt-  14. https://www.justifit.fr/b/guides/droit-penal/
+../dumps-text/fr-50.txt:  15. https://www.justifit.fr/b/guides/droit-penal/differents-types-discrimination/#author
+../dumps-text/fr-50.txt:  16. https://www.justifit.fr/b/guides/droit-penal/tout-comprendre-discrimination-positive/
+../dumps-text/fr-50.txt-  17. https://www.justifit.fr/trouver/avocats/france/droit-penal/
+../dumps-text/fr-50.txt:  18. https://www.justifit.fr/b/guides/droit-penal/differents-types-discrimination/#A_RETENIR_Discrimination_quel_est_le_sens_precis_de_ce_terme_Que_dit_la_loi_a_propos_de_la_discrimination_positive_la_discrimination_hommefemme
+../dumps-text/fr-50.txt:  19. https://www.justifit.fr/b/guides/droit-penal/differents-types-discrimination/#Discrimination_definition_quel_est_le_sens_precis_de_ce_terme
+../dumps-text/fr-50.txt:  20. https://www.justifit.fr/b/guides/droit-penal/differents-types-discrimination/#Discrimination_positive_en_France_definition
+../dumps-text/fr-50.txt:  21. https://www.justifit.fr/b/guides/droit-penal/differents-types-discrimination/#Discrimination_a_lembauche_peut-on_porter_plainte
+../dumps-text/fr-50.txt:  22. https://www.justifit.fr/b/guides/droit-penal/differents-types-discrimination/#Discrimination_raciale_quelles_sont_les_sanctions_penales
+../dumps-text/fr-50.txt:  23. https://www.justifit.fr/b/guides/droit-penal/differents-types-discrimination/#Discrimination_syndicale_qui_est_concerne
+../dumps-text/fr-50.txt:  24. https://www.justifit.fr/b/guides/droit-penal/differents-types-discrimination/#Discrimination_au_handicap_comment_lutter_contre
+../dumps-text/fr-50.txt-  25. https://www.justifit.fr/votredossier/
+../dumps-text/fr-50.txt-  26. https://www.legifrance.gouv.fr/codes/id/LEGIARTI000033461473/2016-11-20/
+../dumps-text/fr-50.txt:  27. https://www.justifit.fr/b/guides/droit-penal/tout-comprendre-discrimination-positive/
+../dumps-text/fr-50.txt:  28. https://www.justifit.fr/b/guides/droit-travail/embauche/discrimination-embauche/
+../dumps-text/fr-50.txt-  29. https://www.justifit.fr/b/guides/droit-penal/plainte-contre-une-entreprise/
+../dumps-text/fr-50.txt-  30. https://www.justifit.fr/b/guides/droit-travail/conseillers-prudhommes/
+../dumps-text/fr-50.txt:  31. https://www.justifit.fr/b/guides/droit-penal/discrimination-raciale/
+../dumps-text/fr-50.txt-  32. https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035653309/
+../dumps-text/fr-50.txt:  33. https://www.justifit.fr/b/guides/droit-penal/discrimination-syndicale-travail-loi/
+../dumps-text/fr-50.txt-  34. https://www.justifit.fr/b/guides/droit-travail/representant-syndical/
+../dumps-text/fr-50.txt-  35. https://www.justifit.fr/b/guides/droit-penal/recours-apres-la-cour-dappel/
+../dumps-text/fr-50.txt-  36. https://www.justifit.fr/b/guides/droit-penal/recours-apres-la-cour-dappel/
+--
+../dumps-text/fr-50.txt-  79. https://www.justifit.fr/cgu
+../dumps-text/fr-50.txt-
+../dumps-text/fr-50.txt-   Hidden links:
+../dumps-text/fr-50.txt:  81. https://www.justifit.fr/b/guides/droit-penal/differents-types-discrimination/#search
+../dumps-text/fr-50.txt:  82. https://www.justifit.fr/b/guides/droit-penal/differents-types-discrimination/
+../dumps-text/fr-50.txt-  83. https://www.facebook.com/justifit.france
+../dumps-text/fr-50.txt-  84. https://twitter.com/justifit_fr
+../dumps-text/fr-50.txt-  85. https://www.linkedin.com/company/justifit-france
+../dumps-text/fr-50.txt-  86. https://www.youtube.com/channel/UCAnOX9oyLiMz85CHwVjEFOA
+../dumps-text/fr-50.txt-  87. https://www.instagram.com/justifit_FR/
+../dumps-text/fr-50.txt-  88. https://www.justifit.fr/
+../dumps-text/fr-50.txt:  89. https://twitter.com/intent/tweet?url=https://www.justifit.fr/b/guides/droit-penal/differents-types-discrimination/&text=Les%20diff%C3%A9rents%20types%20de%20discrimination%20:%20au%20travail,%20raciale,%20positive,%20etc.
+../dumps-text/fr-50.txt:  90. https://www.pinterest.com/pin/create/button/?url=https://www.justifit.fr/b/guides/droit-penal/differents-types-discrimination/&media=https://www.justifit.fr/wp-content/uploads/2021/04/discimination.jpg&description=Les%20diff%C3%A9rents%20types%20de%20discrimination%20:%20au%20travail,%20raciale,%20positive,%20etc.%20data-pin-custom=
+../dumps-text/fr-50.txt:  91. https://www.linkedin.com/shareArticle?url=https://www.justifit.fr/b/guides/droit-penal/differents-types-discrimination/&title=Les%20diff%C3%A9rents%20types%20de%20discrimination%20:%20au%20travail,%20raciale,%20positive,%20etc.
+../dumps-text/fr-50.txt:  92. https://www.facebook.com/sharer/sharer.php?u=https://www.justifit.fr/b/guides/droit-penal/differents-types-discrimination/&t=Les%20diff%C3%A9rents%20types%20de%20discrimination%20:%20au%20travail,%20raciale,%20positive,%20etc.
+../dumps-text/fr-50.txt-  93. https://www.justifit.fr/votredossier
+../dumps-text/fr-50.txt-  94. https://www.facebook.com/justifit.france
+../dumps-text/fr-50.txt-  95. https://www.linkedin.com/company/justifit-france

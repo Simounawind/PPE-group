@@ -1,0 +1,36 @@
+../dumps-text/fr-20.txt-   Réponse : parce que les Etats-Unis ont agi, et pas la France.
+../dumps-text/fr-20.txt-   Ils partaient pourtant de très loin, avec des éléments d'apartheid
+../dumps-text/fr-20.txt-   maintenus jusque dans les années 60. Mouvements pour les droits
+../dumps-text/fr-20.txt:   civiques, volontarisme politique avec la discrimination positive dans
+../dumps-text/fr-20.txt-   les universités et l'administration, émergence progressive de la
+../dumps-text/fr-20.txt-   diversité dans les élites politiques, médiatiques, économiques : Barack
+../dumps-text/fr-20.txt-   Obama ne sort pas de nulle part, il est l'aboutissement d'un mouvement
+--
+../dumps-text/fr-20.txt-   la République.
+../dumps-text/fr-20.txt-
+../dumps-text/fr-20.txt-   La situation, certes, évolue. Des mesures volontaristes apparaissent
+../dumps-text/fr-20.txt:   pour combattre les discriminations. On nous invite à sauver un des
+../dumps-text/fr-20.txt-   éléments du modèle français, l'élitisme républicain, en élargissant la
+../dumps-text/fr-20.txt-   base sociale au sein de laquelle se recrutent les étudiants des grandes
+../dumps-text/fr-20.txt-   écoles, ou assimilables, telle Sciences-Po. Il est vrai que cette base
+--
+../dumps-text/fr-20.txt-   «français», le diplômé noir qui n'est jamais convoqué pour un entretien
+../dumps-text/fr-20.txt-   d'embauche ne sont pas seulement pénalisés pour des raisons sociales.
+../dumps-text/fr-20.txt-
+../dumps-text/fr-20.txt:   La discrimination raciale existe. Elle est inscrite dans les schémas
+../dumps-text/fr-20.txt-   mentaux français : l'altérité de la couleur de peau, un héritage
+../dumps-text/fr-20.txt-   colonial mal digéré, une vision culturaliste de la France en sont des
+../dumps-text/fr-20.txt-   facteurs puissants. Elle a été renforcée par l'agitation politique
+--
+../dumps-text/fr-20.txt-   de l'immigration le stigmate de «Français subis».
+../dumps-text/fr-20.txt-
+../dumps-text/fr-20.txt-   C'est pourquoi des politiques spécifiques sont nécessaires pour faire
+../dumps-text/fr-20.txt:   reculer les discriminations. Pour les sanctionner bien sûr mais avant
+../dumps-text/fr-20.txt-   tout pour modifier les représentations collectives et faire admettre,
+../dumps-text/fr-20.txt-   comme aux Etats-Unis, que la République est désormais diverse.
+../dumps-text/fr-20.txt-
+../dumps-text/fr-20.txt-   Il faut aujourd'hui avancer sur le terrain de la connaissance des
+../dumps-text/fr-20.txt:   discriminations, mieux appréhender les effectifs et les difficultés
+../dumps-text/fr-20.txt-   spécifiques de certaines populations. Le débat, légitime, sur «les
+../dumps-text/fr-20.txt-   statistiques ethniques» ne doit pas faire oublier cette évidence : nous
+../dumps-text/fr-20.txt-   avons besoin de données précises pour agir. Connaître notre société

@@ -1,0 +1,72 @@
+../dumps-text/fr-54.txt-     * [13]Faire un don
+../dumps-text/fr-54.txt-     * [14]Contact
+../dumps-text/fr-54.txt-
+../dumps-text/fr-54.txt:   [15]Accueil > [16]Missions > Mesurer les discriminations raciales en
+../dumps-text/fr-54.txt-   France
+../dumps-text/fr-54.txt-
+../dumps-text/fr-54.txt:Mesurer les discriminations raciales en France
+../dumps-text/fr-54.txt-
+../dumps-text/fr-54.txt-   Depuis 2006, le CRAN utilise les statistiques de la diversité pour
+../dumps-text/fr-54.txt:   mesurer les discriminations raciales en France.
+../dumps-text/fr-54.txt-
+../dumps-text/fr-54.txt-   L'évaluation des discriminations en France, et la connaissance des
+../dumps-text/fr-54.txt-   populations
+--
+../dumps-text/fr-54.txt-   extrapolations, en l'absence de données quantitatives sur le sujet.
+../dumps-text/fr-54.txt-
+../dumps-text/fr-54.txt-   Ces statistiques de la diversité ont permis des avancées significatives
+../dumps-text/fr-54.txt:   dans la lutte contre les discriminations raciales en France :
+../dumps-text/fr-54.txt-     * Dans le domaine de la politique : pour assurer une meilleure
+../dumps-text/fr-54.txt-       représentation de la diversité au gouvernement, à l'Assemblée
+../dumps-text/fr-54.txt-       nationale, dans les collectivités territoriales, etc...
+--
+../dumps-text/fr-54.txt-
+../dumps-text/fr-54.txt-Documents à télécharger
+../dumps-text/fr-54.txt-
+../dumps-text/fr-54.txt:   [17]Les discriminations à l'encontre des populations noires de France
+../dumps-text/fr-54.txt-   (2007)
+../dumps-text/fr-54.txt-
+../dumps-text/fr-54.txt-   411 Ko
+--
+../dumps-text/fr-54.txt-   personnes interrogées
+../dumps-text/fr-54.txt-   0 %
+../dumps-text/fr-54.txt-   des personnes « noires » ont le sentiment d'avoir vécu au moins une
+../dumps-text/fr-54.txt:   situation de discrimination dans les 12 derniers mois
+../dumps-text/fr-54.txt-   0 %
+../dumps-text/fr-54.txt-   des résidents de France qui se disent "noirs" se jugent victime de
+../dumps-text/fr-54.txt:   discrimination raciale.
+../dumps-text/fr-54.txt-   0 %
+../dumps-text/fr-54.txt-   des résidents de France âgés de plus de 18 ans déclarent appartenir à
+../dumps-text/fr-54.txt-   une minorité visible.
+--
+../dumps-text/fr-54.txt-   1. https://www.lecran.org/feed/
+../dumps-text/fr-54.txt-   2. https://www.lecran.org/comments/feed/
+../dumps-text/fr-54.txt-   3. https://www.lecran.org/wp-json/wp/v2/pages/71
+../dumps-text/fr-54.txt:   4. https://www.lecran.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.lecran.org%2Fmissions-du-cran%2Fmesurer-discriminations-raciales-en-france%2F
+../dumps-text/fr-54.txt:   5. https://www.lecran.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.lecran.org%2Fmissions-du-cran%2Fmesurer-discriminations-raciales-en-france%2F&format=xml
+../dumps-text/fr-54.txt:   6. https://www.lecran.org/missions-du-cran/mesurer-discriminations-raciales-en-france/#content
+../dumps-text/fr-54.txt-   7. https://www.lecran.org/
+../dumps-text/fr-54.txt-   8. https://www.lecran.org/actus/
+../dumps-text/fr-54.txt-   9. https://www.lecran.org/faire-un-don/
+--
+../dumps-text/fr-54.txt-  26. https://www.lecran.org/communique-de-presse/le-cran-porte-plainte-apres-les-propos-racistes-contre-les-joueurs-de-lequipe-de-france-et-demande-au-president-de-la-republique-dagir/
+../dumps-text/fr-54.txt-  27. https://www.lecran.org/category/communique-de-presse/
+../dumps-text/fr-54.txt-  28. https://www.lecran.org/communique-de-presse/le-cran-porte-plainte-apres-les-propos-racistes-contre-les-joueurs-de-lequipe-de-france-et-demande-au-president-de-la-republique-dagir/
+../dumps-text/fr-54.txt:  29. https://www.lecran.org/communique-de-presse/logement-et-racisme-un-an-denquete-sur-les-discriminations/
+../dumps-text/fr-54.txt-  30. https://www.lecran.org/category/communique-de-presse/
+../dumps-text/fr-54.txt:  31. https://www.lecran.org/communique-de-presse/logement-et-racisme-un-an-denquete-sur-les-discriminations/
+../dumps-text/fr-54.txt-  32. https://www.lecran.org/faire-un-don/
+../dumps-text/fr-54.txt-  33. https://www.lecran.org/mentions-legales/
+../dumps-text/fr-54.txt-  34. https://www.lecran.org/politique-de-confidentialite/
+../dumps-text/fr-54.txt-  35. https://www.lecran.org/politique-de-cookies-ue/
+../dumps-text/fr-54.txt:  36. https://www.lecran.org/missions-du-cran/mesurer-discriminations-raciales-en-france/
+../dumps-text/fr-54.txt:  37. https://www.lecran.org/missions-du-cran/mesurer-discriminations-raciales-en-france/
+../dumps-text/fr-54.txt:  38. https://www.lecran.org/missions-du-cran/mesurer-discriminations-raciales-en-france/
+../dumps-text/fr-54.txt-  39. https://cookiedatabase.org/tcf/purposes/
+../dumps-text/fr-54.txt:  40. https://www.lecran.org/missions-du-cran/mesurer-discriminations-raciales-en-france/
+../dumps-text/fr-54.txt:  41. https://www.lecran.org/missions-du-cran/mesurer-discriminations-raciales-en-france/
+../dumps-text/fr-54.txt:  42. https://www.lecran.org/missions-du-cran/mesurer-discriminations-raciales-en-france/
+../dumps-text/fr-54.txt:  43. https://www.lecran.org/missions-du-cran/mesurer-discriminations-raciales-en-france/
+../dumps-text/fr-54.txt-
+../dumps-text/fr-54.txt-   Hidden links:
+../dumps-text/fr-54.txt-  45. https://www.lecran.org/wp-content/uploads/2022/09/CRAN-63-tns-sofres-premiere-enquete-statistique-sur-les-noirs-de-france.pdf

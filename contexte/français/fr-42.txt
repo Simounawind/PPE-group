@@ -1,0 +1,112 @@
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt-   Droit social-travail
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt:La discrimination raciale au travail
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt:   La discrimination raciale au travail: définition, analyse et solutions.
+../dumps-text/fr-42.txt-   Un texte de Sophia Toloudi, avocate en droit public et administratif.
+../dumps-text/fr-42.txt-   [34]Maître Sophia Toloudi
+../dumps-text/fr-42.txt-   janv. 15, 2020
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt:L'interdiction de la discrimination raciale au travail
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt:   Le Code du travail interdit la discrimination raciale au travail.
+../dumps-text/fr-42.txt:   L'article L1132-1 vise ainsi les discriminations lors de l'embauche ou
+../dumps-text/fr-42.txt-   de l'accès à un stage, en matière de licenciement ou d'autres
+../dumps-text/fr-42.txt-   sanctions, ainsi que durant toute l'exécution du contrat, par exemple à
+../dumps-text/fr-42.txt-   l'égard de la formation, de la rémunération ou des promotions. Toute
+../dumps-text/fr-42.txt-   décision de l'employeur doit être prise en fonction de critères
+../dumps-text/fr-42.txt-   professionnels, et non sur des considérations qui s'apparentent à une
+../dumps-text/fr-42.txt:   discrimination raciale.
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt-   Le Code précise les critères qui ne sauraient être pris en compte. Il
+../dumps-text/fr-42.txt-   s'agit notamment de l'appartenance ou de la non-appartenance, vraie ou
+--
+../dumps-text/fr-42.txt-   la domiciliation bancaire, ou encore de la capacité à s'exprimer dans
+../dumps-text/fr-42.txt-   une langue autre que le français.
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt:   Aussi, dans la fonction publique la discrimination est prohibée par
+../dumps-text/fr-42.txt-   l'article 6 de la loi n° 83-634 du 13 juillet 1983 dite "Le Pors". La
+../dumps-text/fr-42.txt:   non discrimination est également prévu par la loi n° 2008-496 du 27 mai
+../dumps-text/fr-42.txt:   2008. Un agent public ne doit faire l'objet d'aucune discrimination,
+../dumps-text/fr-42.txt-   notamment de la part de sa hiérarchie, en raison de ses opinions, son
+../dumps-text/fr-42.txt-   sexe, son origine ou son état de santé. Cette interdiction s'applique
+../dumps-text/fr-42.txt-   aussi bien au recrutement qu'au déroulement de carrière et concerne les
+--
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt-Caractérisation de la discrimination raciale au travail
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt:   Il y a discrimination... Lorsque l'employeur traite différemment ses
+../dumps-text/fr-42.txt-   salariés, en se fondant notamment sur
+../dumps-text/fr-42.txt-     * l'origine géographique, le nom de famille, le lieu de résidence
+../dumps-text/fr-42.txt-     * l'appartenance ou la non-appartenance, réelle ou supposée, à une
+--
+../dumps-text/fr-42.txt-     * le fait de parler une autre langue que le français
+../dumps-text/fr-42.txt-     * les convictions religieuses
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt:   La discrimination est directe lorsque la personne est traitée de
+../dumps-text/fr-42.txt-   manière moins favorable qu'une autre qui se trouve dans une situation
+../dumps-text/fr-42.txt-   comparable. Elle est indirecte lorsqu'une disposition, un critère ou
+../dumps-text/fr-42.txt-   une pratique, neutre en apparence, entraîne un désavantage particulier
+../dumps-text/fr-42.txt-   pour des personnes par rapport à d'autres. Par exemple, une mesure
+../dumps-text/fr-42.txt-   défavorable aux travailleurs à temps partiel peut constituer une
+../dumps-text/fr-42.txt:   discrimination indirecte en raison du sexe, si la grande majorité des
+../dumps-text/fr-42.txt-   travailleurs à temps partiel sont des femmes.
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt-   Bien entendu, toutes les différences de traitement ne sont pas
+--
+../dumps-text/fr-42.txt-   souvent l'âge, le handicap, le sexe ou le lieu de résidence.
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt:La discrimination raciale au travail, une forme de harcèlement ?
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt-   Concrètement... constitue une discrimination raciale au travail le fait
+../dumps-text/fr-42.txt-   d'annoncer à une candidate qu'elle ne pourra être embauchée que dans
+--
+../dumps-text/fr-42.txt-   changement de prénom était justifié par l'existence de plusieurs
+../dumps-text/fr-42.txt-   salariés prénommés Mohammed au sein de l'entreprise.
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt:   La discrimination raciale peut aussi prendre la forme d'un harcèlement
+../dumps-text/fr-42.txt-   moral. Des propos racistes répétés, même sous la forme de prétendues «
+../dumps-text/fr-42.txt-   blagues racistes », sont de nature à constituer une discrimination.
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt:   La discrimination fondée sur la religion est en principe interdite,
+../dumps-text/fr-42.txt-   mais elle pose des problèmes particuliers. En vertu du principe de
+../dumps-text/fr-42.txt-   laïcité, une obligation de neutralité religieuse s'impose aux agents
+../dumps-text/fr-42.txt-   publics. En revanche, les salariés du privé ne peuvent se voir
+--
+../dumps-text/fr-42.txt-   faite entre les salariés selon qu'ils sont ou non en contact avec le
+../dumps-text/fr-42.txt-   public. Notons enfin qu'une interdiction d'apparence neutre mais qui
+../dumps-text/fr-42.txt-   vise en réalité une seule religion particulière constitue une
+../dumps-text/fr-42.txt:   discrimination.
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt:Que faire en cas de discrimination raciale au travail ? À qui s'adresser ?
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt:   La victime d'une discrimination raciale au travail peut déposer une
+../dumps-text/fr-42.txt-   plainte pénale au commissariat de police le plus proche du lieu de
+../dumps-text/fr-42.txt-   l'infraction, à la gendarmerie ou par lettre au Procureur de la
+../dumps-text/fr-42.txt-   République. Naturellement, la lettre doit préciser la nature, la date,
+--
+../dumps-text/fr-42.txt-   ou des témoins, leurs adresses, les copies de photographies, les arrêts
+../dumps-text/fr-42.txt-   de travail, etc...
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt:   Toute discrimination est passible de 3 ans de prison et de 45 000 euros
+../dumps-text/fr-42.txt-   d'amende. Si les auteurs ont agi comme agents publics ou comme
+../dumps-text/fr-42.txt-   responsables d'un lieu accueillant du public, les peines peuvent aller
+../dumps-text/fr-42.txt-   jusqu'à 5 ans de prison et 75 000 euros d'amende. Les personnes morales
+--
+../dumps-text/fr-42.txt-   saisir le Conseil de Prud'hommes afin d'obtenir l'annulation de la
+../dumps-text/fr-42.txt-   mesure discriminatoire et la réparation du préjudice subi. La victime
+../dumps-text/fr-42.txt-   devra présenter au juge les éléments laissant supposer l'existence
+../dumps-text/fr-42.txt:   d'une discrimination alors que l'auteur supposé devra prouver que sa
+../dumps-text/fr-42.txt-   décision est justifiée par des éléments objectifs et non
+../dumps-text/fr-42.txt-   discriminatoire. Le «testing» constitue désormais un mode de preuve
+../dumps-text/fr-42.txt-   admis par la loi pour établir une discrimination raciale au travail ou
+../dumps-text/fr-42.txt-   un « délit de faciès ».
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt-   L'agent public ayant été discriminé en raison de ses origines peut
+../dumps-text/fr-42.txt:   saisir le Tribunal Administratif pour discrimination.
+../dumps-text/fr-42.txt-
+../dumps-text/fr-42.txt-   Dans tous les cas, l'Inspection de travail et / ou le Défenseur des
+../dumps-text/fr-42.txt-   droits peuvent être saisis. Ils assisteront la victime dans ses

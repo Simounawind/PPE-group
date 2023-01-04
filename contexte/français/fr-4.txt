@@ -1,0 +1,29 @@
+../dumps-text/fr-4.txt-   Un sondage distinct, réalisé en ligne du 15 au 16 mars par Harris
+../dumps-text/fr-4.txt-   Interactive auprès de 1 033 personnes représentatif de la population
+../dumps-text/fr-4.txt-   française âgée de 18 ans et plus, fait lui état d'un soutien accru de
+../dumps-text/fr-4.txt:   la population aux mesures anti-discriminations.
+../dumps-text/fr-4.txt-
+../dumps-text/fr-4.txt-   Dans cette étude commandée par la Maison des potes, 89% des Français
+../dumps-text/fr-4.txt-   estiment qu'à travail égal, la même rémunération et la même retraite
+--
+../dumps-text/fr-4.txt-     * [76]Recrutement
+../dumps-text/fr-4.txt-
+../dumps-text/fr-4.txt-   [hit.xiti?s=573499&s2=25&p=maladie::articles::covid_19_pour_un_francais
+../dumps-text/fr-4.txt:   _sur_deux_les_discriminations_ethniques_ont_augmente_avec_la_pandemie__
+../dumps-text/fr-4.txt-   4340665]
+../dumps-text/fr-4.txt-
+../dumps-text/fr-4.txt-References
+../dumps-text/fr-4.txt-
+../dumps-text/fr-4.txt:   1. https://www.francetvinfo.fr/sante/maladie/coronavirus/covid-19-pour-un-francais-sur-deux-les-discriminations-ethniques-ont-augmente-avec-la-pandemie_4340665.html#base-page__main-content
+../dumps-text/fr-4.txt:   2. https://www.francetvinfo.fr/sante/maladie/coronavirus/covid-19-pour-un-francais-sur-deux-les-discriminations-ethniques-ont-augmente-avec-la-pandemie_4340665.html#header-legacy__taxo-home-menu
+../dumps-text/fr-4.txt-   3. https://www.francetvinfo.fr/recherche/
+../dumps-text/fr-4.txt-   4. https://www.francetvinfo.fr/en-direct/tv.html
+../dumps-text/fr-4.txt-   5. https://www.francetvinfo.fr/en-direct/radio.html
+--
+../dumps-text/fr-4.txt-  38. https://www.francetelevisions.fr/abonnements
+../dumps-text/fr-4.txt-  39. https://www.francetvinfo.fr/redaction/francetv-info-avec-afp/
+../dumps-text/fr-4.txt-  40. https://www.francetvinfo.fr/sante/maladie/coronavirus/
+../dumps-text/fr-4.txt:  41. https://www.francetvinfo.fr/sante/maladie/coronavirus/covid-19-pour-un-francais-sur-deux-les-discriminations-ethniques-ont-augmente-avec-la-pandemie_4340665.html#comments
+../dumps-text/fr-4.txt-  42. https://www.francetvinfo.fr/sante/maladie/coronavirus/
+../dumps-text/fr-4.txt-  43. https://www.francetvinfo.fr/sante/hopital/crise/nous-ne-savons-pas-a-quelle-heure-est-decede-notre-maman-dans-un-hopital-des-vosges-plusieurs-morts-inexpliquees-et-quatre-plaintes-deposees_5567811.html
+../dumps-text/fr-4.txt-  44. https://www.francetvinfo.fr/societe/prise-en-charge-des-personnes-agees/loiret-une-maison-de-retraite-illegale-fermee_5567067.html

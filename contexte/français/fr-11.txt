@@ -1,0 +1,50 @@
+../dumps-text/fr-11.txt-       Recherche
+../dumps-text/fr-11.txt-
+../dumps-text/fr-11.txt-   [10][hit.xiti?s=78691&s2=20&p=contenu::mdl::plus-facile-quand-on-est-bl
+../dumps-text/fr-11.txt:   anc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raci
+../dumps-text/fr-11.txt-   ale::10483714&di=&x1=web-noscript] Mon journal Menu
+../dumps-text/fr-11.txt-   [11]"Plus facile quand on est blanc" : des plages privées de la Côte
+../dumps-text/fr-11.txt-   d'Azur accusées de discrimination raciale
+--
+../dumps-text/fr-11.txt-   9. https://avis-deces.midilibre.fr/
+../dumps-text/fr-11.txt-  10. https://kiosque.midilibre.fr/
+../dumps-text/fr-11.txt-  11. https://www.midilibre.fr/
+../dumps-text/fr-11.txt:  12. https://profil.midilibre.fr/login/?SSO_Context=https%3A%2F%2Fwww.midilibre.fr%2F2022%2F08%2F11%2Fplus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale-10483714.php
+../dumps-text/fr-11.txt:  13. https://abonnement.midilibre.fr/?src=edito&url=https%3A%2F%2Fwww.midilibre.fr%2F2022%2F08%2F11%2Fplus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale-10483714.php#xtor=CS1-1-[mdl]-[article_gratuit_standard]-[header]-[plus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale::10483714]
+../dumps-text/fr-11.txt-  14. https://www.midilibre.fr/actu/monde/
+../dumps-text/fr-11.txt-  15. https://www.midilibre.fr/actu/monde/europe/
+../dumps-text/fr-11.txt-  16. https://www.midilibre.fr/actu/politique/
+--
+../dumps-text/fr-11.txt-  27. https://www.midilibre.fr/divertissement/people/
+../dumps-text/fr-11.txt-  28. https://www.midilibre.fr/services/bourse/
+../dumps-text/fr-11.txt-  29. https://kiosque.midilibre.fr/
+../dumps-text/fr-11.txt:  30. https://abonnement.midilibre.fr/#xtor=CS1-1-[mdl]-[article_gratuit_standard]-[menu_mobile]-[plus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale::10483714]
+../dumps-text/fr-11.txt:  31. https://abonnement.midilibre.fr/site/midilibrev2/default/fr/abonnement/boutique.html#xtor=CS1-1-[mdl]-[article_gratuit_standard]-[menu_mobile]-[plus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale::10483714]
+../dumps-text/fr-11.txt-  32. https://www.midilibre.fr/
+../dumps-text/fr-11.txt-  33. https://www.midilibre.fr/podcasts/
+../dumps-text/fr-11.txt-  34. https://www.midilibre.fr/annonces/legales/aude
+--
+../dumps-text/fr-11.txt-  44. https://www.midilibre.fr/actu/societe/
+../dumps-text/fr-11.txt-  45. https://www.midilibre.fr/actu/societe/
+../dumps-text/fr-11.txt-  46. https://www.midilibre.fr/economie/innovation-high-tech/reseaux-sociaux/
+../dumps-text/fr-11.txt:  47. https://www.lemonde.fr/societe/article/2022/08/01/sur-la-cote-d-azur-les-plages-privees-a-l-epreuve-des-tests-de-discrimination-raciale_6136849_3224.html
+../dumps-text/fr-11.txt-  48. https://t.co/AyWWZo3NQF
+../dumps-text/fr-11.txt-  49. https://twitter.com/Loopsidernews/status/1556926384081182722?ref_src=twsrc%5Etfw
+../dumps-text/fr-11.txt-  50. https://twitter.com/AbdoulayeK3/status/1557045463865507847?ref_src=twsrc%5Etfw
+--
+../dumps-text/fr-11.txt-  53. https://www.midilibre.fr/auteur/melissa-simon
+../dumps-text/fr-11.txt-  54. https://www.midilibre.fr/auteur/melissa-simon
+../dumps-text/fr-11.txt-  55. https://www.midilibre.fr/auteur/melissa-simon
+../dumps-text/fr-11.txt:  56. https://www.midilibre.fr/2022/08/11/plus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale-10483714.php#top-lus
+../dumps-text/fr-11.txt:  57. https://www.midilibre.fr/2022/08/11/plus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale-10483714.php#top-comments
+../dumps-text/fr-11.txt-  58. https://www.midilibre.fr/2022/12/30/video-dans-un-clip-de-propagande-russe-la-france-est-comparee-a-un-rat-appele-emmanuel-que-tue-un-soldat-de-wagner-10896543.php
+../dumps-text/fr-11.txt-  59. https://www.midilibre.fr/2023/01/01/un-enfant-de-6-ans-appelle-a-laide-par-la-fenetre-ses-parents-sont-decouverts-inanimes-dans-lappartement-10899007.php
+../dumps-text/fr-11.txt-  60. https://www.midilibre.fr/2023/01/01/horoscope-decouvrez-signe-par-signe-ce-que-vous-reserve-lannee-2023-10892879.php
+--
+../dumps-text/fr-11.txt-  82. https://www.midilibre.fr/services/horoscope/
+../dumps-text/fr-11.txt-  83. https://www.midilibre.fr/services/bourse/
+../dumps-text/fr-11.txt-  84. https://www.midilibre.fr/partenaire/
+../dumps-text/fr-11.txt:  85. https://abonnement.midilibre.fr/#xtor=CS1-1-[mdl]-[article_gratuit_standard]-[footer]-[plus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale::10483714]
+../dumps-text/fr-11.txt-  86. https://profil.midilibre.fr/account/
+../dumps-text/fr-11.txt-  87. https://www.midilibre.fr/archives-journal/
+../dumps-text/fr-11.txt-  88. https://abonnement.midilibre.fr/site/midilibrev2/default/fr/abonnement/boutique.html?catref=coup_de_coeur

@@ -1,0 +1,72 @@
+../dumps-text/fr-39.txt-          + Domaines de compétence
+../dumps-text/fr-39.txt-               o [23]Défense des droits des usagers des services publics
+../dumps-text/fr-39.txt-               o [24]Défense et promotion des droits de l'enfant
+../dumps-text/fr-39.txt:               o [25]Lutte contre les discriminations et promotion de
+../dumps-text/fr-39.txt-                 l'égalité
+../dumps-text/fr-39.txt-               o [26]Respect de la déontologie des professionnels de la
+../dumps-text/fr-39.txt-                 sécurité
+--
+../dumps-text/fr-39.txt-   structurelles et systémiques de la discrimination raciale présente dans
+../dumps-text/fr-39.txt-   l'État partie. Il recommande également la mise en oeuvre effective du
+../dumps-text/fr-39.txt-   nouveau Plan national contre le racisme, l'antisémitisme et les
+../dumps-text/fr-39.txt:   discriminations fondées sur l'origine 2023-2026, notamment par une
+../dumps-text/fr-39.txt-   dotation suffisante en ressources (...) ». Elle est, à cet égard,
+../dumps-text/fr-39.txt-   particulièrement sensible aux préconisations du Comité envers la France
+../dumps-text/fr-39.txt-   afin qu'elle assure « la pleine participation des populations
+--
+../dumps-text/fr-39.txt-   Gens du voyage, les personnes africaines et d'ascendance africaine, les
+../dumps-text/fr-39.txt-   personnes d'origine arabe et les non-ressortissants ».
+../dumps-text/fr-39.txt-
+../dumps-text/fr-39.txt:   Sur la mesure des discriminations, la Défenseure des droits salue
+../dumps-text/fr-39.txt-   notamment le fait que le Comité « recommande à l'État partie de (...)
+../dumps-text/fr-39.txt-   recueillir des données et des informations sur la composition
+../dumps-text/fr-39.txt-   démographique de sa population dans l'ensemble de son territoire (...).
+--
+../dumps-text/fr-39.txt-
+../dumps-text/fr-39.txt-Sites du Défenseur des droits
+../dumps-text/fr-39.txt-
+../dumps-text/fr-39.txt:     * Antidiscriminations.fr
+../dumps-text/fr-39.txt-     * Egalité contre le racisme
+../dumps-text/fr-39.txt-     * IPCAN
+../dumps-text/fr-39.txt-     * Éducadroit
+--
+../dumps-text/fr-39.txt-References
+../dumps-text/fr-39.txt-
+../dumps-text/fr-39.txt-   Visible links:
+../dumps-text/fr-39.txt:   1. https://www.defenseurdesdroits.fr/fr/communique-de-presse/2022/12/conclusions-du-comite-de-lonu-pour-lelimination-de-la-discrimination#page-menu
+../dumps-text/fr-39.txt:   2. https://www.defenseurdesdroits.fr/fr/communique-de-presse/2022/12/conclusions-du-comite-de-lonu-pour-lelimination-de-la-discrimination#page-main
+../dumps-text/fr-39.txt:   3. https://www.defenseurdesdroits.fr/fr/communique-de-presse/2022/12/conclusions-du-comite-de-lonu-pour-lelimination-de-la-discrimination#dd-recherche-form
+../dumps-text/fr-39.txt:   4. https://www.defenseurdesdroits.fr/fr/communique-de-presse/2022/12/conclusions-du-comite-de-lonu-pour-lelimination-de-la-discrimination#page-footer
+../dumps-text/fr-39.txt-   5. https://www.defenseurdesdroits.fr/fr
+../dumps-text/fr-39.txt-   6. tel:0969390000
+../dumps-text/fr-39.txt-   7. https://www.defenseurdesdroits.fr/fr/faq
+--
+../dumps-text/fr-39.txt-  22. https://www.defenseurdesdroits.fr/fr/les-jeunes-ambassadeurs-des-droits-jade
+../dumps-text/fr-39.txt-  23. https://www.defenseurdesdroits.fr/fr/institution/competences/services-publics
+../dumps-text/fr-39.txt-  24. https://www.defenseurdesdroits.fr/fr/competences/missions-objectifs/defense-des-droits-de-lenfant
+../dumps-text/fr-39.txt:  25. https://www.defenseurdesdroits.fr/fr/institution/competences/lutte-contre-discriminations
+../dumps-text/fr-39.txt-  26. https://www.defenseurdesdroits.fr/fr/institution/competences/deontologie-securite
+../dumps-text/fr-39.txt-  27. https://www.defenseurdesdroits.fr/fr/lanceurs-dalerte
+../dumps-text/fr-39.txt-  28. https://www.defenseurdesdroits.fr/fr/institution/moyens/protection
+--
+../dumps-text/fr-39.txt-  61. https://www.defenseurdesdroits.fr/fr/le-defenseur-des-droits-en-langue-des-signes-francaise
+../dumps-text/fr-39.txt-  62. https://www.defenseurdesdroits.fr/fr/saisir
+../dumps-text/fr-39.txt-  63. https://www.defenseurdesdroits.fr/a-la-une/2022/12/les-delegues-du-defenseur-des-droits-en-direct-sur-les-antennes-france-bleu
+../dumps-text/fr-39.txt:  64. https://www.defenseurdesdroits.fr/a-la-une/2022/12/services-a-la-personne-le-15e-barometre-sur-la-perception-des-discriminations-dans
+../dumps-text/fr-39.txt:  65. http://twitter.com/intent/tweet?status=Conclusions%20du%20Comit%C3%A9%20de%20l%E2%80%99ONU%20pour%20l%E2%80%99%C3%A9limination%20de%20la%20discrimination%20raciale%20%C3%A0%20l%E2%80%99issue%20de%20l%E2%80%99Examen%20de%20la%20France%20:%20les%20recommandations%20de%20la%20D%C3%A9fenseure%20des%20droits%20largement%20reprises%20+https://www.defenseurdesdroits.fr/fr/communique-de-presse/2022/12/conclusions-du-comite-de-lonu-pour-lelimination-de-la-discrimination
+../dumps-text/fr-39.txt:  66. http://www.facebook.com/share.php?u=https://www.defenseurdesdroits.fr/fr/communique-de-presse/2022/12/conclusions-du-comite-de-lonu-pour-lelimination-de-la-discrimination&title=Conclusions%20du%20Comit%C3%A9%20de%20l%E2%80%99ONU%20pour%20l%E2%80%99%C3%A9limination%20de%20la%20discrimination%20raciale%20%C3%A0%20l%E2%80%99issue%20de%20l%E2%80%99Examen%20de%20la%20France%20:%20les%20recommandations%20de%20la%20D%C3%A9fenseure%20des%20droits%20largement%20reprises
+../dumps-text/fr-39.txt:  67. mailto:subject=Conclusions%20du%20Comit%C3%A9%20de%20l%E2%80%99ONU%20pour%20l%E2%80%99%C3%A9limination%20de%20la%20discrimination%20raciale%20%C3%A0%20l%E2%80%99issue%20de%20l%E2%80%99Examen%20de%20la%20France%20:%20les%20recommandations%20de%20la%20D%C3%A9fenseure%20des%20droits%20largement%20reprises%20&body=https://www.defenseurdesdroits.fr/fr/communique-de-presse/2022/12/conclusions-du-comite-de-lonu-pour-lelimination-de-la-discrimination
+../dumps-text/fr-39.txt-  68. javascript:window.print()
+../dumps-text/fr-39.txt-  69. https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=INT%2fCERD%2fIFS%2fFRA%2f50651&Lang=en
+../dumps-text/fr-39.txt-  70. https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/SessionDetails1.aspx?SessionID=2557&Lang=fr
+--
+../dumps-text/fr-39.txt-  89. https://www.defenseurdesdroits.fr/fr/nous-contacter
+../dumps-text/fr-39.txt-
+../dumps-text/fr-39.txt-   Hidden links:
+../dumps-text/fr-39.txt:  91. https://www.defenseurdesdroits.fr/fr/communique-de-presse/2022/12/conclusions-du-comite-de-lonu-pour-lelimination-de-la-discrimination
+../dumps-text/fr-39.txt:  92. https://www.defenseurdesdroits.fr/fr/communique-de-presse/2022/12/conclusions-du-comite-de-lonu-pour-lelimination-de-la-discrimination
+../dumps-text/fr-39.txt:  93. https://www.defenseurdesdroits.fr/fr/communique-de-presse/2022/12/conclusions-du-comite-de-lonu-pour-lelimination-de-la-discrimination
+../dumps-text/fr-39.txt:  94. https://www.antidiscriminations.fr/
+../dumps-text/fr-39.txt-  95. http://egalitecontreracisme.fr/
+../dumps-text/fr-39.txt-  96. https://ipcan.org/
+../dumps-text/fr-39.txt-  97. https://educadroit.fr/
