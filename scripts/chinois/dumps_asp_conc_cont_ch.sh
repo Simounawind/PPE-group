@@ -9,7 +9,7 @@ do
 	echo "fichier $lignenum est en cours de traitement."
 	curl -o ../../aspirations/chinois/ch-$lignenum.html $URL
 	w3m $URL > ../../dumps-text/chinois/ch-$lignenum.txt
-	grep -E -A3 -B3 $cible ../../dumps-text/chinois/ch-$lignenum.txt > ../../contextes/chinois/ch-$lignenum.txt
+	grep -E -A3 -B3 $cible ../../dumps-text/chinois/ch-$lignenum.txt > ../../contexte/chinois/ch-$lignenum.txt
 
 	echo "
 	<!DOCTYPE html>
