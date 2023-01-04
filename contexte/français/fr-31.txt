@@ -1,0 +1,36 @@
+../dumps-text/fr-31.txt-   des Nations unies appelle la communauté internationale à redoubler
+../dumps-text/fr-31.txt-   d'efforts pour éliminer toutes formes de discrimination raciale.
+../dumps-text/fr-31.txt-
+../dumps-text/fr-31.txt:   La discrimination raciale et ethnique se manifeste chaque jour,
+../dumps-text/fr-31.txt-   entravant tout progrès pour des millions de personnes dans le monde
+../dumps-text/fr-31.txt-   entier. Le racisme et l'intolérance peuvent prendre diverses formes :
+../dumps-text/fr-31.txt-   depuis les simples blagues ou remarques jusqu'au refus aux individus
+--
+../dumps-text/fr-31.txt-Sources :
+../dumps-text/fr-31.txt-
+../dumps-text/fr-31.txt-   [35]Nations Unies - Journée internationale pour l'élimination de la
+../dumps-text/fr-31.txt:   discrimination raciale
+../dumps-text/fr-31.txt-
+../dumps-text/fr-31.txt-   [36]Unesco - Journée internationale pour l'élimination de la
+../dumps-text/fr-31.txt:   discrimination raciale
+../dumps-text/fr-31.txt-
+../dumps-text/fr-31.txt-   [37]Journée internationale
+../dumps-text/fr-31.txt-
+--
+../dumps-text/fr-31.txt-   1. https://www.mutuelle-des-hospitaliers.com/feed/
+../dumps-text/fr-31.txt-   2. https://www.mutuelle-des-hospitaliers.com/comments/feed/
+../dumps-text/fr-31.txt-   3. https://www.mutuelle-des-hospitaliers.com/wp-json/wp/v2/posts/1700
+../dumps-text/fr-31.txt:   4. https://www.mutuelle-des-hospitaliers.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mutuelle-des-hospitaliers.com%2F2021%2F03%2F15%2Fla-journee-internationale-pour-lelimination-de-la-discrimination-raciale%2F
+../dumps-text/fr-31.txt:   5. https://www.mutuelle-des-hospitaliers.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mutuelle-des-hospitaliers.com%2F2021%2F03%2F15%2Fla-journee-internationale-pour-lelimination-de-la-discrimination-raciale%2F&format=xml
+../dumps-text/fr-31.txt-   6. https://www.mutuelle-des-hospitaliers.com/
+../dumps-text/fr-31.txt-   7. http://www.facebook.com/mfh.mutuelledeshospitaliers
+../dumps-text/fr-31.txt-   8. tel:0476152780
+--
+../dumps-text/fr-31.txt-  33. https://www.mutuelle-des-hospitaliers.com/contact/
+../dumps-text/fr-31.txt-  34. https://www.mutuelle-des-hospitaliers.com/votre-espace/
+../dumps-text/fr-31.txt-  35. https://www.un.org/fr/observances/end-racism-day
+../dumps-text/fr-31.txt:  36. http://www.unesco.org/new/fr/unesco/events/prizes-and-celebrations/celebrations/international-days/international-day-for-the-elimination-of-racial-discrimination/
+../dumps-text/fr-31.txt:  37. https://www.journee-mondiale.com/103/journee-internationale-pour-l-elimination-de-la-discrimination-raciale.htm
+../dumps-text/fr-31.txt-  38. https://www.mutuelle-des-hospitaliers.com/2021/04/27/journee-mondiale-de-la-liberte-de-la-presse/
+../dumps-text/fr-31.txt-  39. https://www.mutuelle-des-hospitaliers.com/2021/02/25/la-journee-mondiale-de-la-vie-sauvage/
+../dumps-text/fr-31.txt-  40. https://www.mutuelle-des-hospitaliers.com/prestations-hospitaliers-mutuelle-hospitalier/etude-personnalisee/

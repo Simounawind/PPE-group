@@ -1,0 +1,97 @@
+../dumps-text/fr-51.txt-   REFRESH(600 sec):
+../dumps-text/fr-51.txt-   [1]https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d
+../dumps-text/fr-51.txt:   -agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racism
+../dumps-text/fr-51.txt-   e-7f1772d7f6b6fefd6b11a117c0eab7c4
+../dumps-text/fr-51.txt-   #[2]Recherche sur Boursorama
+../dumps-text/fr-51.txt-
+--
+../dumps-text/fr-51.txt-     *
+../dumps-text/fr-51.txt-     * [120]Patrimoine
+../dumps-text/fr-51.txt-     *
+../dumps-text/fr-51.txt:     * Location : beaucoup d'agences pratiquent encore la discrimination
+../dumps-text/fr-51.txt-       raciale, dénonce SOS Racisme
+../dumps-text/fr-51.txt-
+../dumps-text/fr-51.txt-     * [121]12
+--
+../dumps-text/fr-51.txt-   (BUTTON) Connexion membre [122]Connexion client
+../dumps-text/fr-51.txt-   Nouveau sur Boursorama ? [123]Devenez membre gratuitement
+../dumps-text/fr-51.txt-
+../dumps-text/fr-51.txt:Location : beaucoup d'agences pratiquent encore la discrimination raciale,
+../dumps-text/fr-51.txt-dénonce SOS Racisme
+../dumps-text/fr-51.txt-
+../dumps-text/fr-51.txt-   information fournie par Boursorama avec Newsgene o 21/03/2022 à 14:40
+--
+../dumps-text/fr-51.txt-     *
+../dumps-text/fr-51.txt-
+../dumps-text/fr-51.txt-   SOS Racisme n'a noté qu'une faible diminution de la pratique de la
+../dumps-text/fr-51.txt:   discrimination raciale par les agences immobilières. Photo
+../dumps-text/fr-51.txt-   d'illustration. (Schluesseldienst / Pixabay)
+../dumps-text/fr-51.txt-
+../dumps-text/fr-51.txt-   SOS Racisme n'a noté qu'une faible diminution de la pratique de la
+../dumps-text/fr-51.txt:   discrimination raciale par les agences immobilières. Photo
+../dumps-text/fr-51.txt-   d'illustration. (Schluesseldienst / Pixabay)
+../dumps-text/fr-51.txt-
+../dumps-text/fr-51.txt-Après une précédente étude il y a trois ans, SOS Racisme a mené une campagne
+../dumps-text/fr-51.txt-de testing pour savoir si les agences immobilières appliquaient des critères
+../dumps-text/fr-51.txt:de discrimination raciale pour les locations. Les mentalités ont peu bougé,
+../dumps-text/fr-51.txt-avec près de la moitié des agences qui adoptent cette pratique.
+../dumps-text/fr-51.txt-
+../dumps-text/fr-51.txt-   Les conclusions de la nouvelle campagne de testing menée par SOS
+--
+../dumps-text/fr-51.txt-   les personnes d'origine maghrébine ou subsaharienne n'ont pas les mêmes
+../dumps-text/fr-51.txt-   possibilités d'accès au logement. Elles « ont une chance sur deux de
+../dumps-text/fr-51.txt-   contacter une agence qui accepterait de pratiquer ou de laisser
+../dumps-text/fr-51.txt:   pratiquer une discrimination à leur endroit » , a dénoncé SOS Racisme.
+../dumps-text/fr-51.txt-
+../dumps-text/fr-51.txt-   Certaines agences laissent le propriétaire choisir les futurs
+../dumps-text/fr-51.txt-   locataires de son logement. Parmi elles, pour l'aider dans son choix,
+--
+../dumps-text/fr-51.txt-   Un peu moins d'une agence sur deux (70 agences sur 136) refuse
+../dumps-text/fr-51.txt-   d'effectuer une sélection sur la base d'un critère discriminatoire
+../dumps-text/fr-51.txt-   racial. Les trois-quarts des agences immobilières testées ont précisé
+../dumps-text/fr-51.txt:   que toutes formes de discrimination était interdite.
+../dumps-text/fr-51.txt-
+../dumps-text/fr-51.txt-   En comparant le résultat de ce testing avec le dernier en date, réalisé
+../dumps-text/fr-51.txt-   en 2019, SOS Racisme conclut cependant que « les pratiques
+--
+../dumps-text/fr-51.txt-References
+../dumps-text/fr-51.txt-
+../dumps-text/fr-51.txt-   Visible links:
+../dumps-text/fr-51.txt:   1. https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+../dumps-text/fr-51.txt-   2. https://www.boursorama.com/search.xml
+../dumps-text/fr-51.txt:   3. https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4#main-content
+../dumps-text/fr-51.txt-   4. javascript://;/
+../dumps-text/fr-51.txt-   5. javascript:///
+../dumps-text/fr-51.txt-   6. https://clients.boursorama.com/connexion/
+--
+../dumps-text/fr-51.txt- 118. https://www.boursorama.com/membre/avantages-inscription
+../dumps-text/fr-51.txt- 119. https://www.boursorama.com/
+../dumps-text/fr-51.txt- 120. https://www.boursorama.com/patrimoine/
+../dumps-text/fr-51.txt: 121. https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4#comments
+../dumps-text/fr-51.txt- 122. https://clients.boursorama.com/connexion/
+../dumps-text/fr-51.txt- 123. https://www.boursorama.com/membre/avantages-inscription
+../dumps-text/fr-51.txt: 124. https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4#comments
+../dumps-text/fr-51.txt- 125. https://www.francetvinfo.fr/economie/emploi/metiers/droit-et-justice/logement-pres-de-la-moitie-des-agences-immobilieres-accedent-aux-exigences-discriminatoires-des-proprietaires-selon-sos-racisme_5030486.html
+../dumps-text/fr-51.txt: 126. https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4#comments
+../dumps-text/fr-51.txt: 127. https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+../dumps-text/fr-51.txt- 128. https://www.boursorama.com/membre/avantages-inscription
+../dumps-text/fr-51.txt- 129. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/ag340369-369531214
+../dumps-text/fr-51.txt- 130. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/ag340369-369531214
+--
+../dumps-text/fr-51.txt- 192. https://www.boursorama.com/aide-en-ligne/
+../dumps-text/fr-51.txt- 193. https://www.boursorama.com/
+../dumps-text/fr-51.txt- 194. https://www.boursorama.com/aide-en-ligne/
+../dumps-text/fr-51.txt: 195. http://www.facebook.com/sharer/sharer.php?u=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+../dumps-text/fr-51.txt: 196. http://www.twitter.com/share?url=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4&text=Location%20:%20beaucoup%20d'agences%20pratiquent%20encore%20la%20discrimination%20raciale,%20d%C3%A9nonce%20SOS%20Racisme
+../dumps-text/fr-51.txt: 197. http://www.linkedin.com/shareArticle?mini=true&source=Boursorama&title=&url=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+../dumps-text/fr-51.txt- 198. javascript:window.print()
+../dumps-text/fr-51.txt: 199. http://www.facebook.com/sharer/sharer.php?u=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+../dumps-text/fr-51.txt: 200. http://www.twitter.com/share?url=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4&text=Location%20:%20beaucoup%20d'agences%20pratiquent%20encore%20la%20discrimination%20raciale,%20d%C3%A9nonce%20SOS%20Racisme
+../dumps-text/fr-51.txt: 201. http://www.linkedin.com/shareArticle?mini=true&source=Boursorama&title=&url=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+../dumps-text/fr-51.txt- 202. javascript:window.print()
+../dumps-text/fr-51.txt: 203. http://www.facebook.com/sharer/sharer.php?u=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+../dumps-text/fr-51.txt: 204. http://www.twitter.com/share?url=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4&text=Location%20:%20beaucoup%20d'agences%20pratiquent%20encore%20la%20discrimination%20raciale,%20d%C3%A9nonce%20SOS%20Racisme
+../dumps-text/fr-51.txt: 205. http://www.linkedin.com/shareArticle?mini=true&source=Boursorama&title=&url=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
+../dumps-text/fr-51.txt- 206. javascript:window.print()
+../dumps-text/fr-51.txt- 207. https://www.boursorama.com/bourse/actualites/l-europe-bien-orientee-apres-l-inflation-francaise-d9ada9807d8b5d225f5fe426b9369651
+../dumps-text/fr-51.txt- 208. https://www.boursorama.com/bourse/actualites/les-changements-de-recommandations-a-paris-schneider-electric-legrand-dassault-systemes-418bfa5fe0a95a26662840fabf6412fb

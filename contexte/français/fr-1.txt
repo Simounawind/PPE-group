@@ -1,0 +1,31 @@
+../dumps-text/fr-1.txt-   week-end en France comme ici à Lyon, le 6 juin 2020 ©AFP - Jeff Pachoud
+../dumps-text/fr-1.txt-   (BUTTON)
+../dumps-text/fr-1.txt-
+../dumps-text/fr-1.txt:Les "discriminations raciales systémiques" sont-elles enracinées en France ?
+../dumps-text/fr-1.txt-
+../dumps-text/fr-1.txt-   Lundi 8 juin 2020
+../dumps-text/fr-1.txt-   (BUTTON) Écouter (39 min) (BUTTON)
+--
+../dumps-text/fr-1.txt-   deux côtés de l'Atlantique. Là où on parle de racisme systémique aux
+../dumps-text/fr-1.txt-   Etats-Unis, la France tient à l'idée qu'elle se fait de son
+../dumps-text/fr-1.txt-   universalisme républicain. Un universalisme qui empêcherait qu'on
+../dumps-text/fr-1.txt:   puisse parler de racisme d'Etat ou de discriminations systémiques pour
+../dumps-text/fr-1.txt-   notre pays. C'est pourtant ainsi que le Défenseur des droits, Jacques
+../dumps-text/fr-1.txt-   Toubon, a qualifié le « harcèlement discriminatoire » de jeunes
+../dumps-text/fr-1.txt-   français issus de l'immigration.
+--
+../dumps-text/fr-1.txt-     * [52]France Culture
+../dumps-text/fr-1.txt-     * [53]Podcasts
+../dumps-text/fr-1.txt-     * [54]Le Temps du débat
+../dumps-text/fr-1.txt:     * Les "discriminations raciales systémiques" sont-elles enracinées en
+../dumps-text/fr-1.txt-       France ?
+../dumps-text/fr-1.txt-
+../dumps-text/fr-1.txt-   La radio
+--
+../dumps-text/fr-1.txt-  24. https://www.radiofrance.fr/info
+../dumps-text/fr-1.txt-  25. https://www.radiofrance.fr/societe
+../dumps-text/fr-1.txt-  26. https://www.radiofrance.fr/sujets/black-lives-matter
+../dumps-text/fr-1.txt:  27. https://www.radiofrance.fr/sujets/discriminations-racisme
+../dumps-text/fr-1.txt-  28. https://www.radiofrance.fr/personnes/adama-traore
+../dumps-text/fr-1.txt-  29. https://www.radiofrance.fr/personnes/emmanuel-laurentin
+../dumps-text/fr-1.txt-  30. https://www.radiofrance.fr/personnes/assia-khalid

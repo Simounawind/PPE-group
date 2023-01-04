@@ -1,0 +1,9 @@
+../dumps-text/fr-18.txt-   Hidden links:
+../dumps-text/fr-18.txt-  48. https://www.europe1.fr/
+../dumps-text/fr-18.txt-  49. https://www.europe1.fr/recherche
+../dumps-text/fr-18.txt:  50. https://profile.europe1.fr/connexion?redirect_url=https%3A//www.europe1.fr/societe/angers-un-enseignant-mis-en-examen-pour-incitation-a-la-discrimination-raciale-4082171
+../dumps-text/fr-18.txt-  51. https://www.europe1.fr/
+../dumps-text/fr-18.txt:  52. https://www.facebook.com/dialog/share?app_id=515722745213749&display=popup&href=https://www.europe1.fr/societe/angers-un-enseignant-mis-en-examen-pour-incitation-a-la-discrimination-raciale-4082171
+../dumps-text/fr-18.txt:  53. https://twitter.com/share?url=https://www.europe1.fr/societe/angers-un-enseignant-mis-en-examen-pour-incitation-a-la-discrimination-raciale-4082171&text=Angers%20%3A%20un%20enseignant%20mis%20en%20examen%20pour%20%22incitation%20%C3%A0%20la%20discrimination%20raciale%22&via=europe1
+../dumps-text/fr-18.txt:  54. whatsapp://send?text=https://www.europe1.fr/societe/angers-un-enseignant-mis-en-examen-pour-incitation-a-la-discrimination-raciale-4082171
+../dumps-text/fr-18.txt:  55. https://www.europe1.fr/societe/angers-un-enseignant-mis-en-examen-pour-incitation-a-la-discrimination-raciale-4082171

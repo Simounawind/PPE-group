@@ -1,0 +1,100 @@
+../dumps-text/fr-49.txt-          + [19]Maladies sexuellement transmissibles
+../dumps-text/fr-49.txt-          + [20]Sexe sans risque
+../dumps-text/fr-49.txt-     * [21]Discrimination
+../dumps-text/fr-49.txt:          + [22]Qu'est-ce que la discrimination?
+../dumps-text/fr-49.txt:          + [23]Qu'est-ce que la discrimination raciale?
+../dumps-text/fr-49.txt-          + [24]Discrimination multiple/intersectionnalité
+../dumps-text/fr-49.txt:          + [25]Protection contre la discrimination en Allemagne
+../dumps-text/fr-49.txt-          + [26]Comment me défendre en cas de discrimination ?
+../dumps-text/fr-49.txt-     * [27]Organismes de conseil
+../dumps-text/fr-49.txt-     * [28]Ressources & Publications
+--
+../dumps-text/fr-49.txt-
+../dumps-text/fr-49.txt-Fil d'Ariane
+../dumps-text/fr-49.txt-
+../dumps-text/fr-49.txt:   [36]Accueil [37]Discrimination Qu'est-ce que la discrimination raciale?
+../dumps-text/fr-49.txt-
+../dumps-text/fr-49.txt-   Share on
+../dumps-text/fr-49.txt-     [38]Facebook
+--
+../dumps-text/fr-49.txt-   links Mann schwenkt Regenbogenfahne und links zeigt eine Person ihre
+../dumps-text/fr-49.txt-   Muskeln
+../dumps-text/fr-49.txt-
+../dumps-text/fr-49.txt:Qu'est-ce que la discrimination raciale?
+../dumps-text/fr-49.txt-
+../dumps-text/fr-49.txt:   La discrimination raciale est la dévalorisation et l'exclusion de
+../dumps-text/fr-49.txt-   personnes en raison de caractéristiques arbitraires, supposées
+../dumps-text/fr-49.txt-   physiques ou culturelles, qui leur sont attribuées de l'extérieur. Ces
+../dumps-text/fr-49.txt-   caractéristiques sont façonnées par des franges privilégiées de la
+--
+../dumps-text/fr-49.txt-   comme « blanches » n'ont pas ou peu accès aux ressources et aux droits
+../dumps-text/fr-49.txt-   matériels et immatériels.
+../dumps-text/fr-49.txt-
+../dumps-text/fr-49.txt:   La discrimination raciale déshumanise les personnes : on leur attribue
+../dumps-text/fr-49.txt-   de mauvaises qualités et une infériorité par rapport au groupe
+../dumps-text/fr-49.txt-   dominant. Tout cela conduit à des désavantages individuels et
+../dumps-text/fr-49.txt-   institutionnels et à la violence.
+../dumps-text/fr-49.txt-
+../dumps-text/fr-49.txt-Sujets
+../dumps-text/fr-49.txt-
+../dumps-text/fr-49.txt:     * [40]Qu'est-ce que la discrimination?
+../dumps-text/fr-49.txt:     * [41]Qu'est-ce que la discrimination raciale?
+../dumps-text/fr-49.txt-     * [42]Discrimination multiple/intersectionnalité
+../dumps-text/fr-49.txt:     * [43]Protection contre la discrimination en Allemagne
+../dumps-text/fr-49.txt-     * [44]Comment me défendre en cas de discrimination ?
+../dumps-text/fr-49.txt-
+../dumps-text/fr-49.txt-Follow us on:
+--
+../dumps-text/fr-49.txt-References
+../dumps-text/fr-49.txt-
+../dumps-text/fr-49.txt-   Visible links:
+../dumps-text/fr-49.txt:   1. https://www.queerrefugeeswelcome.de/discrimination/what-racial-discrimination
+../dumps-text/fr-49.txt-   2. https://www.queerrefugeeswelcome.de/de/diskriminierung/was-ist-rassistische-diskriminierung
+../dumps-text/fr-49.txt-   3. https://www.queerrefugeeswelcome.de/ar/altmyyz/ma-hw-altmyyz-alnsry
+../dumps-text/fr-49.txt-   4. https://www.queerrefugeeswelcome.de/ru/chto-takoe-diskriminaciya/chto-takoe-rasovaya-diskriminaciya
+../dumps-text/fr-49.txt:   5. https://www.queerrefugeeswelcome.de/fr/discrimination/quest-ce-que-la-discrimination-raciale-0
+../dumps-text/fr-49.txt:   6. https://www.queerrefugeeswelcome.de/fr/discrimination/quest-ce-que-la-discrimination-raciale-0#main-content
+../dumps-text/fr-49.txt-   7. https://www.queerrefugeeswelcome.de/fr
+../dumps-text/fr-49.txt:   8. https://www.queerrefugeeswelcome.de/fr/discrimination/quest-ce-que-la-discrimination-raciale-0#block-queer-main-menu
+../dumps-text/fr-49.txt-   9. https://www.queerrefugeeswelcome.de/fr/lasile-et-dautres-formes-de-protection-en-allemagne
+../dumps-text/fr-49.txt-  10. https://www.queerrefugeeswelcome.de/fr/lasile-et-dautres-formes-de-protection-en-allemagne
+../dumps-text/fr-49.txt-  11. https://www.queerrefugeeswelcome.de/fr/vos-droit/deposer-une-demande-dasile
+--
+../dumps-text/fr-49.txt-  18. https://www.queerrefugeeswelcome.de/fr/votre-sante/vih-et-sida
+../dumps-text/fr-49.txt-  19. https://www.queerrefugeeswelcome.de/fr/votre-sante/maladies-sexuellement-transmissibles
+../dumps-text/fr-49.txt-  20. https://www.queerrefugeeswelcome.de/fr/votre-sante/sexe-sans-risque
+../dumps-text/fr-49.txt:  21. https://www.queerrefugeeswelcome.de/fr/quest-ce-que-la-discrimination
+../dumps-text/fr-49.txt:  22. https://www.queerrefugeeswelcome.de/fr/quest-ce-que-la-discrimination
+../dumps-text/fr-49.txt:  23. https://www.queerrefugeeswelcome.de/fr/discrimination/quest-ce-que-la-discrimination-raciale-0
+../dumps-text/fr-49.txt:  24. https://www.queerrefugeeswelcome.de/fr/discrimination/discrimination-multipleintersectionnalite
+../dumps-text/fr-49.txt:  25. https://www.queerrefugeeswelcome.de/fr/discrimination/protection-contre-la-discrimination-en-allemagne
+../dumps-text/fr-49.txt:  26. https://www.queerrefugeeswelcome.de/fr/discrimination/comment-me-defendre-en-cas-de-discrimination
+../dumps-text/fr-49.txt-  27. https://www.queerrefugeeswelcome.de/fr/locations
+../dumps-text/fr-49.txt-  28. https://www.queerrefugeeswelcome.de/fr/materials
+../dumps-text/fr-49.txt-  29. https://www.aidshilfe.de/Monkeypox
+../dumps-text/fr-49.txt-  30. https://www.aidshilfe.de/ukrayina-dopomoga-bizhencyam
+../dumps-text/fr-49.txt:  31. https://www.queerrefugeeswelcome.de/discrimination/what-racial-discrimination
+../dumps-text/fr-49.txt-  32. https://www.queerrefugeeswelcome.de/de/diskriminierung/was-ist-rassistische-diskriminierung
+../dumps-text/fr-49.txt-  33. https://www.queerrefugeeswelcome.de/ar/altmyyz/ma-hw-altmyyz-alnsry
+../dumps-text/fr-49.txt-  34. https://www.queerrefugeeswelcome.de/ru/chto-takoe-diskriminaciya/chto-takoe-rasovaya-diskriminaciya
+../dumps-text/fr-49.txt:  35. https://www.queerrefugeeswelcome.de/fr/discrimination/quest-ce-que-la-discrimination-raciale-0
+../dumps-text/fr-49.txt-  36. https://www.queerrefugeeswelcome.de/fr
+../dumps-text/fr-49.txt:  37. https://www.queerrefugeeswelcome.de/fr/quest-ce-que-la-discrimination
+../dumps-text/fr-49.txt-  38. https://www.facebook.com/sharer/sharer.php?u=https%3A//www.queerrefugeeswelcome.de/fr/votre-sante/traitement-et-conseil-medical/conseils-sur-la-sante-sexuelle
+../dumps-text/fr-49.txt-  39. https://twitter.com/intent/tweet?text=Conseils%20sur%20la%20sant%C3%A9%20sexuelle&url=https%3A//www.queerrefugeeswelcome.de/fr/votre-sante/traitement-et-conseil-medical/conseils-sur-la-sante-sexuelle
+../dumps-text/fr-49.txt:  40. https://www.queerrefugeeswelcome.de/fr/quest-ce-que-la-discrimination
+../dumps-text/fr-49.txt:  41. https://www.queerrefugeeswelcome.de/fr/discrimination/quest-ce-que-la-discrimination-raciale-0
+../dumps-text/fr-49.txt:  42. https://www.queerrefugeeswelcome.de/fr/discrimination/discrimination-multipleintersectionnalite
+../dumps-text/fr-49.txt:  43. https://www.queerrefugeeswelcome.de/fr/discrimination/protection-contre-la-discrimination-en-allemagne
+../dumps-text/fr-49.txt:  44. https://www.queerrefugeeswelcome.de/fr/discrimination/comment-me-defendre-en-cas-de-discrimination
+../dumps-text/fr-49.txt-  45. https://aidshilfe.de/
+../dumps-text/fr-49.txt-  46. https://magazin.hiv/
+../dumps-text/fr-49.txt-  47. https://facebook.com/deutscheaidshilfe
+--
+../dumps-text/fr-49.txt-  50. https://www.queerrefugeeswelcome.de/fr/directive-relative-aux-cookies
+../dumps-text/fr-49.txt-  51. https://www.queerrefugeeswelcome.de/fr/contact-mentions-legales
+../dumps-text/fr-49.txt-  52. http://aidshilfe.de/
+../dumps-text/fr-49.txt:  53. https://www.queerrefugeeswelcome.de/fr/discrimination/quest-ce-que-la-discrimination-raciale-0
+../dumps-text/fr-49.txt-
+../dumps-text/fr-49.txt-   Hidden links:
+../dumps-text/fr-49.txt:  55. https://www.queerrefugeeswelcome.de/fr/discrimination/quest-ce-que-la-discrimination-raciale-0#nav

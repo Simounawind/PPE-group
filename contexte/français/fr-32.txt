@@ -1,0 +1,59 @@
+../dumps-text/fr-32.txt-
+../dumps-text/fr-32.txt-   actu people
+../dumps-text/fr-32.txt-
+../dumps-text/fr-32.txt:Naomi Campbell : victime de discrimination raciale en France, elle dénonce
+../dumps-text/fr-32.txt-
+../dumps-text/fr-32.txt-   Le 01/08/2019 à 18h35
+../dumps-text/fr-32.txt-
+--
+../dumps-text/fr-32.txt-   regretté qu'il n'y ait [36]pas plus de diversité dans la mode : « Quand
+../dumps-text/fr-32.txt-   j'ai commencé ma carrière, avait-elle expliqué à l'AFP, il y avait
+../dumps-text/fr-32.txt-   davantage de mannequins de couleur sur les podiums qu'aujourd'hui. » Et
+../dumps-text/fr-32.txt:   malheureusement, cette discrimination n'existe pas que sur les podiums.
+../dumps-text/fr-32.txt-   « J'ai toujours voulu que les gens soient traités équitablement. Ne
+../dumps-text/fr-32.txt-   croyez pas que cela va se soi. Le défi est permanent », a-t-elle assuré
+../dumps-text/fr-32.txt-   en juillet dernier à Paris Match. Elle l'a amèrement constaté tout
+--
+../dumps-text/fr-32.txt-
+../dumps-text/fr-32.txt-     * [39]Mannequin
+../dumps-text/fr-32.txt-     * [40]racisme
+../dumps-text/fr-32.txt:     * [41]discrimination
+../dumps-text/fr-32.txt-     * [42]Top Model
+../dumps-text/fr-32.txt-     * [43]France
+../dumps-text/fr-32.txt-
+--
+../dumps-text/fr-32.txt-  12. https://www.voici.fr/astrologie
+../dumps-text/fr-32.txt-  13. https://www.voici.fr/bios-people
+../dumps-text/fr-32.txt-  14. https://boutique.voici.fr/
+../dumps-text/fr-32.txt:  15. https://www.voici.fr/news-people/actu-people/naomi-campbell-victime-de-discrimination-raciale-en-france-elle-denonce-663398
+../dumps-text/fr-32.txt-  16. https://connect.voici.fr/subscriptions
+../dumps-text/fr-32.txt-  17. https://www.voici.fr/notifications
+../dumps-text/fr-32.txt-  18. https://www.voici.fr/espace-debat/debats
+../dumps-text/fr-32.txt:  19. https://www.voici.fr/news-people/actu-people/naomi-campbell-victime-de-discrimination-raciale-en-france-elle-denonce-663398
+../dumps-text/fr-32.txt-  20. https://www.voici.fr/news-people
+../dumps-text/fr-32.txt-  21. https://www.voici.fr/beaute
+../dumps-text/fr-32.txt-  22. https://www.voici.fr/mode
+--
+../dumps-text/fr-32.txt-  38. https://www.voici.fr/bios-people/naomi-campbell
+../dumps-text/fr-32.txt-  39. https://www.voici.fr/page/tag/mannequin
+../dumps-text/fr-32.txt-  40. https://www.voici.fr/page/tag/racisme
+../dumps-text/fr-32.txt:  41. https://www.voici.fr/page/tag/discrimination
+../dumps-text/fr-32.txt-  42. https://www.voici.fr/page/tag/top-model
+../dumps-text/fr-32.txt-  43. https://www.voici.fr/page/tag/france
+../dumps-text/fr-32.txt-  44. https://www.voici.fr/news-people/actu-people/retro-2018-naomi-campbell-jennifer-lawrence-nicki-minaj-les-plus-gros-accidents-de-robes-654358
+--
+../dumps-text/fr-32.txt-  49. https://www.voici.fr/news-people/actu-people/obseques-dazzedine-alaia-naomi-campbell-en-larmes-son-temoignage-bouleversant-641424
+../dumps-text/fr-32.txt-  50. https://www.voici.fr/news-people/actu-people/naomi-campbell-sattaque-a-lunivers-de-la-mode-et-denonce-avoir-ete-la-caution-noire-667880
+../dumps-text/fr-32.txt-  51. https://www.voici.fr/news-people/actu-people/victoria-beckham-dans-le-collimateur-de-naomi-campbell-a-cause-de-ses-choix-de-mannequins-509700
+../dumps-text/fr-32.txt:  52. https://www.voici.fr/news-people/actu-people/eric-zemmour-juge-demain-pour-discrimination-raciale-389568
+../dumps-text/fr-32.txt-  53. https://www.voici.fr/news-people/actu-people/naomi-campbell-ivresse-publique-223198
+../dumps-text/fr-32.txt-  54. https://www.voici.fr/news-people/actu-people/naomi-campbell-ses-bouleversantes-confidences-sur-la-mort-dazzedine-alaia-663146
+../dumps-text/fr-32.txt-  55. https://www.voici.fr/news-people/actu-people/cara-delevingne-et-naomi-campbell-se-sont-bagarrees-dans-un-club-parisien-555289
+--
+../dumps-text/fr-32.txt-  72. https://www.voici.fr/bios-people/christy-turlington
+../dumps-text/fr-32.txt-  73. https://www.voici.fr/bios-people/karolina-kurkova
+../dumps-text/fr-32.txt-  74. https://www.voici.fr/bios-people/cara-delevingne
+../dumps-text/fr-32.txt:  75. https://connect.voici.fr/?inc-nl=voici_quotidienne_nl,voici_quotidienne_soir_nl&signupservice=VOI_NEWSLETTERS_POPIN-NL_SITE-VOICI_NL-VOI-QUOTIDIENNE-NL_VOI-QUOTIDIENNE-SOIR-NL&redirectTo=https%3A%2F%2Fwww.voici.fr%2Fnews-people%2Factu-people%2Fnaomi-campbell-victime-de-discrimination-raciale-en-france-elle-denonce-663398
+../dumps-text/fr-32.txt-  76. https://boutique.voici.fr/
+../dumps-text/fr-32.txt-  77. https://www.prismamedia.com/cgu-groupe-prisma/
+../dumps-text/fr-32.txt-  78. https://www.prismamedia.com/mentions-legales-voici/
