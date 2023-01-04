@@ -129,20 +129,21 @@ A propos de l'auteur :
 
 Articles similaires
 
-   [26]Cambriolage : Que faire ? Comment se faire indemniser ?
+   [26]La garde à vue des mineurs
    [27]
 
-Cambriolage : Que faire ? Comment se faire indemniser ?
+La garde à vue des mineurs
 
-   [28]Pré-plainte en ligne : 6 conseils pratiques et sans effort
+   [28]Quand faut-il avoir recours à un avocat en cas d'infraction
+   routière ?
    [29]
 
-Pré-plainte en ligne : 6 conseils pratiques et sans effort
+Quand faut-il avoir recours à un avocat en cas d'infraction routière ?
 
-   [30][SÉRIE] Les grands procès marquants des 50 dernières années
+   [30]Affaires pénales : quelle indemnisation pour quel préjudice ?
    [31]
 
-[SÉRIE] Les grands procès marquants des 50 dernières années
+Affaires pénales : quelle indemnisation pour quel préjudice ?
 
 Navigation de l'article
 
@@ -157,46 +158,46 @@ Besoin d'un avocat ?
 
 Articles similaires
 
-   [35]Comment porter plainte en cas d'abus de confiance?
+   [35]Procédure pénale en France : les différentes étapes de la plainte
+   au procès
    [36]
+
+Procédure pénale en France : les différentes étapes de la plainte au procès
+
+   [37]Le harcèlement sexuel: à la maison comme au travail
+   [38]
+
+Le harcèlement sexuel: à la maison comme au travail
+
+   [39]Convocation au tribunal pour détention de stupéfiant
+   [40]
+
+Convocation au tribunal pour détention de stupéfiant
+
+   [41]Le racisme : circonstance aggravante des crimes et délits
+   [42]
+
+Le racisme : circonstance aggravante des crimes et délits
+
+   [43]Quelles sont les 5 classes de contraventions et leurs tarifs ?
+   [44]
+
+Quelles sont les 5 classes de contraventions et leurs tarifs ?
+
+   [45]Porter plainte pour harcèlement moral fonction publique
+   [46]
+
+Porter plainte pour harcèlement moral fonction publique
+
+   [47]Comment porter plainte en cas d'abus de confiance?
+   [48]
 
 Comment porter plainte en cas d'abus de confiance?
 
-   [37]Violences conjugales sur les hommes - Comment réagir ?
-   [38]
-
-Violences conjugales sur les hommes - Comment réagir ?
-
-   [39]Dénonciation calomnieuse abusive
-   [40]
-
-Dénonciation calomnieuse abusive
-
-   [41]La mise en examen : son rôle dans le cadre de l'instruction pénale
-   [42]
-
-La mise en examen : son rôle dans le cadre de l'instruction pénale
-
-   [43]Les points essentiels sur le détournement de mineur
-   [44]
-
-Les points essentiels sur le détournement de mineur
-
-   [45]Qui paie lors d'une collision entre une voiture et une moto ?
-   [46]
-
-Qui paie lors d'une collision entre une voiture et une moto ?
-
-   [47]Compte rendu de jugement du tribunal correctionnel
-   [48]
-
-Compte rendu de jugement du tribunal correctionnel
-
-   [49]Exhibition sexuelle, définition juridique : ce que dit le Code
-   pénal
+   [49]Litige avec un garagiste : comment réagir ?
    [50]
 
-Exhibition sexuelle, définition juridique : ce que dit le Code pénal
+Litige avec un garagiste : comment réagir ?
 
    Partager :
      *
@@ -218,17 +219,16 @@ Qui sommes nous ?
 
 Articles récents
 
-     * [51]La médiation en droit public, une alternative au procès :
+     * [51]Sinistre : les étapes clés à respecter pour régler l'incident
+     * [52]La médiation en droit public, une alternative au procès :
        opportunités et risques
-     * [52]RGPD et commande publique
-     * [53]Aménagements de peine : les modalités et le rôle de l'avocat
+     * [53]RGPD et commande publique
+     * [54]Aménagements de peine : les modalités et le rôle de l'avocat
        pénaliste
-     * [54]Les vacances judiciaires en 2023 !
-     * [55]Régularisation par le travail : fiche pratique
-     * [56]Tutelle ou curatelle : procédure
-     * [57]Responsabilité des déménageurs
-     * [58]Association sportive, comment organiser ma collecte de données
-       personnelles et dans quelle mesure puis-je les exploiter ?
+     * [55]Les vacances judiciaires en 2023 !
+     * [56]Régularisation par le travail : fiche pratique
+     * [57]Tutelle ou curatelle : procédure
+     * [58]Responsabilité des déménageurs
 
 À propos
 
@@ -286,39 +286,39 @@ References
   23. https://www.justifit.fr/b/guides/droit-penal/tout-comprendre-discrimination-positive/
   24. https://www.justifit.fr/b/guides/droit-penal/diffamation/
   25. https://www.justifit.fr/b/guides/droit-penal/injure-victime/
-  26. https://www.justifit.fr/b/guides/droit-penal/cambriolage-se-faire-indemniser/
-  27. https://www.justifit.fr/b/guides/droit-penal/cambriolage-se-faire-indemniser/
-  28. https://www.justifit.fr/b/guides/droit-penal/porter-plainte-en-ligne/
-  29. https://www.justifit.fr/b/guides/droit-penal/porter-plainte-en-ligne/
-  30. https://www.justifit.fr/b/guides/droit-penal/les-proces-marquants-des-50-dernieres-annees-affaire-kerviel/
-  31. https://www.justifit.fr/b/guides/droit-penal/les-proces-marquants-des-50-dernieres-annees-affaire-kerviel/
+  26. https://www.justifit.fr/b/guides/la-garde-a-vue-des-mineurs/
+  27. https://www.justifit.fr/b/guides/la-garde-a-vue-des-mineurs/
+  28. https://www.justifit.fr/b/guides/droit-penal/droit-routier/avocat-infraction-routiere/
+  29. https://www.justifit.fr/b/guides/droit-penal/droit-routier/avocat-infraction-routiere/
+  30. https://www.justifit.fr/b/guides/droit-penal/affaires-penales-indemnisation-prejudice/
+  31. https://www.justifit.fr/b/guides/droit-penal/affaires-penales-indemnisation-prejudice/
   32. https://www.justifit.fr/b/guides/droit-routier/aide-au-permis-de-conduire/
   33. https://www.justifit.fr/b/guides/droit-etrangers/expulsion/
   34. https://www.justifit.fr/votredossier/
-  35. https://www.justifit.fr/b/guides/droit-penal/abus-confiance-comment-porter-plainte/
-  36. https://www.justifit.fr/b/guides/droit-penal/abus-confiance-comment-porter-plainte/
-  37. https://www.justifit.fr/b/guides/droit-penal/violences-conjugales-sur-les-hommes/
-  38. https://www.justifit.fr/b/guides/droit-penal/violences-conjugales-sur-les-hommes/
-  39. https://www.justifit.fr/b/guides/droit-penal/denonciation-calomnieuse-abusive-2/
-  40. https://www.justifit.fr/b/guides/droit-penal/denonciation-calomnieuse-abusive-2/
-  41. https://www.justifit.fr/b/guides/droit-penal/mise-en-examen/
-  42. https://www.justifit.fr/b/guides/droit-penal/mise-en-examen/
-  43. https://www.justifit.fr/b/guides/droit-penal/detournement-de-mineur/
-  44. https://www.justifit.fr/b/guides/droit-penal/detournement-de-mineur/
-  45. https://www.justifit.fr/b/guides/droit-penal/droit-routier/responsabilite-collision-voiture-moto/
-  46. https://www.justifit.fr/b/guides/droit-penal/droit-routier/responsabilite-collision-voiture-moto/
-  47. https://www.justifit.fr/b/guides/droit-penal/compte-rendu-de-jugement-du-tribunal-correctionnel/
-  48. https://www.justifit.fr/b/guides/droit-penal/compte-rendu-de-jugement-du-tribunal-correctionnel/
-  49. https://www.justifit.fr/b/guides/droit-penal/exhibition-sexuelle/
-  50. https://www.justifit.fr/b/guides/droit-penal/exhibition-sexuelle/
-  51. https://www.justifit.fr/b/guides/mediation-en-droit-public-opportunites-et-risques/
-  52. https://www.justifit.fr/b/guides/rgpd-commande-publique/
-  53. https://www.justifit.fr/b/guides/droit-penal/amenagements-de-peine-modalites-et-role-avocat-penaliste/
-  54. https://www.justifit.fr/guides/vacances-judiciaires-2023/
-  55. https://www.justifit.fr/b/guides/droit-etrangers/regularisation-par-le-travail-fiche-pratique/
-  56. https://www.justifit.fr/b/guides/droit-famille/tutelle-ou-curatelle-procedure/
-  57. https://www.justifit.fr/b/guides/droit-consommation/responsabilite-demenageurs/
-  58. https://www.justifit.fr/b/guides/droit-informatique/association-sportive-collecte-de-donnees-personnelles-et-exploitation/
+  35. https://www.justifit.fr/b/guides/droit-penal/procedure-penale/
+  36. https://www.justifit.fr/b/guides/droit-penal/procedure-penale/
+  37. https://www.justifit.fr/b/guides/droit-penal/harcelement-sexuel/
+  38. https://www.justifit.fr/b/guides/droit-penal/harcelement-sexuel/
+  39. https://www.justifit.fr/b/guides/droit-penal/convocation-tribunal-detention-stupefiant/
+  40. https://www.justifit.fr/b/guides/droit-penal/convocation-tribunal-detention-stupefiant/
+  41. https://www.justifit.fr/b/guides/droit-penal/racisme/
+  42. https://www.justifit.fr/b/guides/droit-penal/racisme/
+  43. https://www.justifit.fr/b/guides/droit-penal/cinq-classes-contraventions-et-tarifs/
+  44. https://www.justifit.fr/b/guides/droit-penal/cinq-classes-contraventions-et-tarifs/
+  45. https://www.justifit.fr/b/guides/porter-plainte-pour-harcelement-moral-fonction-publique/
+  46. https://www.justifit.fr/b/guides/porter-plainte-pour-harcelement-moral-fonction-publique/
+  47. https://www.justifit.fr/b/guides/droit-penal/abus-confiance-comment-porter-plainte/
+  48. https://www.justifit.fr/b/guides/droit-penal/abus-confiance-comment-porter-plainte/
+  49. https://www.justifit.fr/b/guides/droit-penal/litige-garagiste/
+  50. https://www.justifit.fr/b/guides/droit-penal/litige-garagiste/
+  51. https://www.justifit.fr/b/guides/sinistre-etapes-cles-pour-regler-lincident/
+  52. https://www.justifit.fr/b/guides/mediation-en-droit-public-opportunites-et-risques/
+  53. https://www.justifit.fr/b/guides/rgpd-commande-publique/
+  54. https://www.justifit.fr/b/guides/droit-penal/amenagements-de-peine-modalites-et-role-avocat-penaliste/
+  55. https://www.justifit.fr/guides/vacances-judiciaires-2023/
+  56. https://www.justifit.fr/b/guides/droit-etrangers/regularisation-par-le-travail-fiche-pratique/
+  57. https://www.justifit.fr/b/guides/droit-famille/tutelle-ou-curatelle-procedure/
+  58. https://www.justifit.fr/b/guides/droit-consommation/responsabilite-demenageurs/
   59. https://www.justifit.fr/contact-presse/
   60. https://about.justifit.fr/qui-sommes-nous/
   61. https://moncompte.justifit.fr/connexion-avocat

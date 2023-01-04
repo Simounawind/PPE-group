@@ -63,9 +63,9 @@
    [33]Dans l'actu
      * [34]Guerre en Ukraine
      * [35]Covid-19
-     * [36]Mort de Pelé
-     * [37]Réforme des retraites
-     * [38]Grève des médecins libéraux
+     * [36]Crise énergétique
+     * [37]Grève des médecins libéraux
+     * [38]Réforme des retraites
 
    (BUTTON) Voir les tags précedents (BUTTON) Voir les tags suivants
 
@@ -323,9 +323,9 @@ References
   33. https://www.20minutes.fr/actualites-a-la-une
   34. https://www.20minutes.fr/monde/ukraine/
   35. https://www.20minutes.fr/societe/covid-19/
-  36. https://www.20minutes.fr/dossier/pele
-  37. https://www.20minutes.fr/dossier/reforme_des_retraites
-  38. https://www.20minutes.fr/dossier/greve_des_medecins
+  36. https://www.20minutes.fr/economie/crise-energetique/
+  37. https://www.20minutes.fr/dossier/greve_des_medecins
+  38. https://www.20minutes.fr/dossier/reforme_des_retraites
   39. https://www.20minutes.fr/
   40. https://www.20minutes.fr/societe/
   41. javascript:window.print()

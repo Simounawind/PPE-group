@@ -356,42 +356,44 @@ Signaler le commentaire
    [142]Appartement 2 pièces 41 m²
    75007 Paris 7e
    840 000 EUR
-   [143]Appartement 2 pièces 47 m² Paris 17e Appartement 2 pièces 47 m²
+   [143]Appartement 4 pièces 91 m² Paris 14e Appartement 4 pièces 91 m²
+   Paris 14e
+   [144]Appartement 4 pièces 91 m²
+   75014 Paris 14e
+   799 000 EUR
+   [145]Appartement 2 pièces 47 m² Paris 17e Appartement 2 pièces 47 m²
    Paris 17e
-   [144]Appartement 2 pièces 47 m²
+   [146]Appartement 2 pièces 47 m²
    75017 Paris 17e
    549 000 EUR
-   [145]Appartement 1 pièce 35 m² Paris 10e Appartement 1 pièce 35 m²
+   [147]Appartement 1 pièce 35 m² Paris 10e Appartement 1 pièce 35 m²
    Paris 10e
-   [146]Appartement 1 pièce 35 m²
+   [148]Appartement 1 pièce 35 m²
    75010 Paris 10e
    365 000 EUR
-   [147]Appartement 3 pièces 80 m² Paris 10e Appartement 3 pièces 80 m²
-   Paris 10e
-   [148]Appartement 3 pièces 80 m²
-   75010 Paris 10e
-   825 000 EUR
 
    Actualité bourse
-     * 04.01.2023 o 09:51
-       o 1
-       L'Europe bien orientée après l'inflation française
-     * 04.01.2023 o 09:25
-       Les changements de recommandations à Paris : Schneider Electric,
-       Legrand, Dassault Systèmes
-     * 04.01.2023 o 08:52
-       Bourse : les valeurs à suivre à Paris et en Europe
+     * 04.01.2023 o 22:41
+       Wall Street finit en hausse après les "minutes" de la Fed
+     * 04.01.2023 o 22:41
+       Wall Street termine en légère hausse après une séance agitée
+     * 04.01.2023 o 19:26
+       o 3
+       France: La Cnil inflige une amende de EUR8 millions à Apple
 
    Actualité patrimoine
-     * 04.01.2023 o 10:09
-       Immobilier locatif : le classement des villes qui ont offert le
-       meilleur rendement en 2022
-     * 04.01.2023 o 09:45
-       L'étonnante raison de la mairie de Lyon pour augmenter la taxe
-       foncière
-     * 04.01.2023 o 07:30
+     * 04.01.2023 o 16:54
+       o 6
+       Nord : les logements d'une résidence HLM envahis par les
+       moisissures depuis des mois
+     * 04.01.2023 o 16:44
        o 2
-       Faut-il payer les salaires en cours de mois ?
+       Inflation : vers une hausse du prix de l'eau un peu partout en
+       France
+     * 04.01.2023 o 15:54
+       o 9
+       Amiens : en fauteuil roulant, il est verbalisé pour s'être garé sur
+       une place handicapée
 
    Pages les plus populaires
      * [149]Convertisseur de devises
@@ -441,11 +443,9 @@ Signaler le commentaire
      * [180]Avertissement Légal
      * [181]Gérer mes cookies
      * [182]Politique de cookies
-     * [183]Politique de protection des données membres
-     * [184]Politique de protection des données prospects
-
-   Guides et brochures
-     * [185]Les risques en Bourse
+     * [183]Politique de protection des données clients
+     * [184]Politique de protection des données membres et visiteurs
+     * [185]Politique de protection des données prospects
 
    Nos sites
      * [186]Affiliation
@@ -609,12 +609,12 @@ References
  140. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/iad-france-1254998
  141. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/apimo-7625832
  142. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/apimo-7625832
- 143. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/apimo-7792547
- 144. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/apimo-7792547
- 145. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/orpi-1-006064E2GXWA
- 146. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/orpi-1-006064E2GXWA
- 147. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/immo-facile-51114966
- 148. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/immo-facile-51114966
+ 143. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/orpi-1-002925E2GMN5
+ 144. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/orpi-1-002925E2GMN5
+ 145. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/apimo-7792547
+ 146. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/apimo-7792547
+ 147. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/orpi-1-006064E2GXWA
+ 148. https://www.boursorama.com/patrimoine/immobilier/petites-annonces-bien-ici?target=https://www.bienici.com/annonce/orpi-1-006064E2GXWA
  149. https://www.boursorama.com/bourse/devises/convertisseur-devises/
  150. https://www.boursorama.com/bourse/devises/convertisseur-devises/dollar-euro
  151. https://www.boursorama.com/bourse/devises/convertisseur-devises/euro-dollar
@@ -649,9 +649,9 @@ References
  180. https://www.boursorama.com/aide/avertissement-legal
  181. javascript:///
  182. https://www.boursorama.com/aide/politique-cookies
- 183. https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees-membres.pdf
- 184. https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees-prospects.pdf
- 185. https://clients.boursorama.com/aide/liens-utiles/risques-en-bourse
+ 183. https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees.pdf
+ 184. https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees-membres.pdf
+ 185. https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees-prospects.pdf
  186. https://www.boursorama.com/aide/affiliation
  187. https://www.boursorama-banque.com/
  188. https://s.brsimg.com/content/regie/spetech/gallery/index.html
@@ -674,12 +674,12 @@ References
  204. http://www.twitter.com/share?url=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4&text=Location%20:%20beaucoup%20d'agences%20pratiquent%20encore%20la%20discrimination%20raciale,%20d%C3%A9nonce%20SOS%20Racisme
  205. http://www.linkedin.com/shareArticle?mini=true&source=Boursorama&title=&url=https://www.boursorama.com/patrimoine/actualites/location-beaucoup-d-agences-pratiquent-encore-la-discrimination-raciale-denonce-sos-racisme-7f1772d7f6b6fefd6b11a117c0eab7c4
  206. javascript:window.print()
- 207. https://www.boursorama.com/bourse/actualites/l-europe-bien-orientee-apres-l-inflation-francaise-d9ada9807d8b5d225f5fe426b9369651
- 208. https://www.boursorama.com/bourse/actualites/les-changements-de-recommandations-a-paris-schneider-electric-legrand-dassault-systemes-418bfa5fe0a95a26662840fabf6412fb
- 209. https://www.boursorama.com/bourse/actualites/bourse-les-valeurs-a-suivre-a-paris-et-en-europe-337e30660a1fc64b2e2fe6908b582cf1
- 210. https://www.boursorama.com/patrimoine/actualites/immobilier-locatif-le-classement-des-villes-qui-ont-offert-le-meilleur-rendement-en-2022-29b3ec4f0d8647f32cf88b6b6ac34d3b
- 211. https://www.boursorama.com/patrimoine/actualites/l-etonnante-raison-de-la-mairie-de-lyon-pour-augmenter-la-taxe-fonciere-32eecf1e44bf0b0ad959154621a96146
- 212. https://www.boursorama.com/patrimoine/actualites/faut-il-payer-les-salaires-en-cours-de-mois-e2eaf3c22786721c094e0afc254c9b54
+ 207. https://www.boursorama.com/bourse/actualites/wall-street-finit-en-hausse-apres-les-minutes-de-la-fed-5cefa21031d8e6e61e5fd6a190641320
+ 208. https://www.boursorama.com/bourse/actualites/wall-street-termine-en-legere-hausse-apres-une-seance-agitee-c95deb79c7a59c9ffe5e44d7663e256d
+ 209. https://www.boursorama.com/bourse/actualites/france-la-cnil-inflige-une-amende-de-8-millions-a-apple-acd8db478fedbaead8b5b9044757aae2
+ 210. https://www.boursorama.com/patrimoine/actualites/nord-les-logements-d-une-residence-hlm-envahis-par-les-moisissures-depuis-des-mois-25e801976543d5150f9e35f4fc2cbc90
+ 211. https://www.boursorama.com/patrimoine/actualites/inflation-vers-une-hausse-du-prix-de-l-eau-un-peu-partout-en-france-f7a251cd50410e646b215e8849ef402b
+ 212. https://www.boursorama.com/patrimoine/actualites/amiens-en-fauteuil-roulant-il-est-verbalise-pour-s-etre-gare-sur-une-place-handicapee-93a9a608f1f3ec357fe25e4ab49a59bc
  213. https://www.facebook.com/Boursorama-132746953466063/
  214. https://twitter.com/boursorama
  215. https://www.youtube.com/channel/UCnJ8fyizHQi6A_5_5Im7cVA

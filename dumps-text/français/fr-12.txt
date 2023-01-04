@@ -178,19 +178,20 @@ Le Sommet de l'inclusion économique revient le 29 novembre prochain
      *
 
    Les plus lus
-     * [40]La digitalisation de la lutte anti-contrefaçon La
-       digitalisation de la lutte anti-contrefaçon
-     * [41]Les gagnants du concours de la meilleure galette aux amandes du
+     * [40]Les gagnants du concours de la meilleure galette aux amandes du
        Grand Paris 2023 Les gagnants du concours de la meilleure galette
        aux amandes du Grand Paris 2023
-     * [42]L'ACE Paris, attachée à l'ADN de l'avocat, moderne et
+     * [41]L'ACE Paris, attachée à l'ADN de l'avocat, moderne et
        progressiste L'ACE Paris, attachée à l'ADN de l'avocat, moderne et
        progressiste
-     * [43]Loi immigration: une nouvelle carte de séjour pour les
-       professionnels de santé Loi immigration: une nouvelle carte de
-       séjour pour les professionnels de santé
-     * [44]Baromètre des Franciliens : les grandes tendances de 2022
-       Baromètre des Franciliens : les grandes tendances de 2022
+     * [42]Le réseau de transport idéal serait trop « coûteux et
+       improbable » Le réseau de transport idéal serait trop « coûteux et
+       improbable »
+     * [43]La généralisation des cours criminelles fait débat La
+       généralisation des cours criminelles fait débat
+     * [44]L'aide au paiement des factures énergie des entreprises
+       prolongée en 2023 L'aide au paiement des factures énergie des
+       entreprises prolongée en 2023
 
    Abonnez-vous
      * Abonnement intégral papier + numérique
@@ -349,11 +350,11 @@ References
   37. https://www.affiches-parisiennes.com/palmares-du-chiffre-affiches-parisiennes-une-nouvelle-fois-prime-12627.html
   38. https://www.affiches-parisiennes.com/mercato-avocats/
   39. https://www.affiches-parisiennes.com/mercato-affaires/
-  40. https://www.affiches-parisiennes.com/la-digitalisation-de-la-lutte-anti-contrefacon-118356.html
-  41. https://www.affiches-parisiennes.com/les-gagnants-du-concours-de-la-meilleure-galette-aux-amandes-du-grand-paris-2023-118406.html
-  42. https://www.affiches-parisiennes.com/l-ace-paris-attachee-a-l-adn-de-l-avocat-moderne-et-progressiste-118443.html
-  43. https://www.affiches-parisiennes.com/loi-immigration-une-nouvelle-carte-de-sejour-pour-les-professionnels-de-sante-118324.html
-  44. https://www.affiches-parisiennes.com/barometre-des-franciliens-les-grandes-tendances-de-2022-118322.html
+  40. https://www.affiches-parisiennes.com/les-gagnants-du-concours-de-la-meilleure-galette-aux-amandes-du-grand-paris-2023-118406.html
+  41. https://www.affiches-parisiennes.com/l-ace-paris-attachee-a-l-adn-de-l-avocat-moderne-et-progressiste-118443.html
+  42. https://www.affiches-parisiennes.com/le-reseau-de-transport-ideal-serait-trop-couteux-et-improbable-118398.html
+  43. https://www.affiches-parisiennes.com/la-generalisation-des-cours-criminelles-fait-debat-118332.html
+  44. https://www.affiches-parisiennes.com/l-aide-au-paiement-des-factures-energie-des-entreprises-prolonges-en-2023-118325.html
   45. https://www.affiches-parisiennes.com//page/qui-sommes-nous.html
   46. https://www.affiches-parisiennes.com//page/organigramme.html
   47. https://www.affiches-parisiennes.com//page/partenaires.html

@@ -1,123 +1,122 @@
    [1]Aller au contenu principal
 
      * [2]53e congrès
-     * Plus
+     * Nos sites
           + [3]Analyses et Propositions
           + [4]Vie syndicale
-          + [5]International
-          + [6]UCR
+          + [5]53e congrès
 
-   [7]Accueil
-   [8]Espace militant [9]Se Syndiquer
-   [10]Accueil
+   [6]Accueil
+   [7]Espace militant [8]Se Syndiquer
+   [9]Accueil
      *
      *
      *
 
-     * [11]La CGT
-          + [12]Qui sommes nous ?
-          + [13]La CGT près de chez vous
-          + [14]Carte des mobilisations
-          + [15]Contactez la CGT
-     * [16]Actualités
-     * [17]Dossiers
-     * [18]Press room
-     * [19]WebTV
-     * [20]Publications
-     * [21]Agenda
-     * [22]Thématiques
+     * [10]La CGT
+          + [11]Qui sommes nous ?
+          + [12]La CGT près de chez vous
+          + [13]Carte des mobilisations
+          + [14]Contactez la CGT
+     * [15]Actualités
+     * [16]Dossiers
+     * [17]Press room
+     * [18]WebTV
+     * [19]Publications
+     * [20]Agenda
+     * [21]Thématiques
 
-     * [23]52e Congrès CGT
-     * [24]53e Congrès CGT
-     * [25]Conditions de travail
-     * [26]Culture
-     * [27]Dialogue social
-     * [28]Discriminations
-     * [29]Dossier de presse
-     * [30]Droit
-     * [31]Droits des femmes
-     * [32]Écologie
-     * [33]Égalité Femme/Homme
-     * [34]Élections
-     * [35]Environnement
-     * [36]Extrême droite
-     * [37]Fiscalité
-     * [38]Histoire
-     * [39]Institutions
-     * [40]International
-     * [41]Justice
-     * [42]Législation
-     * [43]Logement
-     * [44]Mobilisation
-     * [45]Numérique
-     * [46]Pouvoir d'achat
-     * [47]Protection sociale
-     * [48]Salaires
-     * [49]Situation d'emploi précarisée
-     * [50]Solidarité
-     * [51]Temps de travail
-     * [52]Temps libre
-     * [53]Violences et harcèlement au travail
-     * [54]Violences faites aux femmes
+     * [22]52e Congrès CGT
+     * [23]53e Congrès CGT
+     * [24]Conditions de travail
+     * [25]Culture
+     * [26]Dialogue social
+     * [27]Discriminations
+     * [28]Dossier de presse
+     * [29]Droit
+     * [30]Droits des femmes
+     * [31]Écologie
+     * [32]Égalité Femme/Homme
+     * [33]Élections
+     * [34]Environnement
+     * [35]Extrême droite
+     * [36]Fiscalité
+     * [37]Histoire
+     * [38]Institutions
+     * [39]International
+     * [40]Justice
+     * [41]Législation
+     * [42]Logement
+     * [43]Mobilisation
+     * [44]Numérique
+     * [45]Pouvoir d'achat
+     * [46]Protection sociale
+     * [47]Salaires
+     * [48]Situation d'emploi précarisée
+     * [49]Solidarité
+     * [50]Temps de travail
+     * [51]Temps libre
+     * [52]Violences et harcèlement au travail
+     * [53]Violences faites aux femmes
 
    (BUTTON)
    ______________________________
    î¤U97
-     * [55]La CGT
-          + [56]Qui sommes nous ?
-          + [57]La CGT près de chez vous
-          + [58]Carte des mobilisations
-          + [59]Contactez la CGT
-     * [60]Actualités
-     * [61]Dossiers
-     * [62]Press room
-     * [63]WebTV
-     * [64]Publications
-     * [65]Agenda
-     * [66]Thématiques
+     * [54]La CGT
+          + [55]Qui sommes nous ?
+          + [56]La CGT près de chez vous
+          + [57]Carte des mobilisations
+          + [58]Contactez la CGT
+     * [59]Actualités
+     * [60]Dossiers
+     * [61]Press room
+     * [62]WebTV
+     * [63]Publications
+     * [64]Agenda
+     * [65]Thématiques
 
-     * [67]52e Congrès CGT
-     * [68]53e Congrès CGT
-     * [69]Conditions de travail
-     * [70]Culture
-     * [71]Dialogue social
-     * [72]Discriminations
-     * [73]Dossier de presse
-     * [74]Droit
-     * [75]Droits des femmes
-     * [76]Écologie
-     * [77]Égalité Femme/Homme
-     * [78]Élections
-     * [79]Environnement
-     * [80]Extrême droite
-     * [81]Fiscalité
-     * [82]Histoire
-     * [83]Institutions
-     * [84]International
-     * [85]Justice
-     * [86]Législation
-     * [87]Logement
-     * [88]Mobilisation
-     * [89]Numérique
-     * [90]Pouvoir d'achat
-     * [91]Protection sociale
-     * [92]Salaires
-     * [93]Situation d'emploi précarisée
-     * [94]Solidarité
-     * [95]Temps de travail
-     * [96]Temps libre
-     * [97]Violences et harcèlement au travail
-     * [98]Violences faites aux femmes
+     * [66]52e Congrès CGT
+     * [67]53e Congrès CGT
+     * [68]Conditions de travail
+     * [69]Culture
+     * [70]Dialogue social
+     * [71]Discriminations
+     * [72]Dossier de presse
+     * [73]Droit
+     * [74]Droits des femmes
+     * [75]Écologie
+     * [76]Égalité Femme/Homme
+     * [77]Élections
+     * [78]Environnement
+     * [79]Extrême droite
+     * [80]Fiscalité
+     * [81]Histoire
+     * [82]Institutions
+     * [83]International
+     * [84]Justice
+     * [85]Législation
+     * [86]Logement
+     * [87]Mobilisation
+     * [88]Numérique
+     * [89]Pouvoir d'achat
+     * [90]Protection sociale
+     * [91]Salaires
+     * [92]Situation d'emploi précarisée
+     * [93]Solidarité
+     * [94]Temps de travail
+     * [95]Temps libre
+     * [96]Violences et harcèlement au travail
+     * [97]Violences faites aux femmes
 
+     * [98][logo53econgres.svg]
      * [99]Nos autres sites
           + [100]53e congrès
-          + Plus
+          + Nos sites
                o [101]Analyses et Propositions
                o [102]Vie syndicale
-               o [103]International
-               o [104]UCR
+               o [103]53e congrès
 
-   [105]Se Syndiquer [106]Espace militant
+   [104]Se Syndiquer [105]Espace militant
      *
      *
      *
@@ -128,15 +127,15 @@
 
 You are here
 
-     * [107]Accueil
-     * [108]Actualités de La CGT
+     * [106]Accueil
+     * [107]Actualités de La CGT
      * Hauts de France
      * Commerce
      * Conditions de Travail Discriminations
      * La CGT va déposer plainte pour discrimination raciale et syndicale
        contre Auchan
 
-   [109]Commerce [110]Hauts-de-France [111]Conditions de travail
+   [108]Commerce [109]Hauts-de-France [110]Conditions de travail
 
 La CGT va déposer plainte pour discrimination raciale et syndicale contre
 Auchan
@@ -228,46 +227,46 @@ Auchan
 
 Sur le même thème
 
-   [112]Actualité
+   [111]Actualité
 
 Le directeur du Carrefour Express de Merville souhaite la chambre à gaz aux
 syndicalistes
 
-   [113]Lire la suite
-   [114]Actualité
+   [112]Lire la suite
+   [113]Actualité
 
 Polémique autour des résultats de l'enquête du CHSCT
 
-   [115]Lire la suite
-   [116]Actualité
+   [114]Lire la suite
+   [115]Actualité
 
 863 emplois menacés par la fermeture de l'usine Bridgestone
 
-   [117]Lire la suite
+   [116]Lire la suite
 
 Abonnez vous à la newsletter
 
    ____________________________________________________________
    î¤U88
-   [118]Accueil
+   [117]Accueil
    block left
-   [119]Syndiquez-vous
-   [120]Configurer les cookies
-   [121]Qui sommes-nous?
-   [122]Contactez la CGT
-   [123]Press room
-   [124]Syndiquez-vous
-   [125]Configurer les cookies
-   [126]Qui sommes-nous?
-   [127]Contactez la CGT
-   [128]Press room
-     * [129][vector_fb.svg]
-     * [130][vector_tw.svg]
-     * [131][vector_yt.svg]
-     * [132][rss.svg]
+   [118]Syndiquez-vous
+   [119]Configurer les cookies
+   [120]Qui sommes-nous?
+   [121]Contactez la CGT
+   [122]Press room
+   [123]Syndiquez-vous
+   [124]Configurer les cookies
+   [125]Qui sommes-nous?
+   [126]Contactez la CGT
+   [127]Press room
+     * [128][vector_fb.svg]
+     * [129][vector_tw.svg]
+     * [130][vector_yt.svg]
+     * [131][rss.svg]
 
-   La CGT © 2022 - Tous droits réservés - [133]Mentions légales - Réalisé
-   par [134]l'agence Drupal [135]bluedrop.fr
+   La CGT © 2022 - Tous droits réservés - [132]Mentions légales - Réalisé
+   par [133]l'agence Drupal [134]bluedrop.fr
 
 References
 
@@ -276,145 +275,144 @@ References
    2. https://53congres.cgt.fr/
    3. https://analyses-propositions.cgt.fr/
    4. https://vie-syndicale.cgt.fr/
-   5. https://www.cgt.fr/sites/default/files/2022-06/Site%20en%20phase%20de%20teste%20...%20prochainement%20accessible.-3.png
-   6. https://www.cgt.fr/sites/default/files/2022-06/Site%20en%20phase%20de%20teste%20...%20prochainement%20accessible.-3.png
-   7. https://www.cgt.fr/
-   8. https://www.cgt.fr/membrecgt/login
-   9. https://www.cgt.fr/syndicalisation/syndiquez-vous
-  10. https://www.cgt.fr/
-  11. https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte
-  12. https://www.cgt.fr/dossiers/qui-sommes-nous
-  13. https://www.cgt.fr/organisations?field_type_target_id%5B70%5D=70
-  14. https://mobilisations-en-france.cgt.fr/
-  15. https://www.cgt.fr/contact-us
-  16. https://www.cgt.fr/actualites
-  17. https://www.cgt.fr/dossiers
-  18. https://www.cgt.fr/comm-de-presse
-  19. https://www.cgt.fr/webtv
-  20. https://www.cgt.fr/publications
-  21. https://www.cgt.fr/agenda
-  22. https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte
-  23. https://www.cgt.fr/terms/52e-congres-cgt
-  24. https://www.cgt.fr/terms/53e-congres-cgt
-  25. https://www.cgt.fr/terms/conditions-de-travail
-  26. https://www.cgt.fr/terms/culture
-  27. https://www.cgt.fr/terms/dialogue-social-0
-  28. https://www.cgt.fr/terms/discriminations
-  29. https://www.cgt.fr/terms/dossier-de-presse
-  30. https://www.cgt.fr/terms/droit
-  31. https://www.cgt.fr/terms/droits-des-femmes
-  32. https://www.cgt.fr/terms/ecologie
-  33. https://www.cgt.fr/terms/egalite-femmehomme
-  34. https://www.cgt.fr/terms/elections-0
-  35. https://www.cgt.fr/terms/environnement
-  36. https://www.cgt.fr/terms/extreme-droite
-  37. https://www.cgt.fr/terms/fiscalite
-  38. https://www.cgt.fr/terms/histoire
-  39. https://www.cgt.fr/terms/institutions
-  40. https://www.cgt.fr/terms/international-0
-  41. https://www.cgt.fr/terms/justice
-  42. https://www.cgt.fr/terms/legislation
-  43. https://www.cgt.fr/terms/logement
-  44. https://www.cgt.fr/terms/mobilisation
-  45. https://www.cgt.fr/terms/numerique
-  46. https://www.cgt.fr/terms/pouvoir-dachat
-  47. https://www.cgt.fr/terms/protection-sociale
-  48. https://www.cgt.fr/terms/salaires
-  49. https://www.cgt.fr/terms/situation-demploi-precarisee
-  50. https://www.cgt.fr/terms/solidarite
-  51. https://www.cgt.fr/terms/temps-de-travail
-  52. https://www.cgt.fr/terms/temps-libre
-  53. https://www.cgt.fr/terms/violences-et-harcelement-au-travail
-  54. https://www.cgt.fr/terms/violences-faites-aux-femmes
-  55. https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte
-  56. https://www.cgt.fr/dossiers/qui-sommes-nous
-  57. https://www.cgt.fr/organisations?field_type_target_id%5B70%5D=70
-  58. https://mobilisations-en-france.cgt.fr/
-  59. https://www.cgt.fr/contact-us
-  60. https://www.cgt.fr/actualites
-  61. https://www.cgt.fr/dossiers
-  62. https://www.cgt.fr/comm-de-presse
-  63. https://www.cgt.fr/webtv
-  64. https://www.cgt.fr/publications
-  65. https://www.cgt.fr/agenda
-  66. https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte
-  67. https://www.cgt.fr/terms/52e-congres-cgt
-  68. https://www.cgt.fr/terms/53e-congres-cgt
-  69. https://www.cgt.fr/terms/conditions-de-travail
-  70. https://www.cgt.fr/terms/culture
-  71. https://www.cgt.fr/terms/dialogue-social-0
-  72. https://www.cgt.fr/terms/discriminations
-  73. https://www.cgt.fr/terms/dossier-de-presse
-  74. https://www.cgt.fr/terms/droit
-  75. https://www.cgt.fr/terms/droits-des-femmes
-  76. https://www.cgt.fr/terms/ecologie
-  77. https://www.cgt.fr/terms/egalite-femmehomme
-  78. https://www.cgt.fr/terms/elections-0
-  79. https://www.cgt.fr/terms/environnement
-  80. https://www.cgt.fr/terms/extreme-droite
-  81. https://www.cgt.fr/terms/fiscalite
-  82. https://www.cgt.fr/terms/histoire
-  83. https://www.cgt.fr/terms/institutions
-  84. https://www.cgt.fr/terms/international-0
-  85. https://www.cgt.fr/terms/justice
-  86. https://www.cgt.fr/terms/legislation
-  87. https://www.cgt.fr/terms/logement
-  88. https://www.cgt.fr/terms/mobilisation
-  89. https://www.cgt.fr/terms/numerique
-  90. https://www.cgt.fr/terms/pouvoir-dachat
-  91. https://www.cgt.fr/terms/protection-sociale
-  92. https://www.cgt.fr/terms/salaires
-  93. https://www.cgt.fr/terms/situation-demploi-precarisee
-  94. https://www.cgt.fr/terms/solidarite
-  95. https://www.cgt.fr/terms/temps-de-travail
-  96. https://www.cgt.fr/terms/temps-libre
-  97. https://www.cgt.fr/terms/violences-et-harcelement-au-travail
-  98. https://www.cgt.fr/terms/violences-faites-aux-femmes
+   5. https://53congres.cgt.fr/
+   6. https://www.cgt.fr/
+   7. https://www.cgt.fr/membrecgt/login
+   8. https://www.cgt.fr/syndicalisation/syndiquez-vous
+   9. https://www.cgt.fr/
+  10. https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte
+  11. https://www.cgt.fr/dossiers/qui-sommes-nous
+  12. https://www.cgt.fr/organisations?field_type_target_id%5B70%5D=70
+  13. https://mobilisations-en-france.cgt.fr/
+  14. https://www.cgt.fr/contact-us
+  15. https://www.cgt.fr/actualites
+  16. https://www.cgt.fr/dossiers
+  17. https://www.cgt.fr/comm-de-presse
+  18. https://www.cgt.fr/webtv
+  19. https://www.cgt.fr/publications
+  20. https://www.cgt.fr/agenda
+  21. https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte
+  22. https://www.cgt.fr/terms/52e-congres-cgt
+  23. https://www.cgt.fr/terms/53e-congres-cgt
+  24. https://www.cgt.fr/terms/conditions-de-travail
+  25. https://www.cgt.fr/terms/culture
+  26. https://www.cgt.fr/terms/dialogue-social-0
+  27. https://www.cgt.fr/terms/discriminations
+  28. https://www.cgt.fr/terms/dossier-de-presse
+  29. https://www.cgt.fr/terms/droit
+  30. https://www.cgt.fr/terms/droits-des-femmes
+  31. https://www.cgt.fr/terms/ecologie
+  32. https://www.cgt.fr/terms/egalite-femmehomme
+  33. https://www.cgt.fr/terms/elections-0
+  34. https://www.cgt.fr/terms/environnement
+  35. https://www.cgt.fr/terms/extreme-droite
+  36. https://www.cgt.fr/terms/fiscalite
+  37. https://www.cgt.fr/terms/histoire
+  38. https://www.cgt.fr/terms/institutions
+  39. https://www.cgt.fr/terms/international-0
+  40. https://www.cgt.fr/terms/justice
+  41. https://www.cgt.fr/terms/legislation
+  42. https://www.cgt.fr/terms/logement
+  43. https://www.cgt.fr/terms/mobilisation
+  44. https://www.cgt.fr/terms/numerique
+  45. https://www.cgt.fr/terms/pouvoir-dachat
+  46. https://www.cgt.fr/terms/protection-sociale
+  47. https://www.cgt.fr/terms/salaires
+  48. https://www.cgt.fr/terms/situation-demploi-precarisee
+  49. https://www.cgt.fr/terms/solidarite
+  50. https://www.cgt.fr/terms/temps-de-travail
+  51. https://www.cgt.fr/terms/temps-libre
+  52. https://www.cgt.fr/terms/violences-et-harcelement-au-travail
+  53. https://www.cgt.fr/terms/violences-faites-aux-femmes
+  54. https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte
+  55. https://www.cgt.fr/dossiers/qui-sommes-nous
+  56. https://www.cgt.fr/organisations?field_type_target_id%5B70%5D=70
+  57. https://mobilisations-en-france.cgt.fr/
+  58. https://www.cgt.fr/contact-us
+  59. https://www.cgt.fr/actualites
+  60. https://www.cgt.fr/dossiers
+  61. https://www.cgt.fr/comm-de-presse
+  62. https://www.cgt.fr/webtv
+  63. https://www.cgt.fr/publications
+  64. https://www.cgt.fr/agenda
+  65. https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte
+  66. https://www.cgt.fr/terms/52e-congres-cgt
+  67. https://www.cgt.fr/terms/53e-congres-cgt
+  68. https://www.cgt.fr/terms/conditions-de-travail
+  69. https://www.cgt.fr/terms/culture
+  70. https://www.cgt.fr/terms/dialogue-social-0
+  71. https://www.cgt.fr/terms/discriminations
+  72. https://www.cgt.fr/terms/dossier-de-presse
+  73. https://www.cgt.fr/terms/droit
+  74. https://www.cgt.fr/terms/droits-des-femmes
+  75. https://www.cgt.fr/terms/ecologie
+  76. https://www.cgt.fr/terms/egalite-femmehomme
+  77. https://www.cgt.fr/terms/elections-0
+  78. https://www.cgt.fr/terms/environnement
+  79. https://www.cgt.fr/terms/extreme-droite
+  80. https://www.cgt.fr/terms/fiscalite
+  81. https://www.cgt.fr/terms/histoire
+  82. https://www.cgt.fr/terms/institutions
+  83. https://www.cgt.fr/terms/international-0
+  84. https://www.cgt.fr/terms/justice
+  85. https://www.cgt.fr/terms/legislation
+  86. https://www.cgt.fr/terms/logement
+  87. https://www.cgt.fr/terms/mobilisation
+  88. https://www.cgt.fr/terms/numerique
+  89. https://www.cgt.fr/terms/pouvoir-dachat
+  90. https://www.cgt.fr/terms/protection-sociale
+  91. https://www.cgt.fr/terms/salaires
+  92. https://www.cgt.fr/terms/situation-demploi-precarisee
+  93. https://www.cgt.fr/terms/solidarite
+  94. https://www.cgt.fr/terms/temps-de-travail
+  95. https://www.cgt.fr/terms/temps-libre
+  96. https://www.cgt.fr/terms/violences-et-harcelement-au-travail
+  97. https://www.cgt.fr/terms/violences-faites-aux-femmes
+  98. https://53congres.cgt.fr/
   99. https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte
  100. https://53congres.cgt.fr/
  101. https://analyses-propositions.cgt.fr/
  102. https://vie-syndicale.cgt.fr/
- 103. https://www.cgt.fr/sites/default/files/2022-06/Site%20en%20phase%20de%20teste%20...%20prochainement%20accessible.-3.png
- 104. https://www.cgt.fr/sites/default/files/2022-06/Site%20en%20phase%20de%20teste%20...%20prochainement%20accessible.-3.png
- 105. https://www.cgt.fr/syndicalisation/syndiquez-vous
- 106. https://www.cgt.fr/membrecgt/login
- 107. https://www.cgt.fr/
- 108. https://www.cgt.fr/actualites
- 109. https://www.cgt.fr/terms/commerce
- 110. https://www.cgt.fr/terms/hauts-de-france
- 111. https://www.cgt.fr/terms/conditions-de-travail
- 112. https://www.cgt.fr/actualites
- 113. https://www.cgt.fr/actualites/hauts-de-france/commerce/discriminations/le-directeur-du-carrefour-express-de-merville
- 114. https://www.cgt.fr/actualites
- 115. https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail/polemique-autour-des-resultats-de
- 116. https://www.cgt.fr/actualites
- 117. https://www.cgt.fr/actualites/hauts-de-france/industrie/mobilisation/863-emplois-menaces-par-la-fermeture-de-lusine
- 118. https://www.cgt.fr/
- 119. https://www.cgt.fr/syndicalisation/syndiquez-vous
- 120. https://www.cgt.fr/tacjsconfig
- 121. https://www.cgt.fr/dossiers/qui-sommes-nous
- 122. https://www.cgt.fr/contact-us
- 123. https://www.cgt.fr/press-room
- 124. https://www.cgt.fr/syndicalisation/syndiquez-vous
- 125. https://www.cgt.fr/tacjsconfig
- 126. https://www.cgt.fr/dossiers/qui-sommes-nous
- 127. https://www.cgt.fr/contact-us
- 128. https://www.cgt.fr/press-room
- 129. https://www.facebook.com/ConfederationGeneraleTravail
- 130. https://twitter.com/lacgtcommunique
- 131. https://www.youtube.com/user/MyCGT
- 132. https://www.cgt.fr/rss.xml
- 133. https://www.cgt.fr/mentions-legales
+ 103. https://53congres.cgt.fr/
+ 104. https://www.cgt.fr/syndicalisation/syndiquez-vous
+ 105. https://www.cgt.fr/membrecgt/login
+ 106. https://www.cgt.fr/
+ 107. https://www.cgt.fr/actualites
+ 108. https://www.cgt.fr/terms/commerce
+ 109. https://www.cgt.fr/terms/hauts-de-france
+ 110. https://www.cgt.fr/terms/conditions-de-travail
+ 111. https://www.cgt.fr/actualites
+ 112. https://www.cgt.fr/actualites/hauts-de-france/commerce/discriminations/le-directeur-du-carrefour-express-de-merville
+ 113. https://www.cgt.fr/actualites
+ 114. https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail/polemique-autour-des-resultats-de
+ 115. https://www.cgt.fr/actualites
+ 116. https://www.cgt.fr/actualites/hauts-de-france/industrie/mobilisation/863-emplois-menaces-par-la-fermeture-de-lusine
+ 117. https://www.cgt.fr/
+ 118. https://www.cgt.fr/syndicalisation/syndiquez-vous
+ 119. https://www.cgt.fr/tacjsconfig
+ 120. https://www.cgt.fr/dossiers/qui-sommes-nous
+ 121. https://www.cgt.fr/contact-us
+ 122. https://www.cgt.fr/press-room
+ 123. https://www.cgt.fr/syndicalisation/syndiquez-vous
+ 124. https://www.cgt.fr/tacjsconfig
+ 125. https://www.cgt.fr/dossiers/qui-sommes-nous
+ 126. https://www.cgt.fr/contact-us
+ 127. https://www.cgt.fr/press-room
+ 128. https://www.facebook.com/ConfederationGeneraleTravail
+ 129. https://twitter.com/lacgtcommunique
+ 130. https://www.youtube.com/user/MyCGT
+ 131. https://www.cgt.fr/rss.xml
+ 132. https://www.cgt.fr/mentions-legales
+ 133. https://bluedrop.fr/
  134. https://bluedrop.fr/
- 135. https://bluedrop.fr/
 
    Hidden links:
- 137. https://www.facebook.com/ConfederationGeneraleTravail
- 138. https://twitter.com/lacgtcommunique
- 139. https://www.youtube.com/user/MyCGT
- 140. https://www.facebook.com/ConfederationGeneraleTravail
- 141. https://twitter.com/lacgtcommunique
- 142. https://www.youtube.com/user/MyCGT
- 143. http://www.facebook.com/share.php?u=https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte&title=La%20CGT%20va%20d%C3%A9poser%20plainte%20pour%20discrimination%20raciale%20et%20syndicale%20contre%20Auchan
- 144. https://twitter.com/intent/tweet?url=https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte&status=La%20CGT%20va%20d%C3%A9poser%20plainte%20pour%20discrimination%20raciale%20et%20syndicale%20contre%20Auchan+https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte
- 145. http://www.linkedin.com/shareArticle?mini=true&url=https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte&title=La%20CGT%20va%20d%C3%A9poser%20plainte%20pour%20discrimination%20raciale%20et%20syndicale%20contre%20Auchan&source=https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte
+ 136. https://www.facebook.com/ConfederationGeneraleTravail
+ 137. https://twitter.com/lacgtcommunique
+ 138. https://www.youtube.com/user/MyCGT
+ 139. https://www.facebook.com/ConfederationGeneraleTravail
+ 140. https://twitter.com/lacgtcommunique
+ 141. https://www.youtube.com/user/MyCGT
+ 142. http://www.facebook.com/share.php?u=https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte&title=La%20CGT%20va%20d%C3%A9poser%20plainte%20pour%20discrimination%20raciale%20et%20syndicale%20contre%20Auchan
+ 143. https://twitter.com/intent/tweet?url=https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte&status=La%20CGT%20va%20d%C3%A9poser%20plainte%20pour%20discrimination%20raciale%20et%20syndicale%20contre%20Auchan+https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte
+ 144. http://www.linkedin.com/shareArticle?mini=true&url=https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte&title=La%20CGT%20va%20d%C3%A9poser%20plainte%20pour%20discrimination%20raciale%20et%20syndicale%20contre%20Auchan&source=https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte

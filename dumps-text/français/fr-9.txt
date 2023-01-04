@@ -180,7 +180,8 @@ fêtes?
 
 A la Une
 
-   [60]L'inflation ralentit à 5,9% sur un an en décembre
+   [60]Prix de l'électricité: les restaurateurs réclament les mêmes aides
+   que les boulangers
 
    (BUTTON)
    (BUTTON)
@@ -227,39 +228,38 @@ A la Une
      * [83]Comparateur assurance
      * [84]Shopping
      * [85]Immobilier neuf
-     * [86]Offres d'emploi
-     * [87]Portage Salarial
-     * [88]Règlements
+     * [86]Portage Salarial
+     * [87]Règlements
 
    en savoir plus
-     * [89]Nous contacter
-     * [90]Devenir Annonceur
-     * [91]Recrutement
-     * [92]Mentions légales
-     * [93]Données personnelles
-     * [94]Cookies
-     * [95]CGU
-     * [96]Charte de déontologie
+     * [88]Nous contacter
+     * [89]Devenir Annonceur
+     * [90]Recrutement
+     * [91]Mentions légales
+     * [92]Données personnelles
+     * [93]Cookies
+     * [94]CGU
+     * [95]Charte de déontologie
 
    les sites du groupe
-     * [97]BFMTV
-     * [98]BFM Patrimoine
-     * [99]BFM Business
-     * [100]BFM Immo
-     * [101]RMC
-     * [102]Verif
-     * [103]RMC Sport
-     * [104]BFM Bourse
-     * [105]RMC BFM PLAY
-     * [106]Zone Turf
-     * [107]RMC Découverte
-     * [108]Association RMC / BFM
-     * [109]RMC Crime
-     * [110]MyCuisine
-     * [111]Tech&Co
-     * [112]RMC Story
-     * [113]BFM Régions
-     * [114]BFM Crypto
+     * [96]BFMTV
+     * [97]BFM Patrimoine
+     * [98]BFM Business
+     * [99]BFM Immo
+     * [100]RMC
+     * [101]Verif
+     * [102]RMC Sport
+     * [103]BFM Bourse
+     * [104]RMC BFM PLAY
+     * [105]Zone Turf
+     * [106]RMC Découverte
+     * [107]Association RMC / BFM
+     * [108]RMC Crime
+     * [109]MyCuisine
+     * [110]Tech&Co
+     * [111]RMC Story
+     * [112]BFM Régions
+     * [113]BFM Crypto
 
    © Copyright 2006-2021 BFMTV.com. Tous droits réservés. Site édité par
    NextInteractive
@@ -326,7 +326,7 @@ References
   57. https://twitter.com/FredericBianchi
   58. https://www.bfmtv.com/
   59. https://www.bfmtv.com/economie/
-  60. https://www.bfmtv.com/economie/economie-social/france/l-inflation-ralentit-a-5-9-sur-un-an-en-decembre_AD-202301040170.html
+  60. https://www.bfmtv.com/economie/entreprises/energie/prix-de-l-electricite-les-restaurateurs-reclament-les-memes-aides-que-les-boulangers_AV-202301040466.html
   61. https://www.facebook.com/BFMBUSINESS/
   62. https://twitter.com/bfmbusiness
   63. https://www.linkedin.com/company/bfm-business/
@@ -352,46 +352,45 @@ References
   83. https://www.bfmtv.com/pratique/comparateur-assurance/?xtatc=INT-41-[MeilleureAssurance]
   84. https://www.bfmtv.com/pratique/shopping/
   85. https://immo-neuf.lavieimmo.com/?xtatc=INT-41-[Immoneuf]
-  86. https://emploi.bfmtv.com/
-  87. https://www.bfmtv.com/pratique/emploi-formation/missioneo_DB-202205130438.html
-  88. https://www.bfmtv.com/evenements/jeux-concours/reglements-jeux-concours-bfmtv_AN-202110140220.html
-  89. https://www.bfmtv.com/contacts/
-  90. https://www.alticemedia-adsconnect.fr/
-  91. https://recrutement.alticemedia.com/
-  92. https://www.bfmtv.com/mentions-legales/
-  93. https://www.bfmtv.com/politique-donnees-personnelles/
-  94. https://www.bfmtv.com/cookies/
-  95. https://www.bfmtv.com/cgu/
-  96. https://www.bfmtv.com/charte-deontologie/
-  97. https://www.bfmtv.com/
-  98. https://www.bfmtv.com/economie/patrimoine/
-  99. https://www.bfmtv.com/economie/
- 100. https://www.bfmtv.com/immobilier/
- 101. https://rmc.bfmtv.com/
- 102. https://www.verif.com/
- 103. https://rmcsport.bfmtv.com/
- 104. https://www.tradingsat.com/
- 105. https://www.rmcbfmplay.com/chaine/bfm-regions?subMenuId=RefMenuItem::rmcgo_home_bfmregion
- 106. https://www.zone-turf.fr/
- 107. https://www.rmcbfmplay.com/chaine/rmc-decouverte?subMenuId=RefMenuItem::rmcgo_home_rmcdecouverte
- 108. http://ajila.org/associations-rmcbfm/
- 109. https://rmccrime.bfmtv.com/
- 110. https://www.rmcbfmplay.com/thematiques/cuisine-divertissement?themeId=RefTile::0e132a66-7dc4-4556-bb4c-fc2c05927d40
- 111. https://www.bfmtv.com/tech/
- 112. https://www.rmcbfmplay.com/chaine/rmc-story?subMenuId=RefMenuItem::rmcgo_home_rmcstory
- 113. https://www.bfmtv.com/regions/
- 114. https://www.bfmtv.com/crypto/
+  86. https://www.bfmtv.com/pratique/emploi-formation/missioneo_DB-202205130438.html
+  87. https://www.bfmtv.com/evenements/jeux-concours/reglements-jeux-concours-bfmtv_AN-202110140220.html
+  88. https://www.bfmtv.com/contacts/
+  89. https://www.alticemedia-adsconnect.fr/
+  90. https://recrutement.alticemedia.com/
+  91. https://www.bfmtv.com/mentions-legales/
+  92. https://www.bfmtv.com/politique-donnees-personnelles/
+  93. https://www.bfmtv.com/cookies/
+  94. https://www.bfmtv.com/cgu/
+  95. https://www.bfmtv.com/charte-deontologie/
+  96. https://www.bfmtv.com/
+  97. https://www.bfmtv.com/economie/patrimoine/
+  98. https://www.bfmtv.com/economie/
+  99. https://www.bfmtv.com/immobilier/
+ 100. https://rmc.bfmtv.com/
+ 101. https://www.verif.com/
+ 102. https://rmcsport.bfmtv.com/
+ 103. https://www.tradingsat.com/
+ 104. https://www.rmcbfmplay.com/chaine/bfm-regions?subMenuId=RefMenuItem::rmcgo_home_bfmregion
+ 105. https://www.zone-turf.fr/
+ 106. https://www.rmcbfmplay.com/chaine/rmc-decouverte?subMenuId=RefMenuItem::rmcgo_home_rmcdecouverte
+ 107. http://ajila.org/associations-rmcbfm/
+ 108. https://rmccrime.bfmtv.com/
+ 109. https://www.rmcbfmplay.com/thematiques/cuisine-divertissement?themeId=RefTile::0e132a66-7dc4-4556-bb4c-fc2c05927d40
+ 110. https://www.bfmtv.com/tech/
+ 111. https://www.rmcbfmplay.com/chaine/rmc-story?subMenuId=RefMenuItem::rmcgo_home_rmcstory
+ 112. https://www.bfmtv.com/regions/
+ 113. https://www.bfmtv.com/crypto/
 
    Hidden links:
- 116. https://www.bfmtv.com/economie/en-direct/
- 117. https://www.bfmtv.com/economie/en-direct/bfmbusiness-radio/
- 118. https://www.rmcbfmplay.com/chaine/bfm-business?subMenuId=RefMenuItem::rmcgo_home_bfmbusiness
- 119. https://fr-fr.facebook.com/BFMBusiness/
- 120. https://twitter.com/bfmbusiness
- 121. https://www.youtube.com/channel/UCUsBMOIUl_ad6JUOC16DpmQ
- 122. https://fr.linkedin.com/company/bfm-business
- 123. https://www.bfmtv.com/tech/actualites/telecoms/vous-pouvez-desormais-reperer-les-numeros-de-demarchage-telephonique-voici-comment-faire_AV-202301030194.html
- 124. https://www.bfmtv.com/economie/entreprises/energie/secheresse-electricite-pourquoi-le-prix-de-l-eau-va-augmenter-en-2023_AV-202301030267.html
- 125. https://www.bfmtv.com/people/je-vous-envoie-de-l-amour-a-tous-jeremy-renner-s-exprime-pour-la-premiere-fois-depuis-son-hospitalisation_AN-202301040004.html
- 126. https://www.bfmtv.com/societe/les-francais-boivent-moins-de-vin-et-inquietent-les-vignerons_AN-202301030276.html
- 127. https://www.bfmtv.com/societe/tisane-compost-decorations-que-faire-de-son-sapin-de-noel-apres-les-fetes_AN-202301030398.html
+ 115. https://www.bfmtv.com/economie/en-direct/
+ 116. https://www.bfmtv.com/economie/en-direct/bfmbusiness-radio/
+ 117. https://www.rmcbfmplay.com/chaine/bfm-business?subMenuId=RefMenuItem::rmcgo_home_bfmbusiness
+ 118. https://fr-fr.facebook.com/BFMBusiness/
+ 119. https://twitter.com/bfmbusiness
+ 120. https://www.youtube.com/channel/UCUsBMOIUl_ad6JUOC16DpmQ
+ 121. https://fr.linkedin.com/company/bfm-business
+ 122. https://www.bfmtv.com/tech/actualites/telecoms/vous-pouvez-desormais-reperer-les-numeros-de-demarchage-telephonique-voici-comment-faire_AV-202301030194.html
+ 123. https://www.bfmtv.com/economie/entreprises/energie/secheresse-electricite-pourquoi-le-prix-de-l-eau-va-augmenter-en-2023_AV-202301030267.html
+ 124. https://www.bfmtv.com/people/je-vous-envoie-de-l-amour-a-tous-jeremy-renner-s-exprime-pour-la-premiere-fois-depuis-son-hospitalisation_AN-202301040004.html
+ 125. https://www.bfmtv.com/societe/les-francais-boivent-moins-de-vin-et-inquietent-les-vignerons_AN-202301030276.html
+ 126. https://www.bfmtv.com/societe/tisane-compost-decorations-que-faire-de-son-sapin-de-noel-apres-les-fetes_AN-202301030398.html

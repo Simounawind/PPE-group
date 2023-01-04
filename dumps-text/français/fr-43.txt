@@ -17,17 +17,16 @@
      * [9]Accueil
      * [10]Je m'abonne
      * [11]Toute l'actu
-       [12]Omar Sy. © Thomas Samson / AFP
+       [12]512538 Image 1
        [13]Homme du jour
-       [14]Quand Omar Sy interroge notre perception de la guerre en
-       Ukraine
-       Troisième personnalité préférée des Français derrière l'inamovible
-       Jean-Jacques Goldman et l'astronaute Thomas...
+       [14]Luiz Marinho
+       Le syndicaliste brésilien, qui fut l'un des fondateurs du Parti des
+       Travailleurs (PT), devient ministre du Travail...
        [15]Réforme des retraites
        [16]Emmanuel Macron
-       [17]Réforme assurance-chômage
-       [18]Nupes
-       [19]Brésil
+       [17]Nupes
+       [18]Crise énergétique
+       [19]Maroc
           + [20]Politique
           + [21]Société
           + [22]Social-Eco
@@ -40,7 +39,7 @@
           + [29]Vos droits
           + [30]Science
        Édition
-       du Mercredi 4 Janvier
+       du Jeudi 5 Janvier
        [31]J'achète
        [32]Je m'abonne
      * [33]Réforme des retraites
@@ -194,7 +193,7 @@ Odieuse discrimination raciale
    Arrêt CA PARIS RG n° 19/06908 du 14 avril 2022
 
    Édition
-   du Mercredi 4 Janvier
+   du Jeudi 5 Janvier
    [92]J'achète
    [93]Je m'abonne
 
@@ -203,11 +202,11 @@ Odieuse discrimination raciale
    [94]J'achète
    [95]Je m'abonne
    Les articles les plus lus
-   [96]Un chiffre record de radiations à Pôle emploi en fin d'année
-   [97]Cynthia Fleury : « Le travail doit faire lien avec l'émancipation
+   [96]Éducation : drôles d'étrennes pour les AED et AESH
+   [97]Un chiffre record de radiations à Pôle emploi en fin d'année
+   [98]Le Maroc, royaume intouchable au Parlement européen
+   [99]Cynthia Fleury : « Le travail doit faire lien avec l'émancipation
    et non pas avec la survie »
-   [98]L'aspirateur autonome qui faisait fuiter des photos indiscrètes
-   [99]Retraites : ultimes dialogues de sourds
 
    Partager
      *
@@ -281,14 +280,14 @@ References
    9. https://www.humanite.fr/
   10. https://abo.humanite.fr/2243
   11. https://www.humanite.fr/node
-  12. https://www.humanite.fr/culture-et-savoirs/omar-sy/quand-omar-sy-interroge-notre-perception-de-la-guerre-en-ukraine-776693
+  12. https://www.humanite.fr/monde/bresil/luiz-marinho-777097
   13. https://www.humanite.fr/types-article/homme-du-jour
-  14. https://www.humanite.fr/culture-et-savoirs/omar-sy/quand-omar-sy-interroge-notre-perception-de-la-guerre-en-ukraine-776693
+  14. https://www.humanite.fr/monde/bresil/luiz-marinho-777097
   15. https://www.humanite.fr/mot-cle/reforme-des-retraites
   16. https://www.humanite.fr/mot-cle/emmanuel-macron
-  17. https://www.humanite.fr/mot-cle/reforme-assurance-chomage
-  18. https://www.humanite.fr/mot-cle/nupes
-  19. https://www.humanite.fr/mot-cle/bresil
+  17. https://www.humanite.fr/mot-cle/nupes
+  18. https://www.humanite.fr/mot-cle/crise-energetique
+  19. https://www.humanite.fr/mot-cle/maroc
   20. https://www.humanite.fr/politique
   21. https://www.humanite.fr/societe
   22. https://www.humanite.fr/social-eco
@@ -365,10 +364,10 @@ References
   93. https://boutique.humanite.fr/common/categories/1711?utm_source=site-humanitefr&utm_campaign=header&utm_term=abonnement
   94. https://boutique.humanite.fr/common/categories/1717
   95. https://boutique.humanite.fr/common/product-subscription/3184
-  96. https://www.humanite.fr/social-eco/pole-emploi/un-chiffre-record-de-radiations-pole-emploi-en-fin-d-annee-776406
-  97. https://www.humanite.fr/en-debat/cynthia-fleury/cynthia-fleury-le-travail-doit-faire-lien-avec-lemancipation-et-non-pas-avec
-  98. https://www.humanite.fr/social-eco/intelligence-artificielle/l-aspirateur-autonome-qui-faisait-fuiter-des-photos-indiscretes-776565
-  99. https://www.humanite.fr/social-eco/reforme-des-retraites/retraites-ultimes-dialogues-de-sourds-776811
+  96. https://www.humanite.fr/societe/education-prioritaire/education-droles-d-etrennes-pour-les-aed-et-aesh-776747
+  97. https://www.humanite.fr/social-eco/pole-emploi/un-chiffre-record-de-radiations-pole-emploi-en-fin-d-annee-776406
+  98. https://www.humanite.fr/monde/maroc/le-maroc-royaume-intouchable-au-parlement-europeen-777193
+  99. https://www.humanite.fr/en-debat/cynthia-fleury/cynthia-fleury-le-travail-doit-faire-lien-avec-lemancipation-et-non-pas-avec
  100. https://abo.humanite.fr/2243
  101. https://www.humanite.fr/politique
  102. https://www.humanite.fr/societe

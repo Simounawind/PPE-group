@@ -25,7 +25,7 @@
    (BUTTON) Fermer
    [18]S'abonner au journal [19]Se connecter
      * [20]À la Une
-       Édition du matin
+       Édition du soir
      * [21]Vidéos
      * [22]Enquêtes
      * [23]Dossiers
@@ -773,114 +773,116 @@ INJUSTICIABILITE DE LA DISCRIMINATION RACIALE EN FRANCE
    [69]Sauvé par l'« Ocean Viking » et renvoyé au Mali : « L'accueil de la
    France n'a pas été à la hauteur »
 
+   Journal -- Médias
+   [70]L'État finance à fonds perdu et sans fondement la presse
+   vieillissante des milliardaires
+
    Journal
-   [70]Un 1er janvier à l'hôpital public : « On marche en avant vers le
+   [71]Un 1er janvier à l'hôpital public : « On marche en avant vers le
    grand nulle part »
 
-   Journal
-   [71]Dans un centre de torture de l'armée française à Alger : la ferme
-   Perrin
-
-   Journal
-   [72]Les voeux secrets du président Waly Dia
-
    Journal -- Europe
-   [73]Au Royaume-Uni, une baronne, des masques et un immense scandale
+   [72]Au Royaume-Uni, une baronne, des masques et un immense scandale
+
+   Journal -- Gauche(s)
+   [73]Maintenant la gauche, c'est quand qu'on va où ?
    Recommandés par nos abonné·es
 
    Billet de blog
    [74]IM-PRE-VI-SIBLE !
 
    Billet de blog
-   [75]Retraites : donnons-nous les moyens d'une grève générale
+   [75]On n'a rien vu venir
 
    Billet de blog
-   [76]Il nous faut l'exemplarité...
+   [76]« Qui aurait pu prédire la crise climatique ? » : Macron, ou
+   l'écologie du renoncement
 
    À la Une de Mediapart
 
    Journal -- France
-   [77]Darmanin : « Un représentant de l'État doit être inattaquable et
-   respectable. » Sauf exception
+   [77]La justice soupçonne des pots-de-vin entre des policiers et la
+   fourrière
 
-   C'est la réaction qu'a eue le ministre de l'intérieur face au limogeage
-   de la préfète d'Indre-et-Loire. Il a pourtant lui-même été mis en
-   cause. Et il a maintenu ou soutenu des personnalités visées par des
-   enquêtes, voire condamnées.
-   par Pascale Pascariello, Antton Rouget et Marine Turchi
+   La justice enquête sur un vaste système de corruption présumée
+   impliquant des policiers et fonctionnaires d'Île-de-France, selon des
+   informations de Mediapart. Au coeur des investigations, une société de
+   mise en fourrière dont le dirigeant a été mis en examen et placé en
+   détention provisoire.
+   par Dan Israel, Camille Polloni et Antton Rouget
 
-   Journal -- France
-   [78]Aux funérailles des Kurdes abattus à Paris : « C'est un assassinat
-   politique »
+   Journal -- Police
+   [78]Photos de suspects et propos racistes : le tableau de chasse d'un
+   policier pro-Zemmour sur Telegram
 
-   Des milliers de membres de la communauté kurde européenne sont venus se
-   recueillir à Villiers-le-Bel pour les funérailles des trois Kurdes tués
-   à Paris le 23 décembre. Avec la conviction que l'État turc est
-   responsable. Comme pour l'attaque, similaire, de 2013.
-   par Célia Mebroukine et Berenice Gabriel
+   Pendant plusieurs mois, Auxane J., gardien de la paix au commissariat
+   du Kremlin-Bicêtre, a posté des photos et des vidéos d'interpellés, et
+   divulgué leurs antécédents judiciaires. Fin décembre, la préfecture de
+   police de Paris a signalé à la justice le comportement de ce
+   fonctionnaire, épinglé par un groupe antifasciste québécois.
+   par Camille Polloni
 
-   Journal -- Chômage
-   [79]Assurance-chômage : le recul tactique du gouvernement
+   Journal -- Extrême droite
+   [79]Chants nazis, homophobie : le pedigree de la nouvelle recrue de
+   l'OL ne choque personne
 
-   Le gouvernement retire le point le plus contesté du décret sur
-   l'assurance-chômage qui prévoyait une baisse de 40 % de la durée
-   d'indemnisation. Syndicats et opposition crient victoire mais la baisse
-   des droits de 25 % est toujours prévue pour février.
-   par Cécile Hautefeuille
+   L'Olympique lyonnais vient de recruter Dejan Lovren, un joueur croate
+   qui s'est récemment distingué par un salut fasciste, un chant
+   nationaliste et des prises de position homophobes. Le fascisme est
+   décidément bien peu de chose face à l'importance de se doter d'un bon
+   défenseur.
+   par Yunnes Abzouz et Ilyes Ramdani
 
    Journal
-   [80]Élisabeth Borne dévoile les premiers contours de la réforme des
-   retraites
+   [80]Boulangers : l'exécutif tente de calmer la surchauffe
 
-   Plutôt 64 que 65 ans pour avoir le droit de toucher une pension, et pas
-   d'augmentation de la durée de cotisation au-delà de 43 annuités : la
-   première ministre a donné des pistes sur ses préférences, avant les
-   annonces officielles du 10 janvier. Les syndicats restent unanimes dans
-   leur hostilité.
-   par Dan Israel
+   Frappés de plein fouet par la hausse des prix des matières premières et
+   de l'énergie, les artisans boulangers craignent de ne pas passer
+   l'année. Le gouvernement annonce de nouvelles mesures, sans forcément
+   convaincre.
+   par Christophe Gueugneau
 
    La sélection du Club
 
-   Billet d'édition
-   [81]1973 : voyage aux confins des rêves et des utopies...
+   Billet de blog
+   [81]Vampirisation des retraites
 
-   « Lorsqu'on rêve tout seul, ce n'est qu'un rêve alors que lorsqu'on
-   rêve à plusieurs c'est déjà une réalité. » ajoutant aussi : « L'utopie
-   partagée, c'est le ressort de l'Histoire. » citations de Helder Camara
-   par edmey
+   Nous manquons aujourd'hui de médecins et si le système ne s'écroule pas
+   complètement, c'est notamment grâce au cumul emploi-retraite de près de
+   15 000 médecins. Dans sa logique libérale des « charges trop lourdes
+   qui handicapent l'emploi », le gouvernement a décidé d'exonérer ces
+   derniers de cotisations de retraite pour l'année 2023. Mesurons les
+   conséquences.
+   par prudhomme1960
 
    Billet de blog
-   [82]1973, année charnière : appel à contribution
+   [82]Nos retraites, nos histoires : témoignages concrets
 
-   En 2023, une série de Mediapart sous forme de « flashback » sur l'année
-   1973 invitera à un voyage dans le temps visant à éclairer aussi notre
-   époque. À partir de ce portrait d'une date, le Club de Mediapart invite
-   les lectrices et lecteurs à participer à fabriquer ce morceau de
-   mémoire collective. Événements historiques ou personnels, films,
-   livres, souvenirs, points de bascule, ou votre propre naissance : que
-   représente l'année 1973 pour vous ? quel chemin parcouru, quelles
-   régularités, quelles discontinuités entre 1973 et 2023 ? À vos
-   contributions !
-   par Le Club Mediapart
+   Pourquoi autant de passions et de questions autour des réformes des
+   retraites ? La retraite concerne tout le monde, différemment, elle
+   interroge le rapport au travail, au repos, à la solidarité. Derrière
+   chaque débat, d'innombrables parcours de vie, histoires intimes. Nous
+   avons voulu mettre en lumière ces témoignages qui disent concrètement
+   ce que représente la retraite.
+   par Collectif Nos Retraites
 
-   Billet d'édition
-   [83]1973, mon entrée à l'usine
+   Billet de blog
+   [83]Les sept perfidies de la réforme des retraites 2023
 
-   L'année précédente, c'est-à-dire 1972, j'ai 17 ans, et je décide
-   d'abandonner le lycée où j'apprends la sténodactylo en vue d'obtenir un
-   CAP, BEP de secrétariat. Je veux travailler à l'usine de jouets située
-   à une vingtaine de kilomètres de mon lieu d'habitation et où il y a de
-   l'embauche.
-   par cléa latert
+   Dans le débat qui s'annonce pour le début de l'année 2023 au sujet de
+   la réforme des retraites, comment peut-on décrypter les discours du
+   président Emmanuel Macron et du gouvernement ? Autant d'arguments
+   avancés, autant de contre-vérités factuelles.
+   par jmharribey
 
-   Billet d'édition
-   [84]Je n'avais jamais vraiment pensé à être féministe
+   Billet de blog
+   [84]Retraites : donnons-nous les moyens d'une grève générale
 
-   Je n'avais jamais vraiment pensé à être féministe. Mais en 1970, une de
-   mes meilleures amies a failli mourir d'un avortement mal fait (en
-   clinique, pourtant). Puis en 1971, une autre amie proche a contracté
-   une septicémie suite à la pose d'une sonde...
-   par Misha
+   Alors que la réforme des retraites est de nouveau à l'ordre du jour, de
+   quels outils disposons-nous, aujourd'hui, pour la combattre ? Quelles
+   perspectives avons-nous pour renouer avec la victoire, après tant
+   d'années de défaites consécutives pour le camp du travail ?
+   par Guillaume Goutte
 
    Newsletters
 
@@ -1112,21 +1114,21 @@ References
   67. https://blogs.mediapart.fr/lounghes/blog/221116/injusticiabilite-de-la-discrimination-raciale-en-france/commentaires
   68. https://www.mediapart.fr/charte-de-participation
   69. https://www.mediapart.fr/journal/international/010123/sauve-par-l-ocean-viking-et-renvoye-au-mali-l-accueil-de-la-france-n-pas-ete-la-hauteur
-  70. https://www.mediapart.fr/journal/france/010123/un-1er-janvier-l-hopital-public-marche-en-avant-vers-le-grand-nulle-part
-  71. https://www.mediapart.fr/journal/culture-et-idees/010123/dans-un-centre-de-torture-de-l-armee-francaise-alger-la-ferme-perrin
-  72. https://www.mediapart.fr/journal/france/311222/les-voeux-secrets-du-president-waly-dia
-  73. https://www.mediapart.fr/journal/international/311222/au-royaume-uni-une-baronne-des-masques-et-un-immense-scandale
+  70. https://www.mediapart.fr/journal/economie-et-social/020123/l-etat-finance-fonds-perdu-et-sans-fondement-la-presse-vieillissante-des-milliardaires
+  71. https://www.mediapart.fr/journal/france/010123/un-1er-janvier-l-hopital-public-marche-en-avant-vers-le-grand-nulle-part
+  72. https://www.mediapart.fr/journal/international/311222/au-royaume-uni-une-baronne-des-masques-et-un-immense-scandale
+  73. https://www.mediapart.fr/journal/politique/020123/maintenant-la-gauche-c-est-quand-qu-va-ou
   74. https://www.mediapart.fr/allan-barte/blog/020123/im-pre-vi-sible
-  75. https://www.mediapart.fr/guillaume-goutte/blog/030123/retraites-donnons-nous-les-moyens-d-une-greve-generale
-  76. https://www.mediapart.fr/sara-calderon/blog/020123/il-nous-faut-l-exemplarite
-  77. https://www.mediapart.fr/journal/france/030123/darmanin-un-representant-de-l-etat-doit-etre-inattaquable-et-respectable-sauf-exception
-  78. https://www.mediapart.fr/journal/france/030123/aux-funerailles-des-kurdes-abattus-paris-c-est-un-assassinat-politique
-  79. https://www.mediapart.fr/journal/economie-et-social/030123/assurance-chomage-le-recul-tactique-du-gouvernement
-  80. https://www.mediapart.fr/journal/economie-et-social/030123/elisabeth-borne-devoile-les-premiers-contours-de-la-reforme-des-retraites
-  81. https://www.mediapart.fr/edition/1973-annee-charniere-une-retrospective-collective/article/020123/1973-voyage-aux-confins-des-reves-et-des-utopies
-  82. https://www.mediapart.fr/le-club-mediapart/blog/261222/1973-annee-charniere-appel-contribution
-  83. https://www.mediapart.fr/edition/1973-annee-charniere-une-retrospective-collective/article/010123/1973-mon-entree-lusine
-  84. https://www.mediapart.fr/edition/1973-annee-charniere-une-retrospective-collective/article/291222/je-n-avais-jamais-vraiment-pense-etre-feministe
+  75. https://www.mediapart.fr/macko-dragan/blog/040123/n-rien-vu-venir
+  76. https://www.mediapart.fr/maxime-combes/blog/040123/qui-aurait-pu-predire-la-crise-climatique-macron-ou-lecologie-du-renoncement
+  77. https://www.mediapart.fr/journal/france/040123/la-justice-soupconne-des-pots-de-vin-entre-des-policiers-et-la-fourriere
+  78. https://www.mediapart.fr/journal/france/040123/photos-de-suspects-et-propos-racistes-le-tableau-de-chasse-d-un-policier-pro-zemmour-sur-telegram
+  79. https://www.mediapart.fr/journal/france/040123/chants-nazis-homophobie-le-pedigree-de-la-nouvelle-recrue-de-l-ol-ne-choque-personne
+  80. https://www.mediapart.fr/journal/economie-et-social/040123/boulangers-l-executif-tente-de-calmer-la-surchauffe
+  81. https://www.mediapart.fr/prudhomme1960/blog/201222/vampirisation-des-retraites
+  82. https://www.mediapart.fr/collectif-nos-retraites/blog/311222/nos-retraites-nos-histoires-temoignages-concrets
+  83. https://www.mediapart.fr/jmharribey/blog/191222/les-sept-perfidies-de-la-reforme-des-retraites-2023
+  84. https://www.mediapart.fr/guillaume-goutte/blog/030123/retraites-donnons-nous-les-moyens-d-une-greve-generale
   85. https://info.mediapart.fr/renderers/page_inscription
   86. https://www.mediapart.fr/journal/international
   87. https://www.mediapart.fr/journal/ecologie

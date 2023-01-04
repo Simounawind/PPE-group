@@ -76,23 +76,23 @@ Quelques chiffres
 
 À lire
 
-   [20]Enjeux de la Société Inclusive : colloque du 3 déc 2022
-   [21]Éducation, [22]Emploi, [23]Événement, [24]Société
+   [20]Panorama de l'hémicycle de l'Assemblée nationale
+   [21]Communiqué de presse
 
-[25]Enjeux de la Société Inclusive : colloque du 3 déc 2022
+[22]Le CRAN dénonce les propos racistes de Grégoire de Fournas député RN et
+demande des sanctions exemplaires
 
-   [26]Equipe de Football France qui pose avant le début du match
+   [23]Equipe de Football France qui pose avant le début du match
    Australie-France durant la coupe du monde FIFA 2022 au Qatar.
-   [27]Communiqué de presse
+   [24]Communiqué de presse
 
-[28]Le CRAN porte plainte après les propos racistes contre les joueurs de
+[25]Le CRAN porte plainte après les propos racistes contre les joueurs de
 l'équipe de France et demande au président de la République d'agir
 
-   [29]Panorama de l'hémicycle de l'Assemblée nationale
-   [30]Communiqué de presse
+   [26]Enjeux de la Société Inclusive : colloque du 3 déc 2022
+   [27]Éducation, [28]Emploi, [29]Événement, [30]Société
 
-[31]Le CRAN dénonce les propos racistes de Grégoire de Fournas député RN et
-demande des sanctions exemplaires
+[31]Enjeux de la Société Inclusive : colloque du 3 déc 2022
 
 Aidez-nous à mettre fin aux discriminations
 
@@ -168,18 +168,18 @@ References
   17. https://www.lecran.org/wp-content/uploads/2022/09/CRAN-63-tns-sofres-premiere-enquete-statistique-sur-les-noirs-de-france.pdf
   18. https://www.lecran.org/wp-content/uploads/2022/09/CRAN-69-barometre-du-gouverment.pdf
   19. https://www.lecran.org/wp-content/uploads/2022/09/CRAN-78-guide-des-bonnes-pratiques-contre-le-racisme-a-l-usage-des-maires-de-france.pdf
-  20. https://www.lecran.org/evenement/enjeux-de-la-societe-inclusive-colloque-du-3-dec-2022/
-  21. https://www.lecran.org/category/education/
-  22. https://www.lecran.org/category/emploi/
-  23. https://www.lecran.org/category/evenement/
-  24. https://www.lecran.org/category/societe/
-  25. https://www.lecran.org/evenement/enjeux-de-la-societe-inclusive-colloque-du-3-dec-2022/
-  26. https://www.lecran.org/communique-de-presse/le-cran-porte-plainte-apres-les-propos-racistes-contre-les-joueurs-de-lequipe-de-france-et-demande-au-president-de-la-republique-dagir/
-  27. https://www.lecran.org/category/communique-de-presse/
-  28. https://www.lecran.org/communique-de-presse/le-cran-porte-plainte-apres-les-propos-racistes-contre-les-joueurs-de-lequipe-de-france-et-demande-au-president-de-la-republique-dagir/
-  29. https://www.lecran.org/communique-de-presse/logement-et-racisme-un-an-denquete-sur-les-discriminations/
-  30. https://www.lecran.org/category/communique-de-presse/
-  31. https://www.lecran.org/communique-de-presse/logement-et-racisme-un-an-denquete-sur-les-discriminations/
+  20. https://www.lecran.org/communique-de-presse/logement-et-racisme-un-an-denquete-sur-les-discriminations/
+  21. https://www.lecran.org/category/communique-de-presse/
+  22. https://www.lecran.org/communique-de-presse/logement-et-racisme-un-an-denquete-sur-les-discriminations/
+  23. https://www.lecran.org/communique-de-presse/le-cran-porte-plainte-apres-les-propos-racistes-contre-les-joueurs-de-lequipe-de-france-et-demande-au-president-de-la-republique-dagir/
+  24. https://www.lecran.org/category/communique-de-presse/
+  25. https://www.lecran.org/communique-de-presse/le-cran-porte-plainte-apres-les-propos-racistes-contre-les-joueurs-de-lequipe-de-france-et-demande-au-president-de-la-republique-dagir/
+  26. https://www.lecran.org/evenement/enjeux-de-la-societe-inclusive-colloque-du-3-dec-2022/
+  27. https://www.lecran.org/category/education/
+  28. https://www.lecran.org/category/emploi/
+  29. https://www.lecran.org/category/evenement/
+  30. https://www.lecran.org/category/societe/
+  31. https://www.lecran.org/evenement/enjeux-de-la-societe-inclusive-colloque-du-3-dec-2022/
   32. https://www.lecran.org/faire-un-don/
   33. https://www.lecran.org/mentions-legales/
   34. https://www.lecran.org/politique-de-confidentialite/

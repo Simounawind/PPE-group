@@ -276,17 +276,20 @@ SOS Racisme déplore la persistance pratiques discriminatoires
    _____________________________________________
 
    En continu
+     * Economie Baromètre immobilier LPI : Des prix en hausse dans un
+       marché en récession
      * Crédit Crédit immobilier : Des hausses de taux records en janvier
      * Economie Immobilier : « 2022, l'année du retournement de marché »,
        Charles Marinakis, président Century 21
-     * Dans l'actu Immobilier/Bilan Meilleurs Agents : Pas de retournement
-       en 2023 mais un rééquilibrage
      * International Canada : Les étrangers sont interdits d'achats
        immobiliers jusqu'en 2025
      * Rénovation Rénovation énergétique : L'Etat va augmenter les
        plafonds de travaux MaPrimeRénov'
      * Juridique Diagnostic immobilier : Du nouveau pour l'état des
        risques et pollution d'un bien à vendre ou à louer
+     * Assurances Assurance dommages ouvrage : combien ça coûte ?
+     * Acheter / Vendre Immobilier : Tout savoir sur le « nouveau carnet
+       de santé » des logements
      * Entreprises et Start up Métavers immobilier : Les Agences de Papa
        exposent Versity au CES de Las Vegas
      * Podcasts « 4D Kankan, la visite virtuelle immersive nouvelle
@@ -297,10 +300,6 @@ SOS Racisme déplore la persistance pratiques discriminatoires
        (Opera Energie)
      * Crédit Crédit immobilier : Préparez votre dossier sans perdre de
        temps
-     * Environnement Réchauffement climatique : Le retour en grâce des
-       bâtiments en terre crue
-     * Economie Immobilier / Bilan Laforêt : Après l'euphorie, de sérieux
-       signes de ralentissement
 
    [85]Voir la suite
 
@@ -540,19 +539,19 @@ References
  122. https://www.mysweetimmo.com/2022/03/22/location-et-discrimination-raciale-pres-d1-agence-immobiliere-sur-2-accepte-encore-des-demandes-illegales/
  123. javascript:print();
  124. mailto:?subject=Location%20et%20discrimination%20raciale%20:%20Pr%C3%A8s%20d%E2%80%991%20agence%20immobili%C3%A8re%20sur%202%20accepte%20encore%20des%20demandes%20ill%C3%A9gales&body=https://www.mysweetimmo.com/2022/03/22/location-et-discrimination-raciale-pres-d1-agence-immobiliere-sur-2-accepte-encore-des-demandes-illegales/
- 125. https://www.mysweetimmo.com/2023/01/03/credit-immobilier-des-hausses-de-taux-records-en-janvier/
- 126. https://www.mysweetimmo.com/2023/01/03/immobilier-2022-lannee-du-retournement-de-marche-charles-marinakis-president-century-21/
- 127. https://www.mysweetimmo.com/2023/01/02/immobilier-bilan-meilleurs-agents-pas-de-retournement-en-2023-mais-un-reequilibrage/
+ 125. https://www.mysweetimmo.com/2023/01/04/barometre-immobilier-lpi-des-prix-en-hausse-dans-un-marche-en-recession/
+ 126. https://www.mysweetimmo.com/2023/01/03/credit-immobilier-des-hausses-de-taux-records-en-janvier/
+ 127. https://www.mysweetimmo.com/2023/01/03/immobilier-2022-lannee-du-retournement-de-marche-charles-marinakis-president-century-21/
  128. https://www.mysweetimmo.com/2023/01/02/canada-les-etrangers-sont-interdits-dachats-immobiliers-jusquen-2025/
  129. https://www.mysweetimmo.com/2023/01/01/renovation-energetique-letat-va-augmenter-les-plafonds-de-travaux-maprimerenov/
  130. https://www.mysweetimmo.com/2022/12/31/diagnostic-immobilier-du-nouveau-pour-letat-des-risques-et-pollution-dun-bien-a-vendre-ou-a-louer/
- 131. https://www.mysweetimmo.com/2023/01/04/metavers-immobilier-les-agences-de-papa-exposent-versity-au-ces-de-las-vegas/
- 132. https://www.mysweetimmo.com/2023/01/04/4d-kankan-la-visite-virtuelle-immersive-nouvelle-generation-olivier-ranjard-vizite/
- 133. https://www.mysweetimmo.com/2023/01/03/pouvoir-dachat-immobilier-les-francais-peuvent-acheter-13-metres-carres-de-moins-quil-y-a-un-an/
- 134. https://www.mysweetimmo.com/2023/01/03/une-web-serie-sur-la-copropriete-julien-martinez-opera-energie/
- 135. https://www.mysweetimmo.com/2023/01/02/credit-immobilier-preparez-votre-dossier-sans-perdre-de-temps/
- 136. https://www.mysweetimmo.com/2023/01/02/rechauffement-climatique-le-retour-en-grace-des-batiments-en-terre-crue/
- 137. https://www.mysweetimmo.com/2023/01/02/immobilier-bilan-laforet-apres-leuphorie-de-serieux-signes-de-ralentissement/
+ 131. https://www.mysweetimmo.com/2023/01/04/assurance-dommages-ouvrage-combien-ca-coute/
+ 132. https://www.mysweetimmo.com/2023/01/04/immobilier-tout-savoir-sur-le-nouveau-carnet-de-sante-des-logements/
+ 133. https://www.mysweetimmo.com/2023/01/04/metavers-immobilier-les-agences-de-papa-exposent-versity-au-ces-de-las-vegas/
+ 134. https://www.mysweetimmo.com/2023/01/04/4d-kankan-la-visite-virtuelle-immersive-nouvelle-generation-olivier-ranjard-vizite/
+ 135. https://www.mysweetimmo.com/2023/01/03/pouvoir-dachat-immobilier-les-francais-peuvent-acheter-13-metres-carres-de-moins-quil-y-a-un-an/
+ 136. https://www.mysweetimmo.com/2023/01/03/une-web-serie-sur-la-copropriete-julien-martinez-opera-energie/
+ 137. https://www.mysweetimmo.com/2023/01/02/credit-immobilier-preparez-votre-dossier-sans-perdre-de-temps/
  138. https://www.mysweetimmo.com/2022/12/14/reforme-des-retraites-a-quoi-doit-on-sattendre-en-2023/
  139. https://www.mysweetimmo.com/2022/12/14/marche-immobilier-les-acheteurs-reprennent-la-main/
  140. https://www.mysweetimmo.com/2023/01/01/renovation-energetique-letat-va-augmenter-les-plafonds-de-travaux-maprimerenov/

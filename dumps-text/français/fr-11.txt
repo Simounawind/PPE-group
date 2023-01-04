@@ -136,53 +136,54 @@ Des couples tests d'origines différentes
      * [56]Lus
      * [57]Commentés
 
-     * 1 [58]Monde. VIDEO. Ce clip de propagande russe compare la France à
+     * 1 [58]Faits divers. Le père de famille de 37 ans disparu depuis le
+       lendemain de Noël a finalement été retrouvé, il faisait la manche
+     * 2 [59]Monde. VIDEO. Ce clip de propagande russe compare la France à
        un rat appelé "Emmanuel", tué par un soldat de Wagner
-     * 2 [59]Faits divers. Un enfant de 6 ans appelle à l'aide par la
+     * 3 [60]Faits divers. Un enfant de 6 ans appelle à l'aide par la
        fenêtre : ses parents sont découverts inanimés dans l'appartement
-     * 3 [60]Société. Horoscope 2023 : amour, argent, santé... découvrez
+     * 4 [61]Société. Horoscope 2023 : amour, argent, santé... découvrez
        signe par signe ce que vous réserve cette nouvelle année
-     * 4 [61]Animaux. Colombie : la découverte de l'unique ocelot albinos
+     * 5 [62]Animaux. Colombie : la découverte de l'unique ocelot albinos
        connu au monde est une très mauvaise nouvelle pour l'espèce
-     * 5 [62]Santé. Régime après les fêtes : des scientifiques ont
-       découvert comment ne pas grossir après une perte de poids
 
-     * 1 [63]Economie. "La situation est dramatique" : l'appel à l'aide
-       des boulangers, écrasés par la hausse des factures d'électricité
-     * 2 [64]Economie. Crise de l'énergie : les boulangers pourront
-       résilier leur contrat sans frais, annonce Bruno Le Maire
-     * 3 [65]Justice. Tribunal d'Alès : apologie du terrorisme et "haine
-       des bleus" mènent un jeune au casier judiciaire vierge en détention
-     * 4 [66]Transports. Transports : Carole Delga propose de créer un
-       "Airbus ferroviaire au niveau européen"
+     * 1 [63]Cinéma. "C'est en Afrique, vous êtes moins atteints ?" : Omar
+       Sy et la question qui fâche sur le rapport des Français aux guerres
+     * 2 [64]Guerre en Ukraine. Guerre en Ukraine : la France va livrer
+       des chars de combat légers à Kiev, promet Macron à Zelensky
+     * 3 [65]Cinéma. Pour "Tirailleurs", son nouveau film en salles ce
+       mercredi 4 janvier, Omar Sy s'est engagé comme jamais
+     * 4 [66]Guerre en Ukraine. Guerre en Ukraine : un passage en 2023
+       sous les frappes russes peu après les voeux de Zelensky
      * 5 [67]Télé-médias. Audiences TV 2022 : TF1 au plus bas malgré la
        Coupe du monde, les chaînes d'informations tirent leur épingle du
        jeu
 
    À lire aussi de Société
-     * 1 [68]Société. Daniel Cammal, figure emblématique de Valergues,
-       nous a quittés
-     * 2 [69]Faits divers. Sète : les pompiers toujours à pied d'oeuvre
-       face à un nouveau départ de feu place Delille
-     * 3 [70]Société. Le temps du recensement de la population est revenu
-     * 4 [71]Urbanisme. Agde : sur l'avenir de l'ancien palais des Congrès
-       du Cap, nos lecteurs ont des idées
-     * 5 [72]Société. Un bouquet de bébés pour la fin de l'année dans les
-       maternités de Sète
+     * 1 [68]Faits divers. Sète : face à la décision d'arrêté partiel
+       rendue par les experts, la colère d'un locataire touché par
+       l'incendié place Delille
+     * 2 [69]Coronavirus. Covid en Chine : l'Association internationale du
+       transport aérien juge le test des voyageurs impulsif et inefficace
+     * 3 [70]Société. Montpellier : les inscriptions scolaires pour la
+       rentrée 2023/2024 c'est pour bientôt
+     * 4 [71]Economie. Réforme des retraites : êtes-vous concerné par la
+       pension minimale à 1 200 euros annoncée ?
+     * 5 [72]Société. Panne d'internet depuis trois mois : la situation
+       enlisée d'un Soumontais
 
    [73][image.jpg]
    Aussi à la une
-     * 1 [74]Faits divers. Grave accident à Milhaud : un homme de 30 ans
-       meurt dans un choc frontal, un autre en urgence absolue
-     * 2 [75]Votre argent. Inflation : les prix à la consommation
-       augmentent de 5,9 % sur un an en décembre 2022
-     * 3 [76]Faits divers. "Est-ce que j'ai raté quelque chose ?" : le
-       nouveau témoignage d'un ami de Leslie et Kévin disparus dans les
-       Deux-Sèvres
-     * 4 [77]Faits divers. Disparition inquiétante : un père de famille de
-       37 ans n'a plus donné signe de vie depuis le lendemain de Noël
-     * 5 [78]Santé. Pénurie de médicaments : "Il y a un problème avec le
-       paracétamol", alerte la présidente du Covars
+     * 1 [74]Transports. Vignettes, véhicules, amendes... la ZFE a franchi
+       sa deuxième étape à Montpellier, les questions qui se posent
+     * 2 [75]Politique. Réforme des retraites : Philippe Martinez fustige
+       Elisabeth Borne et dénonce le manque d'écoute du gouvernement
+     * 3 [76]Faits divers. L'homme tué par balles à Montpellier serait
+       "une figure du milieu des stups" de Cavaillon
+     * 4 [77]Santé. Force Ouvrière lance un appel à la "grève illimitée"
+       dans les hôpitaux à partir du 10 janvier prochain
+     * 5 [78]Santé. Santé : les tarifs des mutuelles en hausse de 4,7 % en
+       moyenne cette année, les contrats collectifs les plus impactés
 
    Suivez-nous
      *
@@ -277,27 +278,27 @@ References
   55. https://www.midilibre.fr/auteur/melissa-simon
   56. https://www.midilibre.fr/2022/08/11/plus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale-10483714.php#top-lus
   57. https://www.midilibre.fr/2022/08/11/plus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale-10483714.php#top-comments
-  58. https://www.midilibre.fr/2022/12/30/video-dans-un-clip-de-propagande-russe-la-france-est-comparee-a-un-rat-appele-emmanuel-que-tue-un-soldat-de-wagner-10896543.php
-  59. https://www.midilibre.fr/2023/01/01/un-enfant-de-6-ans-appelle-a-laide-par-la-fenetre-ses-parents-sont-decouverts-inanimes-dans-lappartement-10899007.php
-  60. https://www.midilibre.fr/2023/01/01/horoscope-decouvrez-signe-par-signe-ce-que-vous-reserve-lannee-2023-10892879.php
-  61. https://www.midilibre.fr/2022/12/30/colombie-la-decouverte-de-lunique-ocelot-albinos-connu-au-monde-est-une-tres-mauvaise-nouvelle-pour-lespece-10896473.php
-  62. https://www.midilibre.fr/2023/01/01/regime-apres-les-fetes-des-scientifiques-ont-decouvert-comment-ne-pas-grossir-apres-une-perte-de-poids-10896100.php
-  63. https://www.midilibre.fr/2023/01/03/la-situation-est-dramatique-lappel-a-laide-des-boulangers-ecrases-par-la-hausse-des-factures-delectricite-10902227.php
-  64. https://www.midilibre.fr/2023/01/03/crise-de-lenergie-les-boulangers-pourront-resilier-leur-contrat-sans-frais-annonce-bruno-le-maire-10902143.php
-  65. https://www.midilibre.fr/2022/12/30/tribunal-dales-apologie-du-terrorisme-et-haine-des-bleus-menent-un-jeune-au-casier-judiciaire-vierge-en-detention-10896210.php
-  66. https://www.midilibre.fr/2023/01/04/transports-carole-delga-propose-de-creer-un-airbus-ferroviaire-au-niveau-europeen-10903493.php
+  58. https://www.midilibre.fr/2023/01/04/disparition-inquietante-un-pere-de-famille-de-37-ans-na-plus-donne-signe-de-vie-depuis-le-lendemain-de-noel-10903463.php
+  59. https://www.midilibre.fr/2022/12/30/video-dans-un-clip-de-propagande-russe-la-france-est-comparee-a-un-rat-appele-emmanuel-que-tue-un-soldat-de-wagner-10896543.php
+  60. https://www.midilibre.fr/2023/01/01/un-enfant-de-6-ans-appelle-a-laide-par-la-fenetre-ses-parents-sont-decouverts-inanimes-dans-lappartement-10899007.php
+  61. https://www.midilibre.fr/2023/01/01/horoscope-decouvrez-signe-par-signe-ce-que-vous-reserve-lannee-2023-10892879.php
+  62. https://www.midilibre.fr/2022/12/30/colombie-la-decouverte-de-lunique-ocelot-albinos-connu-au-monde-est-une-tres-mauvaise-nouvelle-pour-lespece-10896473.php
+  63. https://www.midilibre.fr/2023/01/02/cest-en-afrique-vous-etes-moins-atteints-omar-sy-et-la-question-qui-fache-sur-le-rapport-des-francais-aux-guerres-10900085.php
+  64. https://www.midilibre.fr/2023/01/04/guerre-en-ukraine-la-france-va-livrer-des-chars-de-combats-a-kiev-promet-emmanuel-macron-a-volodimir-zelensky-10904467.php
+  65. https://www.midilibre.fr/2023/01/03/pour-tirailleurs-son-nouveau-film-en-salles-ce-mercredi-4-janvier-la-star-omar-sy-sest-engagee-comme-jamais-10901977.php
+  66. https://www.midilibre.fr/2023/01/01/guerre-en-ukraine-un-passage-en-2023-sous-les-frappes-russes-peu-apres-les-voeux-de-zelensky-10898721.php
   67. https://www.midilibre.fr/2023/01/02/audiences-tv-2022-tf1-au-plus-bas-malgre-la-coupe-du-monde-les-chaines-dinformations-tirent-leur-epingle-du-jeu-10900802.php
-  68. https://www.midilibre.fr/2023/01/04/daniel-cammal-figure-emblematique-de-valergues-nous-a-quittes-10903623.php
-  69. https://www.midilibre.fr/2023/01/04/sete-les-pompiers-toujours-a-pied-doeuvre-face-a-un-nouveau-depart-de-feu-place-delille-10903598.php
-  70. https://www.midilibre.fr/2023/01/04/le-temps-du-recensement-de-la-population-est-revenu-10903607.php
-  71. https://www.midilibre.fr/2023/01/04/agde-sur-lavenir-de-lancien-palais-des-congres-du-cap-nos-lecteurs-ont-des-idees-10903517.php
-  72. https://www.midilibre.fr/2023/01/04/un-bouquet-de-bebes-pour-la-fin-de-lannee-dans-les-maternites-de-sete-10902356.php
+  68. https://www.midilibre.fr/2023/01/04/sete-on-nous-a-laisses-a-la-rue-la-colere-dun-habitant-voisin-de-limmeuble-incendie-place-delille-10904474.php
+  69. https://www.midilibre.fr/2023/01/04/covid-en-chine-lassociation-internationale-du-transport-aerien-juge-le-test-des-voyageurs-impulsif-et-inefficace-10903898.php
+  70. https://www.midilibre.fr/2023/01/04/montpellier-les-inscriptions-scolaires-pour-la-rentree-20232024-cest-pour-bientot-10904124.php
+  71. https://www.midilibre.fr/2023/01/04/reforme-des-retraites-etes-vous-concerne-par-la-pension-minimale-a-1-200-euros-annoncee-10903762.php
+  72. https://www.midilibre.fr/2023/01/04/panne-dinternet-depuis-trois-mois-la-situation-enlisee-dun-soumontais-10904131.php
   73. https://abonnement.midilibre.fr/site/midilibrev2/default/fr/abonnement/boutique.html#xtor=CS1-1-[mdl]-[bloc]-[sidebare]-[bloc_boutique]
-  74. https://www.midilibre.fr/2023/01/04/grave-accident-a-milhaud-un-homme-de-30-ans-meurt-dans-un-choc-frontal-un-autre-en-urgence-absolue-10903470.php
-  75. https://www.midilibre.fr/2023/01/04/inflation-les-prix-a-la-consommation-augmentent-de-59-sur-un-an-en-decembre-2022-10903584.php
-  76. https://www.midilibre.fr/2023/01/04/est-ce-que-jai-rate-quelque-chose-le-nouveau-temoignage-dun-ami-de-leslie-et-kevin-disparus-dans-les-deux-sevres-10903481.php
-  77. https://www.midilibre.fr/2023/01/04/disparition-inquietante-un-pere-de-famille-de-37-ans-na-plus-donne-signe-de-vie-depuis-le-lendemain-de-noel-10903463.php
-  78. https://www.midilibre.fr/2023/01/04/penurie-de-medicaments-il-y-a-un-probleme-avec-le-paracetamol-alerte-la-presidente-du-covars-10903471.php
+  74. https://www.midilibre.fr/2023/01/04/vignettes-vehicules-amendes-la-zfe-a-franchi-sa-deuxieme-etape-a-montpellier-les-questions-qui-se-posent-10904516.php
+  75. https://www.midilibre.fr/2023/01/04/reforme-des-retraites-philippe-martinez-fustige-elisabeth-borne-et-denonce-le-manque-decoute-du-gouvernement-10904799.php
+  76. https://www.midilibre.fr/2023/01/04/lhomme-tue-par-balles-a-montpellier-serait-une-figure-du-milieu-des-stups-de-cavaillon-10904696.php
+  77. https://www.midilibre.fr/2023/01/04/force-ouvriere-lance-un-appel-a-la-greve-illimitee-dans-les-hopitaux-a-partir-du-10-janvier-prochain-10904769.php
+  78. https://www.midilibre.fr/2023/01/04/sante-les-tarifs-des-mutuelles-en-hausse-de-47-en-moyenne-cette-annee-les-contrats-collectifs-les-plus-impactes-10904647.php
   79. https://www.midilibre.fr/videos/
   80. https://avis-deces.midilibre.fr/
   81. http://tvmag.midilibre.fr/
