@@ -1,116 +1,23 @@
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-Can you tackle systemic racism without confronting race?
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt:   A century-old debate over `colorblind' remedies for racial
-../dumps-text/en-34.txt-   discrimination continues today.
-../dumps-text/en-34.txt-   Avatar photo Avatar photo by [86]April Simpson October 21, 2022October
-../dumps-text/en-34.txt-   20, 2022
+   on grounds that it discriminated against white farmers.
+
+   The U.S. has long been caught in a tug of war over whether race can be
+   used as a remedy for racial discrimination. The U.S. Supreme Court,
+   which has historically interpreted the Constitution to prohibit many
+   race-specific measures, will hear oral arguments this fall in cases
+   against Harvard University and the University of North Carolina at
 --
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-   "A socially disadvantaged group," according to U.S. Department of
-../dumps-text/en-34.txt-   Agriculture [91]policy guidelines, "is a group whose members have been
-../dumps-text/en-34.txt:   subject to racial or ethnic prejudice because of their identity as
-../dumps-text/en-34.txt-   members of a group without regard to their individual qualities." They
-../dumps-text/en-34.txt-   include African Americans, American Indians, Alaskan Natives, Asians,
-../dumps-text/en-34.txt-   Hispanics, Native Hawaiians and Pacific Islanders.
+
+   In a broader context, though, the situation illustrates the difficult
+   dilemma for efforts to address racial disparities. How can you
+   ameliorate racial discrimination without spelling out its causes and
+   effects?
+
+   "It's like saying you want to address gender issues, but you can't do
 --
-../dumps-text/en-34.txt-   on grounds that it discriminated against white farmers.
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-   The U.S. has long been caught in a tug of war over whether race can be
-../dumps-text/en-34.txt:   used as a remedy for racial discrimination. The U.S. Supreme Court,
-../dumps-text/en-34.txt-   which has historically interpreted the Constitution to prohibit many
-../dumps-text/en-34.txt-   race-specific measures, will hear oral arguments this fall in cases
-../dumps-text/en-34.txt-   against Harvard University and the University of North Carolina at
---
-../dumps-text/en-34.txt-   race and ethnicity in admissions.
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-   On his first day in office, Biden issued an executive order to advance
-../dumps-text/en-34.txt:   racial equity across the federal government. The USDA program to cancel
-../dumps-text/en-34.txt-   certain loan debts held by socially disadvantaged farmers was
-../dumps-text/en-34.txt-   considered an important early step toward fulfilling that promise. But
-../dumps-text/en-34.txt-   legal challenges prevented the program from taking effect.
---
-../dumps-text/en-34.txt-   whether implementation will bear this out.
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-   In a broader context, though, the situation illustrates the difficult
-../dumps-text/en-34.txt:   dilemma for efforts to address racial disparities. How can you
-../dumps-text/en-34.txt:   ameliorate racial discrimination without spelling out its causes and
-../dumps-text/en-34.txt-   effects?
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-   "It's like saying you want to address gender issues, but you can't do
---
-../dumps-text/en-34.txt-   Law School, said in a recent interview.
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-   "In our society," he said, "the legal norms are kind of opposed to
-../dumps-text/en-34.txt:   focusing on race, per se. We want to have racial equality, equity and
-../dumps-text/en-34.txt-   justice, and all this, but we don't want to single race out or treat
-../dumps-text/en-34.txt-   people differently on account of race, and that does make it difficult
-../dumps-text/en-34.txt-   to address race-based inequities if we don't take race into account
---
-../dumps-text/en-34.txt-   farmers are the named plaintiffs in the class-action lawsuit.
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-   Advocates say that the current economic hardships help explain the
-../dumps-text/en-34.txt:   racial differences in loan delinquency the Center for Public Integrity
-../dumps-text/en-34.txt-   found in 2022 USDA data.
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-   "Unfortunately, some of the farmers who were struggling before, now,
---
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-The case for (and against) colorblindness
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt:   The debate over "colorblind" remedies for racial discrimination has a
-../dumps-text/en-34.txt-   history of more than 120 years in U.S. constitutional law.
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-   Justice John Marshall Harlan, the lone dissenter in the Supreme Court's
---
-../dumps-text/en-34.txt-   There is no other way," Blackmun wrote. "And in order to treat some
-../dumps-text/en-34.txt-   persons equally, we must treat them differently. We cannot--we dare
-../dumps-text/en-34.txt-   not--let the Equal Protection Clause [of the 14th Amendment] perpetuate
-../dumps-text/en-34.txt:   racial superiority."
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-   But others argue that colorblindness aligns with the country's founding
-../dumps-text/en-34.txt-   principles. Peter C. Myers, a professor emeritus of political science
---
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-   Adia Harvey Wingfield, a sociology professor at Washington University
-../dumps-text/en-34.txt-   in St. Louis, said some past efforts to remedy race-based problems in
-../dumps-text/en-34.txt:   colorblind ways have widened or exacerbated racial inequality.
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-   Minimum wage and Social Security laws, for example, did not adequately
-../dumps-text/en-34.txt-   address the situation of the disproportionately large number of Black
---
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-   "One of the things that's so useful about historical research from that
-../dumps-text/en-34.txt-   time period is that it shows multiple examples of race-blind public
-../dumps-text/en-34.txt:   policy that still made sure racial inequality stayed in place,"
-../dumps-text/en-34.txt-   Wingfield said in a recent interview.
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt:   "Trying to solve racial inequality by not talking about racial
-../dumps-text/en-34.txt:   inequality doesn't reduce racial inequality," she said. "It leaves it
-../dumps-text/en-34.txt-   there to continue to be perpetuated in existing forms."
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-Related
---
-../dumps-text/en-34.txt-     *
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-   April Simpson joined the Center for Public Integrity in October 2020 as
-../dumps-text/en-34.txt:   a senior reporter covering racial... [105]More by April Simpson
-../dumps-text/en-34.txt-
-../dumps-text/en-34.txt-WHO WE ARE
-../dumps-text/en-34.txt-
---
-../dumps-text/en-34.txt-   <p>"Unfortunately, some of the farmers who were struggling b
-../dumps-text/en-34.txt-   <p>But on the call with reporters Tuesday, Secretary Vilsack
-../dumps-text/en-34.txt-   <h2 id="h-the-case-for-and-against-colorblindness">The case 
-../dumps-text/en-34.txt:   <p>The debate over "colorblind" remedies for racial discrimi
-../dumps-text/en-34.txt-   <p>Justice John Marshall Harlan, the lone dissenter in the S
-../dumps-text/en-34.txt-   <p>"The white race deems itself to be the dominant race in t
-../dumps-text/en-34.txt-   <p>"But in view of the Constitution, in the eye of the law, 
---
-../dumps-text/en-34.txt-   <p>The G.I. Bill, which offered World War II veterans a rang
-../dumps-text/en-34.txt-   <p>And while legal school segregation was technically elimin
-../dumps-text/en-34.txt-   <p>"One of the things that's so useful about historical rese
-../dumps-text/en-34.txt:   <p>"Trying to solve racial inequality by not talking about r
-../dumps-text/en-34.txt-   ____________________________________________________________
-../dumps-text/en-34.txt-   ____________________________________________________________
-../dumps-text/en-34.txt-    <p>This <a target="_blank" href="https://publicintegrity.or
+
+The case for (and against) colorblindness
+
+   The debate over "colorblind" remedies for racial discrimination has a
+   history of more than 120 years in U.S. constitutional law.
+
+   Justice John Marshall Harlan, the lone dissenter in the Supreme Court's

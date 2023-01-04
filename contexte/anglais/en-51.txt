@@ -1,27 +1,7 @@
-../dumps-text/en-51.txt-
-../dumps-text/en-51.txt-   On Dec. 7, a screenshot was posted in a group chat between many Black
-../dumps-text/en-51.txt-   students on the MU campus.  The screenshot displayed an alleged
-../dumps-text/en-51.txt:   Snapchat post of MU student Megan Miller using a racial slur and
-../dumps-text/en-51.txt-   promoting violence toward Black people, and it quickly circulated via
-../dumps-text/en-51.txt-   social media. It is unknown when the post was originally created.
-../dumps-text/en-51.txt-
---
-../dumps-text/en-51.txt-   Four days later, a [44]protest organized by MU students Alana Hayes and
-../dumps-text/en-51.txt-   MarKeia "Nova" Kellogg was held in Speakers Circle to urge MU to
-../dumps-text/en-51.txt-   formally condemn white supremacy and to take preventative measures
-../dumps-text/en-51.txt:   against racial discrimination on campus.
-../dumps-text/en-51.txt-
-../dumps-text/en-51.txt-   The MU administration did not issue any statements condemning white
-../dumps-text/en-51.txt-   supremacy or the posters as demanded by protestors.
---
-../dumps-text/en-51.txt-  41. https://showme.missouri.edu/2022/mu-condemns-racist-social-media-post-places-matter-under-review/
-../dumps-text/en-51.txt-  42. https://twitter.com/MizzouFails
-../dumps-text/en-51.txt-  43. https://mizzoudata.imodules.com/controls/email_marketing/view_in_browser.aspx?sid=1002&gid=1005&sendId=3919689&ecatid=150&puid=b9b10629-9513-4288-ac79-46a8ef3d5165
-../dumps-text/en-51.txt:  44. https://themaneater.com/students-highlight-racial-discrimination-in-protest/
-../dumps-text/en-51.txt-  45. https://www.documentcloud.org/documents/2730221-Concerned-Student-1950-List-of-Demands.html
-../dumps-text/en-51.txt:  46. https://www.nbcnews.com/news/us-news/tim-wolfe-university-missouri-president-says-hes-resigning-amid-racial-n459941
-../dumps-text/en-51.txt-  47. https://www.suny.edu/sunycon/2015/speakers/tim-wolfe/
-../dumps-text/en-51.txt:  48. https://www.columbiamissourian.com/news/higher_education/racial-climate-at-mu-a-timeline-of-incidents-in-fall-2015/article_0c96f986-84c6-11e5-a38f-2bd0aab0bf74.html
-../dumps-text/en-51.txt-  49. https://www.google.com/recaptcha/api/fallback?k=6Leq4RkiAAAAAN1meTkAf-stzonjDATsBGIGJ2IL
-../dumps-text/en-51.txt-  50. https://mizzougivedirect.missouri.edu/Item.aspx?item_id=297
-../dumps-text/en-51.txt-  51. https://themaneater.com/
+   Four days later, a [44]protest organized by MU students Alana Hayes and
+   MarKeia "Nova" Kellogg was held in Speakers Circle to urge MU to
+   formally condemn white supremacy and to take preventative measures
+   against racial discrimination on campus.
+
+   The MU administration did not issue any statements condemning white
+   supremacy or the posters as demanded by protestors.

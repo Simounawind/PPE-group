@@ -1,66 +1,7 @@
-../dumps-text/en-16.txt-
-../dumps-text/en-16.txt-   Many white Americans believe that race is no longer central to one's
-../dumps-text/en-16.txt-   opportunities in life, and that we're well on our way to systemic
-../dumps-text/en-16.txt:   racial equality. Are these beliefs accurate? While it's often difficult
-../dumps-text/en-16.txt-   to measure levels of discrimination over time, research into hiring
-../dumps-text/en-16.txt-   discrimination shows that black Americans still face discrimination in
-../dumps-text/en-16.txt-   the hiring process. A meta-analysis of callback rates from all existing
---
-../dumps-text/en-16.txt-   Race is often at the forefront of American conversation. It has lately
-../dumps-text/en-16.txt-   emerged with new urgency around discussions of policing, immigration,
-../dumps-text/en-16.txt-   First Amendment rights, and even professional football. And yet even as
-../dumps-text/en-16.txt:   we are confronted with [77]dramatic examples of ongoing racial
-../dumps-text/en-16.txt-   tensions, most white Americans remain convinced that [78]race is no
-../dumps-text/en-16.txt-   longer central to one's opportunities in life. [79]Polling data shows
-../dumps-text/en-16.txt-   that many believe these lingering conflicts represent the actions of a
-../dumps-text/en-16.txt-   few bad apples and aren't in sync with the larger trend toward systemic
-../dumps-text/en-16.txt:   racial equality.
-../dumps-text/en-16.txt-
-../dumps-text/en-16.txt-   Are these beliefs accurate? What do we know about long-term trends in
-../dumps-text/en-16.txt:   racial discrimination?
-../dumps-text/en-16.txt-
-../dumps-text/en-16.txt-   Discrimination, given how it often manifests subtly, is notoriously
-../dumps-text/en-16.txt-   difficult to measure in any context. And until recently we have not had
---
-../dumps-text/en-16.txt-   discrimination over time. However, in [80]our recent study, published
-../dumps-text/en-16.txt-   in the Proceedings of the National Academy of Sciences, we were able to
-../dumps-text/en-16.txt-   analyze trends in discrimination by performing a meta-analysis from all
-../dumps-text/en-16.txt:   available field experiments pertaining to one area: racial
-../dumps-text/en-16.txt-   discrimination in hiring. We focused on experiments performed since
-../dumps-text/en-16.txt-   1990, when field studies became more numerous and their
-../dumps-text/en-16.txt-   methodologically improved. We analyzed data from 24 field experiments,
---
-../dumps-text/en-16.txt-   treatment regardless of race has increased. Americans appear to have
-../dumps-text/en-16.txt-   become more concerned with diversity and inclusion and, [84]in a small
-../dumps-text/en-16.txt-   number of elite firms, affirmative action practices have made
-../dumps-text/en-16.txt:   meaningful changes in the opportunities available to racial minorities.
-../dumps-text/en-16.txt-
-../dumps-text/en-16.txt:   At the same time, however, assessments of subtle forms of racial
-../dumps-text/en-16.txt-   stereotypes and measures of unconscious bias have [85]shown little
-../dumps-text/en-16.txt-   change [86]over time. The vast majority of hiring is subject to very
-../dumps-text/en-16.txt:   little oversight, and compensatory policies that address racial bias
-../dumps-text/en-16.txt-   reach a very small fraction of hiring overall. Together, these trends
-../dumps-text/en-16.txt:   offer little support for optimism about racial progress in the United
-../dumps-text/en-16.txt-   States. While some people may assume that discrimination has declined
-../dumps-text/en-16.txt-   over time, through increasing diversity in institutions along with
-../dumps-text/en-16.txt-   other cultural changes, it seems as though, at least in terms of
---
-../dumps-text/en-16.txt-   We believe that our results provide a strong rationale for affirmative
-../dumps-text/en-16.txt-   action policies and point to the continuing need for the enforcement of
-../dumps-text/en-16.txt-   antidiscrimination legislation. Even among well-intended employers,
-../dumps-text/en-16.txt:   racial bias may lurk in hiring decisions. Whether conscious or not,
-../dumps-text/en-16.txt-   bias continues to affect decision making, and we find little evidence
-../dumps-text/en-16.txt-   that this pattern will diminish on its own. Instead, more active
-../dumps-text/en-16.txt-   intervention may be needed to reduce discrimination at the point of
---
-../dumps-text/en-16.txt-  75. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years?language=es
-../dumps-text/en-16.txt-  76. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years?language=pt
-../dumps-text/en-16.txt-  77. https://www.washingtonpost.com/local/public-safety/study-charlottesville-white-supremacist-rally-in-august-drew-attendees-from-35-states/2017/10/08/fe57868e-ac45-11e7-a908-a3470754bbb9_story.html?utm_term=.7e76955d6e86
-../dumps-text/en-16.txt:  78. https://www.washingtonpost.com/news/wonk/wp/2014/10/08/white-people-think-racial-discrimination-in-america-is-basically-over/?utm_term=.4f5407ff98e7
-../dumps-text/en-16.txt-  79. http://www.pewsocialtrends.org/2016/06/27/on-views-of-race-and-inequality-blacks-and-whites-are-worlds-apart/
-../dumps-text/en-16.txt-  80. http://www.pnas.org/content/114/41/10870.full
-../dumps-text/en-16.txt:  81. https://www.nap.edu/catalog/10887/measuring-racial-discrimination
-../dumps-text/en-16.txt:  82. http://igpa.uillinois.edu/programs/racial-attitudes
-../dumps-text/en-16.txt-  83. http://www.hup.harvard.edu/catalog.php?isbn=9780674745698
-../dumps-text/en-16.txt-  84. https://www.amazon.com/Realities-Affirmative-Action-Employment-Barbara/dp/0912764368
-../dumps-text/en-16.txt-  85. http://journals.sagepub.com/doi/abs/10.1111/1467-9280.00262
+   racial equality.
+
+   Are these beliefs accurate? What do we know about long-term trends in
+   racial discrimination?
+
+   Discrimination, given how it often manifests subtly, is notoriously
+   difficult to measure in any context. And until recently we have not had

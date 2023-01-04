@@ -1,35 +1,15 @@
-../dumps-text/en-1.txt-   Miller touts America First Legal as "the long-awaited answer to the
-../dumps-text/en-1.txt-   (American Civil Liberties Union)," and his group has garnered several
-../dumps-text/en-1.txt-   legal victories against the Biden administration in the past few weeks
-../dumps-text/en-1.txt:   and months, most notably on issues of racial discrimination.
-../dumps-text/en-1.txt-
-../dumps-text/en-1.txt-   The group has aired advertisements criticizing the Biden
-../dumps-text/en-1.txt-   administration's policies on LGBTQ rights and has filed a class-action
+   Miller touts America First Legal as "the long-awaited answer to the
+   (American Civil Liberties Union)," and his group has garnered several
+   legal victories against the Biden administration in the past few weeks
+   and months, most notably on issues of racial discrimination.
+
+   The group has aired advertisements criticizing the Biden
+   administration's policies on LGBTQ rights and has filed a class-action
 --
-../dumps-text/en-1.txt-   Restaurant Revitalization Fund to women, veterans and minority business
-../dumps-text/en-1.txt-   owners who could apply for grants during a priority period in its
-../dumps-text/en-1.txt-   initial rollout, a move Miller [136]argued was an "unconstitutional and
-../dumps-text/en-1.txt:   racially discriminatory scheme."
-../dumps-text/en-1.txt-
-../dumps-text/en-1.txt-   Perhaps most notably, the organization was involved in legal challenges
-../dumps-text/en-1.txt-   that forced the Biden administration to create a work-around on getting
---
-../dumps-text/en-1.txt-   America First Legal [138]filed a lawsuit against the effort,
-../dumps-text/en-1.txt-   representing Texas Agriculture Commissioner Sid Miller and a group of
-../dumps-text/en-1.txt-   White farmers in the state who also argued that the program is
-../dumps-text/en-1.txt:   unconstitutional because of racial discrimination. The lawsuits led to
-../dumps-text/en-1.txt-   [139]an injunction that blocked the debt relief payments.
-../dumps-text/en-1.txt-
-../dumps-text/en-1.txt-   Attorneys argued that the USDA's definition of "socially disadvantaged
---
-../dumps-text/en-1.txt- 131. https://www.cnn.com/profiles/chandelis-duster
-../dumps-text/en-1.txt- 132. https://www.cnn.com/profiles/chandelis-duster
-../dumps-text/en-1.txt- 133. https://www.cnn.com/
-../dumps-text/en-1.txt: 134. https://aflegal.org/breaking-america-first-legal-files-landmark-class-action-lawsuit-against-texas-am-for-racially-discriminatory-faculty-hiring/
-../dumps-text/en-1.txt- 135. https://www.cnn.com/2021/01/05/politics/biden-wednesday-speech/index.html
-../dumps-text/en-1.txt: 136. https://aflegal.org/biden-administration-caves-in-response-to-afl-lawsuit-will-end-unconstitutional-racial-preferences-in-the-restaurant-revitalization-fund/
-../dumps-text/en-1.txt- 137. https://www.cnn.com/2021/12/15/politics/black-farmers-debt-relief-disparities/index.html
-../dumps-text/en-1.txt: 138. https://aflegal.org/afl-files-a-motion-for-a-preliminary-injunction-and-class-certification-in-usda-racially-based-debt-relief-program/
-../dumps-text/en-1.txt- 139. https://www.cnn.com/2021/06/24/politics/florida-usda-debt-relief-farmers-of-color/index.html
-../dumps-text/en-1.txt- 140. https://edition.cnn.com/account/settings
-../dumps-text/en-1.txt- 141. https://edition.cnn.com/2022/12/14/politics/stephen-miller-america-first-legal-biden-initiatives/index.html
+   America First Legal [138]filed a lawsuit against the effort,
+   representing Texas Agriculture Commissioner Sid Miller and a group of
+   White farmers in the state who also argued that the program is
+   unconstitutional because of racial discrimination. The lawsuits led to
+   [139]an injunction that blocked the debt relief payments.
+
+   Attorneys argued that the USDA's definition of "socially disadvantaged

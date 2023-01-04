@@ -1,39 +1,7 @@
-../dumps-text/en-26.txt-   legal scholars that argues white supremacy maintains power through the
-../dumps-text/en-26.txt-   law and other legal systems. CRT dismisses the idea that racism stems
-../dumps-text/en-26.txt-   from acts of individuals but rather rooted in a system of oppression
-../dumps-text/en-26.txt:   based on socially constructed racial hierarchy where white people reap
-../dumps-text/en-26.txt-   material benefits over people of color resulting from misuse of
-../dumps-text/en-26.txt-   power.
-../dumps-text/en-26.txt-
---
-../dumps-text/en-26.txt-   As of mid-May, legislation to outlaw CRT in schools [39]has passed in
-../dumps-text/en-26.txt-   Idaho, Iowa, Oklahoma and Tennessee and have been proposed in various
-../dumps-text/en-26.txt-   other statehouses. Since the onset of teaching about American history,
-../dumps-text/en-26.txt:   teachers have been teaching about forms of systemic racial
-../dumps-text/en-26.txt-   discrimination and oppression, including slavery. This is not new to
-../dumps-text/en-26.txt-   schools. However, traditionally school curriculums have taken a
-../dumps-text/en-26.txt-   Eurocentric approach.
---
-../dumps-text/en-26.txt-   interpersonal. Young people are not colorblind or color mute. They see
-../dumps-text/en-26.txt-   color and they talk race and racism in their own social circles and
-../dumps-text/en-26.txt-   peer groups. Research indicates that as early as age 3, children have
-../dumps-text/en-26.txt:   negative associations about some racial groups. By the time they enter
-../dumps-text/en-26.txt:   elementary school, children already have a level of racial literacy
-../dumps-text/en-26.txt-   that evidences their awareness that some individuals and groups are
-../dumps-text/en-26.txt-   treated differently in their schools and society based on skin color.
-../dumps-text/en-26.txt-   This is particularly apparent for elementary-aged children of color. If
-../dumps-text/en-26.txt:   children of color are old enough to experience racial discrimination
-../dumps-text/en-26.txt-   and injustice, then all children, especially white children, are old
-../dumps-text/en-26.txt-   enough to learn about racism in ways that enhance their cross-cultural
-../dumps-text/en-26.txt:   competency, racial literacy skills and skill set for improving our
-../dumps-text/en-26.txt-   democracy.
-../dumps-text/en-26.txt-
-../dumps-text/en-26.txt-
---
-../dumps-text/en-26.txt-   history and the consequences of slavery at the center of the U.S.
-../dumps-text/en-26.txt-   national narrative. School funding penalties tied to implementing
-../dumps-text/en-26.txt-   antiracist curriculum is actually a racist move that furthers systemic
-../dumps-text/en-26.txt:   racial oppression in education, disadvantages all children, and upholds
-../dumps-text/en-26.txt-   white supremacist ideals.
-../dumps-text/en-26.txt-
-../dumps-text/en-26.txt-
+   that evidences their awareness that some individuals and groups are
+   treated differently in their schools and society based on skin color.
+   This is particularly apparent for elementary-aged children of color. If
+   children of color are old enough to experience racial discrimination
+   and injustice, then all children, especially white children, are old
+   enough to learn about racism in ways that enhance their cross-cultural
+   competency, racial literacy skills and skill set for improving our

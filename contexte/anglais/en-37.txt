@@ -1,45 +1,20 @@
-../dumps-text/en-37.txt-   A question that seems to be asked with increasing frequency is whether
-../dumps-text/en-37.txt-   Asian Americans are the beneficiaries of privileges historically
-../dumps-text/en-37.txt-   afforded to white people in the United States or if we are the victims
-../dumps-text/en-37.txt:   of racial discrimination. But reality is much more complex. It's time
-../dumps-text/en-37.txt-   to discard this simplistic dichotomy.
-../dumps-text/en-37.txt-
-../dumps-text/en-37.txt-   Take the [124]Students for Fair Admissions v[125]. Harvard case to be
-../dumps-text/en-37.txt-   heard in the US Supreme Court in October. Plaintiffs in the case argue
-../dumps-text/en-37.txt:   that Asian Americans experience racial discrimination in Harvard
-../dumps-text/en-37.txt-   admissions, as evidenced, they claim, by admitted Asian American
-../dumps-text/en-37.txt-   students' higher GPAs and SAT scores compared to admitted students of
-../dumps-text/en-37.txt-   all other races, including white students. They also point to
+   A question that seems to be asked with increasing frequency is whether
+   Asian Americans are the beneficiaries of privileges historically
+   afforded to white people in the United States or if we are the victims
+   of racial discrimination. But reality is much more complex. It's time
+   to discard this simplistic dichotomy.
+
+   Take the [124]Students for Fair Admissions v[125]. Harvard case to be
+   heard in the US Supreme Court in October. Plaintiffs in the case argue
+   that Asian Americans experience racial discrimination in Harvard
+   admissions, as evidenced, they claim, by admitted Asian American
+   students' higher GPAs and SAT scores compared to admitted students of
+   all other races, including white students. They also point to
 --
-../dumps-text/en-37.txt-   about Asian Americans' academic capability -- facilitate Asian American
-../dumps-text/en-37.txt-   kids' high levels of academic achievement. In this regard, Asian
-../dumps-text/en-37.txt-   Americans do indeed benefit from [136]"whiteness" as a system of
-../dumps-text/en-37.txt:   advantage. In other words, the US education system has racially unequal
-../dumps-text/en-37.txt-   opportunities and hence outcomes baked into it, and Asian Americans
-../dumps-text/en-37.txt:   have actually benefited from that racial inequality that historically
-../dumps-text/en-37.txt-   has privileged white students over Black and Latinx students.
-../dumps-text/en-37.txt-
-../dumps-text/en-37.txt-   Taking this history into account when making admissions decisions means
---
-../dumps-text/en-37.txt-   like these and [141]the choices many white Americans made (and continue
-../dumps-text/en-37.txt-   to make) about where to live were frequently related to a desire to
-../dumps-text/en-37.txt-   steer clear of Black people in particular. Many suburban properties
-../dumps-text/en-37.txt:   even had explicit racially restrictive covenants, which barred the sale
-../dumps-text/en-37.txt-   of those properties to Black buyers. These covenants were legal until
-../dumps-text/en-37.txt-   the Fair Housing Act of 1968.
-../dumps-text/en-37.txt-
-../dumps-text/en-37.txt-   Even today, Black middle-class professionals frequently do not choose
-../dumps-text/en-37.txt-   to live in towns like the one I studied, in part because [142]they
-../dumps-text/en-37.txt-   understand the problems likely to ensue if their children do not have
-../dumps-text/en-37.txt:   peers who share their racial identity. [143]Racial steering by real
-../dumps-text/en-37.txt-   estate agents also keeps them away.
-../dumps-text/en-37.txt-
-../dumps-text/en-37.txt-   But Asian Americans have had a different experience in the United
---
-../dumps-text/en-37.txt-   achievement means the end of anti-Asian racism or that Asian Americans
-../dumps-text/en-37.txt-   sometimes benefiting from privileges previously reserved for white
-../dumps-text/en-37.txt-   Americans means we always benefit from the privileges of whiteness. The
-../dumps-text/en-37.txt:   multifaceted nature of racial discrimination and privilege in the
-../dumps-text/en-37.txt-   United States is far more complex. To tackle it, we need to understand
-../dumps-text/en-37.txt-   its diverse faces.
-../dumps-text/en-37.txt-
+   achievement means the end of anti-Asian racism or that Asian Americans
+   sometimes benefiting from privileges previously reserved for white
+   Americans means we always benefit from the privileges of whiteness. The
+   multifaceted nature of racial discrimination and privilege in the
+   United States is far more complex. To tackle it, we need to understand
+   its diverse faces.
+

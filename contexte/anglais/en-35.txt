@@ -1,39 +1,7 @@
-../dumps-text/en-35.txt-   [115]IPL Auction
-../dumps-text/en-35.txt-   Edition GL
-../dumps-text/en-35.txt-     * [116]Terminated contractor files case against USA Cricket for
-../dumps-text/en-35.txt:       'racial discrimination'
-../dumps-text/en-35.txt-       7mPeter Della Penna
-../dumps-text/en-35.txt-     * [117]Southee gets Imam, as New Zealand keep Pakistan quiet in the
-../dumps-text/en-35.txt-       opening session
---
-../dumps-text/en-35.txt-
-../dumps-text/en-35.txt-   [137]News
-../dumps-text/en-35.txt-
-../dumps-text/en-35.txt:Terminated contractor files case against USA Cricket for 'racial
-../dumps-text/en-35.txt-discrimination'
-../dumps-text/en-35.txt-
-../dumps-text/en-35.txt-   The lawsuit, filed by Kirk Greaves, seeks a total of $2 million dollars
---
-../dumps-text/en-35.txt-   general elections from 2020, USA Cricket now has a second lawsuit on
-../dumps-text/en-35.txt-   its hands after Kirk Greaves, who was terminated from an
-../dumps-text/en-35.txt-   independent-contractor role early last month, filed legal action in the
-../dumps-text/en-35.txt:   US Federal Court against the national governing body claiming "racial
-../dumps-text/en-35.txt-   discrimination in employment".
-../dumps-text/en-35.txt-   The lawsuit, which was filed by Greaves on April 28 in the Northern
-../dumps-text/en-35.txt-   District of California (USA Cricket is headquartered in San Francisco)
---
-../dumps-text/en-35.txt-   having his role reclassified from "Cricket Operations Manager" to
-../dumps-text/en-35.txt-   "Events Manager", and that the renaming of his role resulted in
-../dumps-text/en-35.txt-   "eliminating any element of black representation at the senior
-../dumps-text/en-35.txt:   management level", something he claims "was racially orchestrated and
-../dumps-text/en-35.txt-   violated US law". Greaves also writes that his job status was that of a
-../dumps-text/en-35.txt-   permanent employee but claims that classifying him as an independent
-../dumps-text/en-35.txt-   contractor "demonstrates bad faith and is a contravention of US labor
---
-../dumps-text/en-35.txt- 113. https://www.espncricinfo.com/video
-../dumps-text/en-35.txt- 114. https://www.espncricinfo.com/ci/engine/records/index.html
-../dumps-text/en-35.txt- 115. https://www.espncricinfo.com/auction/ipl-auction-2023
-../dumps-text/en-35.txt: 116. https://www.espncricinfo.com/story/usa-cricket-terminated-contractor-files-case-against-usa-cricket-for-racial-discrimination-1314846
-../dumps-text/en-35.txt- 117. https://www.espncricinfo.com/series/new-zealand-in-pakistan-2022-23-1339576/pakistan-vs-new-zealand-2nd-test-1339610/match-report-3
-../dumps-text/en-35.txt- 118. https://www.espncricinfo.com/story/pakistan-s-shan-masood-cranks-it-up-to-eleven-against-nz-1352007
-../dumps-text/en-35.txt- 119. https://www.espncricinfo.com/story/pakistan-news-shaheen-shah-afridi-resumes-rehab-in-karachi-haris-rauf-invited-for-injury-assessment-pak-vs-nz-1351865
+   [131]IPL Auction
+   Edition GL
+     * [132]Terminated contractor files case against USA Cricket for
+       'racial discrimination'
+       7mPeter Della Penna
+     * [133]Sanju Samson ruled out of T20I series against Sri Lanka;
+       Jitesh Sharma called up

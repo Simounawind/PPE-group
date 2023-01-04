@@ -21,7 +21,7 @@
           + [16]Higher Education
           + [17]Support & Advice: International Programmes
           + [18]Outreach & Discourse
-          + [19]Year in Review 2021
+          + [19]Year in Review
           + [20]Results
           + [21]Swedish Human Rights Festival
      * [22]Focus Areas

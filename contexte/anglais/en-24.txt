@@ -1,65 +1,23 @@
-../dumps-text/en-24.txt-
-../dumps-text/en-24.txt-   [185]Criminal Justice & Legal System
-../dumps-text/en-24.txt-
-../dumps-text/en-24.txt:State civil rights department files more racial discrimination charges
-../dumps-text/en-24.txt-against Grand Rapids police
-../dumps-text/en-24.txt-
-../dumps-text/en-24.txt-   Michigan Radio | By [186]Dustin Dwyer
+
+   [185]Criminal Justice & Legal System
+
+State civil rights department files more racial discrimination charges
+against Grand Rapids police
+
+   Michigan Radio | By [186]Dustin Dwyer
 --
-../dumps-text/en-24.txt-   Michigan Radio
-../dumps-text/en-24.txt-
-../dumps-text/en-24.txt-   The Michigan Department of Civil Rights has filed more charges of
-../dumps-text/en-24.txt:   racial discrimination against the Grand Rapids Police Department.
-../dumps-text/en-24.txt-
-../dumps-text/en-24.txt-   The charges announced Thursday are over [191]an incident that happened
-../dumps-text/en-24.txt-   in the city in 2018, when GRPD stopped a group of three Black boys and
+   Michigan Radio
+
+   The Michigan Department of Civil Rights has filed more charges of
+   racial discrimination against the Grand Rapids Police Department.
+
+   The charges announced Thursday are over [191]an incident that happened
+   in the city in 2018, when GRPD stopped a group of three Black boys and
 --
-../dumps-text/en-24.txt-   filed complaints with the civil rights department.
-../dumps-text/en-24.txt-
-../dumps-text/en-24.txt-   The formal charges announced Thursday come a week after the city was
-../dumps-text/en-24.txt:   hit with [195]a $100 million civil lawsuit that alleges racial
-../dumps-text/en-24.txt-   discrimination in the killing of Patrick Lyoya. A Grand Rapids police
-../dumps-text/en-24.txt-   officer shot and killed Lyoya following a traffic stop in April. Lyoya
-../dumps-text/en-24.txt-   was Black and had no weapon when he was stopped.
---
-../dumps-text/en-24.txt-     * [219]The Grand Rapids Police Department
-../dumps-text/en-24.txt-       [220]Criminal Justice & Legal System
-../dumps-text/en-24.txt-       [221]State civil rights department formally charges GRPD with
-../dumps-text/en-24.txt:       racial discrimination
-../dumps-text/en-24.txt-       [222]Dustin Dwyer
-../dumps-text/en-24.txt-       The formal charges involve two incidents of alleged discrimination
-../dumps-text/en-24.txt-       against Black residents. The state civil rights department says 28
---
-../dumps-text/en-24.txt- 184. https://www.michiganradio.org/development/membership/contact
-../dumps-text/en-24.txt- 185. https://www.michiganradio.org/criminal-justice-legal-system
-../dumps-text/en-24.txt- 186. https://www.michiganradio.org/people/dustin-dwyer
-../dumps-text/en-24.txt: 187. https://www.facebook.com/dialog/share?app_id=478861183554801&display=popup&href=https%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police
-../dumps-text/en-24.txt: 188. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police&text=State%20civil%20rights%20department%20files%20more%20racial%20discrimination%20charges%20against%20Grand%20Rapids%20police
-../dumps-text/en-24.txt: 189. https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police&mini=true&title=State%20civil%20rights%20department%20files%20more%20racial%20discrimination%20charges%20against%20Grand%20Rapids%20police&summary=The%20Michigan%20Department%20of%20Civil%20Rights%20says%20it%20has%2021%20open%20investigation%27s%20against%20GRPD.%20So%20far%2C%20four%20have%20resulted%20in%20formal%20charges.&source=Michigan%20Radio
-../dumps-text/en-24.txt: 190. mailto:?body=State%20civil%20rights%20department%20files%20more%20racial%20discrimination%20charges%20against%20Grand%20Rapids%20police%0A%0Ahttps%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police%0A%0AThe%20Michigan%20Department%20of%20Civil%20Rights%20says%20it%20has%2021%20open%20investigation%27s%20against%20GRPD.%20So%20far%2C%20four%20have%20resulted%20in%20formal%20charges.
-../dumps-text/en-24.txt- 191. https://www.michiganradio.org/news/2018-09-01/grpd-under-scrutiny-again-after-recent-incident-with-unarmed-black-boys
-../dumps-text/en-24.txt: 192. https://www.michiganradio.org/criminal-justice-legal-system/2022-07-25/state-civil-rights-department-formally-charges-grpd-with-racial-discrimination
-../dumps-text/en-24.txt- 193. https://www.michiganradio.org/law/2017-04-20/if-youre-black-in-grand-rapids-youre-twice-as-likely-to-get-pulled-over
-../dumps-text/en-24.txt- 194. https://www.michiganradio.org/news/2018-10-21/residents-urge-grpd-to-change-policy-after-recent-incident-with-unarmed-black-girl
-../dumps-text/en-24.txt- 195. https://www.michiganradio.org/criminal-justice-legal-system/2022-12-07/lyoya-family-files-wrongful-death-lawsuit-against-grand-rapids-former-police-officer-schurr
---
-../dumps-text/en-24.txt- 202. https://www.michiganradio.org/tags/grand-rapids-police-department
-../dumps-text/en-24.txt- 203. https://www.michiganradio.org/tags/grpd
-../dumps-text/en-24.txt- 204. https://www.michiganradio.org/tags/patrick-lyoya
-../dumps-text/en-24.txt: 205. https://www.facebook.com/dialog/share?app_id=478861183554801&display=popup&href=https%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police
-../dumps-text/en-24.txt: 206. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police&text=State%20civil%20rights%20department%20files%20more%20racial%20discrimination%20charges%20against%20Grand%20Rapids%20police
-../dumps-text/en-24.txt: 207. https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police&mini=true&title=State%20civil%20rights%20department%20files%20more%20racial%20discrimination%20charges%20against%20Grand%20Rapids%20police&summary=The%20Michigan%20Department%20of%20Civil%20Rights%20says%20it%20has%2021%20open%20investigation%27s%20against%20GRPD.%20So%20far%2C%20four%20have%20resulted%20in%20formal%20charges.&source=Michigan%20Radio
-../dumps-text/en-24.txt: 208. mailto:?body=State%20civil%20rights%20department%20files%20more%20racial%20discrimination%20charges%20against%20Grand%20Rapids%20police%0A%0Ahttps%3A%2F%2Fwww.michiganradio.org%2Fcriminal-justice-legal-system%2F2022-12-14%2Fstate-civil-rights-department-files-more-racial-discrimination-charges-against-grand-rapids-police%0A%0AThe%20Michigan%20Department%20of%20Civil%20Rights%20says%20it%20has%2021%20open%20investigation%27s%20against%20GRPD.%20So%20far%2C%20four%20have%20resulted%20in%20formal%20charges.
-../dumps-text/en-24.txt- 209. https://www.michiganradio.org/people/dustin-dwyer
-../dumps-text/en-24.txt- 210. https://www.michiganradio.org/people/dustin-dwyer
-../dumps-text/en-24.txt- 211. http://michiganradio.org/donate
---
-../dumps-text/en-24.txt- 216. https://www.michiganradio.org/2023-01-03/a-golden-age-for-nonalcoholic-beers-wines-and-spirits
-../dumps-text/en-24.txt- 217. https://www.michiganradio.org/2023-01-02/buffalo-bills-player-damar-hamlin-is-in-critical-condition-after-collapsing-in-a-game
-../dumps-text/en-24.txt- 218. https://michiganradio.secureallegiance.com/wuom/WebModule/Donate.aspx?P=SUSTAINER&PAGETYPE=PLG&CHECK=7xZmO7zqt1vzhRN6l0Ol%2B61gzMC6uhq5nDjkJobrCdg%3D
-../dumps-text/en-24.txt: 219. https://www.michiganradio.org/criminal-justice-legal-system/2022-07-25/state-civil-rights-department-formally-charges-grpd-with-racial-discrimination
-../dumps-text/en-24.txt- 220. https://www.michiganradio.org/criminal-justice-legal-system
-../dumps-text/en-24.txt: 221. https://www.michiganradio.org/criminal-justice-legal-system/2022-07-25/state-civil-rights-department-formally-charges-grpd-with-racial-discrimination
-../dumps-text/en-24.txt- 222. https://www.michiganradio.org/people/dustin-dwyer
-../dumps-text/en-24.txt- 223. https://www.michiganradio.org/criminal-justice-legal-system/2022-07-22/grpd-violated-constitutional-rights-state-supreme-court-rules
-../dumps-text/en-24.txt- 224. https://www.michiganradio.org/criminal-justice-legal-system
+     * [219]The Grand Rapids Police Department
+       [220]Criminal Justice & Legal System
+       [221]State civil rights department formally charges GRPD with
+       racial discrimination
+       [222]Dustin Dwyer
+       The formal charges involve two incidents of alleged discrimination
+       against Black residents. The state civil rights department says 28

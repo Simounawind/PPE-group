@@ -1769,7 +1769,7 @@ References
    3. https://www.nature.com/opensearch/request
    4. https://collect.nature.com/ns.html?id=GTM-MRVXSHQ
    5. https://www.nature.com/articles/s41467-022-35185-6#content
-   6. https://pubads.g.doubleclick.net/gampad/jump?iu=/285/nature_communications/article&sz=728x90&c=955125153&t=pos%3Dtop%26type%3Darticle%26artid%3Ds41467-022-35185-6%26doi%3D10.1038/s41467-022-35185-6%26subjmeta%3D499,692,704,844%26kwrd%3DEnvironmental+social+sciences,Risk+factors
+   6. https://pubads.g.doubleclick.net/gampad/jump?iu=/285/nature_communications/article&sz=728x90&c=-2126315952&t=pos%3Dtop%26type%3Darticle%26artid%3Ds41467-022-35185-6%26doi%3D10.1038/s41467-022-35185-6%26subjmeta%3D499,692,704,844%26kwrd%3DEnvironmental+social+sciences,Risk+factors
    7. https://www.nature.com/ncomms
    8. https://www.nature.com/siteindex
    9. https://www.nature.com/articles/s41467-022-35185-6#search-menu
@@ -2297,7 +2297,7 @@ References
  531. https://www.nature.com/info/tandc.html
  532. https://www.nature.com/info/community-guidelines.html
  533. https://www.nature.com/articles/s41467-022-35185-6.pdf
- 534. https://pubads.g.doubleclick.net/gampad/jump?iu=/285/nature_communications/article&sz=300x250&c=-937694849&t=pos%3Dright%26type%3Darticle%26artid%3Ds41467-022-35185-6%26doi%3D10.1038/s41467-022-35185-6%26subjmeta%3D499,692,704,844%26kwrd%3DEnvironmental+social+sciences,Risk+factors
+ 534. https://pubads.g.doubleclick.net/gampad/jump?iu=/285/nature_communications/article&sz=300x250&c=-1195911055&t=pos%3Dright%26type%3Darticle%26artid%3Ds41467-022-35185-6%26doi%3D10.1038/s41467-022-35185-6%26subjmeta%3D499,692,704,844%26kwrd%3DEnvironmental+social+sciences,Risk+factors
  535. https://www.nature.com/ncomms/research-articles
  536. https://www.nature.com/ncomms/reviews-and-analysis
  537. https://www.nature.com/ncomms/news-and-comment

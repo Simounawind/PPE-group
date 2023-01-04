@@ -1,87 +1,21 @@
-../dumps-text/en-15.txt-
-../dumps-text/en-15.txt-     [50]March 29, 2021January 20, 2022
-../dumps-text/en-15.txt-
-../dumps-text/en-15.txt:Continue to explore racial discrimination issues in Sweden and the United
-../dumps-text/en-15.txt-States through our additional content
-../dumps-text/en-15.txt-
-../dumps-text/en-15.txt-   On March 21st The Raoul Wallenberg together with Kino organised the
-../dumps-text/en-15.txt-   [51]second event of the Swedish Human Rights Film Festival. We marked
-../dumps-text/en-15.txt-   the International Day for the Elimination of Racial Discrimination with
-../dumps-text/en-15.txt:   a panel discussion on racial discrimination in Sweden and the US. Aysha
-../dumps-text/en-15.txt-   Jones, Founder of the Black Lives Matter and Irene Molina, Pr. in Human
-../dumps-text/en-15.txt-   Geography at Uppsala University offered us their views on this very
-../dumps-text/en-15.txt-   topical subject.
+
+     [50]March 29, 2021January 20, 2022
+
+Continue to explore racial discrimination issues in Sweden and the United
+States through our additional content
+
+   On March 21st The Raoul Wallenberg together with Kino organised the
+   [51]second event of the Swedish Human Rights Film Festival. We marked
+   the International Day for the Elimination of Racial Discrimination with
+   a panel discussion on racial discrimination in Sweden and the US. Aysha
+   Jones, Founder of the Black Lives Matter and Irene Molina, Pr. in Human
+   Geography at Uppsala University offered us their views on this very
+   topical subject.
 --
-../dumps-text/en-15.txt-Discrimination.
-../dumps-text/en-15.txt-
-../dumps-text/en-15.txt-[58]Listen to the podcast
-../dumps-text/en-15.txt:Paul Lappalainen - racial discrimination law perspectives and civil society
-../dumps-text/en-15.txt-involvement
-../dumps-text/en-15.txt-
-../dumps-text/en-15.txt-   -----------------------------------------------------------------------
---
-../dumps-text/en-15.txt-   1. https://rwi.lu.se/feed/
-../dumps-text/en-15.txt-   2. https://rwi.lu.se/comments/feed/
-../dumps-text/en-15.txt-   3. https://rwi.lu.se/wp-json/wp/v2/posts/27042
-../dumps-text/en-15.txt:   4. https://rwi.lu.se/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frwi.lu.se%2F2021%2F03%2F29%2Fracial-discrimination-in-sweden-and-the-united-states-march-21-follow-up-content%2F
-../dumps-text/en-15.txt:   5. https://rwi.lu.se/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frwi.lu.se%2F2021%2F03%2F29%2Fracial-discrimination-in-sweden-and-the-united-states-march-21-follow-up-content%2F&format=xml
-../dumps-text/en-15.txt:   6. https://rwi.lu.se/2021/03/29/racial-discrimination-in-sweden-and-the-united-states-march-21-follow-up-content/#content
-../dumps-text/en-15.txt-   7. https://rwi.lu.se/
-../dumps-text/en-15.txt:   8. https://rwi.lu.se/2021/03/29/racial-discrimination-in-sweden-and-the-united-states-march-21-follow-up-content/
-../dumps-text/en-15.txt-   9. https://rwi.lu.se/news/
-../dumps-text/en-15.txt-  10. https://rwi.lu.se/blog/
-../dumps-text/en-15.txt-  11. https://rwi.lu.se/events/
-../dumps-text/en-15.txt-  12. https://rwi.lu.se/podcasts/
-../dumps-text/en-15.txt-  13. https://rwi.lu.se/rwi-online/
-../dumps-text/en-15.txt:  14. https://rwi.lu.se/2021/03/29/racial-discrimination-in-sweden-and-the-united-states-march-21-follow-up-content/
-../dumps-text/en-15.txt-  15. https://rwi.lu.se/what-we-do/human-rights-research/
-../dumps-text/en-15.txt-  16. https://rwi.lu.se/what-we-do/academic-activities/
-../dumps-text/en-15.txt-  17. https://rwi.lu.se/what-we-do/international-programmes/
---
-../dumps-text/en-15.txt-  19. https://rwi.lu.se/the-year-in-review-2021/
-../dumps-text/en-15.txt-  20. https://rwi.lu.se/about/results/
-../dumps-text/en-15.txt-  21. https://humanrightsfestival.se/
-../dumps-text/en-15.txt:  22. https://rwi.lu.se/2021/03/29/racial-discrimination-in-sweden-and-the-united-states-march-21-follow-up-content/
-../dumps-text/en-15.txt-  23. https://rwi.lu.se/business-and-human-rights-3/
-../dumps-text/en-15.txt-  24. https://rwi.lu.se/human-rights-and-the-environment-2/
-../dumps-text/en-15.txt-  25. https://rwi.lu.se/what-we-do/focus-areas/inclusive-societies/
---
-../dumps-text/en-15.txt-  32. https://rwi.lu.se/europe-landing-page/
-../dumps-text/en-15.txt-  33. https://rwi.lu.se/where-we-work/regions/middle-east-and-north-africa/
-../dumps-text/en-15.txt-  34. https://rwi.lu.se/africa-landing-page/
-../dumps-text/en-15.txt:  35. https://rwi.lu.se/2021/03/29/racial-discrimination-in-sweden-and-the-united-states-march-21-follow-up-content/
-../dumps-text/en-15.txt-  36. https://rwi.lu.se/publications/
-../dumps-text/en-15.txt-  37. https://rwi.lu.se/rwi-supported-publications/
-../dumps-text/en-15.txt-  38. https://rwi.lu.se/video-gallery/
-../dumps-text/en-15.txt-  39. https://rwi.lu.se/rwi-library/
-../dumps-text/en-15.txt:  40. https://rwi.lu.se/2021/03/29/racial-discrimination-in-sweden-and-the-united-states-march-21-follow-up-content/
-../dumps-text/en-15.txt-  41. https://rwi.lu.se/about/
-../dumps-text/en-15.txt-  42. https://rwi.lu.se/theory-of-change/
-../dumps-text/en-15.txt-  43. https://rwi.lu.se/about/opportunities/
---
-../dumps-text/en-15.txt-  47. https://rwi.lu.se/about/press/
-../dumps-text/en-15.txt-  48. https://rwi.lu.se/about/timeline/
-../dumps-text/en-15.txt-  49. https://rwi.lu.se/about/about-raoul-wallenberg/
-../dumps-text/en-15.txt:  50. https://rwi.lu.se/2021/03/29/racial-discrimination-in-sweden-and-the-united-states-march-21-follow-up-content/
-../dumps-text/en-15.txt:  51. https://rwi.lu.se/2021/03/11/film-festival-the-international-day-for-the-elimination-of-racial-discrimination/
-../dumps-text/en-15.txt:  52. https://rwi.lu.se/2021/03/24/insight-into-march-21-panel-discussion-on-racial-discrimination-issues/
-../dumps-text/en-15.txt-  53. https://rwi.lu.se/staff/michael-mceachrane/
-../dumps-text/en-15.txt-  54. https://rwi.lu.se/staff/arthur-robinson-diakite/
-../dumps-text/en-15.txt:  55. https://humanrightsfilmfestival.se/the-swedish-human-rights-film-festival/racial-discrimination-additional-content/racial-discrimination-films/
-../dumps-text/en-15.txt-  56. https://rwi.lu.se/2021/03/29/discussing-movie-judas-and-the-black-messiah-swedish-human-rights-film-festival/
-../dumps-text/en-15.txt-  57. https://www.su.se/english/profiles/pala8966-1.218666
-../dumps-text/en-15.txt:  58. https://rwi.lu.se/podcasts/racial-discrimination-sweden-legal-perspectives-civil-society-involvement/
-../dumps-text/en-15.txt-  59. https://open.spotify.com/show/7d2GzeU9zQPj4NhNiLy9tp?si=w-_DfQ7bQ4WlsaMUL0-7TA
-../dumps-text/en-15.txt-  60. https://rwi.lu.se/podcasts/on-campaining-against-racism-in-sweden-podcast-with-isatou-aysha-jones-founder-of-black-lives-matter-sweden/
-../dumps-text/en-15.txt-  61. https://humanrightsfilmfestival.se/
---
-../dumps-text/en-15.txt-  93. https://rwi.lu.se/about/press/newsletter/
-../dumps-text/en-15.txt-  94. https://www.youtube.com/channel/UCD7JAa3gnHVzYrkP9pcXmZg
-../dumps-text/en-15.txt-  95. https://soundcloud.com/onhumanrights
-../dumps-text/en-15.txt:  96. https://rwi.lu.se/2021/03/29/racial-discrimination-in-sweden-and-the-united-states-march-21-follow-up-content/#menu
-../dumps-text/en-15.txt:  97. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frwi.lu.se%2F2021%2F03%2F29%2Fracial-discrimination-in-sweden-and-the-united-states-march-21-follow-up-content%2F
-../dumps-text/en-15.txt:  98. https://twitter.com/intent/tweet?text=Racial%20discrimination%20in%20Sweden%20and%20the%20United%20States%20-%20March%2021%20Follow%20up%20content&url=https%3A%2F%2Frwi.lu.se%2F2021%2F03%2F29%2Fracial-discrimination-in-sweden-and-the-united-states-march-21-follow-up-content%2F
-../dumps-text/en-15.txt:  99. https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Frwi.lu.se%2F2021%2F03%2F29%2Fracial-discrimination-in-sweden-and-the-united-states-march-21-follow-up-content%2F&title=Racial%20discrimination%20in%20Sweden%20and%20the%20United%20States%20-%20March%2021%20Follow%20up%20content
-../dumps-text/en-15.txt- 100. https://www.facebook.com/raoulwallenberginstitutet
-../dumps-text/en-15.txt- 101. https://twitter.com/RWallenbergInst
-../dumps-text/en-15.txt- 102. https://www.instagram.com/raoulwallenberginst/
+Discrimination.
+
+[58]Listen to the podcast
+Paul Lappalainen - racial discrimination law perspectives and civil society
+involvement
+
+   -----------------------------------------------------------------------

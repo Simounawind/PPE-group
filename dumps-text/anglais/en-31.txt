@@ -31,20 +31,20 @@ Priorities
           + [21]Biden Administration
           + [22]COVID-19
           + [23]Climate Change
-          + [24]Democracy
-          + [25]Disability
-          + [26]Family Economic Security
-          + [27]Gun Violence Prevention
-          + [28]Health Coverage and Access
-          + [29]Higher Education
-          + [30]Immigration
-          + [31]Inflation Reduction Act
-          + [32]Infrastructure
-          + [33]International Issues
-          + [34]Jobs
-          + [35]Poverty
-          + [36]Progressive Movement
-          + [37]Raising Working Standards
+          + [24]Criminal Justice Reform
+          + [25]Democracy
+          + [26]Disability
+          + [27]Early Childhood
+          + [28]Economic Development and Governance
+          + [29]Elections
+          + [30]Family Economic Security
+          + [31]Gun Violence Prevention
+          + [32]Health Coverage and Access
+          + [33]Higher Education
+          + [34]Immigration
+          + [35]Inflation Reduction Act
+          + [36]Infrastructure
+          + [37]International Issues
        [38]See all topics
      * [39]Experts [2]
      * [40]Events [3]
@@ -1812,20 +1812,20 @@ References
   21. https://www.americanprogress.org/topic/biden-administration/
   22. https://www.americanprogress.org/topic/covid-19/
   23. https://www.americanprogress.org/topic/climate-change/
-  24. https://www.americanprogress.org/topic/democracy/
-  25. https://www.americanprogress.org/topic/disability/
-  26. https://www.americanprogress.org/topic/family-economic-security/
-  27. https://www.americanprogress.org/topic/gvp/
-  28. https://www.americanprogress.org/topic/health-coverage-and-access/
-  29. https://www.americanprogress.org/topic/higher-education/
-  30. https://www.americanprogress.org/topic/immigration/
-  31. https://www.americanprogress.org/topic/inflation-reduction-act/
-  32. https://www.americanprogress.org/topic/infrastructure/
-  33. https://www.americanprogress.org/topic/international/
-  34. https://www.americanprogress.org/topic/jobs/
-  35. https://www.americanprogress.org/topic/poverty/
-  36. https://www.americanprogress.org/topic/progressive-movement/
-  37. https://www.americanprogress.org/topic/raising-working-standards/
+  24. https://www.americanprogress.org/topic/criminal-justice-reform/
+  25. https://www.americanprogress.org/topic/democracy/
+  26. https://www.americanprogress.org/topic/disability/
+  27. https://www.americanprogress.org/topic/early-childhood/
+  28. https://www.americanprogress.org/topic/development-and-governance/
+  29. https://www.americanprogress.org/topic/elections/
+  30. https://www.americanprogress.org/topic/family-economic-security/
+  31. https://www.americanprogress.org/topic/gvp/
+  32. https://www.americanprogress.org/topic/health-coverage-and-access/
+  33. https://www.americanprogress.org/topic/higher-education/
+  34. https://www.americanprogress.org/topic/immigration/
+  35. https://www.americanprogress.org/topic/inflation-reduction-act/
+  36. https://www.americanprogress.org/topic/infrastructure/
+  37. https://www.americanprogress.org/topic/international/
   38. https://www.americanprogress.org/issues/#topics
   39. https://www.americanprogress.org/experts/
   40. https://www.americanprogress.org/events/

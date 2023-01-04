@@ -1,38 +1,15 @@
-../dumps-text/en-25.txt-
-../dumps-text/en-25.txt-   Racial Discrimination In The USA
-../dumps-text/en-25.txt-
-../dumps-text/en-25.txt:   The USA has had a very bad history when it comes to racial
-../dumps-text/en-25.txt-   discrimination. The country in 18th century brought lot of slave
-../dumps-text/en-25.txt-   workers and they all were from Africa and Asia. These people did not
-../dumps-text/en-25.txt:   have any rights. The culture of racial discrimination continued for
-../dumps-text/en-25.txt-   such a long time that it became embedded in the people's minds. Now its
-../dumps-text/en-25.txt-   very natural for the people to see other races as unworthy and down.
-../dumps-text/en-25.txt-   Many Indians have also faced a lot of problems in the past due to the
-../dumps-text/en-25.txt:   racial abuse. The people do not get promotions in their jobs and they
-../dumps-text/en-25.txt-   do not get equal salary as their white counterparts. Some are even
-../dumps-text/en-25.txt-   subjected to violence. Lot of Indian Sikhs have been murdered and at
-../dumps-text/en-25.txt-   the receiving end of physical abuse in the USA.
+   The USA has had a very bad history when it comes to racial
+   discrimination. The country in 18th century brought lot of slave
+   workers and they all were from Africa and Asia. These people did not
+   have any rights. The culture of racial discrimination continued for
+   such a long time that it became embedded in the people's minds. Now its
+   very natural for the people to see other races as unworthy and down.
+   Many Indians have also faced a lot of problems in the past due to the
 --
-../dumps-text/en-25.txt-   On top of that Barack Obama said that religious tolerance in India has
-../dumps-text/en-25.txt-   been going down!
-../dumps-text/en-25.txt-
-../dumps-text/en-25.txt:   Formal racial discrimination was largely banned in the mid-20th
-../dumps-text/en-25.txt-   century, and ... In the view of the U.S. Human Rights Network, a
-../dumps-text/en-25.txt-   network of scores of US civil ...
-../dumps-text/en-25.txt-
---
-../dumps-text/en-25.txt-  37. https://www.indiatimes.com/health/videos
-../dumps-text/en-25.txt-  38. https://www.indiatimes.com/health/tips-tricks
-../dumps-text/en-25.txt-  39. https://www.indiatimes.com/health/buzz
-../dumps-text/en-25.txt:  40. https://www.indiatimes.com/news/world/racial-discrimination-in-the-usa-283277.html
-../dumps-text/en-25.txt-  41. https://www.indiatimes.com/news
-../dumps-text/en-25.txt-  42. https://www.indiatimes.com/news/india
-../dumps-text/en-25.txt-  43. https://www.indiatimes.com/news/world
---
-../dumps-text/en-25.txt- 125. https://www.indiatimes.com/
-../dumps-text/en-25.txt- 126. http://en.wikipedia.org/wiki/Racism_in_the_United_States
-../dumps-text/en-25.txt- 127. http://www.washingtontimes.com/news/2014/dec/7/obama-racism-deeply-rooted-in-us/
-../dumps-text/en-25.txt: 128. http://www.cnn.com/2014/11/26/us/ferguson-racism-or-racial-bias/
-../dumps-text/en-25.txt- 129. https://www.mensxp.com/
-../dumps-text/en-25.txt- 130. https://www.idiva.com/
-../dumps-text/en-25.txt- 131. https://www.facebook.com/indiatimes
+   On top of that Barack Obama said that religious tolerance in India has
+   been going down!
+
+   Formal racial discrimination was largely banned in the mid-20th
+   century, and ... In the view of the U.S. Human Rights Network, a
+   network of scores of US civil ...
+

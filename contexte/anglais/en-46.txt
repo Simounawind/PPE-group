@@ -1,53 +1,7 @@
-../dumps-text/en-46.txt-
-../dumps-text/en-46.txt-   [219]Local News
-../dumps-text/en-46.txt-
-../dumps-text/en-46.txt:State Farm accused of covert racial discrimination in claims processing
-../dumps-text/en-46.txt-
-../dumps-text/en-46.txt-   WGLT | By [220]Charlie Schlenker
-../dumps-text/en-46.txt-   Published December 19, 2022 at 3:35 PM CST
---
-../dumps-text/en-46.txt-   /
-../dumps-text/en-46.txt-   WGLT
-../dumps-text/en-46.txt-
-../dumps-text/en-46.txt:   A Black Illinois homeowner claims State Farm practices covert racial
-../dumps-text/en-46.txt-   discrimination in how it processes claims.
-../dumps-text/en-46.txt-
-../dumps-text/en-46.txt-   "State Farm does not treat its Black and white homeowners insurance
---
-../dumps-text/en-46.txt-   pay part of the claim for external damage to the home. The lawsuit
-../dumps-text/en-46.txt-   alleges Huskey is far from alone.
-../dumps-text/en-46.txt-
-../dumps-text/en-46.txt:   Huskey's lawyers said they based their case for systemic racial
-../dumps-text/en-46.txt-   discrimination on a study of more than 800 State Farm policyholders in
-../dumps-text/en-46.txt-   the Midwestern states of Illinois, Indiana, Michigan, Missouri, Ohio,
-../dumps-text/en-46.txt-   and Wisconsin. The Center on Race, Inequality, and the Law at New York
---
-../dumps-text/en-46.txt-   mining of information such as physical appearance, genetics,
-../dumps-text/en-46.txt-   geo-location, social media presence, and browser search history,
-../dumps-text/en-46.txt-   functions as a proxy for race. The case also claims historical housing
-../dumps-text/en-46.txt:   and claims data used by State Farm are "infected with racial bias."
-../dumps-text/en-46.txt-
-../dumps-text/en-46.txt-   "State Farm's claims processing methods have a demonstrable and
-../dumps-text/en-46.txt-   widespread discriminatory impact on Black homeowners making insurance
---
-../dumps-text/en-46.txt- 218. https://www.wglt.org/wglt-on-your-smart-speaker
-../dumps-text/en-46.txt- 219. https://www.wglt.org/local-news
-../dumps-text/en-46.txt- 220. https://www.wglt.org/people/charlie-schlenker
-../dumps-text/en-46.txt: 221. https://www.facebook.com/dialog/share?app_id=1763132750501806&display=popup&href=https%3A%2F%2Fwww.wglt.org%2Flocal-news%2F2022-12-19%2Fstate-farm-accused-of-covert-racial-discrimination-in-claims-processing
-../dumps-text/en-46.txt: 222. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.wglt.org%2Flocal-news%2F2022-12-19%2Fstate-farm-accused-of-covert-racial-discrimination-in-claims-processing&text=State%20Farm%20accused%20of%20covert%20racial%20discrimination%20in%20claims%20processing
-../dumps-text/en-46.txt: 223. https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.wglt.org%2Flocal-news%2F2022-12-19%2Fstate-farm-accused-of-covert-racial-discrimination-in-claims-processing&mini=true&title=State%20Farm%20accused%20of%20covert%20racial%20discrimination%20in%20claims%20processing&summary=A%20Black%20Illinois%20homeowner%20claims%20State%20Farm%20practices%20covert%20racial%20discrimination%20in%20how%20it%20processes%20claims.%20%E2%80%9CState%20Farm%20does%20not%20treat%20its%20Black%20and%20white%20homeowners%20insurance%20policyholders%20equally%2C%E2%80%9D%20states%20a%20federal%20lawsuit%20filed%20by%20Jacqueline%20Huskey%20of%20Matteson%20in%20south%20suburban%20Chicago.&source=WGLT
-../dumps-text/en-46.txt: 224. mailto:?body=State%20Farm%20accused%20of%20covert%20racial%20discrimination%20in%20claims%20processing%0A%0Ahttps%3A%2F%2Fwww.wglt.org%2Flocal-news%2F2022-12-19%2Fstate-farm-accused-of-covert-racial-discrimination-in-claims-processing%0A%0AA%20Black%20Illinois%20homeowner%20claims%20State%20Farm%20practices%20covert%20racial%20discrimination%20in%20how%20it%20processes%20claims.%20%E2%80%9CState%20Farm%20does%20not%20treat%20its%20Black%20and%20white%20homeowners%20insurance%20policyholders%20equally%2C%E2%80%9D%20states%20a%20federal%20lawsuit%20filed%20by%20Jacqueline%20Huskey%20of%20Matteson%20in%20south%20suburban%20Chicago.
-../dumps-text/en-46.txt- 225. https://npr.brightspotcdn.com/86/30/29ce76a84895826bce40a0fb9fab/state-farm-complaint-221219.pdf
-../dumps-text/en-46.txt- 226. https://www.wglt.org/local-news/2022-11-11/in-lawsuit-state-farm-accuses-amazon-of-patent-infringement-over-smart-speaker-tool-for-seniors
-../dumps-text/en-46.txt- 227. https://www.wglt.org/local-news
---
-../dumps-text/en-46.txt- 237. https://www.wglt.org/tags/business-and-economy
-../dumps-text/en-46.txt- 238. https://www.wglt.org/tags/real-estate
-../dumps-text/en-46.txt- 239. https://www.wglt.org/tags/ipr
-../dumps-text/en-46.txt: 240. https://www.facebook.com/dialog/share?app_id=1763132750501806&display=popup&href=https%3A%2F%2Fwww.wglt.org%2Flocal-news%2F2022-12-19%2Fstate-farm-accused-of-covert-racial-discrimination-in-claims-processing
-../dumps-text/en-46.txt: 241. https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.wglt.org%2Flocal-news%2F2022-12-19%2Fstate-farm-accused-of-covert-racial-discrimination-in-claims-processing&text=State%20Farm%20accused%20of%20covert%20racial%20discrimination%20in%20claims%20processing
-../dumps-text/en-46.txt: 242. https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.wglt.org%2Flocal-news%2F2022-12-19%2Fstate-farm-accused-of-covert-racial-discrimination-in-claims-processing&mini=true&title=State%20Farm%20accused%20of%20covert%20racial%20discrimination%20in%20claims%20processing&summary=A%20Black%20Illinois%20homeowner%20claims%20State%20Farm%20practices%20covert%20racial%20discrimination%20in%20how%20it%20processes%20claims.%20%E2%80%9CState%20Farm%20does%20not%20treat%20its%20Black%20and%20white%20homeowners%20insurance%20policyholders%20equally%2C%E2%80%9D%20states%20a%20federal%20lawsuit%20filed%20by%20Jacqueline%20Huskey%20of%20Matteson%20in%20south%20suburban%20Chicago.&source=WGLT
-../dumps-text/en-46.txt: 243. mailto:?body=State%20Farm%20accused%20of%20covert%20racial%20discrimination%20in%20claims%20processing%0A%0Ahttps%3A%2F%2Fwww.wglt.org%2Flocal-news%2F2022-12-19%2Fstate-farm-accused-of-covert-racial-discrimination-in-claims-processing%0A%0AA%20Black%20Illinois%20homeowner%20claims%20State%20Farm%20practices%20covert%20racial%20discrimination%20in%20how%20it%20processes%20claims.%20%E2%80%9CState%20Farm%20does%20not%20treat%20its%20Black%20and%20white%20homeowners%20insurance%20policyholders%20equally%2C%E2%80%9D%20states%20a%20federal%20lawsuit%20filed%20by%20Jacqueline%20Huskey%20of%20Matteson%20in%20south%20suburban%20Chicago.
-../dumps-text/en-46.txt- 244. https://www.wglt.org/people/charlie-schlenker
-../dumps-text/en-46.txt- 245. https://www.wglt.org/people/charlie-schlenker
-../dumps-text/en-46.txt- 246. https://www.wglt.org/local-news/2023-01-03/resiliency-allows-west-bloomington-revitalization-project-to-bounce-back-in-2022
+
+   [219]Local News
+
+State Farm accused of covert racial discrimination in claims processing
+
+   WGLT | By [220]Charlie Schlenker
+   Published December 19, 2022 at 3:35 PM CST

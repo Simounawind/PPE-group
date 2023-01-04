@@ -513,22 +513,20 @@ Topics
 MOST POPULAR
 
    1
-   [145]Key facts about Title 42, the pandemic policy that has reshaped
-   immigration enforcement at U.S.-Mexico border
+   [145]What is the House Freedom Caucus, and who's in it?
 
    2
-   [146]Quiz: Where do you fit in the political typology?
-
-   3
-   [147]Are you in the American middle class? Find out with our income
+   [146]Are you in the American middle class? Find out with our income
    calculator
 
+   3
+   [147]Quiz: Where do you fit in the political typology?
+
    4
-   [148]Global population projected to exceed 8 billion in 2022; half live
-   in just seven countries
+   [148]118th Congress has a record number of women
 
    5
-   [149]What the data says about gun deaths in the U.S.
+   [149]How the American middle class has changed in the past five decades
 
    Pew Research Center
    1615 L St. NW, Suite 800
@@ -705,11 +703,11 @@ References
  142. https://www.pewresearch.org/topic/criminal-justice/police/
  143. https://www.pewresearch.org/topic/demographics-politics/race-ethnicity-politics-2/
  144. https://www.pewresearch.org/topic/criminal-justice/
- 145. https://www.pewresearch.org/fact-tank/2022/04/27/key-facts-about-title-42-the-pandemic-policy-that-has-reshaped-immigration-enforcement-at-u-s-mexico-border/
- 146. https://www.pewresearch.org/politics/quiz/political-typology/
- 147. https://www.pewresearch.org/fact-tank/2020/07/23/are-you-in-the-american-middle-class/
- 148. https://www.pewresearch.org/fact-tank/2022/07/21/global-population-projected-to-exceed-8-billion-in-2022-half-live-in-just-seven-countries/
- 149. https://www.pewresearch.org/fact-tank/2022/02/03/what-the-data-says-about-gun-deaths-in-the-u-s/
+ 145. https://www.pewresearch.org/fact-tank/2015/10/20/house-freedom-caucus-what-is-it-and-whos-in-it/
+ 146. https://www.pewresearch.org/fact-tank/2020/07/23/are-you-in-the-american-middle-class/
+ 147. https://www.pewresearch.org/politics/quiz/political-typology/
+ 148. https://www.pewresearch.org/fact-tank/2023/01/03/118th-congress-has-a-record-number-of-women/
+ 149. https://www.pewresearch.org/fact-tank/2022/04/20/how-the-american-middle-class-has-changed-in-the-past-five-decades/
  150. tel:+12024194300
  151. tel:+12028578562
  152. tel:+12024194372

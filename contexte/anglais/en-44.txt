@@ -1,124 +1,15 @@
-../dumps-text/en-44.txt-   these health outcomes are more prevalent in the Black population," said
-../dumps-text/en-44.txt-   Chandra Jackson, a researcher and epidemiologist with the National
-../dumps-text/en-44.txt-   Institute of Environmental Health Sciences, who has been studying
-../dumps-text/en-44.txt:   racial and ethnic disparities in sleep.
-../dumps-text/en-44.txt-
-../dumps-text/en-44.txt-   "Experimental as well as observational studies have linked sleep to
-../dumps-text/en-44.txt-   these health outcomes. Therefore, sleep could be an important
+
+   "Among those are housing conditions, noise pollution, light pollution,
+   air pollution, stress from different sources - including perceived
+   racial discrimination - and jobs or working conditions," he said,
+   adding that the convergence of all those factors may explain why
+   getting the recommended amount of sleep "may be less common among Black
+   adults than among White adults."
 --
-../dumps-text/en-44.txt-   sleep. So without enough sleep, the body and brain may not function
-../dumps-text/en-44.txt-   optimally, said Dr. César Caraballo-Cordovez, a postdoctoral associate
-../dumps-text/en-44.txt-   in the Yale-based Center for Outcomes Research and Evaluation who has
-../dumps-text/en-44.txt:   [152]studied racial and ethnic disparities in sleep duration.
-../dumps-text/en-44.txt-
-../dumps-text/en-44.txt-   "Short sleep duration has been associated with higher risk of adverse
-../dumps-text/en-44.txt-   medical events and conditions, including diabetes, obesity,
---
-../dumps-text/en-44.txt-   Caraballo-Cordovez wrote in an email, adding that the consensus is that
-../dumps-text/en-44.txt-   most adults need at least seven hours of sleep per day.
-../dumps-text/en-44.txt-
-../dumps-text/en-44.txt:   Yet the racial and ethnic disparities in sleep duration appear to be
-../dumps-text/en-44.txt-   getting worse across the United States, according to recent research by
-../dumps-text/en-44.txt-   Caraballo-Cordovez, Jackson and their colleagues. Their study,
-../dumps-text/en-44.txt-   published in April in the medical journal [153]JAMA Network Open, found
---
-../dumps-text/en-44.txt-
-../dumps-text/en-44.txt-   "Among those are housing conditions, noise pollution, light pollution,
-../dumps-text/en-44.txt-   air pollution, stress from different sources - including perceived
-../dumps-text/en-44.txt:   racial discrimination - and jobs or working conditions," he said,
-../dumps-text/en-44.txt-   adding that the convergence of all those factors may explain why
-../dumps-text/en-44.txt-   getting the recommended amount of sleep "may be less common among Black
-../dumps-text/en-44.txt-   adults than among White adults."
-../dumps-text/en-44.txt-
-../dumps-text/en-44.txt-   Caraballo-Cordovez and Jackson both emphasize that the causes behind
-../dumps-text/en-44.txt:   the racial inequality of sleep warrant more research.
-../dumps-text/en-44.txt-
-../dumps-text/en-44.txt-The `persistent barriers' to quality sleep
-../dumps-text/en-44.txt-
---
-../dumps-text/en-44.txt-   conditions or work schedules that don't support sleep - may emerge, at
-../dumps-text/en-44.txt-   least in part, from historical and persistent forms of structural
-../dumps-text/en-44.txt-   racism, which Jackson considers as the "totality of ways in which
-../dumps-text/en-44.txt:   societies foster racial discrimination through mutually reinforcing
-../dumps-text/en-44.txt-   systems of housing, education, employment, wages, benefits, credit,
-../dumps-text/en-44.txt-   media, health care and criminal justice."
-../dumps-text/en-44.txt-   PEMBROKE PARK, FLORIDA - JULY 22: Health care workers use a nasal swab
---
-../dumps-text/en-44.txt-   not allow specific hairstyles in school or the workplace.
-../dumps-text/en-44.txt-
-../dumps-text/en-44.txt-   "These policies and practices can produce disparities due to the
-../dumps-text/en-44.txt:   maldistribution of health-promoting or harming resources across racial
-../dumps-text/en-44.txt-   groups and can, in turn, reinforce discriminatory beliefs," Jackson
-../dumps-text/en-44.txt-   said. "That is, it is believed that discriminatory policies and
-../dumps-text/en-44.txt-   practices across sectors of society create the physical and social
---
-../dumps-text/en-44.txt-References
-../dumps-text/en-44.txt-
-../dumps-text/en-44.txt-   Visible links:
-../dumps-text/en-44.txt:   1. https://edition.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html
-../dumps-text/en-44.txt:   2. https://www.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html
-../dumps-text/en-44.txt:   3. https://www.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html
-../dumps-text/en-44.txt:   4. https://edition.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html
-../dumps-text/en-44.txt-   5. https://www.cnn.com/interactive/life-but-better/
-../dumps-text/en-44.txt-   6. https://www.cnn.com/specials/health/fitness-life-but-better
-../dumps-text/en-44.txt-   7. http://www.cnn.com/specials/health/food-life-but-better
---
-../dumps-text/en-44.txt-  17. https://edition.cnn.com/audio
-../dumps-text/en-44.txt-  18. https://edition.cnn.com/live-tv
-../dumps-text/en-44.txt-  19. https://edition.cnn.com/account/settings
-../dumps-text/en-44.txt:  20. https://edition.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html
-../dumps-text/en-44.txt-  21. https://edition.cnn.com/account/settings
-../dumps-text/en-44.txt:  22. https://edition.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html
-../dumps-text/en-44.txt-  23. https://edition.cnn.com/live-tv
-../dumps-text/en-44.txt-  24. https://edition.cnn.com/audio
-../dumps-text/en-44.txt-  25. https://us.cnn.com/?hpt=header_edition-picker
---
-../dumps-text/en-44.txt- 149. https://www.cnn.com/2022/10/18/health/short-sleep-multiple-chronic-diseases-wellness
-../dumps-text/en-44.txt- 150. https://www.cnn.com/2022/10/19/health/sleep-heart-health-wellness
-../dumps-text/en-44.txt- 151. https://www.ncbi.nlm.nih.gov/books/NBK551680/#:~:text=Understanding%20the%20neural%20mechanisms%20of,%2C%20cardiovascular%20health%2C%20and%20mood.
-../dumps-text/en-44.txt: 152. https://news.yale.edu/2022/04/07/yale-study-finds-persistent-racial-and-ethnic-disparities-sleep-duration
-../dumps-text/en-44.txt- 153. https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790797
-../dumps-text/en-44.txt- 154. https://www.cnn.com/2022/02/22/us/no-knock-raid-breonna-taylor-timeline/index.html
-../dumps-text/en-44.txt- 155. https://www.cnn.com/2022/01/05/us/george-floyd-grandniece-shot/index.html
---
-../dumps-text/en-44.txt- 159. https://form.cnn.com/results_are_in?source=article
-../dumps-text/en-44.txt- 160. https://health.gov/healthypeople/objectives-and-data/browse-objectives/sleep#:~:text=Healthy%20People%202030%20focuses%20on,stroke%2C%20dementia%2C%20and%20cancer.
-../dumps-text/en-44.txt- 161. https://edition.cnn.com/account/settings
-../dumps-text/en-44.txt: 162. https://edition.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html
-../dumps-text/en-44.txt- 163. https://edition.cnn.com/live-tv
-../dumps-text/en-44.txt- 164. https://edition.cnn.com/audio
-../dumps-text/en-44.txt- 165. https://www.cnn.com/us
---
-../dumps-text/en-44.txt- 272. https://edition.cnn.com/audio
-../dumps-text/en-44.txt- 273. https://edition.cnn.com/live-tv
-../dumps-text/en-44.txt- 274. https://edition.cnn.com/account/settings
-../dumps-text/en-44.txt: 275. https://edition.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html
-../dumps-text/en-44.txt- 276. https://www.cnn.com/terms
-../dumps-text/en-44.txt- 277. https://www.cnn.com/privacy
-../dumps-text/en-44.txt- 278. https://warnermediaprivacy.com/policycenter/b2c/WMNS
---
-../dumps-text/en-44.txt- 282. https://www.cnn.com/transcripts
-../dumps-text/en-44.txt-
-../dumps-text/en-44.txt-   Hidden links:
-../dumps-text/en-44.txt: 284. https://edition.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html#maincontent
-../dumps-text/en-44.txt- 285. https://www.cnn.com/
-../dumps-text/en-44.txt- 286. https://www.cnn.com/health
-../dumps-text/en-44.txt: 287. https://edition.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html
-../dumps-text/en-44.txt: 288. https://edition.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html
-../dumps-text/en-44.txt- 289. https://facebook.com/CNN
-../dumps-text/en-44.txt- 290. https://twitter.com/CNN
-../dumps-text/en-44.txt- 291. https://instagram.com/CNN
-../dumps-text/en-44.txt: 292. mailto:?subject=CNN%20content%20share&body=Check%20out%20this%20article%3A%0Ahttps%3A%2F%2Fwww.cnn.com%2F2022%2F11%2F25%2Fhealth%2Fracial-inequities-sleep
-../dumps-text/en-44.txt- 293. https://edition.cnn.com/2022/11/06/health/permanent-daylight-savings-health-harms-wellness/index.html
-../dumps-text/en-44.txt- 294. https://edition.cnn.com/2022/03/15/us/daylight-saving-time-history-trnd/index.html
-../dumps-text/en-44.txt- 295. https://edition.cnn.com/videos/health/2013/10/21/exp-hm-preparing-for-daylight-saving-time.cnn
-../dumps-text/en-44.txt- 296. https://edition.cnn.com/videos/health/2022/06/21/sleep-tips-myths-expert-lbb-orig.cnn
-../dumps-text/en-44.txt- 297. https://edition.cnn.com/2020/08/20/us/systemic-racism-coronavirus-pandemic-trnd/index.html
-../dumps-text/en-44.txt: 298. https://edition.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html
-../dumps-text/en-44.txt- 299. https://www.cnn.com/
-../dumps-text/en-44.txt- 300. https://www.cnn.com/health
-../dumps-text/en-44.txt- 301. https://facebook.com/CNN
-../dumps-text/en-44.txt- 302. https://twitter.com/CNN
-../dumps-text/en-44.txt- 303. https://instagram.com/CNN
-../dumps-text/en-44.txt: 304. https://edition.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html
-../dumps-text/en-44.txt: 305. https://edition.cnn.com/2022/11/25/health/racial-inequities-sleep/index.html
+   conditions or work schedules that don't support sleep - may emerge, at
+   least in part, from historical and persistent forms of structural
+   racism, which Jackson considers as the "totality of ways in which
+   societies foster racial discrimination through mutually reinforcing
+   systems of housing, education, employment, wages, benefits, credit,
+   media, health care and criminal justice."
+   PEMBROKE PARK, FLORIDA - JULY 22: Health care workers use a nasal swab

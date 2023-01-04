@@ -31,7 +31,7 @@ do
 					</thead>
 					<tbody>
 	" > ../../concordances/chinois/concordance_ch-$lignenum.html
-	w3m -cookie $URL | grep -E -o "(\w+|\W+){0,10}$cible(\W+|\w+){0,10}" |sort|uniq | sed -E "s/(.*)($cible)(.*)/<tr><td class="has-text-right">\1<\/td><td class="has-text-danger"><strong>\2<\/strong><\/td><td class="has-text-left">\3<\/td><\/tr>/" >> ../../concordances/chinois/concordance_ch-$lignenum.html
+	w3m -cookie $URL | grep -E -o "(\w+|\W+){0,10}$cible(\W+|\w+){0,10}" |sort|uniq | sed -E "s/(.*)($cible)(.*)/<tr><td class="has-text-right">\1<\/td><td class="has-text-centered"><strong>\2<\/strong><\/td><td class="has-text-left">\3<\/td><\/tr>/" >> ../../concordances/chinois/concordance_ch-$lignenum.html
 	echo "
 	</tbody>
 	</table>

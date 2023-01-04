@@ -1429,14 +1429,32 @@ Related Content
 
    [45]Syria
 
-[46]Lost in Syria: time for an international body to find the disappeared
+[46]Syria: UN experts urge Security Council to extend life-saving aid
+delivery into northwest Syria
 
    Format
           News and Press Release
 
    Source
 
-          + [47]Peace Direct
+          + [47]UN HRC
+
+   Posted
+          4 Jan 2023
+
+   Originally published
+          4 Jan 2023
+
+   [48]Ukraine
+
+[49]Ukraine: Civilian casualties as of 2 January 2023 [EN/RU/UK]
+
+   Format
+          News and Press Release
+
+   Source
+
+          + [50]OHCHR
 
    Posted
           4 Jan 2023
@@ -1444,60 +1462,42 @@ Related Content
    Originally published
           3 Jan 2023
 
-   [48]Ukraine
+   [51]World
 
-[49]Highlights of the noon briefing by Farhan Haq, Deputy Spokesman for
-Secretary-General António Guterres Tuesday, 3 January 2023 - Ukraine
-
-   Format
-          News and Press Release
-
-   Source
-
-          + [50]UN DGC
-
-   Posted
-          3 Jan 2023
-
-   Originally published
-          3 Jan 2023
-
-   [51]World + 5 more
-
-[52]Pacific Cash Learning Event 2022: Report (December 2022)
+[52]Nexus approaches in humanitarian settings - A guidance note for the
+Protection Cluster
 
    Format
-          News and Press Release
+          Manual and Guideline
 
    Sources
 
-          + [53]PRCWG
-          + [54]Save the Children
+          + [53]ICVA
+          + [54]Protection Cluster
 
    Posted
-          3 Jan 2023
+          4 Jan 2023
 
    Originally published
-          16 Dec 2022
+          4 Jan 2023
 
    [55]Syria
 
-[56]At Least 2,221 Arbitrary Arrests/Detentions Documented in Syria in 2022,
-Including 148 Children and 457 Women (Adult Female), with 213 Cases
-Documented in December
+[56]Camp Crisis in North-west Syria
 
    Format
-          Analysis
+          Situation Report
 
-   Source
+   Sources
 
-          + [57]SNHR
+          + [57]CCCM Cluster
+          + [58]UNHCR
 
    Posted
-          3 Jan 2023
+          4 Jan 2023
 
    Originally published
-          3 Jan 2023
+          4 Jan 2023
 
 Subscribe
 
@@ -1506,43 +1506,43 @@ Subscribe
 
 Footer
 
-     * [58]Blog
-     * [59]Labs
-     * [60]About Us
-     * [61]Terms
-     * [62]Contact
+     * [59]Blog
+     * [60]Labs
+     * [61]About Us
+     * [62]Terms
+     * [63]Contact
 
-   [63]Facebook [64]Twitter [65]LinkedIn [66]Instagram [67]Telegram
+   [64]Facebook [65]Twitter [66]LinkedIn [67]Instagram [68]Telegram
    Service provided by UNOCHA OCHA coordinates the global emergency
    response to save lives and protect people in humanitarian crises. We
    advocate for effective and principled humanitarian action by all, for
    all.
 
-   [68]ReliefWeb's Terms & Conditions.
+   [69]ReliefWeb's Terms & Conditions.
 
    © 2023 all rights reserved.
 
 OCHA Services
 
    Related Platforms
-     * [69]Reliefweb Response
-     * [70]Humanitarian Data Exchange
-     * [71]Humanitarian InSight
-     * [72]Central Emergency Response Fund
+     * [70]Reliefweb Response
+     * [71]Humanitarian Data Exchange
+     * [72]Humanitarian InSight
+     * [73]Central Emergency Response Fund
 
    Other OCHA Services
-     * [73]Financial Tracking Service
-     * [74]Humanitarian Data Exchange
-     * [75]Humanitarian ID
-     * [76]Humanitarian Response
+     * [74]Financial Tracking Service
+     * [75]Humanitarian Data Exchange
+     * [76]Humanitarian ID
+     * [77]Humanitarian Response
 
 
-     * [77]Inter-Agency Standing Committee
-     * [78]OCHA website
-     * [79]ReliefWeb
-     * [80]Virtual OSOCC
+     * [78]Inter-Agency Standing Committee
+     * [79]OCHA website
+     * [80]ReliefWeb
+     * [81]Virtual OSOCC
 
-   [81]See all
+   [82]See all
 
 References
 
@@ -1591,39 +1591,40 @@ References
   43. https://twitter.com/share?url=https%3A//reliefweb.int/report/world/general-assembly-adopts-51-third-committee-drafts-combating-glorification-nazism-refugees-displaced-persons-protecting-children-sexual-exploitation%3Futm_medium%3Dsocial%26utm_campaign%3Dshared%26utm_source%3Dtwitter.com&text=General%20Assembly%20Adopts%2051%20Third%20Committee%20Drafts%20on%20Combating%20Glorification%20of%20Nazism%2C%20R%E2%80%A6&via=reliefweb
   44. https://www.linkedin.com/shareArticle?mini=true&url=https%3A//reliefweb.int/report/world/general-assembly-adopts-51-third-committee-drafts-combating-glorification-nazism-refugees-displaced-persons-protecting-children-sexual-exploitation%3Futm_medium%3Dsocial%26utm_campaign%3Dshared%26utm_source%3Dlinkedin.com&title=General%20Assembly%20Adopts%2051%20Third%20Committee%20Drafts%20on%20Combating%20Glorification%20of%20Nazism%2C%20Refugees%2C%20Displaced%20Persons%2C%20Protecting%20Children%20from%20Sexual%20Exploitation&summary=SEVENTY-SEVENTH%20SESSION%2C%2054TH%20MEETING%20%28PM%29%20GA/12483%20Delegates%20Reject%20Country-Specific%20Texts%20as%20Political%20Tools%20to%20Interfere%20in%20Nations%E2%80%99%20Internal%20Affairs%20The%20General%20Assembly%20adopted%2051%20resolutions...&source=ReliefWeb
   45. https://reliefweb.int/country/syr
-  46. https://reliefweb.int/report/syrian-arab-republic/lost-syria-time-international-body-find-disappeared
-  47. https://reliefweb.int/organization/peace-direct
+  46. https://reliefweb.int/report/syrian-arab-republic/syria-un-experts-urge-security-council-extend-life-saving-aid-delivery-northwest-syria
+  47. https://reliefweb.int/organization/un-hrc
   48. https://reliefweb.int/country/ukr
-  49. https://reliefweb.int/report/ukraine/highlights-noon-briefing-farhan-haq-deputy-spokesman-secretary-general-antonio-guterres-tuesday-3-january-2023-ukraine
-  50. https://reliefweb.int/organization/un-dgc
+  49. https://reliefweb.int/report/ukraine/ukraine-civilian-casualties-2-january-2023-enruuk
+  50. https://reliefweb.int/organization/ohchr
   51. https://reliefweb.int/country/wld
-  52. https://reliefweb.int/report/world/pacific-cash-learning-event-2022-report-december-2022
-  53. https://reliefweb.int/organization/prcwg
-  54. https://reliefweb.int/organization/save-children
+  52. https://reliefweb.int/report/world/nexus-approaches-humanitarian-settings-guidance-note-protection-cluster
+  53. https://reliefweb.int/organization/icva
+  54. https://reliefweb.int/organization/protection-cluster
   55. https://reliefweb.int/country/syr
-  56. https://reliefweb.int/report/syrian-arab-republic/least-2221-arbitrary-arrestsdetentions-documented-syria-2022-including-148-children-and-457-women-adult-female-213-cases-documented-december
-  57. https://reliefweb.int/organization/snhr
-  58. https://reliefweb.int/blog
-  59. https://labs.reliefweb.int/
-  60. https://reliefweb.int/about
-  61. https://reliefweb.int/terms-conditions
-  62. https://reliefweb.int/contact
-  63. https://www.facebook.com/reliefweb
-  64. https://twitter.com/reliefweb
-  65. https://www.linkedin.com/company/reliefweb
-  66. https://www.instagram.com/reliefweb1996/
-  67. https://t.me/+8QT4PI32MbY3MDdh
-  68. https://reliefweb.int/terms-conditions
-  69. https://response.reliefweb.int/
-  70. https://data.humdata.org/
-  71. https://hum-insight.info/
-  72. https://cerf.un.org/
-  73. https://fts.unocha.org/
-  74. https://data.humdata.org/
-  75. https://auth.humanitarian.id/
-  76. https://humanitarianresponse.info/
-  77. https://interagencystandingcommittee.org/
-  78. https://unocha.org/
-  79. https://reliefweb.int/
-  80. https://vosocc.unocha.org/
-  81. https://www.unocha.org/ocha-digital-services
+  56. https://reliefweb.int/report/syrian-arab-republic/camp-crisis-north-west-syria
+  57. https://reliefweb.int/organization/cccm-cluster
+  58. https://reliefweb.int/organization/unhcr
+  59. https://reliefweb.int/blog
+  60. https://labs.reliefweb.int/
+  61. https://reliefweb.int/about
+  62. https://reliefweb.int/terms-conditions
+  63. https://reliefweb.int/contact
+  64. https://www.facebook.com/reliefweb
+  65. https://twitter.com/reliefweb
+  66. https://www.linkedin.com/company/reliefweb
+  67. https://www.instagram.com/reliefweb1996/
+  68. https://t.me/+8QT4PI32MbY3MDdh
+  69. https://reliefweb.int/terms-conditions
+  70. https://response.reliefweb.int/
+  71. https://data.humdata.org/
+  72. https://hum-insight.info/
+  73. https://cerf.un.org/
+  74. https://fts.unocha.org/
+  75. https://data.humdata.org/
+  76. https://auth.humanitarian.id/
+  77. https://humanitarianresponse.info/
+  78. https://interagencystandingcommittee.org/
+  79. https://unocha.org/
+  80. https://reliefweb.int/
+  81. https://vosocc.unocha.org/
+  82. https://www.unocha.org/ocha-digital-services

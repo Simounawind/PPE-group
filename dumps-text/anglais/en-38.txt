@@ -142,7 +142,7 @@ in recovering and rebuilding from the COVID-19 pandemic
 
    [68]Nature Communications volume 13, Article number: 3277 (2022)
    [69]Cite this article
-     * 1940 Accesses
+     * 1943 Accesses
      * 21 Altmetric
      * [70]Metrics details
 
@@ -769,7 +769,7 @@ References
    3. https://www.nature.com/opensearch/request
    4. https://collect.nature.com/ns.html?id=GTM-MRVXSHQ
    5. https://www.nature.com/articles/s41467-022-30791-w#content
-   6. https://pubads.g.doubleclick.net/gampad/jump?iu=/285/nature_communications/article&sz=728x90&c=1985020245&t=pos%3Dtop%26type%3Darticle%26artid%3Ds41467-022-30791-w%26doi%3D10.1038/s41467-022-30791-w%26subjmeta%3D2788,478,689,692,700,706%26kwrd%3DDecision+making,Public+health
+   6. https://pubads.g.doubleclick.net/gampad/jump?iu=/285/nature_communications/article&sz=728x90&c=727287612&t=pos%3Dtop%26type%3Darticle%26artid%3Ds41467-022-30791-w%26doi%3D10.1038/s41467-022-30791-w%26subjmeta%3D2788,478,689,692,700,706%26kwrd%3DDecision+making,Public+health
    7. https://www.nature.com/ncomms
    8. https://www.nature.com/siteindex
    9. https://www.nature.com/articles/s41467-022-30791-w#search-menu
@@ -925,7 +925,7 @@ References
  159. https://crossmark.crossref.org/dialog/?doi=10.1038/s41467-022-30791-w
  160. https://citation-needed.springer.com/v2/references/10.1038/s41467-022-30791-w?format=refman&flavour=citation
  161. https://www.nature.com/articles/s41467-022-30791-w.pdf
- 162. https://pubads.g.doubleclick.net/gampad/jump?iu=/285/nature_communications/article&sz=300x250&c=-1666770320&t=pos%3Dright%26type%3Darticle%26artid%3Ds41467-022-30791-w%26doi%3D10.1038/s41467-022-30791-w%26subjmeta%3D2788,478,689,692,700,706%26kwrd%3DDecision+making,Public+health
+ 162. https://pubads.g.doubleclick.net/gampad/jump?iu=/285/nature_communications/article&sz=300x250&c=1335937465&t=pos%3Dright%26type%3Darticle%26artid%3Ds41467-022-30791-w%26doi%3D10.1038/s41467-022-30791-w%26subjmeta%3D2788,478,689,692,700,706%26kwrd%3DDecision+making,Public+health
  163. https://www.nature.com/ncomms/research-articles
  164. https://www.nature.com/ncomms/reviews-and-analysis
  165. https://www.nature.com/ncomms/news-and-comment

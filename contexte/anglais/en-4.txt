@@ -1,29 +1,21 @@
-../dumps-text/en-4.txt-          + [129]CNN Newsletters
-../dumps-text/en-4.txt-          + [130]Work for CNN
-../dumps-text/en-4.txt-
-../dumps-text/en-4.txt:DOJ touts first-of-its-kind settlement in racial discrimination case
-../dumps-text/en-4.txt-targeting `crime-free housing' policy
-../dumps-text/en-4.txt-
-../dumps-text/en-4.txt-   By [131]Tierney Sneed, CNN
+          + [129]CNN Newsletters
+          + [130]Work for CNN
+
+DOJ touts first-of-its-kind settlement in racial discrimination case
+targeting `crime-free housing' policy
+
+   By [131]Tierney Sneed, CNN
 --
-../dumps-text/en-4.txt-   CNN  --
-../dumps-text/en-4.txt-
-../dumps-text/en-4.txt-   The US Justice Department on Wednesday filed what it is describing as a
-../dumps-text/en-4.txt:   first-of-its-kind settlement in a racial discrimination case
-../dumps-text/en-4.txt-   challenging a so-called "crime-free housing ordinance."
-../dumps-text/en-4.txt-
-../dumps-text/en-4.txt-   The [132]proposed consent decree was filed Wednesday in a lawsuit the
-../dumps-text/en-4.txt-   Justice Department [133]brought in 2019 against the central California
-../dumps-text/en-4.txt-   city of Hesperia, alleging that the city's ordinance violated the Fair
-../dumps-text/en-4.txt:   Housing Act's prohibitions on racial discrimination in housing access.
-../dumps-text/en-4.txt-
-../dumps-text/en-4.txt-   Hesperia continues to deny the allegations.
-../dumps-text/en-4.txt-
---
-../dumps-text/en-4.txt-   allegations have not resulted in an arrest or a conviction.
-../dumps-text/en-4.txt-
-../dumps-text/en-4.txt-   "As our complaint makes clear, Hesperia's ordinance was a blatantly
-../dumps-text/en-4.txt:   racially discriminatory solution to a problem that didn't exist,"
-../dumps-text/en-4.txt-   Assistant Attorney General Kristen Clarke, who leads the DOJ Civil
-../dumps-text/en-4.txt-   Rights division, said on a press call Wednesday.
-../dumps-text/en-4.txt-
+   CNN  --
+
+   The US Justice Department on Wednesday filed what it is describing as a
+   first-of-its-kind settlement in a racial discrimination case
+   challenging a so-called "crime-free housing ordinance."
+
+   The [132]proposed consent decree was filed Wednesday in a lawsuit the
+   Justice Department [133]brought in 2019 against the central California
+   city of Hesperia, alleging that the city's ordinance violated the Fair
+   Housing Act's prohibitions on racial discrimination in housing access.
+
+   Hesperia continues to deny the allegations.
+

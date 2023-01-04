@@ -1,10 +1,7 @@
-../dumps-text/en-49.txt-   Li is currently applying to doctoral programs for developmental
-../dumps-text/en-49.txt-   psychology. Her future research interests are in studying culture,
-../dumps-text/en-49.txt-   sleep and stress, and academics and their role in development among
-../dumps-text/en-49.txt:   ethnic, racial and minority youth.
-../dumps-text/en-49.txt-
-../dumps-text/en-49.txt-   This fall, Li also defended her honors thesis as part of the psychology
-../dumps-text/en-49.txt:   honors seminar on the relationship between ethnic racial discrimination
-../dumps-text/en-49.txt-   and both objective and subjective measures of sleep among Latino
-../dumps-text/en-49.txt-   students in their transition to college.
-../dumps-text/en-49.txt-
+   ethnic, racial and minority youth.
+
+   This fall, Li also defended her honors thesis as part of the psychology
+   honors seminar on the relationship between ethnic racial discrimination
+   and both objective and subjective measures of sleep among Latino
+   students in their transition to college.
+
