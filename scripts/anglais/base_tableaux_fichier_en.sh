@@ -1,4 +1,4 @@
-é#!/usr/bin/env bash
+#!/usr/bin/env bash
 
 #===============================================================================
 # VOUS DEVEZ MODIFIER CE BLOC DE COMMENTAIRES.
