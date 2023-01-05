@@ -1,0 +1,581 @@
+   #[1]Legal Defense Fund » Feed [2]Legal Defense Fund » Comments Feed
+   [3]alternate
+
+   IFRAME: [4]//www.googletagmanager.com/ns.html?id=GTM-MCKBM8
+
+   ____________________ (BUTTON)
+
+     *
+     * [5]Search
+     * [6]Our Impact
+     * [7]About
+     * [8]Donate
+
+   [9]Close   X
+
+     * [10]About Us
+          + [11]History
+          + [12]Staff
+          + [13]Board of Directors
+          + [14]Fellowships & Internships
+          + [15]Scholarships
+          + [16]Careers
+     * [17]Our Impact
+          + [18]Criminal Justice
+               o [19]View All
+               o [20]Abuse of Police Discretion
+               o [21]Capital Punishment
+               o [22]Fair Sentencing
+               o [23]Juvenile Life Without Parole
+               o [24]Police Accountability
+               o [25]The War on Drugs
+          + [26]Economic Justice
+               o [27]View All
+               o [28]Access to Justice
+               o [29]Criminal Records
+               o [30]Employment Discrimination
+               o [31]Environmental Justice
+               o [32]Fair Housing and Lending
+               o [33]Health Care
+               o [34]Housing Discrimination
+               o [35]Marriage Equality
+               o [36]Minority Business Discrimination
+               o [37]Transportation Justice
+          + [38]Education
+               o [39]View All
+               o [40]Desegregation
+               o [41]Educational Equity
+               o [42]School Integration
+               o [43]School to Prison Pipeline
+          + [44]Political Participation
+               o [45]View All
+               o [46]Barriers to Voting
+               o [47]Census
+               o [48]Felon Disfranchisement
+               o [49]Prepared to Vote
+               o [50]Prison-Based Gerrymandering
+               o [51]Redistricting
+               o [52]Voter Protection
+               o [53]Voting Rights Act
+     * [54]Case/Issue Search
+     * [55]Our Thinking
+          + [56]LDF Original Content
+          + [57]Issue Reports
+          + [58]Death Row USA: Death Penalty Cases and Statistics by State
+     * [59]Thurgood Marshall Institute
+          + [60]National Police Funding Database
+          + [61]Voting Rights 2022
+     * [62]News & Press
+          + [63]News
+          + [64]Press
+          + [65]Fact Sheets
+          + [66]LDF Brochures
+          + [67]LDF Flyers
+     * [68]Support
+          + [69]Donate
+          + [70]Other Ways to Give
+          + [71]Donors
+          + [72]Fiscal Responsibility
+     * [73]Events
+          + [74]National Equal Justice Awards Dinner
+          + [75]LDF Events
+     * [76]Donate
+          + [77]DONATE TODAY
+          + [78]Give Monthly
+          + [79]Tribute Gifts
+          + [80]Scholarship Gifts
+     * [81]Contact Us
+          + [82]Locations
+          + [83]Legal Assistance
+          + [84]Press Inquiries
+
+How Racism in the Courtroom Produces Wrongful Convictions and Mass
+Incarceration
+
+By Ella Wiley
+
+Senior Communications Associate
+
+   In recent years, police violence and militarization have been under a
+   microscope. For many Americans, it is now frighteningly clear that
+   police consider Black people suspects when [85]sitting in their
+   backyards, [86]failing to signal, and simply going about many daily
+   life activities -- and that this racial targeting too often results in
+   callous abuses, unjust imprisonment, and senseless killings at law
+   enforcement's hands. Tragically, policing is only one of many racial
+   discrimination pitfalls in America's criminal justice system, merely
+   representing the first step in a deeply problematic process.
+
+   As the oldest civil rights legal organization in the United States, the
+   Legal Defense Fund (LDF) is intimately familiar with this system's
+   failures. It cannot be overlooked how -- in addition to vast racial
+   disparities in policing, arrests, and detention -- every stage of the
+   criminal justice process following the filing of charges also
+   contributes to the mass incarceration of Black people in this country.
+   This piece will examine three major failures in court proceedings that
+   often lead to unjust convictions and sentencing -- and how LDF has
+   confronted these failures over the years.
+
+Discrimination in Juror Selection
+
+   While some Americans may wonder why they are asked to perform jury
+   duty, juries are an indispensable part of ensuring fairness in trials.
+   Yet, although the Sixth Amendment to the U.S. Constitution promises a
+   public trial by an impartial jury, this promise is a false one for many
+   Black people charged with crimes.
+
+   During jury selection -- a process known as "voir dire" -- both the
+   prosecution and defense can strike potential jurors they believe are
+   unfit to serve. Attorneys can justify a juror strike using several
+   reasons, including citing biases that might cloud an individual's
+   ability to provide a fair verdict. These strikes are called challenges
+   for cause. However, attorneys on each side are also given a set number
+   of peremptory challenges where they are not required to explain why
+   they'd like a specific juror struck from the roster. While peremptory
+   challenges are limited, prosecutors often abuse this process to strike
+   Black jurors -- particularly when the defendant is Black -- even though
+   it's illegal to strike a juror based on their race or ethnicity.
+
+   In one of the most egregious and infamous examples of this kind of
+   systemic discrimination, former Mississippi District Attorney Doug
+   Evans struck Black jurors [87]4.4 times more frequently than white
+   jurors over the course of his nearly 30-year career. Under Evans'
+   authority, defendant Curtis Flowers, who is Black, faced six trials for
+   the same charge, each resulting in a hung jury or a reversed conviction
+   due to prosecutorial misconduct. During those six trials, Evans removed
+   41 of 42 potential Black jurors and struck them 20 times more
+   frequently than white jurors.
+
+   When Flowers' case was brought to the Supreme Court, LDF filed an
+   [88]amicus brief condemning the exclusion of Black Americans from a
+   crucial part of the democratic process. In 2019, the Supreme Court
+   [89]reversed Flowers' conviction and condemned Evans' use of racist
+   peremptory strikes, instituting protections against striking potential
+   jurors based on race.
+
+   "The Flowers story is a powerful reminder that discrimination is alive
+   and well in the criminal legal system right now. We cannot pretend it's
+   some sort of unfortunate chapter from American history that we've now
+   moved beyond," remarks LDF Deputy Director of Litigation Chris Kemmitt.
+   "It continues to pervade our criminal legal system -- and not just
+   implicit bias, but open, naked racism."
+
+   Kemmitt adds, "The Flowers trials also illustrate just how important it
+   is to stop prosecutors from using their peremptory challenges to target
+   and remove Black prospective jurors. Even though the state's evidence
+   against Curtis Flowers was weak and unconvincing, every time the
+   district attorney was able to remove all of the Black jurors or all but
+   one of the Black jurors, the jury voted to convict despite the lack of
+   evidence. But any time the jury had two or more Black jurors, some of
+   those jurors followed the evidence and voted to acquit."
+
+"The Flowers story is a powerful reminder that discrimination is alive and
+well in the criminal legal system right now. We cannot pretend it's some sort
+of unfortunate chapter from American history that we've now moved beyond. It
+continues to pervade our criminal legal system -- and not just implicit bias,
+but open, naked racism."
+
+- Chris Kemmitt, LDF Deputy Director of Litigation
+
+   Photo: Curtis Flowers leaves the Winston County jail with sisters
+   Charita Baskin (left) and Priscilla Ward. (Photo by Hunter Hart for APM
+   Reports)
+
+Racism and Bias Among Jury Members
+
+   While attorneys from both the defense and prosecution can strike
+   potential jurors they believe hold biases that will prevent them from
+   providing a fair verdict, many substantial biases either go undetected
+   or, worse, are tolerated outright. There have been countless [90]cases
+   where a person of color was convicted of a crime, and it was [91]later
+   discovered that one or more jurors responsible for determining their
+   innocence were racist. It is also important to note that the true
+   number of cases where racism among jury members has resulted in an
+   unfair conviction of a person of color is unknown.
+
+   However, when they are known, LDF and other organizations work to
+   reverse such convictions. In 2004, Andre Thomas, a Black man, killed
+   his white wife and their two children during a schizophrenic episode.
+   He also attempted to kill himself at the scene and subsequently gouged
+   out both of his eyes. At Thomas' capital trial, the jury had to assess
+   his severe mental illness when considering his insanity defense and
+   then decide whether he should be sentenced to death or life
+   imprisonment. Despite the substantial impact that their decision would
+   have on Thomas' future, three jurors were allowed to serve after openly
+   [92]condemning interracial relationships, a bias that could've
+   unquestionably impacted their decision. Thomas has been on death row
+   ever since.
+
+   In 2021, LDF filed a [93]cert petition urging the Supreme Court to
+   review Thomas' conviction and jury discrimination claim. LDF's petition
+   detailed the Supreme Court's precedent protecting against such biases
+   in courtroom proceedings. It also emphasized that racial biases within
+   the deliberation room cannot be tolerated because they undermine our
+   nation's promise for fair trials by an impartial jury. The Supreme
+   Court has yet to make a decision on whether it will consider Thomas'
+   case.
+
+   "The Supreme Court has long recognized that overt racial bias has no
+   place in our criminal justice system," says LDF Assistant Counsel
+   Santino Coleman. "When jurors in a criminal case openly express racial
+   bias, it creates the unacceptable risk that racial prejudice will
+   infect the jury's deliberative process. This risk is uniquely harmful
+   in capital cases where jurors' racial biases may prevent them from
+   fairly considering mitigating evidence at sentencing. This not only
+   violates an accused person's constitutional right to trial by an
+   impartial jury, but erodes the legitimacy of the criminal justice
+   system."
+
+"When jurors in a criminal case openly express racial bias, it creates the
+unacceptable risk that racial prejudice will infect the jury's deliberative
+process. This risk is uniquely harmful in capital cases where jurors' racial
+biases may prevent them from fairly considering mitigating evidence at
+sentencing. This not only violates an accused person's constitutional right
+to trial by an impartial jury, but erodes the legitimacy of the criminal
+justice system."
+
+- Santino Coleman, LDF Assistant Counsel
+
+   Photo: Anti-death penalty demonstrators in front of the U.S. Supreme
+   Court in 1977. (Source: Getty)
+
+Sentencing Disparities
+
+   According to the Sentencing Project, [94]48% of people serving life or
+   virtually life sentences are Black. Moreover, in 2017, the United
+   States Sentencing Commission reported that Black men receive federal
+   prison sentences that are nearly [95]20% longer than white men
+   convicted of the same crime. Federal prosecutors are also [96]twice as
+   likely to charge Black people with offenses carrying a mandatory
+   minimum sentence than their white counterparts.
+
+   While there are many factors contributing to the extreme racial
+   disparities in sentencing -- and countless others that perpetuate vast
+   disparities in arrests and detention -- discretion, from both the
+   judge's bench and prosecutor's office, [97]contributes most to this
+   gap. We must enact comprehensive federal legislation to limit
+   sentencing discretion, diminish these disparities, and end our
+   country's mass incarceration of Black people. In 2018, [98]LDF
+   supported the First Step Act, which reduced mandatory minimum sentences
+   for certain crimes, retroactively applied the Fair Sentencing Act of
+   2010, and generally decreased the federal inmate population, among
+   other changes.
+
+   Still, further reform is critical. The [99]risk-assessment tool created
+   by the First Step Act and used to determine whether someone is eligible
+   for release, for example, has been shown to produce [100]racially
+   disparate results. The First Step Act also limits how some of its
+   provisions can be applied retroactively to those currently
+   incarcerated. For many incarcerated individuals, this means they may
+   continue to serve harsh sentences for crimes that now hold lesser
+   punishments.
+
+   The above pitfalls are just a few examples of how our criminal justice
+   system repeatedly fails Black people. In each step of the process,
+   racial bias seeps into decisions made by prosecutors, jurors, and
+   judges -- decisions that all profoundly impact a person's life. This
+   bias undermines the very fabric and premise of our democracy and,
+   unless it is eliminated, no trial will ever be impartial. As a result,
+   LDF and other advocacy organizations remain ever vigilant in working to
+   comprehensively reform the criminal justice system and render it truly
+   fair and impartial.
+
+Published: July 20, 2022
+
+LDF Case
+
+[101]Attala County NAACP v. Evans
+
+Filed: November 2019
+
+   Attala County NAACP v. Evans was filed on the heels of Flowers v.
+   Mississippi, a U.S. Supreme Court case concerning District Attorney
+   Doug Evans' efforts to exclude Black people from jury service in the
+   case of Curtis Flowers, a Black man, who was sentenced to death by a
+   nearly all-white jury. Attala County NAACP  v. Evans seeks to end
+   Evans' and his office's racially discriminatory jury selection
+   practices and ensure that Black prospective jurors enjoy the same
+   democratic rights as the white citizens in his district.
+   [102]Read More
+
+LDF Case
+
+[103]Buck v. Davis
+
+Filed: December 2012
+
+   One of LDF's most high profile death penalty cases in recent memory,
+   Buck v. Davis challenged the death sentence of Texas death row inmate
+   Duane Buck, whose death sentence was a blatant product of racial
+   discrimination. Mr. Buck's own attorney introduced testimony in the
+   sentencing phase of his trial that he was more likely to be dangerous
+   solely because he is Black. LDF argued before the Supreme Court that
+   the rule of law demands a new sentencing hearing free from racial bias.
+   The Supreme Court granted Mr. Buck a new hearing and he was later
+   resentenced.
+   [104]Read More
+
+Death Row USA
+
+   LDF issues a quarterly report entitled Death Row USA that contains
+   death row populations by state and other statistics pertaining to
+   capital punishment. For decades, LDF has been a pioneering voice in the
+   fight to abolish capital punishment and eliminate racial discrimination
+   from the court system. In our landmark 1972 case, Furman v. Georgia,
+   LDF won the country's first and only nationwide halt to executions when
+   the Supreme Court struck down capital punishment.
+   [105]Read More
+
+     * [106]About Us
+     * [107]Our Impact
+     * [108]Case/Issue Search
+     * [109]Our Thinking
+     * [110]LDF Original Content
+     * [111]Thurgood Marshall Institute
+     * [112]National Police Funding Database
+     * [113]News & Press
+     * [114]Support
+     * [115]Events
+     * [116]Contact Us
+
+   [117]Donate
+
+LDF Microsites
+
+   [118]Defend Diversity
+   [119]Voting Rights 2022
+   [120]LDF Blog
+     *
+     *
+     *
+     *
+
+National Headquarters
+
+   [121](212)-965-2200
+
+Washington D.C. Office
+
+   [122](202) 682-1300
+
+   © Copyright 2023 NAACP Legal Defense and Educational Fund, Inc.
+     * [123]Privacy Policy
+     * [124]Legal Disclaimer and General Information
+
+   Shares
+
+Share
+
+   [125]Blogger
+   [126]Delicious
+   [127]Digg
+   [128]Email
+   [129]Facebook
+   [130]Facebook messenger
+   [131]Google
+   [132]Hacker News
+   [133]Line
+   [134]LinkedIn
+   [135]Mix
+   [136]Odnoklassniki
+   [137]PDF
+   [138]Pinterest
+   [139]Pocket
+   [140]Print
+   [141]Reddit
+   [142]Renren
+   [143]Short link
+   [144]SMS
+   [145]Skype
+   [146]Telegram
+   [147]Tumblr
+   [148]Twitter
+   [149]VKontakte
+   [150]wechat
+   [151]Weibo
+   [152]WhatsApp
+   [153]Xing
+   [154]Yahoo! Mail
+
+Copy short link
+
+   ____________________[155]Copy link
+
+References
+
+   Visible links:
+   1. https://www.naacpldf.org/feed/
+   2. https://www.naacpldf.org/comments/feed/
+   3. https://www.naacpldf.org/wp-json/wp/v2/pages/32639
+   4. https://www.googletagmanager.com/ns.html?id=GTM-MCKBM8
+   5. https://www.naacpldf.org/judicial-process-failures/
+   6. https://www.naacpldf.org/ldf-mission/
+   7. https://www.naacpldf.org/about-us/
+   8. https://engage.naacpldf.org/dBCvDTd9IEiXX_jPkmkT_w2
+   9. https://www.naacpldf.org/judicial-process-failures/
+  10. https://www.naacpldf.org/about-us/
+  11. https://www.naacpldf.org/about-us/history/
+  12. https://www.naacpldf.org/about-us/staff/
+  13. https://www.naacpldf.org/about-us/board-of-directors/
+  14. https://www.naacpldf.org/about-us/fellowships-internships/
+  15. https://www.naacpldf.org/about-us/ldf-scholarships/
+  16. https://www.naacpldf.org/about-us/careers/
+  17. https://www.naacpldf.org/ldf-mission/
+  18. https://www.naacpldf.org/ldf-mission/criminal-justice/
+  19. https://www.naacpldf.org/our-impact/criminal-justice/cases-issues/
+  20. https://www.naacpldf.org/our-impact/criminal-justice/abuse-of-police-discretion/
+  21. https://www.naacpldf.org/our-impact/criminal-justice/capital-punishment/
+  22. https://www.naacpldf.org/our-impact/criminal-justice/fair-sentencing/
+  23. https://www.naacpldf.org/our-impact/criminal-justice/juvenile-life-without-parole/
+  24. https://www.naacpldf.org/our-impact/criminal-justice/policing-reform-campaign/
+  25. https://www.naacpldf.org/our-impact/criminal-justice/the-war-on-drugs/
+  26. https://www.naacpldf.org/ldf-mission/economic-justice/
+  27. https://www.naacpldf.org/our-impact/economic-justice/cases-issues/
+  28. https://www.naacpldf.org/our-impact/economic-justice/access-to-justice/
+  29. https://www.naacpldf.org/our-impact/economic-justice/criminal-records/
+  30. https://www.naacpldf.org/our-impact/economic-justice/employment-discrimination/
+  31. https://www.naacpldf.org/our-impact/economic-justice/environmental-justice/
+  32. https://www.naacpldf.org/our-impact/economic-justice/fair-housing-and-lending/
+  33. https://www.naacpldf.org/our-impact/economic-justice/health-care/
+  34. https://www.naacpldf.org/our-impact/economic-justice/housing-discrimination/
+  35. https://www.naacpldf.org/our-impact/economic-justice/marriage-equality/
+  36. https://www.naacpldf.org/our-impact/economic-justice/minority-business-discrimination/
+  37. https://www.naacpldf.org/our-impact/economic-justice/transportation-justice/
+  38. https://www.naacpldf.org/ldf-mission/education/
+  39. https://www.naacpldf.org/our-impact/education/cases-issues/
+  40. https://www.naacpldf.org/our-impact/education/desegregation/
+  41. https://www.naacpldf.org/our-impact/education/educational-equity/
+  42. https://www.naacpldf.org/our-impact/education/school-integration/
+  43. https://www.naacpldf.org/our-impact/education/school-to-prison-pipeline/
+  44. https://www.naacpldf.org/ldf-mission/political-participation/
+  45. https://www.naacpldf.org/our-impact/political-participation/cases-issues/
+  46. https://www.naacpldf.org/our-impact/political-participation/barriers-to-voting/
+  47. https://www.naacpldf.org/our-impact/political-participation/census/
+  48. https://www.naacpldf.org/our-impact/political-participation/felon-disfranchisement/
+  49. https://www.naacpldf.org/our-impact/political-participation/prepared-to-vote/
+  50. https://www.naacpldf.org/our-impact/political-participation/prison-based-gerrymandering/
+  51. https://www.naacpldf.org/our-impact/political-participation/redistricting/
+  52. https://www.naacpldf.org/our-impact/political-participation/voter-protection/
+  53. https://www.naacpldf.org/our-impact/political-participation/voting-rights-act/
+  54. https://www.naacpldf.org/case-issue-search/
+  55. https://www.naacpldf.org/ldf-publications/
+  56. https://www.naacpldf.org/our-thinking/ldf-blog/
+  57. https://www.naacpldf.org/our-thinking/issue-reports/
+  58. https://www.naacpldf.org/our-thinking/death-row-usa/
+  59. https://www.tminstituteldf.org/
+  60. https://policefundingdatabase.org/
+  61. https://voting.naacpldf.org/
+  62. https://www.naacpldf.org/news/
+  63. https://www.naacpldf.org/news/
+  64. https://www.naacpldf.org/press/
+  65. https://www.naacpldf.org/fact-sheets/
+  66. https://www.naacpldf.org/ldf-brochures/
+  67. https://www.naacpldf.org/ldf-flyers/
+  68. https://www.naacpldf.org/support/
+  69. https://engage.naacpldf.org/2aSUKtQNpkKlBl5lE_0U1A2?source=DW23L1ZA&utm_source=fy23givingtuesday&utm_medium=web&utm_campaign=givingtuesday&utm_content=version1
+  70. https://www.naacpldf.org/support/other-ways-to-give/
+  71. https://www.naacpldf.org/support/donors/
+  72. https://www.naacpldf.org/support/fiscal-responsibility/
+  73. https://www.naacpldf.org/ldf-events/
+  74. https://www.naacpldf.org/events/nejad/
+  75. https://www.naacpldf.org/naacp-events/ldf-events/
+  76. https://engage.naacpldf.org/dBCvDTd9IEiXX_jPkmkT_w2
+  77. https://engage.naacpldf.org/2aSUKtQNpkKlBl5lE_0U1A2?source=DW23L1ZA&utm_source=fy23givingtuesday&utm_medium=web&utm_campaign=givingtuesday&utm_content=version1
+  78. https://engage.naacpldf.org/3uGFTMeWHUm_1u2joraTvw2
+  79. https://engage.naacpldf.org/OfHes4a4QkGDPUjXphkNug2
+  80. https://engage.naacpldf.org/VV6TSExlk06E19wOi0fOmw2
+  81. https://www.naacpldf.org/contact-us/
+  82. https://www.naacpldf.org/contact-us/
+  83. https://www.naacpldf.org/contact-us/legal-assistance/
+  84. https://www.naacpldf.org/contact-us/press-inquiries/
+  85. https://www.cnn.com/2018/03/22/us/sacramento-police-shooting/index.html
+  86. https://www.nbcnews.com/news/us-news/newly-aired-sandra-bland-cellphone-video-shows-traffic-stop-her-n1002756
+  87. https://features.apmreports.org/in-the-dark/season-two/source-notes.html
+  88. https://www.naacpldf.org/wp-content/uploads/Flowers_SCOTUS_Amicus_LDF.pdf
+  89. https://www.supremecourt.gov/opinions/18pdf/17-9572_k536.pdf
+  90. https://slate.com/news-and-politics/2022/04/supreme-court-racist-juror-death-penalty.html
+  91. https://www.nytimes.com/2016/09/20/us/politics/supreme-court-to-hear-case-on-juror-racial-bias.html
+  92. https://www.statesman.com/story/news/2021/09/22/texan-andre-thomas-death-sentence-tainted-racist-jurors-lawyers-say/5798373001/
+  93. https://www.naacpldf.org/wp-content/uploads/Thomas-v.-Lumpkin-Cert-Petition-09.20.21.pdf
+  94. https://www.sentencingproject.org/publications/un-report-on-racial-disparities/
+  95. https://www.ussc.gov/sites/default/files/pdf/research-and-publications/research-publications/2017/20171114_Demographics.pdf
+  96. https://www.yalelawjournal.org/article/mandatory-sentencing-and-racial-disparity-assessing-the-role-of-prosecutors-and-the-effects-of-booker
+  97. https://www.ussc.gov/sites/default/files/pdf/research-and-publications/research-publications/2017/20171114_Demographics.pdf
+  98. https://www.naacpldf.org/press-release/naacp-legal-defense-fund-statement-first-step-act/
+  99. https://www.npr.org/2022/01/26/1075509175/justice-department-algorithm-first-step-act
+ 100. https://www.npr.org/2022/01/26/1075509175/justice-department-algorithm-first-step-act
+ 101. https://www.naacpldf.org/case-issue/attala-county-naacp-v-evans/
+ 102. https://www.naacpldf.org/case-issue/attala-county-naacp-v-evans/
+ 103. https://www.naacpldf.org/case-issue/duane-buck-sentenced-death-black/
+ 104. https://www.naacpldf.org/case-issue/duane-buck-sentenced-death-black/
+ 105. https://www.naacpldf.org/our-thinking/death-row-usa/
+ 106. https://www.naacpldf.org/about-us/
+ 107. https://www.naacpldf.org/ldf-mission/
+ 108. https://www.naacpldf.org/case-issue-search/
+ 109. https://www.naacpldf.org/ldf-publications/
+ 110. https://www.naacpldf.org/our-thinking/ldf-blog/
+ 111. https://www.tminstituteldf.org/
+ 112. https://policefundingdatabase.org/
+ 113. https://www.naacpldf.org/news/
+ 114. https://www.naacpldf.org/support/
+ 115. https://www.naacpldf.org/ldf-events/
+ 116. https://www.naacpldf.org/contact-us/
+ 117. https://engage.naacpldf.org/dBCvDTd9IEiXX_jPkmkT_w2
+ 118. https://www.defenddiversity.org/
+ 119. http://voting.naacpldf.org/
+ 120. https://www.naacpldf.org/our-thinking/ldf-blog/
+ 121. tel:(212)-965-2200
+ 122. tel:(202) 682-1300
+ 123. https://www.naacpldf.org/privacy-policy/
+ 124. https://www.naacpldf.org/legal-disclaimer/
+ 125. https://www.naacpldf.org/judicial-process-failures/
+ 126. https://www.naacpldf.org/judicial-process-failures/
+ 127. https://www.naacpldf.org/judicial-process-failures/
+ 128. https://www.naacpldf.org/judicial-process-failures/
+ 129. https://www.naacpldf.org/judicial-process-failures/
+ 130. https://www.naacpldf.org/judicial-process-failures/
+ 131. https://www.naacpldf.org/judicial-process-failures/
+ 132. https://www.naacpldf.org/judicial-process-failures/
+ 133. https://www.naacpldf.org/judicial-process-failures/
+ 134. https://www.naacpldf.org/judicial-process-failures/
+ 135. https://www.naacpldf.org/judicial-process-failures/
+ 136. https://www.naacpldf.org/judicial-process-failures/
+ 137. https://www.naacpldf.org/judicial-process-failures/
+ 138. https://www.naacpldf.org/judicial-process-failures/
+ 139. https://www.naacpldf.org/judicial-process-failures/
+ 140. https://www.naacpldf.org/judicial-process-failures/
+ 141. https://www.naacpldf.org/judicial-process-failures/
+ 142. https://www.naacpldf.org/judicial-process-failures/
+ 143. https://www.naacpldf.org/judicial-process-failures/
+ 144. https://www.naacpldf.org/judicial-process-failures/
+ 145. https://www.naacpldf.org/judicial-process-failures/
+ 146. https://www.naacpldf.org/judicial-process-failures/
+ 147. https://www.naacpldf.org/judicial-process-failures/
+ 148. https://www.naacpldf.org/judicial-process-failures/
+ 149. https://www.naacpldf.org/judicial-process-failures/
+ 150. https://www.naacpldf.org/judicial-process-failures/
+ 151. https://www.naacpldf.org/judicial-process-failures/
+ 152. https://www.naacpldf.org/judicial-process-failures/
+ 153. https://www.naacpldf.org/judicial-process-failures/
+ 154. https://www.naacpldf.org/judicial-process-failures/
+ 155. https://www.naacpldf.org/judicial-process-failures/
+
+   Hidden links:
+ 157. https://www.naacpldf.org/
+ 158. https://www.naacpldf.org/judicial-process-failures/
+ 159. https://www.naacpldf.org/judicial-process-failures/
+ 160. https://www.naacpldf.org/judicial-process-failures/
+ 161. https://www.facebook.com/naacpldf/
+ 162. https://twitter.com/NAACP_LDF
+ 163. https://www.instagram.com/naacp_ldf/
+ 164. https://www.youtube.com/channel/UCXTfPnpwx-CWVyrzDvkwE1w
+ 165. https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.naacpldf.org%2Fjudicial-process-failures%2F
+ 166. https://twitter.com/intent/tweet?text=How%20Racism%20in%20the%20Courtroom%20Produces%20Wrongful%20Convictions%20and%20Mass%20Incarceration%20-%20https%3A%2F%2Fwww.naacpldf.org%2Fjudicial-process-failures%2F%20
+ 167. https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fwww.naacpldf.org%2Fjudicial-process-failures%2F
+ 168. mailto:?subject=How%20Racism%20in%20the%20Courtroom%20Produces%20Wrongful%20Convictions%20and%20Mass%20Incarceration&body=How%20Racism%20in%20the%20Courtroom%20Produces%20Wrongful%20Convictions%20and%20Mass%20Incarceration%0A%09%09%0A%09%09%09By%20Ella%20Wile%20-%20https%3A%2F%2Fwww.naacpldf.org%2Fjudicial-process-failures%2F
+ 169. https://www.printfriendly.com/print?url=https%3A%2F%2Fwww.naacpldf.org%2Fjudicial-process-failures%2F
+ 170. https://api.whatsapp.com/send?text=How%20Racism%20in%20the%20Courtroom%20Produces%20Wrongful%20Convictions%20and%20Mass%20Incarceration%20https%3A%2F%2Fwww.naacpldf.org%2Fjudicial-process-failures%2F
+ 171. https://www.naacpldf.org/judicial-process-failures/
+ 172. https://www.naacpldf.org/judicial-process-failures/
+ 173. https://www.naacpldf.org/judicial-process-failures/
+ 174. https://www.naacpldf.org/judicial-process-failures/
