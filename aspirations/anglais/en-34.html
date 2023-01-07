@@ -1,6 +1,8 @@
 <!doctype html>
 <html lang="en-US">
-<head>
+<head> <script type="text/javascript">
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="profile" href="https://gmpg.org/xfn/11" />
@@ -88,8 +90,22 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='newspack-style-css' href='https://publicintegrity.org/wp-content/themes/newspack-scott/style.css?ver=1.65.3' type='text/css' media='all' />
 <link rel='stylesheet' id='newspack-print-style-css' href='https://publicintegrity.org/wp-content/themes/newspack-theme/styles/print.css?ver=1.65.3' type='text/css' media='print' />
 <link rel='stylesheet' id='newspack-sponsors-style-css' href='https://publicintegrity.org/wp-content/themes/newspack-theme/styles/newspack-sponsors.css?ver=1.65.3' type='text/css' media='all' />
-<link rel='stylesheet' id='social-logos-css' href='https://publicintegrity.org/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=11.7-a.7' type='text/css' media='all' />
-<link rel='stylesheet' id='jetpack_css-css' href='https://publicintegrity.org/wp-content/plugins/jetpack/css/jetpack.css?ver=11.7-a.7' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_basic-css' href='https://publicintegrity.org/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.6.8' type='text/css' media='all' />
+<style id='gform_basic-inline-css' type='text/css'>
+
+				.gform_body,
+				.gform_footer { transition: opacity 200ms; }
+				.amp-form-submitting .gform_body,
+				.amp-form-submitting .gform_footer { opacity: 0.5; }
+				.amp-form-submit-success .gform_body,
+				.amp-form-submit-success .gform_footer { display: none !important; }
+			
+</style>
+<link rel='stylesheet' id='gform_theme_components-css' href='https://publicintegrity.org/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme_ie11-css' href='https://publicintegrity.org/wp-content/plugins/gravityforms/assets/css/dist/theme-ie11.min.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme-css' href='https://publicintegrity.org/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css' href='https://publicintegrity.org/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=11.7-beta3' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://publicintegrity.org/wp-content/plugins/jetpack/css/jetpack.css?ver=11.7-beta3' type='text/css' media='all' />
 <script type='text/javascript' id='jetpack_related-posts-js-extra'>
 /* <![CDATA[ */
 var related_posts_js_options = {"post_heading":"h4"};
@@ -107,6 +123,21 @@ gtag("config", "UA-3383794-4", {"anonymize_ip":true,"transport_type":"beacon"});
 gtag("config", "G-5XWGFKW23E");
 </script>
 
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' defer='defer' src='https://publicintegrity.org/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.6.8' id='gform_json-js'></script>
+<script type='text/javascript' id='gform_gravityforms-js-extra'>
+/* <![CDATA[ */
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/publicintegrity.org\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/publicintegrity.org\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+var gform_i18n = {"datepicker":{"days":{"monday":"Mon","tuesday":"Tue","wednesday":"Wed","thursday":"Thu","friday":"Fri","saturday":"Sat","sunday":"Sun"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":0,"iconText":"Select date"}};
+var gf_legacy_multi = {"1":""};
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/publicintegrity.org\/wp-content\/plugins\/gravityforms\/images"}};
+/* ]]> */
+</script>
+<script type='text/javascript' id='gform_gravityforms-js-before'>
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script>
+<script type='text/javascript' defer='defer' src='https://publicintegrity.org/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.6.8' id='gform_gravityforms-js'></script>
 <link rel="https://api.w.org/" href="https://publicintegrity.org/wp-json/" /><link rel="alternate" type="application/json" href="https://publicintegrity.org/wp-json/wp/v2/posts/116754" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://publicintegrity.org/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://publicintegrity.org/wp-includes/wlwmanifest.xml" />
 <link rel='shortlink' href='https://wp.me/pdDRTq-un8' />
@@ -690,7 +721,7 @@ input[type="submit"],
 	}
 }
 
-/* MC4WP  - Newsletter Sign Up styles */
+/* LF - MC4WP  - Newsletter Sign Up styles */
 .watchdog-newsletter-signup div {
 	display: flex;
 	gap: 0.5rem;
@@ -727,6 +758,90 @@ input[type="submit"],
 .watchdog-newsletter-signup p {
 	font-size: 0.75rem;
 	margin-top: 0.5em;
+}
+
+/* Gravity Forms  - Newsletter Sign Up styles */
+.gf-newsletter-signup_wrapper {
+	width: 100%;
+}
+
+/* Heading */
+.gf-newsletter-signup_wrapper .gform_heading {
+	display: none;
+}
+
+/* Structure */
+.gf-newsletter-signup_wrapper .gf-newsletter-signup .gform-body > div {
+	grid-template-columns: minmax(100px, 1fr) 1fr;
+	grid-row-gap: 8px;
+	grid-column-gap: 10px;
+}
+
+.gf-newsletter-signup_wrapper .gform-body > div > div {
+	display: contents;
+}
+
+/* Label */
+.gf-newsletter-signup_wrapper.gravity-theme .gfield_label {
+	grid-column: span 12;
+	margin-bottom: 0;
+}
+
+/* Fields */
+.gf-newsletter-signup_wrapper .ginput_container_email,
+.gf-newsletter-signup_wrapper.gform_wrapper.gravity-theme #field_submit {
+	grid-column: span 12;
+}
+
+.gf-newsletter-signup_wrapper .gfield_required {
+	color: inherit;
+}
+
+.gf-newsletter-signup_wrapper.gravity-theme input[type="email"] {
+	font-size: 1rem;
+	padding: 0.41rem 0.66rem;
+}
+
+.gf-newsletter-signup_wrapper.gravity-theme .gform_footer {
+	margin: 0;
+	padding: 0;
+}
+
+.gf-newsletter-signup_wrapper input[type='submit'] {
+	width: 100%;
+}
+
+.has-secondary-background-color .gf-newsletter-signup_wrapper input[type='submit']:not(:hover),
+.gf-orange-button .gf-newsletter-signup_wrapper input[type='submit']:not(:hover) {
+	background: #f35d26;
+}
+
+@media (min-width: 641px) {
+	.gf-newsletter-signup_wrapper .ginput_container_email {
+		grid-column: span 9;
+	}
+	
+	.gf-newsletter-signup_wrapper.gform_wrapper.gravity-theme #field_submit {
+		grid-column: span 3;
+	}
+}
+
+/* GF signup in sidebar */
+.sitewide-sidebar .gf-newsletter-signup_wrapper.gravity-theme label {
+	font-family: "MaisonNeue", sans-serif;
+	font-size: 0.75rem;
+}
+
+@media (min-width: 782px ) {
+	.sitewide-sidebar .gf-newsletter-signup_wrapper .gf-newsletter-signup .gform-body > div {
+		display: block;
+	}
+
+
+	.sitewide-sidebar  .gf-newsletter-signup_wrapper input[type="submit"] {
+		margin: 0.5rem auto 0;
+		width: auto;
+	}
 }
 
 
@@ -807,40 +922,43 @@ mark.has-inline-color {
 		</style>
 </head>
 <body class="post-template-default single single-post postid-116754 single-format-standard wp-custom-logo wp-embed-responsive singular hide-homepage-title show-site-tagline h-nsub h-db h-ll h-sh h-stk h-cta has-tertiary-menu has-sidebar cat-inequality-poverty-opportunity cat-labor cat-watchdog-newsletter primary-cat-labor has-featured-image single-featured-image-default" data-amp-auto-lightbox-disable>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg> <amp-layout amp-access="popups.id_110893" amp-access-hide class="newspack-lightbox newspack-popup newspack-lightbox-placement-center newspack-lightbox-size-medium    newspack-newsletter-prompt-overlay  " role="button" tabindex="0" id="cbb8">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg> <amp-layout amp-access="popups.id_110893" amp-access-hide class="newspack-lightbox newspack-popup newspack-lightbox-placement-center newspack-lightbox-size-medium      " role="button" tabindex="0" id="c37a">
 <div class="newspack-popup-wrapper " data-popup-status="publish" style="background-color:#FFFFFF;color:#000">
 <div class="newspack-popup__content-wrapper" style="">
 <div class="newspack-popup__content">
 <div class="is-layout-flow wp-block-group has-light-gray-background-color has-background"><div class="wp-block-group__inner-container">
 <p class="has-large-font-size"><strong>Don't miss our inequality investigations</strong></p>
 <p>Sign up to receive our free&nbsp;Watchdog email newsletter, a weekly roundup from Public Integrity journalists.</p>
-<amp-layout id="n788">
-<div class="wp-block-jetpack-mailchimp" data-blog-id="201594328">
-<form aria-describedby="wp-block-jetpack-mailchimp_consent-text">
-<p>
-<input aria-label="Enter your email" placeholder="Enter your email" required title="Enter your email" type="email" name="email" />
-</p>
-<input name="interests[3f37dae637]" type="hidden" class="mc-submit-param" value="1" />
-<div class="wp-block-jetpack-button wp-block-button" style="max-width: 100%"><button class="wp-block-button__link has-background has-primary-background-color" style="width: 100%; max-width: 100%" data-id-attr="mailchimp-button-block-1" id="mailchimp-button-block-1" type="submit">Sign me up!</button></div>
-<p id="wp-block-jetpack-mailchimp_consent-text">
-Use the unsubscribe link in those emails to opt out at any time. </p>
-</form>
-<div class="wp-block-jetpack-mailchimp_notification wp-block-jetpack-mailchimp_processing" role="status">
-Processing… </div>
-<div class="wp-block-jetpack-mailchimp_notification wp-block-jetpack-mailchimp_success" role="status">
-Success! You&#039;re on the list. </div>
-<div class="wp-block-jetpack-mailchimp_notification wp-block-jetpack-mailchimp_error" role="alert">
-Whoops! There was an error and we couldn&#039;t process your subscription. Please reload the page and try again. </div>
+<div class="is-vertical is-layout-flex wp-container-1 wp-block-group gf-orange-button">
+<div class='gf_browser_unknown gform_wrapper gravity-theme gf-newsletter-signup_wrapper' id='gform_wrapper_1'>
+<div class='gform_heading'>
+<span class='gform_description'></span>
+</div><form method='post' enctype='multipart/form-data' id='gform_1' class='gf-newsletter-signup' action='/labor/can-you-tackle-systemic-racism-without-confronting-race/' novalidate>
+<div class='gform_body gform-body'><div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><div id="field_1_3" class="gfield gfield--width-two-thirds gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_3"><label class='gfield_label' for='input_1_3'>EMAIL ADDRESS<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_email'>
+<input name='input_3' id='input_1_3' type='email' value='' class='large' aria-required="true" aria-invalid="false" />
+</div></div><div id="field_submit" class="gfield gfield--width-quarter field_sublabel_below field_description_below gfield_visibility_visible" data-field-class="gform_editor_submit_container" data-field-position="inline" data-js-reload="true"><input type='submit' id='gform_submit_button_1' class='gform-button gform-button--white  button' value='SUBSCRIBE' onclick='if(window["gf_submitting_1"]){return false;}  if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  jQuery("#gform_1").trigger("submit",[true]); }' /></div></div></div>
+<div class='gform_footer top_label'>
+<input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+<input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+<input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+<input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsIjY2OTYxZjUyNzI1YTg5NzljOThmOTIxYTg0YWJmMTI4Il0=' />
+<input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+<input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+<input type='hidden' name='gform_field_values' value='' />
 </div>
-</amp-layout></div></div>
+<p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="138" /><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>
 </div>
-<form class="popup-dismiss-form cbb80 popup-action-form cbb8" method="POST" action-xhr="https://publicintegrity.org/wp-content/plugins/newspack-popups/includes/../api/campaigns/index.php" target="_top">
+<p style="font-size:15px">Use the unsubscribe link in those emails to opt out at any time.</p>
+</div>
+</div></div>
+</div>
+<form class="popup-dismiss-form c37a0 popup-action-form c37a" method="POST" action-xhr="https://publicintegrity.org/wp-content/plugins/newspack-popups/includes/../api/campaigns/index.php" target="_top">
 <input name="popup_id" type="hidden" value="id_110893" />
 <input name="cid" type="hidden" value="CLIENT_ID(newspack-cid)" data-amp-replace="CLIENT_ID" />
 <input name="mailing_list_status" type="hidden" [value]="mailing_list_status" />
-<input name="is_newsletter_popup" type="hidden" value="1" />
+<input name="is_newsletter_popup" type="hidden" value="" />
 <input name="dismiss" type="hidden" value="1" />
-<button on="tap:cbb8.hide" class="newspack-lightbox__close" aria-label="Close Pop-up">
+<button on="tap:c37a.hide" class="newspack-lightbox__close" aria-label="Close Pop-up">
 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" role="img" aria-hidden="true" focusable="false"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z" /></svg>
 </button>
 </form>
@@ -849,7 +967,7 @@ Whoops! There was an error and we couldn&#039;t process your subscription. Pleas
 <div style="opacity: 0.3;background-color:#000000;" class="newspack-lightbox-shim"></div>
 </form>
 </amp-layout>
-<amp-animation id="a_cbb8" layout="nodisplay" trigger="visibility">
+<amp-animation id="a_c37a" layout="nodisplay" trigger="visibility">
 <script type="application/json">
 				{
 					"duration": "125ms",
@@ -858,7 +976,7 @@ Whoops! There was an error and we couldn&#039;t process your subscription. Pleas
 					"direction": "alternate",
 					"animations": [
 						{
-							"selector": "#cbb8",
+							"selector": "#c37a",
 							"delay": "3500",
 							"keyframes": {
 								"opacity": ["0", "1"],
@@ -866,14 +984,14 @@ Whoops! There was an error and we couldn&#039;t process your subscription. Pleas
 							}
 						},
 						{
-							"selector": "#cbb8",
+							"selector": "#c37a",
 							"delay": "3000",
 							"keyframes": {
 								"transform": ["translateY(90vh)", "translateY(0vh)"]
 							}
 						},
 						{
-								"selector": "#cbb8 .newspack-popup-wrapper",
+								"selector": "#c37a .newspack-popup-wrapper",
 								"delay": "3625",
 								"keyframes": {
 																			"opacity": ["0", "1"]
@@ -885,7 +1003,7 @@ Whoops! There was an error and we couldn&#039;t process your subscription. Pleas
 </amp-animation>
 <amp-analytics>
 <script type="application/json">
-				{"requests":{"event":"https:\/\/publicintegrity.org\/wp-content\/plugins\/newspack-popups\/includes\/..\/api\/campaigns\/index.php"},"triggers":{"trackPageview":{"on":"visible","request":"event","visibilitySpec":{"selector":"#cbb8","visiblePercentageMin":50,"totalTimeMin":250,"continuousTimeMin":100},"extraUrlParams":{"popup_id":"id_110893","cid":"CLIENT_ID(newspack-cid)"}},"formSubmitSuccess":{"on":"amp-form-submit-success","request":"event","selector":"#cbb8 .wp-block-jetpack-mailchimp form","extraUrlParams":{"popup_id":"id_110893","cid":"CLIENT_ID(newspack-cid)","mailing_list_status":"subscribed","email":"${formFields[email]}","esp":"mailchimp"}}}}			</script>
+				{"requests":{"event":"https:\/\/publicintegrity.org\/wp-content\/plugins\/newspack-popups\/includes\/..\/api\/campaigns\/index.php"},"triggers":{"trackPageview":{"on":"visible","request":"event","visibilitySpec":{"selector":"#c37a","visiblePercentageMin":50,"totalTimeMin":250,"continuousTimeMin":100},"extraUrlParams":{"popup_id":"id_110893","cid":"CLIENT_ID(newspack-cid)"}}}}			</script>
 </amp-analytics>
 <aside id="mobile-sidebar-fallback" class="mobile-sidebar">
 <button class="mobile-menu-toggle">
@@ -1183,31 +1301,31 @@ A century-old debate over ‘colorblind’ remedies for racial discrimination co
 <p>It&#8217;s not a question of simple semantics. Words exercise power and consequences.&nbsp;</p>
 <p>In the governmental jargon that can turn rhetoric into reality, two words — “disadvantaged” and “underserved” — help to explain why one act of Congress failed to provide long sought financial assistance to Black farmers, but another may succeed.</p>
 <p>The <a href="https://www.congress.gov/bill/117th-congress/house-bill/1319/text?q=%7B%22search%22%3A%5B%22american+rescue+plan%22%2C%22american%22%2C%22rescue%22%2C%22plan%22%5D%7D&amp;r=7&amp;s=1">American Rescue Plan Act</a>, a bipartisan measure signed into law last year by President Joe Biden, set aside $4 billion for farmers considered socially disadvantaged.&nbsp;</p>
-<div class="is-layout-flow wp-block-group alignwide newspack-pattern subscribe__style-6 is-style-border compress-newsletter has-secondary-background-color has-background"><div class="wp-block-group__inner-container">
-<div class="is-layout-flex wp-container-6 wp-block-columns are-vertically-aligned-center">
-<div class="is-layout-flow wp-block-column is-vertically-aligned-center">
+<div class="is-layout-flow wp-block-group alignwide newspack-pattern subscribe__style-6 is-style-border compress-newsletter has-white-color has-secondary-background-color has-text-color has-background"><div class="wp-block-group__inner-container">
+<div class="is-layout-flex wp-container-5 wp-block-columns are-vertically-aligned-center">
+<div class="is-layout-flow wp-block-column is-vertically-aligned-center" style="flex-basis:40%">
 <p class="has-white-color has-text-color"><meta charset="utf-8"><strong>Watchdog delivered </strong></p>
 <p class="has-white-color has-text-color has-small-font-size">Want our investigations in your inbox? Subscribe to our Watchdog newsletter.</p>
 </div>
-<div class="is-layout-flow wp-block-column is-vertically-aligned-center"><amp-layout id="n073">
-<div class="wp-block-jetpack-mailchimp" data-blog-id="201594328">
-<form aria-describedby="wp-block-jetpack-mailchimp_consent-text">
-<p>
-<input aria-label="Enter your email" placeholder="Enter your email" required title="Enter your email" type="email" name="email" />
-</p>
-<input name="interests[3f37dae637]" type="hidden" class="mc-submit-param" value="1" />
-<div class="wp-block-jetpack-button wp-block-button" style=""><button class="wp-block-button__link has-background has-primary-background-color" style="" data-id-attr="mailchimp-button-block-4" id="mailchimp-button-block-4" type="submit"><strong>Sign up</strong></button></div>
-<p id="wp-block-jetpack-mailchimp_consent-text">
-</p>
-</form>
-<div class="wp-block-jetpack-mailchimp_notification wp-block-jetpack-mailchimp_processing" role="status">
-Processing… </div>
-<div class="wp-block-jetpack-mailchimp_notification wp-block-jetpack-mailchimp_success" role="status">
-Success! You&#039;re on the list. </div>
-<div class="wp-block-jetpack-mailchimp_notification wp-block-jetpack-mailchimp_error" role="alert">
-Whoops! There was an error and we couldn&#039;t process your subscription. Please reload the page and try again. </div>
+<div class="is-layout-flow wp-block-column is-vertically-aligned-center">
+<div class='gf_browser_unknown gform_wrapper gravity-theme gf-newsletter-signup_wrapper' id='gform_wrapper_1'>
+<div class='gform_heading'>
+<span class='gform_description'></span>
+</div><form method='post' enctype='multipart/form-data' id='gform_1' class='gf-newsletter-signup' action='/labor/can-you-tackle-systemic-racism-without-confronting-race/' novalidate>
+<div class='gform_body gform-body'><div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><div id="field_1_3" class="gfield gfield--width-two-thirds gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_3"><label class='gfield_label' for='input_1_3'>EMAIL ADDRESS<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_email'>
+<input name='input_3' id='input_1_3' type='email' value='' class='large' aria-required="true" aria-invalid="false" />
+</div></div><div id="field_submit" class="gfield gfield--width-quarter field_sublabel_below field_description_below gfield_visibility_visible" data-field-class="gform_editor_submit_container" data-field-position="inline" data-js-reload="true"><input type='submit' id='gform_submit_button_1' class='gform-button gform-button--white  button' value='SUBSCRIBE' onclick='if(window["gf_submitting_1"]){return false;}  if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  jQuery("#gform_1").trigger("submit",[true]); }' /></div></div></div>
+<div class='gform_footer top_label'>
+<input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+<input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+<input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+<input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsIjY2OTYxZjUyNzI1YTg5NzljOThmOTIxYTg0YWJmMTI4Il0=' />
+<input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+<input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+<input type='hidden' name='gform_field_values' value='' />
 </div>
-</amp-layout></div>
+<p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_2" name="ak_js" value="27" /><script>document.getElementById( "ak_js_2" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>
+</div></div>
 </div>
 </div></div>
 <p>“A socially disadvantaged group,” according to U.S. Department of Agriculture <a href="https://uscode.house.gov/view.xhtml?req=(title:7%20section:2279%20edition:prelim)">policy guidelines</a>, “is a group whose members have been subject to racial or ethnic prejudice because of their identity as members of a group without regard to their individual qualities.” They include African Americans, American Indians, Alaskan Natives, Asians, Hispanics, Native Hawaiians and Pacific Islanders.&nbsp;</p>
@@ -1247,6 +1365,14 @@ Whoops! There was an error and we couldn&#039;t process your subscription. Pleas
 <h2 class="article-section-title">
 <span>Related Articles</span>
 </h2>
+<article data-post-id="118745" class="category-labor category-watchdog-newsletter type-post post-has-image">
+<figure class="post-thumbnail">
+<a href="https://publicintegrity.org/labor/sheriff-opens-rape-investigation-after-cpi-newsy-reporting/" rel="bookmark" tabindex="-1" aria-hidden="true">
+<img width="1200" height="900" src="https://i0.wp.com/publicintegrity.org/wp-content/uploads/2022/12/Female-trucker.png?resize=1200%2C900&amp;ssl=1" class="attachment-newspack-article-block-landscape-large size-newspack-article-block-landscape-large wp-post-image jetpack-lazy-image" alt="Sheriff opens rape investigation after CPI-Scripps News reporting" decoding="async" data-hero-candidate="1" data-lazy-srcset="https://i0.wp.com/publicintegrity.org/wp-content/uploads/2022/12/Female-trucker.png?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/publicintegrity.org/wp-content/uploads/2022/12/Female-trucker.png?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/publicintegrity.org/wp-content/uploads/2022/12/Female-trucker.png?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/publicintegrity.org/wp-content/uploads/2022/12/Female-trucker.png?resize=200%2C150&amp;ssl=1 200w" data-lazy-sizes="(max-width: 780px) 100vw, 780px" data-lazy-src="https://i0.wp.com/publicintegrity.org/wp-content/uploads/2022/12/Female-trucker.png?resize=1200%2C900&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"> </a>
+</figure>
+<div class="entry-wrapper">
+<h3 class="entry-title"><a href="https://publicintegrity.org/labor/sheriff-opens-rape-investigation-after-cpi-newsy-reporting/" rel="bookmark">Sheriff opens rape investigation after CPI-Scripps News reporting</a></h3> </div>
+</article>
 <article data-post-id="118402" class="category-education category-watchdog-newsletter type-post post-has-image">
 <figure class="post-thumbnail">
 <a href="https://publicintegrity.org/education/schooling-educators-on-homeless-student-rights/" rel="bookmark" tabindex="-1" aria-hidden="true">
@@ -1262,14 +1388,6 @@ Whoops! There was an error and we couldn&#039;t process your subscription. Pleas
 </figure>
 <div class="entry-wrapper">
 <h3 class="entry-title"><a href="https://publicintegrity.org/inequality-poverty-opportunity/finance/how-financial-barriers-stifle-formerly-incarcerated-people/" rel="bookmark">How financial barriers stifle formerly incarcerated people</a></h3> </div>
-</article>
-<article data-post-id="117715" class="category-environment category-watchdog-newsletter type-post post-has-image">
-<figure class="post-thumbnail">
-<a href="https://publicintegrity.org/inside-publici/newsletters/watchdog-newsletter/i-set-out-to-tell-his-story-then-he-found-out-he-was-ill/" rel="bookmark" tabindex="-1" aria-hidden="true">
-<img width="1200" height="900" src="https://i0.wp.com/publicintegrity.org/wp-content/uploads/2022/12/Yvette_BlueGap-scaled.jpg?resize=1200%2C900&amp;ssl=1" class="attachment-newspack-article-block-landscape-large size-newspack-article-block-landscape-large wp-post-image jetpack-lazy-image" alt="I set out to tell his story. Then he found out he was ill." decoding="async" data-hero-candidate="1" data-lazy-srcset="https://i0.wp.com/publicintegrity.org/wp-content/uploads/2022/12/Yvette_BlueGap-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/publicintegrity.org/wp-content/uploads/2022/12/Yvette_BlueGap-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/publicintegrity.org/wp-content/uploads/2022/12/Yvette_BlueGap-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/publicintegrity.org/wp-content/uploads/2022/12/Yvette_BlueGap-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/publicintegrity.org/wp-content/uploads/2022/12/Yvette_BlueGap-scaled.jpg?zoom=2&amp;resize=1200%2C900&amp;ssl=1 2400w" data-lazy-sizes="(max-width: 780px) 100vw, 780px" data-lazy-src="https://i0.wp.com/publicintegrity.org/wp-content/uploads/2022/12/Yvette_BlueGap-scaled.jpg?resize=1200%2C900&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"> </a>
-</figure>
-<div class="entry-wrapper">
-<h3 class="entry-title"><a href="https://publicintegrity.org/inside-publici/newsletters/watchdog-newsletter/i-set-out-to-tell-his-story-then-he-found-out-he-was-ill/" rel="bookmark">I set out to tell his story. Then he found out he was ill.</a></h3> </div>
 </article>
 </div>
 </div>
@@ -1324,36 +1442,39 @@ More by April Simpson </a>
 <div class="is-layout-flow wp-block-group sitewide-sidebar has-background" style="background-color:#efefef"><div class="wp-block-group__inner-container">
 <h4 class="has-secondary-color has-text-color" id="h-who-we-are">WHO WE ARE</h4>
 <p class="has-small-font-size">The&nbsp;<a href="https://publicintegrity.org/about/">Center for Public Integrity</a>&nbsp;is a nonprofit investigative news organization focused on inequality in the U.S. We do not accept advertising or charge people to read our work.</p>
-<div class="is-horizontal is-content-justification-center is-layout-flex wp-container-9 wp-block-buttons alignwide">
+<div class="is-horizontal is-content-justification-center is-layout-flex wp-container-8 wp-block-buttons alignwide">
 <div class="wp-block-button has-custom-width wp-block-button__width-50"><a class="wp-block-button__link has-primary-background-color has-background wp-element-button" href="https://checkout.fundjournalism.org/memberform?org_id=cpi&amp;campaign=7015G000001K0tHQAS" target="_blank" rel="noreferrer noopener">DONATE TODAY</a></div>
 </div>
 <hr class="wp-block-separator has-css-opacity is-style-default" />
 <h4 class="search-header has-dark-gray-color has-text-color" id="h-search">Search</h4>
-<form role="search" method="get" action="https://publicintegrity.org/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search"><label for="wp-block-search__input-10" class="wp-block-search__label screen-reader-text">Search</label><div class="wp-block-search__inside-wrapper "><input type="search" id="wp-block-search__input-10" class="wp-block-search__input wp-block-search__input " name="s" value="" placeholder="Archives" required /><button type="submit" class="wp-block-search__button has-icon wp-element-button" aria-label="Search"><svg class="search-icon" viewBox="0 0 24 24" width="24" height="24">
+<form role="search" method="get" action="https://publicintegrity.org/" class="wp-block-search__button-inside wp-block-search__icon-button wp-block-search"><label for="wp-block-search__input-9" class="wp-block-search__label screen-reader-text">Search</label><div class="wp-block-search__inside-wrapper "><input type="search" id="wp-block-search__input-9" class="wp-block-search__input wp-block-search__input " name="s" value="" placeholder="Archives" required /><button type="submit" class="wp-block-search__button has-icon wp-element-button" aria-label="Search"><svg class="search-icon" viewBox="0 0 24 24" width="24" height="24">
 <path d="M13.5 6C10.5 6 8 8.5 8 11.5c0 1.1.3 2.1.9 3l-3.4 3 1 1.1 3.4-2.9c1 .9 2.2 1.4 3.6 1.4 3 0 5.5-2.5 5.5-5.5C19 8.5 16.5 6 13.5 6zm0 9.5c-2.2 0-4-1.8-4-4s1.8-4 4-4 4 1.8 4 4-1.8 4-4 4z"></path>
 </svg></button></div></form>
 <hr class="wp-block-separator has-css-opacity" />
 <h4 class="has-text-align-left has-secondary-color has-text-color" id="h-deep-dives-delivered">DEEP DIVES DELIVERED</h4>
 <p class="has-text-align-left has-small-font-size">Get a weekly dive into inequality in America with our Watchdog newsletter delivered to your inbox. </p>
-<amp-layout id="nec6">
-<div class="wp-block-jetpack-mailchimp" data-blog-id="201594328">
-<form aria-describedby="wp-block-jetpack-mailchimp_consent-text">
-<p>
-<input aria-label="Enter your email" placeholder="Enter your email" required title="Enter your email" type="email" name="email" />
-</p>
-<input name="interests[3f37dae637]" type="hidden" class="mc-submit-param" value="1" />
-<div class="wp-block-jetpack-button aligncenter wp-block-button" style="max-width: 100%"><button class="wp-block-button__link has-background has-primary-background-color" style="border-radius: 5px; width: 150px; max-width: 100%" data-id-attr="mailchimp-button-block-11" id="mailchimp-button-block-11" type="submit">Subscribe</button></div>
-<p id="wp-block-jetpack-mailchimp_consent-text">
-Use the unsubscribe link in the emails we send to opt out at any time. </p>
-</form>
-<div class="wp-block-jetpack-mailchimp_notification wp-block-jetpack-mailchimp_processing" role="status">
-Processing… </div>
-<div class="wp-block-jetpack-mailchimp_notification wp-block-jetpack-mailchimp_success" role="status">
-Success! You&#039;re on the list. </div>
-<div class="wp-block-jetpack-mailchimp_notification wp-block-jetpack-mailchimp_error" role="alert">
-Whoops! There was an error and we couldn&#039;t process your subscription. Please reload the page and try again. </div>
+<div class="is-vertical is-layout-flex wp-container-10 wp-block-group gf-orange-button">
+<div class='gf_browser_unknown gform_wrapper gravity-theme gf-newsletter-signup_wrapper' id='gform_wrapper_1'>
+<div class='gform_heading'>
+<h2 class="gform_title">Newsletter Sign-Up: Watchdog</h2>
+<span class='gform_description'></span>
+</div><form method='post' enctype='multipart/form-data' id='gform_1' class='gf-newsletter-signup' action='/labor/can-you-tackle-systemic-racism-without-confronting-race/' novalidate>
+<div class='gform_body gform-body'><div id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><div id="field_1_3" class="gfield gfield--width-two-thirds gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible" data-js-reload="field_1_3"><label class='gfield_label' for='input_1_3'>EMAIL ADDRESS<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_email'>
+<input name='input_3' id='input_1_3' type='email' value='' class='large' aria-required="true" aria-invalid="false" />
+</div></div><div id="field_submit" class="gfield gfield--width-quarter field_sublabel_below field_description_below gfield_visibility_visible" data-field-class="gform_editor_submit_container" data-field-position="inline" data-js-reload="true"><input type='submit' id='gform_submit_button_1' class='gform-button gform-button--white  button' value='SUBSCRIBE' onclick='if(window["gf_submitting_1"]){return false;}  if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} if( !jQuery("#gform_1")[0].checkValidity || jQuery("#gform_1")[0].checkValidity()){window["gf_submitting_1"]=true;}  jQuery("#gform_1").trigger("submit",[true]); }' /></div></div></div>
+<div class='gform_footer top_label'>
+<input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+<input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+<input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+<input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsIjY2OTYxZjUyNzI1YTg5NzljOThmOTIxYTg0YWJmMTI4Il0=' />
+<input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+ <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+<input type='hidden' name='gform_field_values' value='' />
 </div>
-</amp-layout>
+<p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_3" name="ak_js" value="66" /><script>document.getElementById( "ak_js_3" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>
+</div>
+<p style="font-size:14px">Use the unsubscribe link in the emails we send to opt out at any time.</p>
+</div>
 <hr class="wp-block-separator has-css-opacity" />
 <h4 class="has-text-align-left has-secondary-color has-text-color" id="h-support-us"><meta charset="utf-8">SUPPORT US</h4>
 <div class="tiered wp-block-newspack-blocks-donate wpbnbd wpbnbd--frequency-based is-style-default wpbnbd-frequencies--3">
@@ -1362,67 +1483,67 @@ Whoops! There was an error and we couldn&#039;t process your subscription. Pleas
 <div class='wp-block-newspack-blocks-donate__options'>
 <div class='wp-block-newspack-blocks-donate__frequencies frequencies'>
 <div class='wp-block-newspack-blocks-donate__frequency frequency'>
-<input type='radio' value='once' id='newspack-donate-once-78891' name="donation_frequency" />
-<label for='newspack-donate-once-78891' class='donation-frequency-label freq-label'>
+<input type='radio' value='once' id='newspack-donate-once-24934' name="donation_frequency" />
+<label for='newspack-donate-once-24934' class='donation-frequency-label freq-label'>
 One-time </label>
 <div class='wp-block-newspack-blocks-donate__tiers tiers'>
 <div class='wp-block-newspack-blocks-donate__tier'>
-<input type='radio' name='donation_value_once' value='120' id='newspack-tier-once-78891-0' />
-<label class='tier-select-label tier-label' for='newspack-tier-once-78891-0'>
+<input type='radio' name='donation_value_once' value='120' id='newspack-tier-once-24934-0' />
+<label class='tier-select-label tier-label' for='newspack-tier-once-24934-0'>
 $120 </label>
 </div>
 <div class='wp-block-newspack-blocks-donate__tier'>
-<input type='radio' name='donation_value_once' value='240' id='newspack-tier-once-78891-1' checked='checked' />
-<label class='tier-select-label tier-label' for='newspack-tier-once-78891-1'>
+<input type='radio' name='donation_value_once' value='240' id='newspack-tier-once-24934-1' checked='checked' />
+<label class='tier-select-label tier-label' for='newspack-tier-once-24934-1'>
 $240 </label>
 </div>
 <div class='wp-block-newspack-blocks-donate__tier'>
-<input type='radio' name='donation_value_once' value='1200' id='newspack-tier-once-78891-2' />
-<label class='tier-select-label tier-label' for='newspack-tier-once-78891-2'>
- $1200 </label>
+<input type='radio' name='donation_value_once' value='1200' id='newspack-tier-once-24934-2' />
+<label class='tier-select-label tier-label' for='newspack-tier-once-24934-2'>
+$1200 </label>
 </div>
 </div>
 </div>
 <div class='wp-block-newspack-blocks-donate__frequency frequency'>
-<input type='radio' value='month' id='newspack-donate-month-78891' name="donation_frequency" checked='checked' />
-<label for='newspack-donate-month-78891' class='donation-frequency-label freq-label'>
+<input type='radio' value='month' id='newspack-donate-month-24934' name="donation_frequency" checked='checked' />
+<label for='newspack-donate-month-24934' class='donation-frequency-label freq-label'>
 Monthly </label>
 <div class='wp-block-newspack-blocks-donate__tiers tiers'>
 <div class='wp-block-newspack-blocks-donate__tier'>
-<input type='radio' name='donation_value_month' value='10' id='newspack-tier-month-78891-0' />
-<label class='tier-select-label tier-label' for='newspack-tier-month-78891-0'>
+<input type='radio' name='donation_value_month' value='10' id='newspack-tier-month-24934-0' />
+<label class='tier-select-label tier-label' for='newspack-tier-month-24934-0'>
 $10 </label>
 </div>
 <div class='wp-block-newspack-blocks-donate__tier'>
-<input type='radio' name='donation_value_month' value='20' id='newspack-tier-month-78891-1' checked='checked' />
-<label class='tier-select-label tier-label' for='newspack-tier-month-78891-1'>
+<input type='radio' name='donation_value_month' value='20' id='newspack-tier-month-24934-1' checked='checked' />
+<label class='tier-select-label tier-label' for='newspack-tier-month-24934-1'>
 $20 </label>
 </div>
 <div class='wp-block-newspack-blocks-donate__tier'>
-<input type='radio' name='donation_value_month' value='100' id='newspack-tier-month-78891-2' />
-<label class='tier-select-label tier-label' for='newspack-tier-month-78891-2'>
+<input type='radio' name='donation_value_month' value='100' id='newspack-tier-month-24934-2' />
+<label class='tier-select-label tier-label' for='newspack-tier-month-24934-2'>
 $100 </label>
 </div>
 </div>
 </div>
 <div class='wp-block-newspack-blocks-donate__frequency frequency'>
-<input type='radio' value='year' id='newspack-donate-year-78891' name="donation_frequency" />
-<label for='newspack-donate-year-78891' class='donation-frequency-label freq-label'>
+<input type='radio' value='year' id='newspack-donate-year-24934' name="donation_frequency" />
+<label for='newspack-donate-year-24934' class='donation-frequency-label freq-label'>
 Annually </label>
 <div class='wp-block-newspack-blocks-donate__tiers tiers'>
 <div class='wp-block-newspack-blocks-donate__tier'>
-<input type='radio' name='donation_value_year' value='120' id='newspack-tier-year-78891-0' />
-<label class='tier-select-label tier-label' for='newspack-tier-year-78891-0'>
+<input type='radio' name='donation_value_year' value='120' id='newspack-tier-year-24934-0' />
+<label class='tier-select-label tier-label' for='newspack-tier-year-24934-0'>
 $120 </label>
 </div>
 <div class='wp-block-newspack-blocks-donate__tier'>
-<input type='radio' name='donation_value_year' value='240' id='newspack-tier-year-78891-1' checked='checked' />
-<label class='tier-select-label tier-label' for='newspack-tier-year-78891-1'>
+<input type='radio' name='donation_value_year' value='240' id='newspack-tier-year-24934-1' checked='checked' />
+<label class='tier-select-label tier-label' for='newspack-tier-year-24934-1'>
 $240 </label>
 </div>
 <div class='wp-block-newspack-blocks-donate__tier'>
-<input type='radio' name='donation_value_year' value='1200' id='newspack-tier-year-78891-2' />
-<label class='tier-select-label tier-label' for='newspack-tier-year-78891-2'>
+<input type='radio' name='donation_value_year' value='1200' id='newspack-tier-year-24934-2' />
+<label class='tier-select-label tier-label' for='newspack-tier-year-24934-2'>
 $1200 </label>
 </div>
 </div>
@@ -1588,7 +1709,7 @@ To republish, simply copy the HTML below, which includes our tracking pixel. If 
 <aside class="widget-area footer-widgets" role="complementary" aria-label="Footer">
 <div class="wrapper">
 <section id="block-5" class="widget widget_block">
-<div class="is-layout-flex wp-container-17 wp-block-columns">
+<div class="is-layout-flex wp-container-16 wp-block-columns">
 <div class="is-layout-flow wp-block-column" style="flex-basis:50%">
 <ul>
 <li><a href="https://publicintegrity.org/about/">About Us</a></li>
@@ -1607,7 +1728,7 @@ To republish, simply copy the HTML below, which includes our tracking pixel. If 
 <div class="is-layout-flow wp-block-column" style="flex-basis:50%">
 <p style="font-size:1.5em"><strong><em>Investigating the systems and circumstances that contribute to inequality.
 </em></strong></p>
-<div class="is-horizontal is-content-justification-right is-layout-flex wp-container-15 wp-block-buttons">
+<div class="is-horizontal is-content-justification-right is-layout-flex wp-container-14 wp-block-buttons">
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://checkout.fundjournalism.org/memberform?org_id=cpi&amp;campaign=7015G000001K0tCQAS">Support Us</a></div>
 </div>
 </div>
@@ -1795,11 +1916,11 @@ Proudly powered by Newspack by Automattic </a>
 		</script>
 <amp-analytics type="gtag">
 <script type="application/json">
-						{"optoutElementId":"__gaOptOutExtension","vars":{"gtag_id":"UA-3383794-4","config":{"UA-3383794-4":{"groups":"default","linker":{"domains":["publicintegrity.org"]},"send_page_view":false}}},"triggers":{"n582":{"request":"event","on":"click","vars":{"event_name":"social share","event_category":"NTG social","event_label":"facebook"},"selector":"amp-social-share[type=\"facebook\"]"},"n584":{"request":"event","on":"click","vars":{"event_name":"social share","event_category":"NTG social","event_label":"twitter"},"selector":"amp-social-share[type=\"twitter\"]"},"n585":{"request":"event","on":"click","vars":{"event_name":"social share","event_category":"NTG social","event_label":"whatsapp"},"selector":"amp-social-share[type=\"whatsapp\"]"},"n586":{"request":"event","on":"click","vars":{"event_name":"social share","event_category":"NTG social","event_label":"linkedin"},"selector":"amp-social-share[type=\"linkedin\"]"},"n587":{"request":"event","on":"click","vars":{"event_name":"social share","event_category":"NTG social","event_label":"reddit"},"selector":"amp-social-share[type=\"reddit\"]"},"n588":{"request":"event","on":"click","vars":{"event_name":"social share","event_category":"NTG social","event_label":"telegram"},"selector":"amp-social-share[type=\"telegram\"]"},"n5a0":{"request":"event","on":"scroll","vars":{"event_name":"25%","event_category":"NTG article milestone","non_interaction":true,"value":25,"event_label":"Can you tackle systemic racism without confronting race?"},"event_value":25,"scrollSpec":{"verticalBoundaries":[25]}},"n5ba":{"request":"event","on":"scroll","vars":{"event_name":"50%","event_category":"NTG article milestone","non_interaction":true,"value":50,"event_label":"Can you tackle systemic racism without confronting race?"},"event_value":50,"scrollSpec":{"verticalBoundaries":[50]}},"n5c6":{"request":"event","on":"scroll","vars":{"event_name":"100%","event_category":"NTG article milestone","non_interaction":true,"value":100,"event_label":"Can you tackle systemic racism without confronting race?"},"event_value":100,"scrollSpec":{"verticalBoundaries":[100]}},"c6b8":{"request":"event","on":"ini-load","vars":{"event_name":"Load","event_category":"Newspack Announcement","non_interaction":true,"event_label":"Center: Inequality popup (110893) - Non-subscribers, non-donors"},"selector":"#cbb8"}}}					</script>
+						{"optoutElementId":"__gaOptOutExtension","vars":{"gtag_id":"UA-3383794-4","config":{"UA-3383794-4":{"groups":"default","linker":{"domains":["publicintegrity.org"]},"send_page_view":false}}},"triggers":{"n0f3":{"request":"event","on":"click","vars":{"event_name":"social share","event_category":"NTG social","event_label":"facebook"},"selector":"amp-social-share[type=\"facebook\"]"},"n0f7":{"request":"event","on":"click","vars":{"event_name":"social share","event_category":"NTG social","event_label":"twitter"},"selector":"amp-social-share[type=\"twitter\"]"},"n0f8":{"request":"event","on":"click","vars":{"event_name":"social share","event_category":"NTG social","event_label":"whatsapp"},"selector":"amp-social-share[type=\"whatsapp\"]"},"n0f9":{"request":"event","on":"click","vars":{"event_name":"social share","event_category":"NTG social","event_label":"linkedin"},"selector":"amp-social-share[type=\"linkedin\"]"},"n0fa":{"request":"event","on":"click","vars":{"event_name":"social share","event_category":"NTG social","event_label":"reddit"},"selector":"amp-social-share[type=\"reddit\"]"},"n0fb":{"request":"event","on":"click","vars":{"event_name":"social share","event_category":"NTG social","event_label":"telegram"},"selector":"amp-social-share[type=\"telegram\"]"},"n126":{"request":"event","on":"scroll","vars":{"event_name":"25%","event_category":"NTG article milestone","non_interaction":true,"value":25,"event_label":"Can you tackle systemic racism without confronting race?"},"event_value":25,"scrollSpec":{"verticalBoundaries":[25]}},"n152":{"request":"event","on":"scroll","vars":{"event_name":"50%","event_category":"NTG article milestone","non_interaction":true,"value":50,"event_label":"Can you tackle systemic racism without confronting race?"},"event_value":50,"scrollSpec":{"verticalBoundaries":[50]}},"n166":{"request":"event","on":"scroll","vars":{"event_name":"100%","event_category":"NTG article milestone","non_interaction":true,"value":100,"event_label":"Can you tackle systemic racism without confronting race?"},"event_value":100,"scrollSpec":{"verticalBoundaries":[100]}},"c2d3":{"request":"event","on":"ini-load","vars":{"event_name":"Load","event_category":"Newspack Announcement","non_interaction":true,"event_label":"Center: Inequality popup (110893) - Non-subscribers, non-donors"},"selector":"#c37a"}}}					</script>
 </amp-analytics>
 <amp-analytics type="gtag">
 <script type="application/json">
-						{"optoutElementId":"__gaOptOutExtension","vars":{"gtag_id":"UA-3383794-4","config":{"UA-3383794-4":{"groups":"default","linker":{"domains":["publicintegrity.org"]},"send_page_view":false}}},"triggers":{"c6bd":{"request":"event","on":"visible","vars":{"event_name":"Seen","event_category":"Newspack Announcement","non_interaction":true,"event_label":"Center: Inequality popup (110893) - Non-subscribers, non-donors"},"selector":"#cbb8","visibilitySpec":{"totalTimeMin":500}},"c6bf":{"request":"event","on":"amp-form-submit","vars":{"event_name":"Form Submission","event_category":"Newspack Announcement","event_label":"Center: Inequality popup (110893) - Non-subscribers, non-donors"},"selector":"#cbb8 form:not(.popup-dismiss-form)"},"c6c1":{"request":"event","on":"amp-form-submit-success","vars":{"event_name":"Dismissal","event_category":"Newspack Announcement","non_interaction":true,"event_label":"Center: Inequality popup (110893) - Non-subscribers, non-donors"},"selector":"#cbb8 .popup-dismiss-form"},"n78b":{"request":"event","on":"amp-form-submit-success","vars":{"event_name":"newsletter signup","event_category":"NTG newsletter","event_label":"success"},"selector":"#n788 form","visibilitySpec":{"totalTimeMin":500}},"n78d":{"request":"event","on":"visible","vars":{"event_name":"newsletter modal impression 2","event_category":"NTG newsletter","non_interaction":true,"event_label":"Can you tackle systemic racism without confronting race?"},"selector":"#n788","visibilitySpec":{"totalTimeMin":500}},"n076":{"request":"event","on":"amp-form-submit-success","vars":{"event_name":"newsletter signup","event_category":"NTG newsletter","event_label":"success"},"selector":"#n073 form","visibilitySpec":{"totalTimeMin":500}},"n077":{"request":"event","on":"visible","vars":{"event_name":"newsletter modal impression 3","event_category":"NTG newsletter","non_interaction":true,"event_label":"Can you tackle systemic racism without confronting race?"},"selector":"#n073","visibilitySpec":{"totalTimeMin":500}},"nec9":{"request":"event","on":"amp-form-submit-success","vars":{"event_name":"newsletter signup","event_category":"NTG newsletter","event_label":"success"},"selector":"#nec6 form","visibilitySpec":{"totalTimeMin":500}},"neca":{"request":"event","on":"visible","vars":{"event_name":"newsletter modal impression 3","event_category":"NTG newsletter","non_interaction":true,"event_label":"Can you tackle systemic racism without confronting race?"},"selector":"#nec6","visibilitySpec":{"totalTimeMin":500}}}}					</script>
+						{"optoutElementId":"__gaOptOutExtension","vars":{"gtag_id":"UA-3383794-4","config":{"UA-3383794-4":{"groups":"default","linker":{"domains":["publicintegrity.org"]},"send_page_view":false}}},"triggers":{"c2da":{"request":"event","on":"visible","vars":{"event_name":"Seen","event_category":"Newspack Announcement","non_interaction":true,"event_label":"Center: Inequality popup (110893) - Non-subscribers, non-donors"},"selector":"#c37a","visibilitySpec":{"totalTimeMin":500}},"c2df":{"request":"event","on":"amp-form-submit","vars":{"event_name":"Form Submission","event_category":"Newspack Announcement","event_label":"Center: Inequality popup (110893) - Non-subscribers, non-donors"},"selector":"#c37a form:not(.popup-dismiss-form)"},"c2e3":{"request":"event","on":"amp-form-submit-success","vars":{"event_name":"Dismissal","event_category":"Newspack Announcement","non_interaction":true,"event_label":"Center: Inequality popup (110893) - Non-subscribers, non-donors"},"selector":"#c37a .popup-dismiss-form"}}}					</script>
 </amp-analytics>
 <script>
 			( function() {
@@ -2040,7 +2161,7 @@ Proudly powered by Newspack by Automattic </a>
 					);
 				};
 
-				var elementSelector = '#cbb8';
+				var elementSelector = '#c37a';
 				if (elementSelector) {
 					var elements = Array.prototype.slice.call( document.querySelectorAll( elementSelector ) );
 					for ( var i = 0; i < elements.length; ++i ) {
@@ -2085,7 +2206,7 @@ Proudly powered by Newspack by Automattic </a>
 					)
 				};
 
-				var elementSelector = '#cbb8';
+				var elementSelector = '#c37a';
 				var elements        = Array.prototype.slice.call( document.querySelectorAll( elementSelector ) );
 
 				var reportEvent = function() {
@@ -2128,7 +2249,7 @@ Proudly powered by Newspack by Automattic </a>
 		</script>
 <script>
 			( function() {
-				var elementSelector = '#cbb8 form:not(.popup-dismiss-form)';
+				var elementSelector = '#c37a form:not(.popup-dismiss-form)';
 				var elements        = Array.prototype.slice.call( document.querySelectorAll( elementSelector ) );
 
 				for ( var i = 0; i < elements.length; ++i ) {
@@ -2151,7 +2272,7 @@ Proudly powered by Newspack by Automattic </a>
 		</script>
 <script>
 			( function() {
-				var elementSelector = '#cbb8 .popup-dismiss-form';
+				var elementSelector = '#c37a .popup-dismiss-form';
 				var elements        = Array.prototype.slice.call( document.querySelectorAll( elementSelector ) );
 
 				for ( var i = 0; i < elements.length; ++i ) {
@@ -2172,261 +2293,6 @@ Proudly powered by Newspack by Automattic </a>
 				}
 			} )();
 		</script>
-<script>
-			( function() {
-				var elementSelector = '#n788 form';
-				var elements        = Array.prototype.slice.call( document.querySelectorAll( elementSelector ) );
-
-				for ( var i = 0; i < elements.length; ++i ) {
-					elements[i].addEventListener( 'submit', function(e) {
-						var eventInfo = {
-								event_category: 'NTG newsletter'
-						};
-													var form = e.currentTarget;
-							var eventLabel = 'success';
-														eventInfo.event_label = eventLabel;
-						
-						gtag(
-							'event',
-							'newsletter signup',
-							eventInfo
-						);
-					} );
-				}
-			} )();
-		</script>
-<script>
-			( function() {
-				window.newspackViewedElements = window.newspackViewedElements || [];
-				window.newspackCheckVisibility = window.newspackCheckVisibility || function( el ) {
-					var elementHeight = el.offsetHeight;
-					var elementWidth = el.offsetWidth;
-
-					if ( elementHeight === 0 || elementWidth === 0 ) {
-						return false;
-					}
-
-					var rect = el.getBoundingClientRect();
-
-					return (
-						rect.top >= -elementHeight &&
-						rect.left >= -elementWidth &&
-						rect.right <= ( window.innerWidth || document.documentElement.clientWidth ) + elementWidth &&
-						rect.bottom <= ( window.innerHeight || document.documentElement.clientHeight ) + elementHeight
-					)
-				};
-
-				var elementSelector = '#n788';
-				var elements        = Array.prototype.slice.call( document.querySelectorAll( elementSelector ) );
-
-				var reportEvent = function() {
-					for ( var i = 0; i < elements.length; ++i ) {
-						var elementToCheck = elements[i];
-
-						// Stop tracking scroll after visibility has been reported.
-						if ( -1 !== window.newspackViewedElements.indexOf( elementToCheck ) ) {
-							window.removeEventListener( 'scroll', reportEvent );
-							return;
-						}
-
-						if ( window.newspackCheckVisibility( elementToCheck ) && -1 === window.newspackViewedElements.indexOf( elementToCheck ) ) {
-							window.newspackViewedElements.push( elementToCheck );
-
-							var totalTimeMin = window.setTimeout( function() {
-
-								// If element is still in viewport after 500ms
-								if ( window.newspackCheckVisibility( elementToCheck ) ) {
-									return gtag(
-										'event',
-										'newsletter modal impression 2',
-										{
-											event_category: 'NTG newsletter',
-																							event_label: 'Can you tackle systemic racism without confronting race?',
-																						non_interaction: true,
-										}
-									);
-								}
-								window.clearTimeout( totalTimeMin );
-							}, 500 );
-						}
-					}
-				};
-
-				// Fire initially - page might be loaded with scroll offset.
-				window.addEventListener( 'DOMContentLoaded', reportEvent );
-				window.addEventListener( 'scroll', reportEvent );
-			} )();
-		</script>
-<script>
-			( function() {
-				var elementSelector = '#n073 form';
-				var elements        = Array.prototype.slice.call( document.querySelectorAll( elementSelector ) );
-
-				for ( var i = 0; i < elements.length; ++i ) {
-					elements[i].addEventListener( 'submit', function(e) {
-						var eventInfo = {
-								event_category: 'NTG newsletter'
-						};
-													var form = e.currentTarget;
-							var eventLabel = 'success';
-														eventInfo.event_label = eventLabel;
-						
-						gtag(
-							'event',
-							'newsletter signup',
-							eventInfo
-						);
-					} );
-				}
-			} )();
-		</script>
-<script>
-			( function() {
-				window.newspackViewedElements = window.newspackViewedElements || [];
-				window.newspackCheckVisibility = window.newspackCheckVisibility || function( el ) {
-					var elementHeight = el.offsetHeight;
-					var elementWidth = el.offsetWidth;
-
-					if ( elementHeight === 0 || elementWidth === 0 ) {
-						return false;
-					}
-
-					var rect = el.getBoundingClientRect();
-
-					return (
-						rect.top >= -elementHeight &&
-						rect.left >= -elementWidth &&
-						rect.right <= ( window.innerWidth || document.documentElement.clientWidth ) + elementWidth &&
-						rect.bottom <= ( window.innerHeight || document.documentElement.clientHeight ) + elementHeight
-					)
-				};
-
-				var elementSelector = '#n073';
-				var elements        = Array.prototype.slice.call( document.querySelectorAll( elementSelector ) );
-
-				var reportEvent = function() {
-					for ( var i = 0; i < elements.length; ++i ) {
-						var elementToCheck = elements[i];
-
-						// Stop tracking scroll after visibility has been reported.
-						if ( -1 !== window.newspackViewedElements.indexOf( elementToCheck ) ) {
-							window.removeEventListener( 'scroll', reportEvent );
-							return;
-						}
-
-						if ( window.newspackCheckVisibility( elementToCheck ) && -1 === window.newspackViewedElements.indexOf( elementToCheck ) ) {
-							window.newspackViewedElements.push( elementToCheck );
-
-							var totalTimeMin = window.setTimeout( function() {
-
-								// If element is still in viewport after 500ms
-								if ( window.newspackCheckVisibility( elementToCheck ) ) {
-									return gtag(
-										'event',
-										'newsletter modal impression 3',
-										{
-											event_category: 'NTG newsletter',
-																							event_label: 'Can you tackle systemic racism without confronting race?',
-																						non_interaction: true,
-										}
-									);
-								}
-								window.clearTimeout( totalTimeMin );
-							}, 500 );
-						}
-					}
-				};
-
-				// Fire initially - page might be loaded with scroll offset.
-				window.addEventListener( 'DOMContentLoaded', reportEvent );
-				window.addEventListener( 'scroll', reportEvent );
-			} )();
-		</script>
-<script>
-			( function() {
-				var elementSelector = '#nec6 form';
-				var elements        = Array.prototype.slice.call( document.querySelectorAll( elementSelector ) );
-
-				for ( var i = 0; i < elements.length; ++i ) {
-					elements[i].addEventListener( 'submit', function(e) {
-						var eventInfo = {
-								event_category: 'NTG newsletter'
-						};
-													var form = e.currentTarget;
-							var eventLabel = 'success';
-														eventInfo.event_label = eventLabel;
-						
-						gtag(
-							'event',
-							'newsletter signup',
-							eventInfo
-						);
-					} );
-				}
-			} )();
-		</script>
-<script>
-			( function() {
-				window.newspackViewedElements = window.newspackViewedElements || [];
-				window.newspackCheckVisibility = window.newspackCheckVisibility || function( el ) {
-					var elementHeight = el.offsetHeight;
-					var elementWidth = el.offsetWidth;
-
-					if ( elementHeight === 0 || elementWidth === 0 ) {
-						return false;
-					}
-
-					var rect = el.getBoundingClientRect();
-
-					return (
-						rect.top >= -elementHeight &&
-						rect.left >= -elementWidth &&
-						rect.right <= ( window.innerWidth || document.documentElement.clientWidth ) + elementWidth &&
-						rect.bottom <= ( window.innerHeight || document.documentElement.clientHeight ) + elementHeight
-					)
-				};
-
-				var elementSelector = '#nec6';
-				var elements        = Array.prototype.slice.call( document.querySelectorAll( elementSelector ) );
-
-				var reportEvent = function() {
-					for ( var i = 0; i < elements.length; ++i ) {
-						var elementToCheck = elements[i];
-
-						// Stop tracking scroll after visibility has been reported.
-						if ( -1 !== window.newspackViewedElements.indexOf( elementToCheck ) ) {
-							window.removeEventListener( 'scroll', reportEvent );
-							return;
-						}
-
-						if ( window.newspackCheckVisibility( elementToCheck ) && -1 === window.newspackViewedElements.indexOf( elementToCheck ) ) {
-							window.newspackViewedElements.push( elementToCheck );
-
-							var totalTimeMin = window.setTimeout( function() {
-
-								// If element is still in viewport after 500ms
-								if ( window.newspackCheckVisibility( elementToCheck ) ) {
-									return gtag(
-										'event',
-										'newsletter modal impression 3',
-										{
-											event_category: 'NTG newsletter',
-																							event_label: 'Can you tackle systemic racism without confronting race?',
-																						non_interaction: true,
-										}
-									);
-								}
-								window.clearTimeout( totalTimeMin );
-							}, 500 );
-						}
-					}
-				};
-
-				// Fire initially - page might be loaded with scroll offset.
-				window.addEventListener( 'DOMContentLoaded', reportEvent );
-				window.addEventListener( 'scroll', reportEvent );
-			} )();
-		</script>
 <script type="text/javascript">
 		window.WPCOM_sharing_counts = {"https:\/\/publicintegrity.org\/labor\/can-you-tackle-systemic-racism-without-confronting-race\/":116754};
 	</script>
@@ -2441,14 +2307,12 @@ Proudly powered by Newspack by Automattic </a>
 			window.wp.serviceWorkerWindow.register();
 		}
 	</script>
-<link rel='stylesheet' id='jetpack-block-button-css' href='https://publicintegrity.org/wp-content/plugins/jetpack/_inc/blocks/button/view.css?minify=false&#038;ver=11.7-a.7' type='text/css' media='all' />
-<link rel='stylesheet' id='jetpack-block-mailchimp-css' href='https://publicintegrity.org/wp-content/plugins/jetpack/_inc/blocks/mailchimp/view.css?minify=false&#038;ver=11.7-a.7' type='text/css' media='all' />
 <link rel='stylesheet' id='newspack-blocks-homepage-articles-css' href='https://publicintegrity.org/wp-content/plugins/newspack-blocks/dist/homepage-articles/view.css?ver=1.59.1' type='text/css' media='all' />
 <link rel='stylesheet' id='newspack-blocks-donate-css' href='https://publicintegrity.org/wp-content/plugins/newspack-blocks/dist/donate/view.css?ver=1.59.1' type='text/css' media='all' />
 <link rel='stylesheet' id='newspack-blocks-donate-frequency-based-css' href='https://publicintegrity.org/wp-content/plugins/newspack-blocks/dist/frequencyBased.css?ver=1.59.1' type='text/css' media='all' />
 <link rel='stylesheet' id='republication-tracker-tool-css-css' href='https://publicintegrity.org/wp-content/plugins/republication-tracker-tool/assets/widget.css?ver=1.0.1' type='text/css' media='all' />
 <style id='core-block-supports-inline-css' type='text/css'>
-.wp-block-buttons.wp-container-9{justify-content:center;}.wp-block-buttons.wp-container-15{justify-content:flex-end;}.wp-block-columns.wp-container-6,.wp-block-columns.wp-container-17{flex-wrap:nowrap;}
+.wp-block-buttons.wp-container-8{justify-content:center;}.wp-block-buttons.wp-container-14{justify-content:flex-end;}.wp-block-group.wp-container-1,.wp-block-group.wp-container-10{flex-direction:column;align-items:flex-start;}.wp-block-columns.wp-container-5,.wp-block-columns.wp-container-16{flex-wrap:nowrap;}
 </style>
 <script type='text/javascript' src='https://publicintegrity.org/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001' id='jetpack-photon-js'></script>
 <script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/vendor/regenerator-runtime.min.js' id='regenerator-runtime-js'></script>
@@ -2483,30 +2347,21 @@ var jetpackLazyImagesL10n = {"loading_warning":"Images are still loading. Please
 </script>
 <script type='text/javascript' src='https://publicintegrity.org/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/lazy-images.js?minify=false&#038;ver=8767d0da914b289bd862' id='jetpack-lazy-images-js'></script>
 <script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/dom-ready.min.js' id='wp-dom-ready-js'></script>
-<script type='text/javascript' id='jetpack-block-mailchimp-js-extra'>
-/* <![CDATA[ */
-var Jetpack_Block_Assets_Base_Url = {"url":"https:\/\/publicintegrity.org\/wp-content\/plugins\/jetpack\/_inc\/blocks\/"};
-var Jetpack_Block_Assets_Base_Url = {"url":"https:\/\/publicintegrity.org\/wp-content\/plugins\/jetpack\/_inc\/blocks\/"};
-var Jetpack_Block_Assets_Base_Url = {"url":"https:\/\/publicintegrity.org\/wp-content\/plugins\/jetpack\/_inc\/blocks\/"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://publicintegrity.org/wp-content/plugins/jetpack/_inc/blocks/mailchimp/view.js?minify=false&#038;ver=11.7-a.7' id='jetpack-block-mailchimp-js'></script>
-<script type='text/javascript' src='https://publicintegrity.org/wp-content/plugins/newspack-blocks/dist/homepage-articles/view.js?ver=e7617a33d2081bc963908370675073c5' id='newspack-blocks-homepage-articles-js'></script>
-<script type='text/javascript' src='https://publicintegrity.org/wp-content/plugins/newspack-blocks/dist/donate/view.js?ver=06eb3719be7b8ca292411229b9deae70' id='newspack-blocks-donate-js'></script>
 <script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/i18n.min.js' id='wp-i18n-js'></script>
 <script type='text/javascript' id='wp-i18n-js-after'>
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 </script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/dist/a11y.min.js' id='wp-a11y-js'></script>
+<script type='text/javascript' src='https://publicintegrity.org/wp-content/plugins/newspack-blocks/dist/homepage-articles/view.js?ver=e7617a33d2081bc963908370675073c5' id='newspack-blocks-homepage-articles-js'></script>
+<script type='text/javascript' src='https://publicintegrity.org/wp-content/plugins/newspack-blocks/dist/donate/view.js?ver=06eb3719be7b8ca292411229b9deae70' id='newspack-blocks-donate-js'></script>
 <script data-amp-plus-allowed type='text/javascript' src='https://publicintegrity.org/wp-content/plugins/newspack-blocks/dist/frequencyBased.js?ver=f4f3879940ad71a7cdafa783c659827e' id='newspack-blocks-donate-frequency-based-js'></script>
-<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
-<script type='text/javascript' src='https://c0.wp.com/c/6.1.1/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
 <script type='text/javascript' src='https://publicintegrity.org/wp-content/plugins/republication-tracker-tool/assets/widget.js?ver=1.0.1' id='republication-tracker-tool-js-js'></script>
 <script type='text/javascript' id='sharing-js-js-extra'>
 /* <![CDATA[ */
 var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://publicintegrity.org/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=11.7-a.7' id='sharing-js-js'></script>
+<script type='text/javascript' src='https://publicintegrity.org/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=11.7-beta3' id='sharing-js-js'></script>
 <script type='text/javascript' id='sharing-js-js-after'>
 var windowOpen;
 			( function () {
@@ -2585,9 +2440,14 @@ var windowOpen;
 <script src='https://stats.wp.com/e-202301.js' defer></script>
 <script>
 		_stq = window._stq || [];
-		_stq.push([ 'view', {v:'ext',blog:'201594328',post:'116754',tz:'-5',srv:'publicintegrity.org',hp:'atomic',ac:'6',amp:'0',j:'1:11.7-a.7'} ]);
+		_stq.push([ 'view', {v:'ext',blog:'201594328',post:'116754',tz:'-5',srv:'publicintegrity.org',hp:'atomic',ac:'6',amp:'0',j:'1:11.7-beta3'} ]);
 		_stq.push([ 'clickTrackerInit', '201594328', '116754' ]);
-	</script>
+	</script><script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 1) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).trigger('gform_post_render', [1, 1]) } );
+</script>
 </body>
 </html>
 
