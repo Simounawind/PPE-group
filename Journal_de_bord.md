@@ -15,7 +15,7 @@ Nous avons choisi le mot "discrimination", plus spécifiquement "**discriminatio
 
 * En français, lors de la recherche pour spécifier mon syntagme j'ajoutais des guillemets comme ceci "discrimination raciale", cela permet de chercher les urls comportement ce syntagme. Néanmoins, le petit problème rencontré c'est que dans certaines urls, le syntagme était employé seulement dans le titre.
 
-* Au début, le contexte anglais que j'ai chosi d'étudier c'était celui de l'Afrique du Sud étant donné que mon pays a une histoire très important concernant ce sujet. En revanche, lorsque j'ai recherché des URLs, je n'ai pas trouvé assez d'occurrences pour pouvoir créer mon corpus. Ceci est dû au fait qu'en Afrique du Sud, il existe plusieurs synonymes du syntagme "racial discrimination". J'ai donc decidé de me baser sur l'anglais américain. J'ai utilisé les mêmes démarches pour chosir mes URLs - en recherchant le syntagme "racial discrimination". 
+* Au début, le contexte anglais que j'ai chosi d'étudier c'était celui de l'Afrique du Sud étant donné que mon pays a une histoire très important concernant ce sujet. En revanche, lorsque j'ai recherché des URLs, je n'ai pas trouvé assez d'occurrences pour pouvoir créer mon corpus. Ceci est dû au fait qu'en Afrique du Sud, il existe plusieurs synonymes du syntagme "racial discrimination". J'ai donc decidé de me baser sur l'anglais américain. J'ai utilisé les mêmes démarches pour chosir mes URLs - en recherchant le syntagme "racial discrimination".
 
 
 ## Travail effectué pendant les séances
@@ -52,7 +52,7 @@ Nous avons aussi appris les commandes shell, grep, cat, etc.
 
 - Séance 7 : 16.11.2022
 
-Etudes des commandes html qu'on utilisera pour créer notre site web. 
+Etudes des commandes html qu'on utilisera pour créer notre site web.
 
 - Séance 8 : 23.11.2022
 
@@ -66,20 +66,20 @@ Aujourd'hui nous avons appris iTrameur en cours par contre nous n'avons pas pu a
 
 Nous avons soumis plusieurs versions de 7/12 et de 8/12, dans lesquelles nous avons amélioré le tableau, et en se basant sur l'interface du prof, Simon a crée le site de notre groupe : index.html (https://github.com/gemmafelton/PPE-group/blob/main/index.html). En plus, nous avons ajouté 3 colomns : *"dump-texts"*, *"HTML"* et *"concordances"*. Ce que nous devons faire ensuite, c'est de savoir ce que signifie le contexte et comment le tirer et l'ajouter dans le tableau. Et enfin il faut s'aider et travailler ensemble pour achever le projet !!
 
-- Séance 11 : 
-Nous avons appris comment utiliser iTrameur et comment créer des nuages de mots. Nous pouvons observer les mots liés au contextes. Ceci nous aidera lors de la construction de notre site web. 
+- Séance 11 :
+Nous avons appris comment utiliser iTrameur et comment créer des nuages de mots. Nous pouvons observer les mots liés aux contextes. Ceci nous aidera lors de la construction de notre site web. Début de la création de notre site web, nous avons réalisé plus ébauches de sites jusqu'à se mettre d'accord sur la forme, l'interface ce que l'on souhaitait qui apparaissent etc. Nous avons regarder des vidéos et on c'est intéressés plusieurs plateformes framework nous permettant de styliser notre site à notre image : Bulma, Bootstrap.
 
 
 ## Problèmes rencontrés par chacun d'entre nous pendant la création de notre projet
 
 ### Gemma
-* Comme mentionnée plus haut, j'ai eu des problèmes lors de la selection de mes URLs. J'ai done recommencé plusieurs fois afin de trouve des URLs qui m'aideront à avoir un contexte avec assez d'informations. C'est pourquoi j'ai décidé de changer de type d'anglais. 
+* Comme mentionnée plus haut, j'ai eu des problèmes lors de la selection de mes URLs. J'ai done recommencé plusieurs fois afin de trouve des URLs qui m'aideront à avoir un contexte avec assez d'informations. C'est pourquoi j'ai décidé de changer de type d'anglais.
 
 * Pendant le semestre, j'ai rencontré plusieurs problèmes qui concernait la plupart du temps ,un problème lors du commit ou lors d'un git push après la modification de mon travail. Cela m'a empêché d'avancer autant que je voulais car j'étais souvent bloquée au même étape, ce qui m'a avéré très compliqué.
 
-* Après le mise à jour de mon OS, j'ai rencontré des problèmes avec les commandes git. J'ai donc du réinstaller les commandes git pour pouvoir continuer. 
+* Après le mise à jour de mon OS, j'ai rencontré des problèmes avec les commandes git. J'ai donc du réinstaller les commandes git pour pouvoir continuer.
 
-* Je n'ai pas réussi à faire le git commit à plusieurs reprises dû à un problème de merge. J'ai regarde sur l'internet mais je n'ai pas réussi. Pendant le cours, M. Magistry nous a aidé à trouver le problème. Nous avons fait un 'git status' pour voir ce qui posait de problème afin de le regler. Après plusieurs commandes, nous avons réussi à faire un merge et j'ai pu procédé avec mon git push. Ceci était à cause d'une problème de branches divergententes donc j'ai utilisé la ligne de commande " git config --global pull.rebase false " pour que cette option sera le défaut pour tous mes dépôts. 
+* Je n'ai pas réussi à faire le git commit à plusieurs reprises dû à un problème de merge. J'ai regarde sur l'internet mais je n'ai pas réussi. Pendant le cours, M. Magistry nous a aidé à trouver le problème. Nous avons fait un 'git status' pour voir ce qui posait de problème afin de le regler. Après plusieurs commandes, nous avons réussi à faire un merge et j'ai pu procédé avec mon git push. Ceci était à cause d'une problème de branches divergententes donc j'ai utilisé la ligne de commande " git config --global pull.rebase false " pour que cette option sera le défaut pour tous mes dépôts.
 
 * J'ai du utiliser la ligne de commande "git commit -m "suppr ds_store" afin de supprimer DS.store un fichier qui se crée automatiquement sur mac et qui pose de problèmes lors du dépôt du travail.
 
