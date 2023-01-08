@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>script-chinois</title>
+  <!-- Favicons -->
+  <link href="assets/img/icon.ico" rel="icon">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <!-- vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  
+  <!--  CSS et Js Files pour scripts -->
+  <link rel="stylesheet" href="assets/css/monokai-sublime.min.css">
+  <script src="assets/js/highlight.min.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+</script>
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="header fixed-top bg-dark">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
+
+      <a class="logo">
+        <img src="assets/img/logo.png">
+        <span>Projet Encadré</span>
+      </a>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link" href="index.html">Accueil</a></li>   <!-- ======= avec presentation ======= -->
+          <li><a class="nav-link " href="index.html#presentation">Presentation</a></li>
+          <li class="dropdown"><a class="nav-link"><span>Tableaux</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="Tableaux-CN.html">Tableau - CN</a></li>
+              <li><a href="Tableaux-FR.html">Tableau - FR</a></li>
+              <li><a href="Tableaux-EN.html">Tableau - EN</a></li>
+            </ul>
+          </li>
+          <li class="dropdown scrollto active"><a class="nav-link scrollto active"><span>Script</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a class="nav-link scrollto active" href="scripts_cn.html">Script - CN</a></li>
+              <li><a href="scripts_fr.html">Script - FR</a></li>
+              <li><a href="script_en.html">Script - EN</a></li>
+            </ul>
+          </li>          
+          <li><a class="nav-link scrollto" href="#portfolio">iTrameur&Nuages</a></li>
+          <li><a class="nav-link scrollto" href="nous.html">Nous</a></li>
+          <li><a href="">Blog</a></li>
+          </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav>
+      <!-- .navbar -->
+    </div>
+  </header>
+  <!-- End Header -->
+
+
+  <main id="main">
+
+    <!-- ======= script-CN Section ======= -->   
+
+<section class="modul">
+<div class="bg-image h-100" style="margin-bottom: -60px ; background-image: url('https://w.wallhaven.cc/full/1p/wallhaven-1p35kv.png');">
+<div class="mask align-items-center h-100" style="background-color: rgba(0, 0, 0, 0.25); "> 
+  
+  <section>
+  <header class="section-header">
+    <h2>脚本</h2>
+    <p style="color:whitesmoke ;">Les Scripts Chinois</p>
+  </header>
+  </section>
+
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        <div class="card bg-dark">
+          <div class="row motifs-tabs">          
+            <div class="forwhat1 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
+              <h3>Script créant les fichiers du corpus </h3>
+              <p style="color:azure; text-align: justify;">C'est le script pour créer le corpus de notre analyse.</p>
+              <p style="color:azure; text-align: justify;">Avec ce script, le seul argument attendu est le fichier urls.
+                On peut ainsi créer les fichiers dumps-text, aspirations, contextes, cooccurences et les mettre dans le dossier correspondant. </p>
+                <p style="color:azure ; text-align: justify;">La base de notre analyse est ainsi construite.</p>
+              <br>
+              <p>
+              <a href="https://github.com/gemmafelton/PPE-group/blob/main/scripts/chinois/dumps_asp_conc_cont_ch.sh" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
+              &ensp;&ensp;&ensp;
+              <a href="../scripts/dumps_asp_conc_cont_ch.sh" download="dumps_asp_conc_cont_ch.sh" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
+  
+            </p>
+            </div>
+
+          <div class="col-lg-6">
+          <pre class='script Bash' ><code>
+#!/usr/bin/env bash
+fichier_urls=$1 # le fichier d'URL en entrée
+lignenum=1;
+cible="种族歧视"
+while read URL || [[ -n $URL ]];
+do
+  echo "fichier $lignenum est en cours de traitement."
+  curl -o ../../aspirations/chinois/ch-$lignenum.html $URL
+  w3m $URL &gt; ../../dumps-text/chinois/ch-$lignenum.txt
+  grep -E -A3 -B3 $cible ../../dumps-text/chinois/ch-$lignenum.txt &gt; ../../contexte/chinois/ch-$lignenum.txt
+
+  echo "
+  &lt;!DOCTYPE html&gt;
+  &lt;html&gt;
+  &lt;head&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
+    &lt;title&gt;Concordances&lt;/title&gt;
+    &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"&gt;
+  &lt;/head&gt;
+      &lt;body&gt;
+        &lt;table class="table"&gt;
+          &lt;thead&gt;
+            &lt;tr&gt;
+            &lt;th class=\"has-text-right\"&gt;Contexte gauche&lt;/th&gt;
+            &lt;th&gt;Cible&lt;/th&gt;
+            &lt;th class=\"has-text-left\"&gt;Contexte droit&lt;/th&gt;
+            &lt;/tr&gt;
+          &lt;/thead&gt;
+          &lt;tbody&gt;
+  " &gt; ../../concordances/chinois/concordance_ch-$lignenum.html
+  w3m -cookie $URL | grep -E -o "(\w+|\W+){0,10}$cible(\W+|\w+){0,10}" |sort|uniq | sed -E "s/(.*)($cible)(.*)/&lt;tr&gt;&lt;td class="has-text-right"&gt;\1&lt;\/td&gt;&lt;td class="has-text-centered"&gt;&lt;strong&gt;\2&lt;\/strong&gt;&lt;\/td&gt;&lt;td class="has-text-left"&gt;\3&lt;\/td&gt;&lt;\/tr&gt;/" &gt;&gt; ../../concordances/chinois/concordance_ch-$lignenum.html
+  echo "
+  &lt;/tbody&gt;
+  &lt;/table&gt;
+  &lt;/body&gt;
+  &lt;/html&gt;
+  " &gt;&gt; ../../concordances/chinois/concordance_ch-$lignenum.html
+  lignenum=$((lignenum+1));
+done &lt; $fichier_urls
+exit                       
+                </code></pre></div>
+              </div>
+
+    <!-- ======= script-2 ======= -->   
+
+              <div class="row motifs-tabs">          
+                <div class="forwhat2 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
+                  <h3>Script créant le tableau cru </h3>
+                  <p style="color:azure; text-align: justify;">C'est le script pour créer le tableau cru.</p>
+                  <p style="color:azure; text-align: justify;">Avec ce script, on obtiendra des infos utiles concernant les urls, leur contenu, y compris l'occurence du mot cible, ses coordances, son contexte etc... </p>
+                    <p style="color:azure ; text-align: justify;">Enfin, on affichera tout ce qu'on a obtenu dans le tableau de style très simple, qui contient 9 colonnes et ainsi les qu'on a obtenu par ce script</p>
+                  <br>
+                  <p>
+                  <a href="https://github.com/gemmafelton/PPE-group/blob/main/scripts/chinois/base_tableaux_fichier_ch.sh" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
+                  &ensp;&ensp;&ensp;
+                  <a href="https://github.com/gemmafelton/PPE-group" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
+                  </p>
+                </div>
+                
+              <div class="col-lg-6">
+              <pre class='script Bash' ><code>
+#!/usr/bin/env bash
+
+fichier_urls=$1 # le fichier d'URL en entrée
+fichier_tableau=$2 # le fichier HTML en sortie
+
+if [[ $# -ne 2 ]]
+then
+  echo "Ce programme demande exactement deux arguments."
+  exit
+fi
+
+mot="种族歧视" # 关键词
+
+echo $fichier_urls;
+basename=$(basename -s .txt $fichier_urls)
+
+echo "
+  &lt;html&gt;
+  &lt;body&gt;" &gt; $fichier_tableau
+echo "&lt;h2&gt;Tableau $basename :&lt;/h2&gt;" &gt;&gt; $fichier_tableau
+echo "&lt;br&gt;&lt;/br&gt;" &gt;&gt; $fichier_tableau
+echo "&lt;table&gt;" &gt;&gt; $fichier_tableau
+echo "&lt;tr&gt;
+  &lt;th&gt;ligne&lt;/th&gt;
+  &lt;th&gt;code&lt;/th&gt;
+  &lt;th&gt;URL&lt;/th&gt;
+  &lt;th&gt;Encodage&lt;/th&gt;
+  &lt;th&gt;Occurences&lt;/th&gt;
+  &lt;th&gt;DumpText&lt;/th&gt;
+  &lt;th&gt;HTML&lt;/th&gt;
+  &lt;th&gt;Contexte&lt;/th&gt;
+  &lt;th&gt;Concordances&lt;/th&gt;
+  &lt;/tr&gt;" &gt;&gt; $fichier_tableau
+
+lignenum=1;
+while read -r URL || [[ -n ${URL} ]]; do
+
+  # la façon attendue, sans l'option -w de cURL
+  code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
+  charset=$(curl -Ls $URL | grep -Eo "charset=(\w|-)+" |tail | cut -d= -f2 |tail -n 1)
+  Occurences=$(w3m -cookie $URL | egrep "种族歧视" -wc)
+  echo -e "\tURL : $URL";
+  echo -e "\tcode : $code";
+
+  if [[ ! $charset ]]
+  then
+    echo -e "\tencodage non détecté, on prendra UTF-8 par défaut.";
+    charset="UTF-8";
+  else
+    echo -e "\tencodage : $charset";
+  fi
+
+  if [[ $code -eq 200 ]]
+  then
+    dump=$(lynx -dump -nolist -assume_charset=$charset -display_charset=$charset $URL)
+    if [[ $charset -ne "UTF-8" && -n "$dump" ]] #command1 && command2  只有前面命令执行成功，后面命令才继续执行    -n  表示if [ -n str1 ]　　　　　　 当串的长度大于0时为真(串非空) 
+    then
+      dump=$(echo $dump | iconv -f $charset -t UTF-8//IGNORE)  #也就是说，如果检查出其编码信息不为空，且不等于utf8时，就要把它转成utf8
+    fi
+  else
+    echo -e "\tcode différent de 200 utilisation d'un dump vide"
+    dump=""
+    charset=""
+  fi
+
+  echo "&lt;tr&gt;
+  &lt;td&gt;$lignenum&lt;/td&gt;
+  &lt;td&gt;$code&lt;/td&gt;
+  &lt;td&gt;&lt;a href=\"$URL\"&gt;$URL&lt;/a&gt;&lt;/td&gt;
+  &lt;td&gt;$charset&lt;/td&gt;&lt;td&gt;$Occurences&lt;/td&gt;
+  &lt;td&gt;&lt;a href=\"../dumps-text/ch-$lignenum.txt\"&gt;text&lt;/a&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;a href=\"../aspirations/ch-$lignenum.html\"&gt;html&lt;/a&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;a href=\"../contextes/ch-$lignenum.txt\"&gt;contexte&lt;/a&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;a href=\"../concordances/concordance_ch-$lignenum.html\"&gt;concordance&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;" &gt;&gt; $fichier_tableau
+  echo -e "\t----------------------------------------------------------------"
+  lignenum=$((lignenum+1));
+done &lt; $fichier_urls
+echo "&lt;/table&gt;" &gt;&gt; $fichier_tableau
+echo "&lt;/body&gt;&lt;/html&gt;" &gt;&gt; $fichier_tableau
+                    </code></pre></div>
+                  </div>
+
+
+
+
+
+    <!-- ======= script-3 jieba for cloud ======= -->   
+
+                  <div class="row motifs-tabs">          
+                    <div class="forwhat1 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
+                      <h3>🐍 Script Python les fichiers du corpus</h3>
+                      <p style="color:azure; text-align: justify;">C'est le script qui segmente les mots chinois, et ensuite créer l'image nuage de mots.</p>
+                      <p style="color:azure; text-align: justify;">Jieba est un logiciel qui nous permettra de segmenter du texte en chinois. Il faut installer jieba et PIL et numpy, et ensuite les importer dans le script, ensuite avec des fonctions os, on "read" et "write" les contenus pour obtenir un corpus idéal et pur pour le nuage de mots.</p>
+                        <p style="color:azure ; text-align: justify;">J'ai aussi créé un set STOPWORDS ⛔️ , qui contient tous les mots ou lettres qu'on veut pas afficher dans l'image.</p>
+                        <p style="color:azure ; text-align: justify;">Une photo avec coleur correspondant à notre sujet est aussi utilisé pour rendre le image plus beau.</p>
+                        <br>
+                      <p>
+                      <a href="https://github.com/gemmafelton/PPE-group/blob/main/scripts/chinois/jieba_token_wordcloud.py" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
+                      &ensp;&ensp;&ensp;
+                      <a href="https://github.com/gemmafelton/PPE-group" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
+                      </p>
+                    </div>
+                    
+                  <div class="col-lg-6">
+                  <pre class='script Python' ><code>
+import jieba
+import matplotlib.pyplot as plt
+from imageio import imread
+from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+import numpy as np
+from PIL import Image
+# module for Chinese word segmentation 
+
+text_from_file = open('dumps.txt', 'r', encoding='UTF-8')         
+data = text_from_file.read()        
+seg_list = jieba.cut(data, cut_all = False)      
+# open & read file for tokenization -> tokenize line by line
+
+fW = open('dumps-ch_token.txt', 'w', encoding='UTF-8')      
+word_space = ' '.join(seg_list)
+fW.write(' '.join(seg_list))        
+# put result in new file, separate tokens by space
+
+text_from_file.close()
+fW.close()
+
+STOPWORDS = set((
+        "En", "ch", "text", "ais", "svg", "Fran", "text", "page", "text page", "b", "v2",
+        "他", "看", "就", "以及", "其", "吗", "进行", "是", "用", "也", "的",
+        "年", "了", "日", "月", "年", "都", "有", "你", "和", "我", "但", "而", "中", "不", "上", "这", "在", "到", "为", "与", "说", "对", "但是", "从"
+        , "会", "还", "将", "很", "让 ", " 让", "或", "等", "要", "来", "就是", "一种", "时", "并", "她", "表示", "一些", "这个", "又", "后", "以为", "以", "让", 
+        "通过", "者", "不是", "分享", "比", "里", "去", "所以", "向", "那", "那么", "广告", "或者", "应该", "一定", "一", "则", "I"
+        , "and", "已", "己", "什么", "才", "过", "设计", "因", "着因", 
+        "of", "the", "文章", "to"
+    ))
+
+img = imread('poing.png')
+img = np.array(Image.open('poing.png'))
+
+my_wordcloud = WordCloud(
+    scale=6,
+    background_color='white', #设置背景颜色
+    mask=img,  #背景图片
+    max_words = 200, #设置最大显示的词数
+    stopwords = STOPWORDS, #设置停用词
+    #设置字体格式，字体格式 .ttf文件需自己网上下载，最好将名字改为英文，中文名路径加载会出现问题。
+    font_path = 'alima.ttf', 
+    max_font_size = 150, #设置字体最大值
+    random_state=50, #设置随机生成状态，即多少种配色方案
+    ).generate(word_space)
+
+image_colors = ImageColorGenerator(img)
+my_wordcloud.recolor(color_func=image_colors)
+plt.imshow(my_wordcloud)
+plt.axis('off')
+plt.show()
+my_wordcloud.to_file('result.jpg')                    
+                        </code></pre></div>
+                      </div>
+
+
+
+    <!-- ======= script-4 itrameurbonformat======= -->   
+
+                      <div class="row motifs-tabs">          
+                        <div class="forwhat1 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
+                          <h3>Script créant le fichier base pour iTrameur</h3>
+                          <p style="color:azure; text-align: justify;">C'est le script pour créer le fichier txt brut au bon format d'iTrameur. Avec ce script, on peut concatener tous les contenus des fichiers dumps-texts dans un seul fichier, qui s'appelle "contexte.txt"</p>
+                          <p style="color:azure; text-align: justify;">Grâce à ce script, les contenus dans context.txt sont annotés avec les délimiteurs suggérés dans le site officiel d'iTrameur.</p>
+                          <br>
+                          <p>
+                          <a href="https://github.com/Simounawind/PPE1/blob/main/projet_final/itrameur/make_itrameur_corpus.sh" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
+                          &ensp;&ensp;&ensp;
+                          <a href="https://github.com/gemmafelton/PPE-group" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
+                          </p>
+                        </div>
+                        
+                      <div class="col-lg-6">
+                      <pre class='script python' ><code>
+#!/usr/bin/zsh
+
+if  [[ $# -ne 2 ]]
+then 
+    echo "Deux arguments attendus: &lt;dossier&gt; &lt;langue&gt;"
+    exit
+fi
+
+dossier=$1
+langue_abr=$2   
+
+echo "&lt;lang=\"$langue_abr\"&gt;" &gt; contexte.txt
+     
+
+for filepath in $(ls -Utr $dossier/$langue_abr-*.txt)
+do
+    # filepath == dumps-text/fr-1.txt
+    #  == &gt; pagename =fr-1
+    echo "$filepath"
+    pagename="$(basename -s .txt $filepath)"  #ch-1
+    echo "&lt;page=\"$pagename\"&gt;" &gt;&gt; contexte.txt
+    echo "&lt;text&gt;"  &gt;&gt; contexte.txt
+
+    #on récupère les dumps ou contextes
+    # et on écrit à l'intérieur de la base text
+    content=$(cat $filepath)
+    # ordre important : & en premier
+    # sinon : &lt; =&gt; &lt ; =&gt; &amp;lt: 
+    content=$(echo "$content" | sed 's/&/&amp;/g')
+    content=$(echo "$content" | sed 's/&lt;/&lt;/g')
+    content=$(echo "$content" | sed 's/&gt;/&gt;/g')  
+    echo "$content" &gt;&gt; contexte.txt
+    echo "&lt;/text&gt;" &gt;&gt; contexte.txt
+    echo "&lt;/page&gt; §" &gt;&gt; contexte.txt
+done
+echo "&lt;/lang&gt;" &gt;&gt; contexte.txt
+                            </code></pre></div>
+                          </div>
+
+
+
+    <!-- ======= script-4 itrameurbonformat======= -->   
+
+    <div class="row motifs-tabs">          
+      <div class="forwhat3 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
+        <h3>N'oubliez pas de segmenter aussi le contenu pour iTrameur</h3>
+        <p style="color:azure; text-align: justify;">Basé sur le "contexte.txt" déjà crée, ce script sert à segmenter son contenu avec jieba.</p>
+        <br>
+        <p>
+        <a href="https://github.com/gemmafelton/PPE-group/blob/main/scripts/chinois/jieba_itrameur.py" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
+        &ensp;&ensp;&ensp;
+        <a href="https://github.com/gemmafelton/PPE-group" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
+        </p>
+      </div>
+      
+    <div class="col-lg-6">
+    <pre class='script python' ><code>
+import jieba
+import matplotlib.pyplot as plt
+# module for Chinese word segmentation
+
+text_from_file = open('dumps.txt', 'r', encoding='UTF-8')
+data = text_from_file.read()
+jieba.load_userdict("userdict.txt")
+seg_list = jieba.cut(data, cut_all=False)
+
+fW = open('corpus-ch_itrameur.txt', 'w', encoding='UTF-8')
+fW.write(' '.join(seg_list))
+# put result in new file, separate tokens by space
+
+text_from_file.close()
+fW.close()
+          </code></pre></div>
+        </div>
+
+
+
+
+    <!-- ======= les sites tres utiles ======= -->   
+
+                          <div class="row motifs-tabs">          
+                            <div class="forwhat4 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
+                              <h3>🌏 Sites utiles et Bibliographie</h3>
+                              <p style="color:azure; text-align: justify;">Concernant les connaissances CSS, html etc</p>
+                              <br>
+                            </div>
+                            
+                          <div class="col-lg-6">
+                          <pre class='scriptfinal txt' ><code>
+https://developer.mozilla.org/en-US/docs/Web/CSS
+https://blog.51cto.com/mouday/4838897
+https://getbootstrap.com/
+https://highlightjs.org/
+https://github.com/highlightjs/highlight.js
+https://www.jianshu.com/p/e2f12268fe81
+https://www.v2ex.com/t/186829
+https://getbootstrap.com/docs/5.3/getting-started/
+                                </code></pre></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <br><br><br>        
+  <br><br><br>        
+  <br><br><br>  
+
+</section> 
+
+
+</main>
+<!-- End #main -->
+
+<!-- ======= Footer ======= -->
+<footer id="footer" class="footer">
+  <div class="container">
+    <div class="projet">
+    Projet (PEE) du TAL M1 22/23 réalisé par <strong><span>CUI Xiaohua</span>, </strong><strong><span>Tannina Hamizi</span></strong> et <strong><span>Gemma Felton</span></strong>
+    </div>
+    <div class="faitpar">
+      Dirigés par @<a href="http://www.tal.univ-paris3.fr/plurital/"><strong>pluriTAL</strong></a>
+      <div class="faitpar">
+        <a href="https://github.com/gemmafelton/PPE-group" class="github"><i class="bi bi-github"></i></a>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- End Footer -->
+
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+<!-- Vendor JS Files -->
+<script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+<script src="assets/vendor/aos/aos.js"></script>
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="assets/vendor/php-email-form/validate.js"></script>
+
+<!-- Template Main JS File -->
+<script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
