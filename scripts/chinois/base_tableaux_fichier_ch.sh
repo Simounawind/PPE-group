@@ -25,7 +25,6 @@ echo "<tr>
 	<th>code</th>
 	<th>URL</th>
 	<th>Encodage</th>
-	<th></th>
 	<th>Occurences</th>
 	<th>DumpText</th>
 	<th>HTML</th>
