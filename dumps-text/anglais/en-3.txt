@@ -557,17 +557,17 @@ MOST POPULAR
    [150]What is the House Freedom Caucus, and who's in it?
 
    2
-   [151]Are you in the American middle class? Find out with our income
-   calculator
+   [151]Quiz: Where do you fit in the political typology?
 
    3
-   [152]Quiz: Where do you fit in the political typology?
+   [152]Are you in the American middle class? Find out with our income
+   calculator
 
    4
-   [153]118th Congress has a record number of women
+   [153]What the data says about gun deaths in the U.S.
 
    5
-   [154]Faith on the Hill
+   [154]118th Congress has a record number of women
 
    Pew Research Center
    1615 L St. NW, Suite 800
@@ -752,10 +752,10 @@ References
  148. https://www.pewresearch.org/topic/race-ethnicity/racial-bias-discrimination/
  149. https://www.pewresearch.org/topic/race-ethnicity/race-relations/
  150. https://www.pewresearch.org/fact-tank/2015/10/20/house-freedom-caucus-what-is-it-and-whos-in-it/
- 151. https://www.pewresearch.org/fact-tank/2020/07/23/are-you-in-the-american-middle-class/
- 152. https://www.pewresearch.org/politics/quiz/political-typology/
- 153. https://www.pewresearch.org/fact-tank/2023/01/03/118th-congress-has-a-record-number-of-women/
- 154. https://www.pewresearch.org/religion/2023/01/03/faith-on-the-hill-2023/
+ 151. https://www.pewresearch.org/politics/quiz/political-typology/
+ 152. https://www.pewresearch.org/fact-tank/2020/07/23/are-you-in-the-american-middle-class/
+ 153. https://www.pewresearch.org/fact-tank/2022/02/03/what-the-data-says-about-gun-deaths-in-the-u-s/
+ 154. https://www.pewresearch.org/fact-tank/2023/01/03/118th-congress-has-a-record-number-of-women/
  155. tel:+12024194300
  156. tel:+12028578562
  157. tel:+12024194372

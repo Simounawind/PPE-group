@@ -195,11 +195,9 @@ CNN values your feedback
    [140]----- is driving the US market
 
    Latest Market News
-   Head of Saudi investment fund subpoenaed in case over Musk's 'funding
-   secured' tweet
-   Alan Greenspan says US recession is likely
-   A $3,300 self-driving stroller is at this year's CES. Are parents
-   ready?
+   Macy's says its holiday sales will be lower, citing inflation pressures
+   McDonald's CEO says layoffs are coming
+   'Maybe we cried too much' over shoplifting, Walgreens executive says
    Something isn't loading properly. Please check back later.
 
 Airbnb finds people have more trouble booking stays if hosts think they are
@@ -289,38 +287,7 @@ Black
    Ad Feedback
    Ad Feedback
 
-More from CNN Business
-
-   Justin Sullivan/Getty Images
-   GM is the top car seller in America, retaking the title from Toyota
-   Jan 04, 2023
-   Gary Hershorn/Getty Images
-   Sales of Manhattan apartments nosedived at the end of 2022
-   Jan 04, 2023
    Ad Feedback
-
-CNN Business Videos
-
-   o Video
-   "Undisputed"/Fox Sports 1
-   Shannon Sharpe confronts Skip Bayless about tweet made after Damar
-   Hamlin collapsed
-   Jan 04, 2023
-   o Video
-   PBS
-   'You want to die': Edward Norton learns details about slaves one of his
-   ancestors owned
-   Jan 04, 2023
-   o Video
-   NBC / "Late Night with Seth Meyers"
-   Late night hosts react to McCarthy's failure to win House vote for
-   speaker
-   Jan 04, 2023
-   o Video
-   ABC
-   'She would kick us under the table': 'The View' hosts share Barbara
-   Walters stories
-   Jan 03, 2023
    Ad Feedback
 
    ____________________ (BUTTON) Search
@@ -764,22 +731,16 @@ References
  276. https://twitter.com/cnnbusiness
  277. https://instagram.com/cnnbusiness
  278. https://edition.cnn.com/business/markets/fear-and-greed/index.html
- 279. https://edition.cnn.com/2023/01/04/cars/elon-musk-tesla-lawsuit-saudi-investment
- 280. https://edition.cnn.com/2023/01/04/investing/alan-greenspan-fed-recession
- 281. https://edition.cnn.com/2023/01/04/tech/self-driving-stroller-ces
+ 279. https://edition.cnn.com/2023/01/07/business/macys-q4-holiday-sales
+ 280. https://edition.cnn.com/2023/01/06/business/mcdonalds-layoffs
+ 281. https://edition.cnn.com/2023/01/06/business/walgreens-shoplifting-retail
  282. mailto:?subject=CNN%20content%20share&body=Check%20out%20this%20article%3A%0Ahttps%3A%2F%2Fwww.cnn.com%2F2022%2F12%2F13%2Ftech%2Fairbnb-project-lighthouse-data
- 283. https://edition.cnn.com/2023/01/04/business/car-sales
- 284. https://edition.cnn.com/2023/01/04/homes/home-sales-manhattan-fourth-quarter-2022
- 285. https://edition.cnn.com/videos/media/2023/01/03/skip-bayless-apologize-damar-hamlin-cprog-orig-ht.cnn-business
- 286. https://edition.cnn.com/videos/media/2023/01/04/edward-norton-finding-your-roots-cprog-orig-fj.cnn-business
- 287. https://edition.cnn.com/videos/media/2023/01/04/late-night-house-speaker-vote-contd-lon-orig-tp.cnn
- 288. https://edition.cnn.com/videos/business/2023/01/03/the-view-barbara-walters-cprog-orig-fj.cnn-business
- 289. https://edition.cnn.com/2022/12/13/tech/airbnb-project-lighthouse-data/index.html
- 290. https://www.cnn.com/
- 291. https://www.cnn.com/business
- 292. https://facebook.com/cnnbusiness
- 293. https://twitter.com/cnnbusiness
- 294. https://youtube.com/user/CNN
- 295. https://instagram.com/cnnbusiness
- 296. https://edition.cnn.com/2022/12/13/tech/airbnb-project-lighthouse-data/index.html
- 297. https://edition.cnn.com/2022/12/13/tech/airbnb-project-lighthouse-data/index.html
+ 283. https://edition.cnn.com/2022/12/13/tech/airbnb-project-lighthouse-data/index.html
+ 284. https://www.cnn.com/
+ 285. https://www.cnn.com/business
+ 286. https://facebook.com/cnnbusiness
+ 287. https://twitter.com/cnnbusiness
+ 288. https://youtube.com/user/CNN
+ 289. https://instagram.com/cnnbusiness
+ 290. https://edition.cnn.com/2022/12/13/tech/airbnb-project-lighthouse-data/index.html
+ 291. https://edition.cnn.com/2022/12/13/tech/airbnb-project-lighthouse-data/index.html

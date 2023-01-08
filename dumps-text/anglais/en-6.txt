@@ -1,506 +1,367 @@
-   #[1]United States Department of State » Feed [2]alternate [3]alternate
-   [4]alternate
+   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-MCMPK29
 
-   IFRAME: [5]https://www.googletagmanager.com/ns.html?id=GTM-T9WK49Q
+   [2]Skip to content
 
-   [6]Skip to content
-   An official website of the United States Government Here's how you know
+   You have JavaScript disabled. Please enable JavaScript to use this
+   feature.
+   Toggle High Contrast
+   (BUTTON)
+   Toggle Large Font Size
+   (BUTTON)
 
-   Official websites use .gov
-   A .gov website belongs to an official government organization in the
-   United States.
+   The White House
+   The White House
+   [3]The White House
+     * [4]Home
 
-   Secure .gov websites use HTTPS
-   A lock ( ) or https:// means you've safely connected to the .gov
-   website. Share sensitive information only on official, secure websites.
+     * [5]Administration
+     * [6]Priorities
+     * [7]The Record
+     * [8]Briefing Room
+     * [9]Español
 
-     * [7]Newsroom
-     * [8]Business
-     * [9]Employees
-     * [10]Job Seekers
-     * [11]Students
-     * [12]Travelers
-     * [13]Visas
+     * [10]InstagramOpens in a new window
+     * [11]FacebookOpens in a new window
+     * [12]TwitterOpens in a new window
+     * [13]YouTubeOpens in a new window
 
-   [14]Facebook [15]Twitter [16]Instagram [17]YouTube [18]Flickr
-   [19]GovDelivery
-     * [20]Menu
-     * [21]State Department Home
-     * (BUTTON) Search
+     * [14]Contact Us
+     * [15]Privacy Policy
+     * [16]Copyright Policy
+     * [17]Accessibility Statement
 
-     * State Department Home
-     * (BUTTON) Policy Issues
-          + (BUTTON) Back
-          + Policy Issues
-            [22]Anti-Corruption and Transparency
-            [23]Arms Control and Nonproliferation
-            [24]Climate and Environment
-            [25]Climate Crisis
-            [26]Combating Drugs and Crime
-            [27]Countering Terrorism
-            [28]COVID-19 Recovery
-            [29]Cyber Issues
-            [30]Disarming Disinformation
-            [31]Economic Prosperity and Trade Policy
-            [32]Energy
-            [33]Global Health
-            [34]Global Women's Issues
-            [35]Holding Russia and Belarus to Account
-            [36]Human Rights and Democracy
-            [37]Human Trafficking
-            [38]The Ocean and Polar Affairs
-            [39]Refugee and Humanitarian Assistance
-            [40]Science, Technology, and Innovation
-            [41]Treaties and International Agreements
-            [42]United with Ukraine
-     * (BUTTON) Countries & Areas
-          + (BUTTON) Back
-          + Countries & Areas
-            Search for country or area [A_______________________________]
-     * (BUTTON) Bureaus & Offices
-          + (BUTTON) Back
-          + Bureaus & Offices
-               o (BUTTON______________) The Secretary of State
-                    # (BUTTON) The Secretary of State
-                    # [43]The Secretary of State
-                    # [44]Bureau of Intelligence and Research
-                    # [45]Bureau of Legislative Affairs
-                    # [46]Counselor of the Department
-                    # [47]Executive Secretariat
-                    # [48]Office of the Chief of Protocol
-                    # [49]Office of Civil Rights
-                    # [50]Office of Diversity and Inclusion
-                    # [51]Office of Global Women's Issues
-                    # [52]Office of the Legal Adviser
-                    # [53]Office of the Ombudsman
-                    # [54]Office of the U.S. Global AIDS Coordinator and
-                      Global Health Diplomacy
-                    # [55]Policy Planning Staff
-                    # [56]Special Presidential Envoy for Hostage Affairs
-                    # [57]Special Representative for Iran
-                    # [58]Special Representative for Syria Engagement
-                    # [59]Special Representative for Venezuela
-                    # [60]U.S. Security Coordinator for Israel and the
-                      Palestinian Authority
-               o (BUTTON______________) Deputy Secretaries of State
-                    # (BUTTON) Deputy Secretaries of State
-                    # [61]Deputy Secretary of State
-                    # [62]Bureau of Cyberspace and Digital Policy
-                    # [63]Office of the U.S. Coordinator for the Arctic
-                      Region
-                    # [64]Deputy Secretary of State for Management and
-                      Resources
-                    # [65]Office of Foreign Assistance
-                    # [66]Office of Small and Disadvantaged Business
-                      Utilization
-               o (BUTTON______________) Arms Control and International
-                 Security
-                    # (BUTTON) Arms Control and International Security
-                    # [67]Under Secretary for Arms Control and
-                      International Security
-                    # [68]Bureau of Arms Control, Verification and
-                      Compliance
-                    # [69]Bureau of International Security and
-                      Nonproliferation
-                    # [70]Bureau of Political-Military Affairs
-               o (BUTTON______________) Civilian Security, Democracy, and
-                 Human Rights
-                    # (BUTTON) Civilian Security, Democracy, and Human
-                      Rights
-                    # [71]Under Secretary for Civilian Security,
-                      Democracy, and Human Rights
-                    # [72]Bureau of Conflict and Stabilization Operations
-                    # [73]Bureau of Democracy, Human Rights, and Labor
-                    # [74]Bureau of International Narcotics and Law
-                      Enforcement Affairs
-                    # [75]Bureau of Population, Refugees, and Migration
-                    # [76]Office of Global Criminal Justice
-                    # [77]Office of International Religious Freedom
-                    # [78]Office of the Special Envoy To Monitor and
-                      Combat Antisemitism
-                    # [79]Office to Monitor and Combat Trafficking in
-                      Persons
-               o (BUTTON______________) Economic Growth, Energy, and
-                 Environment
-                    # (BUTTON) Economic Growth, Energy, and Environment
-                    # [80]Under Secretary for Economic Growth, Energy, and
-                      the Environment
-                    # [81]Bureau of Economic and Business Affairs
-                    # [82]Bureau of Energy Resources
-                    # [83]Bureau of Oceans and International Environmental
-                      and Scientific Affairs
-                    # [84]Office of Global Food Security
-                    # [85]Office of Global Partnerships
-                    # [86]Office of the Chief Economist
-                    # [87]Office of the Science and Technology Adviser
-               o (BUTTON______________) Management
-                    # (BUTTON) Management
-                    # [88]Under Secretary for Management
-                    # [89]Bureau of Administration
-                    # [90]Bureau of Budget and Planning
-                    # [91]Bureau of the Comptroller and Global Financial
-                      Services
-                    # [92]Bureau of Consular Affairs
-                    # [93]Bureau of Diplomatic Security
-                    # [94]Bureau of Global Talent Management
-                    # [95]Bureau of Information Resource Management
-                    # [96]Bureau of Medical Services
-                    # [97]Bureau of Overseas Buildings Operations
-                    # [98]Director of Diplomatic Reception Rooms
-                    # [99]Foreign Service Institute
-                    # [100]Office of Foreign Missions
-                    # [101]Office of Management Strategy and Solutions
-               o (BUTTON______________) Political Affairs
-                    # (BUTTON) Political Affairs
-                    # [102]Under Secretary for Political Affairs
-                    # [103]Bureau of African Affairs
-                    # [104]Bureau of Counterterrorism
-                    # [105]Bureau of East Asian and Pacific Affairs
-                    # [106]Bureau of European and Eurasian Affairs
-                    # [107]Bureau of International Organization Affairs
-                    # [108]Bureau of Near Eastern Affairs
-                    # [109]Bureau of South and Central Asian Affairs
-                    # [110]Bureau of Western Hemisphere Affairs
-               o (BUTTON______________) Public Diplomacy and Public
-                 Affairs
-                    # (BUTTON) Public Diplomacy and Public Affairs
-                    # [111]Under Secretary for Public Diplomacy and Public
-                      Affairs
-                    # [112]Educational and Cultural Affairs
-                    # [113]Expo Unit
-                    # [114]Global Engagement Center
-                    # [115]Global Public Affairs
-                    # [116]Policy, Planning, and Resources
-                    # [117]U.S. Advisory Commission on Public Diplomacy
-     * (BUTTON) About
-          + (BUTTON) Back
-          + About
-            Mission
-            [118]About the U.S. Department of State
-            [119]Joint Strategic Plan
-            [120]Equity Action Plan
-            [121]Foreign Affairs Manual and Handbook
-            [122]Department of State by State Map
-            [123]DipNote Blog
-            [124]We Are the U.S. Department of State
-            History
-            [125]Previous Administration Archives
-            [126]Foreign Relations of the United States
-            [127]National Museum of American Diplomacy
-            [128]Art in Embassies
-            Administrative
-            [129]Department Reports and Publications
-            [130]Agency Financial Reports
-            [131]Form Finder
-            [132]Organization Chart
-            [133]Plans, Performance, Budget
-            [134]Information Quality Act
-            [135]Open Government Initiative
-            [136]Data Informed Diplomacy
-            [137]Digital Government Strategy
-            [138]Plain Writing Program
-            [139]Partner With State
-            Leadership
-            [140]The Secretary of State
-            [141]Deputy Secretary of State
-            [142]Deputy Secretary of State for Management and Resources
-            [143]Biographies of Senior Officials
-            Directories
-            [144]Contact Us
-            [145]Telephone Directory
-            [146]U.S. Ambassadors
-            [147]U.S. Embassies and Other Posts
-            [148]Country Offices Directory
-            [149]Key Officers of Foreign Service Posts
-            [150]Diplomats in Residence
+   (BUTTON)
+   Menu Close
+   To search this site, enter a search term (BUTTON) (BUTTON)
+   ____________________ (BUTTON) Search
 
-   [151]Home[152]Office of the Spokesperson[153]Press Releases...U.S.
-   Delegation to the Committee on the Elimination of Racial Discrimination
-   hide
+Mobile Menu Overlay
 
-U.S. Delegation to the Committee on the Elimination of Racial Discrimination
+     * [18]Administration (BUTTON) Show submenu for "Administration""
+          + [19]President Joe Biden
+          + [20]Vice President Kamala Harris
+          + [21]First Lady Dr. Jill Biden
+          + [22]Second Gentleman Douglas Emhoff
+          + [23]The Cabinet
+     * [24]Executive Offices (BUTTON) Show submenu for "Executive
+       Offices""
+          + [25]Council of Economic Advisers
+          + [26]Council on Environmental Quality
+          + [27]Domestic Policy Council
+          + [28]Gender Policy Council
+          + [29]National Economic Council
+          + [30]National Security Council
+          + [31]National Space Council
+          + [32]Office of Intergovernmental Affairs
+          + [33]Office of Management and Budget
+          + [34]Office of the National Cyber Director
+          + [35]Office of National Drug Control Policy
+          + [36]Office of Public Engagement
+          + [37]Office of Science and Technology Policy
+          + [38]Office of the United States Trade Representative
+          + [39]Climate Policy Office
+          + [40]Presidential Personnel Office
+     * [41]Priorities
 
-   Media Note
+     * [42]Briefing Room
+     * [43]The White House (BUTTON) Show submenu for "The White House""
+          + [44]Presidents
+          + [45]First Families
+          + [46]The Grounds
+          + [47]Our Government
+     * [48]Get Involved (BUTTON) Show submenu for "Get Involved""
+          + [49]Write or Call The White House
+          + [50]Join Us
+          + [51]White House Fellows
+          + [52]White House Internship Program
 
-   [154]Office of the Spokesperson
+     * [53]The Record
+     * [54]Disclosures
+     * [55]Español
 
-   August 9, 2022
+     * [56]Contact Us
+     * [57]Privacy Policy
+     * [58]Copyright Policy
+     * [59]Accessibility Statement
 
-   The Biden-Harris administration is deeply committed to addressing the
-   challenges of systemic racism both at home and abroad, including the
-   structures, policies, laws, and practices that sustain racial
-   injustices.  The administration further believes that any pledge to
-   advance human rights around the world must begin with a pledge to
-   advance human rights at home.
+     * [60]InstagramOpens in a new window
+     * [61]FacebookOpens in a new window
+     * [62]TwitterOpens in a new window
+     * [63]YouTubeOpens in a new window
 
-   In that context, the United States has assembled a diverse interagency
-   delegation to the upcoming meeting of the Committee on the Elimination
-   of Racial Discrimination (CERD) in Geneva, Switzerland (August 11-12).
+   The White House
+   1600 Pennsylvania Ave NW
+   Washington, DC 20500
 
-   The delegation will be led by Ambassador Michèle Taylor, U.S. Permanent
-   Representative to the UN Human Rights Council, and Desirée Cormier
-   Smith, the State Department's Special Representative for Racial Equity
-   and Justice.  It will also feature representatives from nearly a dozen
-   executive branch agencies including the Departments of Justice, Labor,
-   and Education, as well as Mayor of Atlanta Andre Dickens and
-   representatives from the office of California's Attorney General.
+   To search this site, enter a search term (BUTTON) (BUTTON)
+   ____________________ (BUTTON) Search
 
-   While in Geneva, the delegation will present the 2021 report on the
-   implementation of U.S. obligations under the International Convention
-   on the Elimination of All Forms of Racial Discrimination.  The report
-   outlines actions taken by the U.S. Government to promote racial equity
-   and address systemic racism and discrimination.
+   March 21, 2021
 
-   In preparation for the presentation, the United States hosted a series
-   of consultations with American civil society on a wide range of issues
-   of concern to marginalized racial and ethnic communities.  U.S.
-   participation in this process reflects the administration's abiding
-   commitment to human rights treaty obligations, and its firm belief that
-   the United States must lead by example.
+Fact Sheet: U.S. Efforts to Combat Systemic Racism
 
-   A [155]fact sheet on the Periodic Report of the United States of
-   America to The United Nations Committee on the Elimination of Racial
-   Discrimination is available online.
+    1. [64]Home
+    2. [65]Briefing Room
+    3. [66]Statements and Releases
 
-   If you have any questions about the U.S. CERD presentation or need more
-   information, please contact USCERD2022@state.gov.
+   "The prevalence, and pervasiveness, of racial discrimination might make
+   the situation look hopeless, but we remain hopeful. Let us expose the
+   racism and racial discrimination endemic to every society, around the
+   globe. Let us press forward, to root out that discrimination and remove
+   the rot from our foundations. And on this day dedicated to ending
+   racial discrimination, let us leave our children a less hateful, more
+   hopeful world."
 
-   Tags
-   [156]Bureau of Democracy, Human Rights, and Labor [157]Bureau of
-   International Organization Affairs [158]Human Rights and Democracy
-   [159]Office of the Spokesperson [160]Racial Equity and Justice
-   [161]Switzerland [162]United Nations
+   -- U.S. Ambassador to the United Nations, Linda Thomas-Greenfield
 
-Related Articles
+   Combating systemic racism requires aggressive action to address
+   structures, policies, and practices that contribute to the wealth gap,
+   to health disparities, and to inequalities in educational access,
+   outcomes, and beyond. Today, on the occasion of the United Nations'
+   (UN) International Day for the Elimination of Racial Discrimination,
+   the United States reiterates its determination to address these
+   challenges at home and abroad, and to make clear to the world that
+   nations with genuine devotion to human rights and equality do not
+   conceal their own failings - they confront them honestly,
+   transparently, and with a determination to make things right.
 
-     * July 14, 2021
+   Here is what the administration is doing to address systemic racism:
 
-Key Outcomes at the 47th Session of the UN Human Rights Council
-       Read more
-     * Secretary Blinken Participates In The UN Security Council Open
-       Debate On Multilateralism
-       May 7, 2021
+   Advancing Racial Equity in the Federal Government: On Day 1 of this
+   administration, the President issued Executive Order (EO) 13985 which
+   established that the Federal Government should pursue a comprehensive
+   approach to advancing equity for all and creating opportunities for the
+   improvement of communities that have been historically underserved.
 
-Secretary Antony J. Blinken Virtual Remarks at the UN Security Council Open
-Debate on Multilateralism
-       Read more
-     * March 24, 2021
+   Condemning and Combating Racism, Xenophobia, and Intolerance Against
+   the Asian American and Pacific Islander (AAPI) Community: On January
+   26, President Biden issued a Memorandum Condemning and Combating
+   Racism, Xenophobia, and Intolerance against Asian Americans and Pacific
+   Islanders in the United States. The memorandum orders executive
+   departments and agencies to take all appropriate steps to ensure that
+   official actions, documents, and statements, including those that
+   pertain to the COVID-19 pandemic, do not exhibit or contribute to
+   racism, xenophobia, and intolerance against Asian Americans and Pacific
+   Islanders.
 
-Key Outcomes at the 46th Session of the UN Human Rights Council
-       Read more
+   Assessing Domestic Violent Extremism: President Biden directed the U.S.
+   government interagency to study the threat of domestic violent
+   extremism in the United States. Earlier this week, the Office of the
+   Director of National Intelligence released the unclassified executive
+   summary of the comprehensive assessment acknowledging that domestic
+   violent extremist motivations include biases against minority
+   populations.
 
-   (BUTTON) Back to Top
+   Creating a Chief Diversity and Inclusion Officer (CDIO) at the State
+   Department: Secretary of State Blinken created the position of a Chief
+   Diversity and Inclusion Officer (CDIO) at the State Department, in
+   recognition of the crucial role diversity, equity, and inclusion can
+   and should play in U.S. foreign policy. Reporting directly to the
+   Secretary, the CDIO will align and advance Diversity and Inclusion
+   policies across the department, bring transparency to these
+   initiatives, and hold senior leadership accountable on progress.
 
-     * [163]White House
-     * [164]USA.gov
-     * [165]Office of the Inspector General
-     * [166]Archives
-     * [167]Contact Us
+   Incorporating Racial Justice into U.S. Foreign Policy Goals: Addressing
+   systemic racism andstrengthening democracy in the United States is a
+   critical part ofPresident Biden'sforeign policy vision. The Secretary
+   of State shall submit a report to the appropriate congressional
+   committees describing initiatives that address racial and ethnic
+   discrimination abroad, to include a list of Department efforts that
+   explicitly focus on addressing racial and ethnic prejudice and
+   discriminations, funding for civil society grants and Embassy programs
+   and initiatives, exchange and leadership programs, and related efforts.
+   This includes State Department programming through the Bureau of
+   Democracy, Human Rights, and Labor (DRL) and the U.S. Agency for
+   International Development (USAID).
 
-   follow us
+   Supporting Historically Marginalized Populations Around the World:
+   Globally, the United States supports organizations to empower racial
+   and ethnic minority communities, and uphold the dignity of people who
+   are systematically denied their human rights and fundamental freedoms.
+   Programs support locally-led efforts to combat all types of racial and
+   ethnic hatred and violence and facilitate access to justice for victims
+   of racism. Initiatives are intersectional and support individuals who
+   face discrimination on account of gender identity and expression,
+   sexual orientation, disability, race or ethnicity, religion, and
+   national origin.
 
-   [168]Facebook [169]Twitter [170]Instagram [171]YouTube [172]Flickr
-   [173]GovDelivery
-     * [174]Privacy Policy
-     * [175]Accessibility Statement
-     * [176]Copyright Information
-     * [177]FOIA
-     * [178]No FEAR Act
+   Calling for Action at the UN Human Rights Council: At the UN Human
+   Rights Council, more than 140 nations joined the United States in a
+   statement outlining the continuing scourge of racism and racial
+   discrimination, xenophobia, and other forms of intolerance. This
+   historic cross-regional statement is a call to action for all nations
+   to:
+     * acknowledge and address the legacy and persistence of systemic
+       racism
+     * review and revise long-standing practices and policies to ensure
+       all individuals are treated equally
+     * embed fairness and inclusivity in decision-making processes
+     * redress inequities in policies that serve as barriers to equal
+       opportunity
+     * eliminate barriers to political participation
 
-   Search: ____________________
-   (BUTTON) Search
-   (BUTTON) Close
+   Nominating a U.S. Representative to the Committee on the Elimination of
+   Racial Discrimination: The United States nominated Professor Gay
+   McDougall to serve on the Committee on the Elimination of Racial
+   Discrimination, a body of 18 independent experts that monitors
+   implementation of the Convention on the Elimination of All Forms of
+   Racial Discrimination by its State parties. Her nomination underscores
+   the value that the Biden administration places on the Committee's work.
 
-U.S. Department of State
+   ###
 
-The Lessons of 1989: Freedom and Our Future
+   [67]Next Post: Statement from President Biden Marking Nowruz Statement
+   from President Biden Marking Nowruz
+   March 20, 2021 o Statements and Releases
+   Next Post
+
+Stay Connected
+
+   Sign Up
+
+   Email Address^* Required ____________________
+   ZIP Code ____________________
+   Please leave blank. ____________________
+   Sign Up
+
+   We'll be in touch with the latest information on how President Biden
+   and his administration are working for the American people, as well as
+   ways you can get involved and help our country build back better.
+
+   [68]Opt in to send and receive text messages from President Biden.
+
+   Share
+
+     * [69]Share this page on Facebook
+     * [70]Share this page on Twitter
+     * https://www.whitehouse.gov/briefing-room/statements-releases/2021/0
+       3/21/fact-sheet-u-s-efforts-to-combat-systemic-racism/?utm_source=l
+       ink
+
+     * [71]Home
+     * [72]The Administration
+     * [73]Executive Offices
+     * [74]Priorities
+     * [75]The Record
+     * [76]Briefing Room
+     * [77]The White House
+     * [78]Disclosures
+     * [79]Get Involved
+     * [80]Español
+
+     * [81]Contact Us
+     * [82]Privacy Policy
+     * [83]Copyright Policy
+     * [84]Accessibility Statement
+
+     * [85]InstagramOpens in a new window
+     * [86]FacebookOpens in a new window
+     * [87]TwitterOpens in a new window
+     * [88]YouTubeOpens in a new window
+
+   The White House
+   1600 Pennsylvania Ave NW
+   Washington, DC 20500
+   [89]WH.gov
+
+   Scroll to Top
+
+   Top
 
 References
 
    Visible links:
-   1. https://www.state.gov/feed/
-   2. https://www.state.gov/wp-json/wp/v2/pages/367729
-   3. https://www.state.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.state.gov%2Fu-s-delegation-to-the-committee-on-the-elimination-of-racial-discrimination%2F
-   4. https://www.state.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.state.gov%2Fu-s-delegation-to-the-committee-on-the-elimination-of-racial-discrimination%2F&format=xml
-   5. https://www.googletagmanager.com/ns.html?id=GTM-T9WK49Q
-   6. https://www.state.gov/u-s-delegation-to-the-committee-on-the-elimination-of-racial-discrimination/#content
-   7. https://www.state.gov/newsroom/
-   8. https://www.state.gov/business/
-   9. https://www.state.gov/employees/
-  10. https://www.state.gov/job-seekers/
-  11. https://www.state.gov/students/
-  12. https://www.state.gov/travelers/
-  13. https://www.state.gov/visas/
-  14. https://www.facebook.com/statedept
-  15. https://twitter.com/StateDept
-  16. https://www.instagram.com/statedept/
-  17. https://www.youtube.com/user/statevideo
-  18. https://www.flickr.com/photos/statephotos/
-  19. https://www.state.gov/department-email-updates/
-  20. https://www.state.gov/u-s-delegation-to-the-committee-on-the-elimination-of-racial-discrimination/#nav__primary-nav
-  21. https://www.state.gov/
-  22. https://www.state.gov/policy-issues/anti-corruption-and-transparency/
-  23. https://www.state.gov/policy-issues/arms-control-and-nonproliferation/
-  24. https://www.state.gov/policy-issues/climate-and-environment/
-  25. https://www.state.gov/policy-issues/climate-crisis/
-  26. https://www.state.gov/policy-issues/combating-drugs-and-crime/
-  27. https://www.state.gov/policy-issues/countering-terrorism/
-  28. https://www.state.gov/covid-19-recovery/
-  29. https://www.state.gov/policy-issues/cyber-issues/
-  30. https://www.state.gov/disarming-disinformation/
-  31. https://www.state.gov/policy-issues/economic-prosperity-and-trade-policy/
-  32. https://www.state.gov/policy-issues/energy/
-  33. https://www.state.gov/policy-issues/global-health/
-  34. https://www.state.gov/policy-issues/global-womens-issues2/
-  35. https://www.state.gov/holding-russia-and-belarus-to-account/
-  36. https://www.state.gov/policy-issues/human-rights-and-democracy/
-  37. https://www.state.gov/policy-issues/human-trafficking/
-  38. https://www.state.gov/policy-issues/the-ocean-and-polar-affairs/
-  39. https://www.state.gov/policy-issues/refugee-and-humanitarian-assistance/
-  40. https://www.state.gov/policy-issues/science-technology-and-innovation/
-  41. https://www.state.gov/policy-issues/treaties-and-international-agreements/
-  42. https://www.state.gov/united-with-ukraine/
-  43. https://www.state.gov/secretary/
-  44. https://www.state.gov/bureaus-offices/secretary-of-state/bureau-of-intelligence-and-research/
-  45. https://www.state.gov/bureaus-offices/secretary-of-state/bureau-of-legislative-affairs/
-  46. https://www.state.gov/bureaus-offices/secretary-of-state/counselor-of-the-department/
-  47. https://www.state.gov/bureaus-offices/secretary-of-state/executive-secretariat/
-  48. https://www.state.gov/bureaus-offices/secretary-of-state/office-of-the-chief-of-protocol/
-  49. https://www.state.gov/bureaus-offices/secretary-of-state/office-of-civil-rights/
-  50. https://www.state.gov/bureaus-offices/secretary-of-state/office-of-diversity-and-inclusion/
-  51. https://www.state.gov/bureaus-offices/secretary-of-state/office-of-global-womens-issues
-  52. https://www.state.gov/bureaus-offices/secretary-of-state/office-of-the-legal-adviser/
-  53. https://www.state.gov/bureaus-offices/secretary-of-state/office-of-the-ombudsman/
-  54. https://www.state.gov/pepfar/
-  55. https://www.state.gov/bureaus-offices/secretary-of-state/policy-planning-staff/
-  56. https://www.state.gov/bureaus-offices/secretary-of-state/special-presidential-envoy-for-hostage-affairs/
-  57. https://www.state.gov/bureaus-offices/secretary-of-state/special-representative-for-iran/
-  58. https://www.state.gov/bureaus-offices/secretary-of-state/office-of-the-secretarys-special-representative-for-syria-engagement/
-  59. https://www.state.gov/bureaus-offices/secretary-of-state/special-representative-for-venezuela/
-  60. https://www.state.gov/bureaus-offices/secretary-of-state/united-states-security-coordinator-for-israel-and-the-palestinian-authority/
-  61. https://www.state.gov/deputy-secretary-of-state/
-  62. https://www.state.gov/bureaus-offices/deputy-secretary-of-state/bureau-of-cyberspace-and-digital-policy/
-  63. https://www.state.gov/bureaus-offices/deputy-secretary-of-state/office-of-the-u-s-coordinator-for-the-arctic-region/
-  64. https://www.state.gov/bureaus-offices/deputy-secretary-of-state-for-management-and-resources/
-  65. https://www.state.gov/bureaus-offices/secretary-of-state/office-of-foreign-assistance/
-  66. https://www.state.gov/bureaus-offices/office-of-small-and-disadvantaged-business-utilization/
-  67. https://www.state.gov/bureaus-offices/under-secretary-for-arms-control-and-international-security-affairs/
-  68. https://www.state.gov/bureaus-offices/under-secretary-for-arms-control-and-international-security-affairs/bureau-of-arms-control-verification-and-compliance/
-  69. https://www.state.gov/bureaus-offices/under-secretary-for-arms-control-and-international-security-affairs/bureau-of-international-security-and-nonproliferation/
-  70. https://www.state.gov/bureaus-offices/under-secretary-for-arms-control-and-international-security-affairs/bureau-of-political-military-affairs/
-  71. https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/
-  72. https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/bureau-of-conflict-and-stabilization-operations/
-  73. https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/bureau-of-democracy-human-rights-and-labor/
-  74. https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/bureau-of-international-narcotics-and-law-enforcement-affairs/
-  75. https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/bureau-of-population-refugees-and-migration/
-  76. https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/office-of-global-criminal-justice/
-  77. https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/office-of-international-religious-freedom/
-  78. https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/office-of-the-special-envoy-to-monitor-and-combat-antisemitism/
-  79. https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/office-to-monitor-and-combat-trafficking-in-persons/
-  80. https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/
-  81. https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/bureau-of-economic-and-business-affairs/
-  82. https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/bureau-of-energy-resources/
-  83. https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/bureau-of-oceans-and-international-environmental-and-scientific-affairs/
-  84. https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/office-of-global-food-security/
-  85. https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/office-of-global-partnerships/
-  86. https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/office-of-the-chief-economist/
-  87. https://www.state.gov/bureaus-offices/under-secretary-for-economic-growth-energy-and-the-environment/office-of-the-science-technology-adviser/
-  88. https://www.state.gov/bureaus-offices/under-secretary-for-management/
-  89. https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-administration/
-  90. https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-budget-and-planning/
-  91. https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-the-comptroller-and-global-financial-services/
-  92. https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-consular-affairs/
-  93. https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-diplomatic-security/
-  94. https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-global-talent-management/
-  95. https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-information-resource-management/
-  96. https://www.state.gov/bureaus-offices/under-secretary-for-management/bureau-of-medical-services/
-  97. https://www.state.gov/bureaus-offices/bureau-of-overseas-buildings-operations/
-  98. https://www.state.gov/bureaus-offices/under-secretary-for-management/diplomatic-reception-rooms/
-  99. https://www.state.gov/bureaus-offices/under-secretary-for-management/foreign-service-institute/
- 100. https://www.state.gov/ofm
- 101. https://www.state.gov/bureaus-offices/under-secretary-for-management/office-of-management-strategy-and-solutions/
- 102. https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/
- 103. https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-african-affairs/
- 104. https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-counterterrorism/
- 105. https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-east-asian-and-pacific-affairs/
- 106. https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-european-and-eurasian-affairs/
- 107. https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-international-organization-affairs/
- 108. https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-near-eastern-affairs/
- 109. https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-south-and-central-asian-affairs/
- 110. https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-western-hemisphere-affairs/
- 111. https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/
- 112. https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/bureau-of-educational-and-cultural-affairs/
- 113. https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/office-of-policy-planning-and-resources-r-ppr/expo-unit/
- 114. https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/global-engagement-center/
- 115. https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/bureau-of-global-public-affairs/
- 116. https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/office-of-policy-planning-and-resources-r-ppr/
- 117. https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/office-of-policy-planning-and-resources-r-ppr/united-states-advisory-commission-on-public-diplomacy/
- 118. https://www.state.gov/about/
- 119. https://www.state.gov/joint-strategic-plan/
- 120. https://www.state.gov/equity/
- 121. https://fam.state.gov/
- 122. https://www.state.gov/department-of-state-by-state/
- 123. https://www.state.gov/blogs
- 124. https://www.state.gov/we-are-the-u-s-department-of-state/
- 125. https://www.state.gov/u-s-department-of-state-archive-websites/
- 126. https://history.state.gov/
- 127. https://diplomacy.state.gov/
- 128. https://art.state.gov/
- 129. https://www.state.gov/department-reports/
- 130. https://www.state.gov/plans-performance-budget/agency-financial-reports/
- 131. https://eforms.state.gov/
- 132. https://www.state.gov/department-of-state-organization-chart/
- 133. https://www.state.gov/plans-performance-budget/
- 134. https://www.state.gov/information-quality-act
- 135. https://www.state.gov/open-government-initiative/
- 136. https://www.state.gov/data/
- 137. https://www.state.gov/digital-government-strategy/
- 138. https://www.state.gov/plain-writing-at-the-department-of-state/
- 139. https://www.state.gov/contact-us-office-of-global-partnerships/
- 140. https://www.state.gov/secretary/
- 141. https://www.state.gov/deputy-secretary-of-state/
- 142. https://www.state.gov/bureaus-offices/deputy-secretary-of-state-for-management-and-resources/
- 143. https://www.state.gov/biographies-list/
- 144. https://register.state.gov/contactus/contactusform
- 145. https://www.state.gov/telephone-directory/
- 146. https://www.state.gov/resources-bureau-of-human-resources/#ambassadors
- 147. https://www.usembassy.gov/
- 148. https://www.state.gov/telephone-directory/
- 149. https://www.state.gov/telephone-directory/
- 150. https://careers.state.gov/connect/dir/
- 151. https://www.state.gov/
- 152. https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/bureau-of-global-public-affairs/office-of-the-spokesperson/
- 153. https://www.state.gov/press-releases/
- 154. https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/bureau-of-global-public-affairs/office-of-the-spokesperson/
- 155. https://www.state.gov/periodic-report-of-the-united-states-of-america-to-the-united-nations-committee-on-the-elimination-of-racial-discrimination/
- 156. https://www.state.gov/bureaus-offices/under-secretary-for-civilian-security-democracy-and-human-rights/bureau-of-democracy-human-rights-and-labor/
- 157. https://www.state.gov/bureaus-offices/under-secretary-for-political-affairs/bureau-of-international-organization-affairs/
- 158. https://www.state.gov/policy-issues/human-rights-and-democracy/
- 159. https://www.state.gov/bureaus-offices/under-secretary-for-public-diplomacy-and-public-affairs/bureau-of-global-public-affairs/office-of-the-spokesperson/
- 160. https://www.state.gov/subjects/racial-equity-and-justice/
- 161. https://www.state.gov/countries-areas/switzerland/
- 162. https://www.state.gov/subjects/united-nations/
- 163. https://www.whitehouse.gov/
- 164. https://www.usa.gov/
- 165. https://www.stateoig.gov/
- 166. https://www.state.gov/u-s-department-of-state-archive-websites/
- 167. https://register.state.gov/contactus/contactusform
- 168. https://www.facebook.com/statedept
- 169. https://twitter.com/StateDept
- 170. https://www.instagram.com/statedept/
- 171. https://www.youtube.com/user/statevideo
- 172. https://www.flickr.com/photos/statephotos/
- 173. https://www.state.gov/department-email-updates/
- 174. https://www.state.gov/privacy-policy/
- 175. https://www.state.gov/section-508-accessibility-statement/
- 176. https://www.state.gov/copyright-information/
- 177. https://foia.state.gov/
- 178. https://www.state.gov/key-topics-office-of-civil-rights/eeo-no-fear-act-whistleblower-protection-acts/
+   1. https://www.googletagmanager.com/ns.html?id=GTM-MCMPK29
+   2. https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/21/fact-sheet-u-s-efforts-to-combat-systemic-racism/#content
+   3. https://www.whitehouse.gov/
+   4. https://www.whitehouse.gov/
+   5. https://www.whitehouse.gov/administration/
+   6. https://www.whitehouse.gov/priorities/
+   7. https://www.whitehouse.gov/therecord/
+   8. https://www.whitehouse.gov/briefing-room/
+   9. https://www.whitehouse.gov/es/
+  10. https://www.instagram.com/whitehouse/
+  11. https://www.facebook.com/WhiteHouse/
+  12. https://twitter.com/whitehouse
+  13. https://www.youtube.com/user/whitehouse
+  14. https://www.whitehouse.gov/contact/
+  15. https://www.whitehouse.gov/privacy/
+  16. https://www.whitehouse.gov/copyright/
+  17. https://www.whitehouse.gov/accessibility/
+  18. https://www.whitehouse.gov/administration/
+  19. https://www.whitehouse.gov/administration/president-biden/
+  20. https://www.whitehouse.gov/administration/vice-president-harris/
+  21. https://www.whitehouse.gov/administration/dr-jill-biden/
+  22. https://www.whitehouse.gov/administration/douglas-emhoff/
+  23. https://www.whitehouse.gov/administration/cabinet/
+  24. https://www.whitehouse.gov/administration/executive-office-of-the-president/
+  25. https://www.whitehouse.gov/cea/
+  26. https://www.whitehouse.gov/ceq/
+  27. https://www.whitehouse.gov/dpc/
+  28. https://www.whitehouse.gov/gpc/
+  29. https://www.whitehouse.gov/nec/
+  30. https://www.whitehouse.gov/nsc/
+  31. https://www.whitehouse.gov/spacecouncil/
+  32. https://www.whitehouse.gov/iga/
+  33. https://www.whitehouse.gov/omb/
+  34. https://www.whitehouse.gov/oncd/
+  35. https://www.whitehouse.gov/ondcp/
+  36. https://www.whitehouse.gov/ope/
+  37. https://www.whitehouse.gov/ostp/
+  38. https://www.whitehouse.gov/ustr/
+  39. https://www.whitehouse.gov/cpo/
+  40. https://www.whitehouse.gov/ppo/
+  41. https://www.whitehouse.gov/priorities/
+  42. https://www.whitehouse.gov/briefing-room/
+  43. https://www.whitehouse.gov/about-the-white-house/
+  44. https://www.whitehouse.gov/about-the-white-house/presidents/
+  45. https://www.whitehouse.gov/about-the-white-house/first-families/
+  46. https://www.whitehouse.gov/about-the-white-house/the-grounds/
+  47. https://www.whitehouse.gov/about-the-white-house/our-government/
+  48. https://www.whitehouse.gov/get-involved/
+  49. https://www.whitehouse.gov/get-involved/write-or-call/
+  50. https://www.whitehouse.gov/get-involved/join-us/
+  51. https://www.whitehouse.gov/get-involved/fellows/
+  52. https://www.whitehouse.gov/get-involved/internships/white-house-internship-program/
+  53. https://www.whitehouse.gov/therecord/
+  54. https://www.whitehouse.gov/disclosures/
+  55. https://www.whitehouse.gov/es/
+  56. https://www.whitehouse.gov/contact/
+  57. https://www.whitehouse.gov/privacy/
+  58. https://www.whitehouse.gov/copyright/
+  59. https://www.whitehouse.gov/accessibility/
+  60. https://www.instagram.com/whitehouse/
+  61. https://www.facebook.com/WhiteHouse/
+  62. https://twitter.com/whitehouse
+  63. https://www.youtube.com/user/whitehouse
+  64. https://www.whitehouse.gov/
+  65. https://www.whitehouse.gov/briefing-room/
+  66. https://www.whitehouse.gov/briefing-room/statements-releases/
+  67. https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/20/statement-from-president-biden-marking-nowruz/
+  68. https://my.community.com/potus?t=Hello%20Mr.%20President%20%F0%9F%87%BA%F0%9F%87%B8
+  69. https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.whitehouse.gov%2Fbriefing-room%2Fstatements-releases%2F2021%2F03%2F21%2Ffact-sheet-u-s-efforts-to-combat-systemic-racism%2F%3Futm_source%3Dfacebook&t=Fact+Sheet%3A+U.S.+Efforts+to+Combat+Systemic+Racism
+  70. https://twitter.com/intent/tweet?via=whitehouse&url=https%3A%2F%2Fwww.whitehouse.gov%2Fbriefing-room%2Fstatements-releases%2F2021%2F03%2F21%2Ffact-sheet-u-s-efforts-to-combat-systemic-racism%2F%3Futm_source%3Dtwitter&text=Fact+Sheet%3A+U.S.+Efforts+to+Combat+Systemic+Racism
+  71. https://www.whitehouse.gov/
+  72. https://www.whitehouse.gov/administration/
+  73. https://www.whitehouse.gov/administration/executive-office-of-the-president/
+  74. https://www.whitehouse.gov/priorities/
+  75. https://www.whitehouse.gov/therecord/
+  76. https://www.whitehouse.gov/briefing-room/
+  77. https://www.whitehouse.gov/about-the-white-house/
+  78. https://www.whitehouse.gov/disclosures/
+  79. https://www.whitehouse.gov/get-involved/
+  80. https://www.whitehouse.gov/es/
+  81. https://www.whitehouse.gov/contact/
+  82. https://www.whitehouse.gov/privacy/
+  83. https://www.whitehouse.gov/copyright/
+  84. https://www.whitehouse.gov/accessibility/
+  85. https://www.instagram.com/whitehouse/
+  86. https://www.facebook.com/WhiteHouse/
+  87. https://twitter.com/whitehouse
+  88. https://www.youtube.com/user/whitehouse
+  89. https://www.whitehouse.gov/
 
    Hidden links:
- 180. https://www.state.gov/
- 181. https://www.state.gov/key-outcomes-at-the-47th-session-of-the-un-human-rights-council/
- 182. https://www.state.gov/secretary-antony-j-blinken-virtual-remarks-at-the-un-security-council-open-debate-on-multilateralism/
- 183. https://www.state.gov/key-outcomes-at-the-46th-session-of-the-un-human-rights-council/
- 184. https://www.state.gov/
- 185. javascript:void(0);
+  91. https://www.whitehouse.gov/
+  92. https://www.whitehouse.gov/
+  93. https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/21/fact-sheet-u-s-efforts-to-combat-systemic-racism/#content

@@ -1,601 +1,473 @@
-   #[1]home
+   #[1]alternate [2]alternate
 
-   [2]Close Search
-   Round Separator
+   [3]Skip to main content
 
-   Search for: ____________________ (Go) Search
+   IFRAME: [4]https://www.googletagmanager.com/ns.html?id=GTM-5F844BH
 
-   [3]Menu [4]Search [5]Death Penalty Information Center
+   [5]Welcome to the United Nations (BUTTON) Language
+     * [6]a+l+e+r+b+y+tm
+     * [7]­
+     * [8]English
+     * [9]Français
+     * [10]Russkij
+     * [11]Español
+     * [12]Português
+     * [13]Kiswahili
+     * [14]Other
+          + [15]Hindi ¹¿¦
+          + [16]Urdu a+r+d+w+
+          + [17]Global
 
-     * [6]About
-          + [7]Staff & Board of Directors
-          + [8]About Us
-          + [9]DPIC in the Media
-          + [10]DPIC Testimony
-          + [11]Press Releases
-          + [12]Work for DPIC
-     * [13]For the Media
-     * [14]Resources
-          + [15]Publications & Testimony
-          + [16]Related Websites
-          + [17]DPIC Podcasts
-          + [18]DPIC Reports
-          + [19]New Voices
-          + [20]En Español
-     * [21]For Educators
-     * [22]Fact Sheet
-     * [23]Donate
+   [18]Home
+   [19]UN News
+   Global perspective Human stories
+   Search ____________________________________________________________
+   (Search) Search
+   [20]Advanced Search
+   (BUTTON)
 
-     * [24]Email
-     * [25]Facebook
-     * [26]Twitter
+Main navigation
 
-   [27]Home
-     * [28]Policy Issues
-          + [29]Arbitrariness
-          + [30]Costs
-          + [31]Deterrence
-          + [32]Human Rights
-          + [33]Innocence
-          + [34]Intellectual Disability
-          + [35]International
-          + [36]Juveniles
-          + [37]Mental Illness
-          + [38]Prosecutorial Accountability
-          + [39]Race
-          + [40]Representation
-          + [41]Sentencing Alternatives
-          + [42]Victims' Families
-     * [43]Facts & Research
-          + [44]Fact Sheet
-          + [45]Death Penalty Census
-          + [46]Clemency
-          + [47]Crimes Punishable by Death
-          + [48]DPIC Reports
-          + [49]History of the Death Penalty
-          + [50]Innocence Database
-          + [51]Murder Rates
-          + [52]Public Opinion
-          + [53]Recent Legislative Activity
-          + [54]Religion
-          + [55]Sentencing Data
-          + [56]Student Research Center
-          + [57]United States Supreme Court
-     * [58]Executions
-          + [59]Executions Overview
-          + [60]Upcoming Executions
-          + [61]Execution Database
-          + [62]Methods of Execution
-          + [63]Botched Executions
-          + [64]Lethal Injection
-     * [65]Death Row
-          + [66]Death Row Overview
-          + [67]Conditions on Death Row
-          + [68]Foreign Nationals
-          + [69]Native Americans
-          + [70]Time on Death Row
-          + [71]Women
-     * [72]State & Federal Info
-          + [73]State by State
-          + [74]Federal Death Penalty
-          + [75]Military
+     * [21]Home
+          + [22]Africa
+          + [23]Americas
+          + [24]Asia Pacific
+          + [25]Middle East
+          + [26]Europe
+          + [27]UN Art and Gifts
+          + [28]History Corner
+     * [29]Topics
+          + [30]Peace and Security
+          + [31]Economic Development
+          + [32]Humanitarian Aid
+          + [33]Climate and Environment
+          + [34]Human Rights
+          + [35]UN Affairs
+          + [36]Women
+          + [37]Law and Crime Prevention
+          + [38]Health
+          + [39]Culture and Education
+          + [40]SDGs
+          + [41]Migrants and Refugees
+     * [42]In depth
+          + [43]Interviews
+          + [44]Features
+          + [45]Photo Stories
+          + [46]News in Brief
+          + [47]The Lid is On
+          + [48]UN Gender Focus
+          + [49]UN and Africa
+          + [50]UN Podcasts
+     * [51]Secretary-General
+          + [52]Spokesperson
+          + [53]All Statements
+          + [54]Selected Speeches
+          + [55]Press Encounters
+          + [56]Official Travels
+     * [57]Media
+          + [58]UN Video
+          + [59]UN Photo
+          + [60]Meeting Coverage
+          + [61]Media Accreditation
+          + [62]Webtv
 
-     * [76]Home
-     * Policy Issues
-          + [77]Arbitrariness
-          + [78]Costs
-          + [79]Deterrence
-          + [80]Human Rights
-          + [81]Innocence
-          + [82]Intellectual Disability
-          + [83]International
-          + [84]Juveniles
-          + [85]Mental Illness
-          + [86]Prosecutorial Accountability
-          + [87]Race
-          + [88]Representation
-          + [89]Sentencing Alternatives
-          + [90]Victims' Families
-     * Facts & Research
-          + [91]Fact Sheet
-          + [92]Death Penalty Census
-          + [93]Clemency
-          + [94]Crimes Punishable by Death
-          + [95]DPIC Reports
-          + [96]History of the Death Penalty
-          + [97]Innocence Database
-          + [98]Murder Rates
-          + [99]Public Opinion
-          + [100]Recent Legislative Activity
-          + [101]Religion
-          + [102]Sentencing Data
-          + [103]Student Research Center
-          + [104]United States Supreme Court
-     * Executions
-          + [105]Executions Overview
-          + [106]Upcoming Executions
-          + [107]Execution Database
-          + [108]Methods of Execution
-          + [109]Botched Executions
-          + [110]Lethal Injection
-     * Death Row
-          + [111]Death Row Overview
-          + [112]Conditions on Death Row
-          + [113]Foreign Nationals
-          + [114]Native Americans
-          + [115]Time on Death Row
-          + [116]Women
-     * State & Federal Info
-          + [117]State by State
-          + [118]Federal Death Penalty
-          + [119]Military
-     * About
-          + [120]Staff & Board of Directors
-          + [121]About Us
-          + [122]DPIC in the Media
-          + [123]DPIC Testimony
-          + [124]Press Releases
-          + [125]Work for DPIC
-     * [126]For the Media
-     * Resources
-          + [127]Publications & Testimony
-          + [128]Related Websites
-          + [129]DPIC Podcasts
-          + [130]DPIC Reports
-          + [131]New Voices
-          + [132]En Español
-     * [133]For Educators
-     * [134]Fact Sheet
-     * [135]Donate
+Audio and Subscription
 
-     * [136]Facebook Share
-     * [137]Tweet Tweet
-     * [138]Email Email
+     * [63]Audio Hub
+     * [64]Subscribe
 
-Enduring Injustice: the Persistence of Racial Discrimination in the U.S.
-Death Penalty
+UN's Bachelet hails `millions of voices' tackling racial discrimination
 
-   Posted on Sep 15, 2020
-     * [139]Race
+   "Racism is a Virus" sign at a Black Lives Matter protest in Montreal,
+   Canada.
+   Unsplash/Rolande PG
+   "Racism is a Virus" sign at a Black Lives Matter protest in Montreal,
+   Canada.
 
-   [140]Read the Full Report [141]ORDER PHYSICAL COPIES
-     * [142]Lynchings v. Executions Interactive Visualization
-     * [143]Graphics
+   [65]Facebook [66]Twitter [67]Print [68]Email
 
-   Jump Links [Menu_____________________________________________]
+UN's Bachelet hails `millions of voices' tackling racial discrimination
 
-DPIC Releases Report Placing Death Penalty in Historical Context as a
-"Descendant of Slavery, Lynching, and Segregation"
+   28 March 2022 [69]Human Rights
 
-Death Penalty Must Be Part of Current Debate About Criminal Legal System
-Reforms
+   More than two decades after the signing of the [70]Durban Declaration
+   and Programme of Action (PoA) - the UN's blueprint to tackle racism and
+   other forms of discrimination -UN High Commissioner for Human Rights
+   Michelle Bachelet on Monday, hailed the "millions of voices around the
+   globe" who've made it their mission to eradicate the scourge, while
+   also noting that more work needs to be done.
 
-   (Washington, D.C.) As social movements pressure policymakers to redress
-   injustices in the criminal legal system and to institute reforms to
-   make the process more fair and equitable, the Death Penalty Information
-   Center (DPIC) today released, [144]"Enduring Injustice: the Persistence
-   of Racial Discrimination in the U.S. Death Penalty." This report
-   provides an in-depth look at the historical role that race has played
-   in the death penalty and details the pervasive role racial
-   discrimination continues to play in the administration of capital
-   punishment today.
+   In paying tributed to those who "relentlessly - and courageously -
+   fight racism, racial discrimination, xenophobia and related
+   intolerance," she [71]outlined to the Human Rights Council that
+   progress was being made.
 
-   "The death penalty has been used to enforce racial hierarchies
-   throughout United States history, beginning with the colonial period
-   and continuing to this day," said Ngozi Ndulue, DPIC's Senior Director
-   of Research and Special Projects and the report's lead author. "Its
-   discriminatory presence as the apex punishment in the American legal
-   system legitimizes all other harsh and discriminatory punishments. That
-   is why the death penalty must be part of any discussion of police
-   reform, prosecutorial accountability, reversing mass incarceration, and
-   the criminal legal system as a whole." Ms. Ndulue previously served as
-   the NAACP's Senior Director of Criminal Justice Programs and as a
-   capital appeals lawyer.
+   "Powerful global movements against racism are shifting the status quo",
+   the UN right chief said, pointing to the "worldwide protests against
+   racism and racial discrimination" prompted by the murder of George
+   Floyd in 2020, as a "testimony to the power of people and solidarity."
+   Tweet URL
 
-   "Racial disparities are present at every stage of a capital case and
-   get magnified as a case moves through the legal process," said Robert
-   Dunham, DPIC's Executive Director and the report's editor. "If you
-   don't understand the history -- that the modern death penalty is the
-   direct descendant of slavery, lynching, and Jim Crow-segregation -- you
-   won't understand why. With the continuing police and white vigilante
-   killings of Black citizens, it is even more important now to focus
-   attention on the outsized role the death penalty plays as an agent and
-   validator of racial discrimination. What is broken or intentionally
-   discriminatory in the criminal legal system is visibly worse in
-   death-penalty cases. Exposing how the system discriminates in capital
-   cases can shine an important light on law enforcement and judicial
-   practices in vital need of abolition, restructuring, or reform."
+   "We are moving too slowly"-@mbachelet urges the [72]Human Rights
+   Council #HRC49 to address protection gaps in fighting racism. "It is
+   vital & urgent that we unite to accelerate the pace in the fight
+   against #racism & racial discrimination:
+   [73]https://t.co/uAoCk0SpLw#FightRacism pic.twitter.com/JpS8KozK8S
+   UN Human Rights
+   UNHumanRights
 
-   The report documents the historic role of the U.S. death penalty as an
-   instrument of social control. During slavery, capital punishment was a
-   tool for controlling Black populations and curbing rebellions. After
-   the Civil War, public officials promised legal executions as a means to
-   discourage lynchings. As lynchings decreased in the early 20^th
-   century, executions began to take their place in circumstances that
-   earlier would have drawn a lynch mob. Across the South,
-   African-American men were condemned and executed for the alleged rape
-   or attempted rape of white women or girls. No white man was ever
-   executed for raping a Black woman or girl.
+More work needed
 
-   Racial bias persists today, as evidenced by cases with white victims
-   being more likely to be investigated and capitally charged; systemic
-   exclusion of jurors of color from service in death-penalty trials; and
-   disproportionate imposition of death sentences against defendants of
-   color. The report provides compelling evidence of racial bias in the
-   modern death penalty, including:
-     * A 2015 meta-analysis of 30 studies showed that the killers of white
-       people were more likely than the killers of Black people to face a
-       capital prosecution.
-     * A study in North Carolina showed that qualified Black jurors were
-       struck from juries at more than twice the rate of qualified white
-       jurors. As of 2010, 20 percent of those on the state's death row
-       were sentenced to death by all-white juries.
-     * Since executions resumed in 1977, 295 African-Americans defendants
-       have been executed for the murder of a white victim, while only 21
-       white defendants have been executed for the murder of an
-       African-American victim.
-     * A 2014 mock jury study of more than 500 Californians found that
-       white jurors were more likely to sentence poor Latinx defendants to
-       death than poor white defendants.
-     * Exonerations of African Americans for murder convictions are 22
-       percent more likely to be linked to police misconduct.
+   In confronting the immense racism and discrimination that deeply
+   permeate social structures and institutions, she noted that brave
+   defenders are often met with "xenophobia and hate speech...[and]
+   countless obstacles".
 
-   The report highlights several pending death penalty cases where racial
-   discrimination played a role in driving death sentences for Black
-   defendants. For example:
-     * Abu-Ali Abdur'Rahman, Tennessee. In 2019, Davidson County District
-       Attorney General Glenn Funk conceded that Abu-Ali Abdur'Rahman's
-       trial had been infected by overt racial bias. Abdur'Rahman had long
-       argued that the prosecutor struck two Black potential jurors based
-       on racial stereotypes. The trial court agreed to a reduced
-       sentence, but the Tennessee Attorney General's Office is currently
-       appealing.
-     * Julius Jones, Oklahoma. Julius Jones, who has a strong innocence
-       claim, was convicted and sentenced to death by a nearly all-white
-       jury for killing a white businessman. His case was riddled with
-       racial discrimination, including an officer using a racial slur
-       during his arrest, prosecutors striking every Black potential juror
-       but one, and a juror who used the n-word to describe Jones. His
-       petition for clemency is currently pending.
-     * Federal Death Penalty. Although the first set of executions
-       scheduled by the federal government in 2020 have been strategically
-       directed at white people, the federal death penalty has long been
-       plagued by the same racial bias present in state death penalty
-       systems. Thirty-four of the 57 people currently on federal death
-       row are people of color, including 26 Black men. Some were
-       convicted and condemned by all-white juries. In an action widely
-       regarded as an assault on Native sovereignty, the sole Native
-       American on federal death row was executed for an offense on tribal
-       lands over the repeated objection of his tribe and Native American
-       leaders across the country.
-     __________________________________________________________________
+   Moreover, their skin colour, ethnic affiliation, religious beliefs, or
+   birthplace endanger their own lives, the senior UN official continued.
 
-Lynchings v. Executions Interactive Visualization [145]Up
+   While welcoming the "considerable efforts" of rights defenders and
+   encouraged by their progress, she acknowledged that millions continue
+   to be threatened by racism.
 
-Graphics [146]Up
+   "Africans and people of African descent, Asians and people of Asian
+   descent, indigenous peoples, migrants, and national, ethnic and
+   linguistic minorities, continue to be confronted by racism, racial
+   discrimination, inequality and exclusion.
 
-   Click here to access an interactive version of the data visualization
-   above. Click here to access an interactive version of the data
-   visualization above.
-   Click here to access an interactive version of the data visualization
-   above. Click here to access an interactive version of the data
-   visualization above.
-   Click here to access an interactive version of the data visualization
-   above. Click here to access an interactive version of the data
-   visualization above.
-   Click here to access an interactive version of the data visualization
-   above. Click here to access an interactive version of the data
-   visualization above.
+   "This can often take the form of Islamophobia, antisemitism, religious
+   discrimination and intolerance, affecting Muslim, Arab, Jewish and
+   other communities around the world".
 
-Join our mailing list
+Dangerous narratives
 
-   ____________________
-   ____________________
-   Subscribe
-   Death Penalty Information Center
-     * [147]Email
-     * [148]Facebook
-     * [149]Twitter
+   Meanwhile, harmful narratives continue to thrive against migrants and
+   refugees, evoking fear and racial superiority while fuelling racial
+   discrimination, hatred and violence.
 
-   Policy Issues
-     * [150]Arbitrariness
-     * [151]Costs
-     * [152]Deterrence
-     * [153]Innocence
-     * [154]Intellectual Disability
-     * [155]Juveniles
-     * [156]International
-     * [157]Mental Illness
-     * [158]Prosecutorial Accountability
-     * [159]Race
-     * [160]Representation
-     * [161]Sentencing Alternatives
-     * [162]Victims' Families
+   "This hatred is often fed by political discourse, or by the media", the
+   High Commissioner explained, saying that "toxic narratives destroy our
+   social fabric...[and] destabilize our common values."
 
-   Facts & Research
-     * [163]Fact Sheet
-     * [164]Death Penalty Census
-     * [165]Clemency
-     * [166]Crimes Punishable by Death
-     * [167]DPIC Reports
-     * [168]History of the Death Penalty
-     * [169]Innocence Database
-     * [170]Murder Rates
-     * [171]Public Opinion
-     * [172]Recent Legislative Activity
-     * [173]Religion
-     * [174]Sentencing Data
-     * [175]Student Research Center
-     * [176]United States Supreme Court
+   She said that in times of peace as well as in conflict, authorities,
+   politicians and the private sector bear "special responsibility" not to
+   incite hatred, discrimination and violence, including in online.
 
-   Executions
-     * [177]Executions Overview
-     * [178]Upcoming Executions
-     * [179]Execution Database
-     * [180]Methods of Execution
-     * [181]Botched Executions
-     * [182]Lethal Injection
+   "All manifestations of racism must be immediately addressed and
+   stopped".
 
-   Death Row
-     * [183]Death Row Overview
-     * [184]Conditions on Death Row
-     * [185]Foreign Nationals
-     * [186]Native Americans
-     * [187]Time on Death Row
-     * [188]Women
+Pick up the pace
 
-   State & Federal Info
-     * [189]State by State
-     * [190]Federal Death Penalty
-     * [191]Military
+   "We are moving too slowly," Ms. Bachelet told the meeting. "It is vital
+   - and urgent - that we unite to accelerate the pace in the fight
+   against racism and racial discrimination".
 
-   About
-     * [192]About Us
-     * [193]Staff & Board of Directors
-     * [194]DPIC in the Media
-     * [195]DPIC Testimony
-     * [196]Press Releases
-     * [197]Work for DPIC
+   Noting that the Durban PoA remains "more relevant than ever" in this
+   fight, she underscored that States also need to honour their
+   obligations and use international instruments to devise laws and
+   policies that speak to racism and racial discrimination.
 
-   [198]For the Media
-   Resources
-     * [199]Related Websites
-     * [200]Publications & Testimony
-     * [201]DPIC Podcasts
-     * [202]DPIC Reports
-     * [203]New Voices
-     * [204]En Español
+   "The newly established [74]Permanent Forum of People of African Descent
+   will soon start operating and advise this Council on matters related to
+   people of African descent," the High Commissioner said.
 
-   [205]For Educators
-   [206]Fact Sheet
-   [207]Donate
-     __________________________________________________________________
+   It will also contribute to the drawing up of a UN declaration on
+   promoting, protecting and fully respecting the human rights of people
+   of African descent.
 
-   Death Penalty Information Center | 1701 K Street NW Suite 205
-   Washington, DC 20006
+   She said that her office, [75]OHCHR's, [76]Four-point Agenda Towards
+   Transformative Change for Racial Justice and Equality also provides a
+   "number of important recommendations and a clear path for action."
+   A protest in New York City against racism and police violence,
+   following the death of George Floyd (file photo).
+   UN Photo/Evan Schneider
+   A protest in New York City against racism and police violence,
+   following the death of George Floyd (file photo).
 
-   Phone: [208]202-289-2275 | Email: [209][email protected]
+Deliver reparatory justice
 
-   [210]Privacy Policy | ©2023 Death Penalty Information Center
+   The UN rights chief pushed for States to listen to those being
+   discriminated against, stand up against racism in all its forms, and
+   act on their concerns.
+
+   "This cannot be a purely tokenistic effort," she said, describing as a
+   "fundamental step" that activists and communities have meaningful,
+   effective participation and representation "at all levels of
+   decision-making" in the fight against racial discrimination.
+
+   Furthermore, she continued, States and societies must address the
+   legacy and consequences of racism and exclusion, including colonial
+   exploitation, enslavement and the trade in enslaved Africans.
+
+     It is time to deliver reparatory justice - UN rights chief
+
+   "These crimes affected generations of women, men and children,
+   stripping them of their humanity," Ms. Bachelet said, adding that "it
+   is time to deliver reparatory justice".
+
+Strength of diversity
+
+   Only by embracing our differences can progress towards real change be
+   made.
+
+   "The [77]International Day for the Elimination of Racial Discrimination
+   is observed to remind us of the horrors which racial discrimination can
+   cause," she told the participants.
+
+   Observing that "collective action is powerful action," she urged
+   everyone to stand in solidarity with all victims.
+
+   "Together, let's raise our voice and stand up against racism," the High
+   Commissioner concluded. "Never again".
+   cD Receive daily updates directly in your inbox - [78]Subscribe here to
+   a topic.
+   cD Download the UN News app for your [79]iOS or [80]Android devices.
+
+     * [81]racism
+
+LISTEN TO UN RADIO
+
+Related Stories
+
+   [82]"Racism is a Virus" sign at a Black Lives Matter protest in
+   Montreal, Canada.
+
+[83]2030 development agenda `fails' on racial equality and non-discrimination
+
+   [84]Students watch a performance by their peers at Barros Barreto
+   School, in Salvador, Brazil. The performance tackled social issues such
+   as racism and gender discrimination..
+
+[85]Ahead of International Day, UN rights chief urges governments to target
+hate speech, crimes
+
+   [86]"Memory of Slavery" exhibited at UNESCO's Slave Route Project in
+   Paris. (file)
+
+[87]INTERVIEW: `Break the bonds of shame' about slavery - UN rights experts
+
+News Tracker: Past Stories on This Issue
+
+   [88]A man holds a sign reading 'Slavery still Exists' in the United
+   States.
+
+[89]Learn from the past, `stand united against racism' - UN chief
+
+   25 March 2022
+   [90]Human Rights
+
+   "Let us stand united against racism and together build societies based
+   on dignity, equality and solidarity", the UN chief said on
+   Friday, [91]International Day of Remembrance of the Victims of Slavery.
+   [92]Ukranian refugees at Poland border
+
+[93]UNHCR chief condemns `discrimination, violence and racism' against some
+fleeing Ukraine
+
+   21 March 2022
+   [94]Migrants and Refugees
+
+   The head of UN refugee agency UNHCR, [95]spoke out on Monday against
+   the "ugly reality" that some refugees fleeing across the Ukraine
+   border, and Third Country Nationals, have been subjected to racism and
+   discrimination.
+
+Resources
+
+     * [96]Navigate the News
+     * [97]Information for Broadcasters
+     * [98]UN System Links
+     * [99]Media Alert
+     * [100]UN Journal
+     * [101]Meetings Coverage
+     * [102]Audiovisual Library
+
+Secretary-General
+
+     * [103]All Statements
+     * [104]Official Travels
+     * [105]Press Encounters
+     * [106]SG Twitter
+
+Spokesperson's Office
+
+     * [107]Latest Statements
+     * [108]Briefing Highlights
+     * [109]Briefing Transcripts
+     * [110]Notes to Correspondents
+
+Find Us
+
+     * [111]UN News App
+     * [112]Facebook
+     * [113]Twitter
+     * [114]YouTube
+     * [115]RSS
+     * [116]Contact UN News
+
+   [117]United Nations
+     * [118]Facebook
+     * [119]Twitter
+     * [120]YouTube
+     * [121]Flickr
+     * [122]Instagram
+     * [123]Pinterest
+     * [124]Soundcloud
+     * [125]Podcast
+     * [126]UN Social Media
+     * [127]Donate
+
+Footer menu
+
+     * [128]A-Z Site Index
+     * [129]Copyright
+     * [130]FAQ
+     * [131]Fraud Alert
+     * [132]Privacy Notice
+     * [133]Terms of Use
+
+   [134]Facebook [135]Twitter [136]Print [137]Email
 
 References
 
    Visible links:
-   1. https://deathpenaltyinfo.org/
-   2. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty
-   3. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty#menu
-   4. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty#search
-   5. https://deathpenaltyinfo.org/
-   6. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty#about
-   7. https://deathpenaltyinfo.org/about/staff-and-board-of-directors
-   8. https://deathpenaltyinfo.org/about/about-us
-   9. https://deathpenaltyinfo.org/about/in-the-media
-  10. https://deathpenaltyinfo.org/about/dpic-testimony
-  11. https://deathpenaltyinfo.org/about/press-releases
-  12. https://deathpenaltyinfo.org/about/work-for-dpic
-  13. https://deathpenaltyinfo.org/for-the-media
-  14. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty#resources
-  15. https://deathpenaltyinfo.org/resources/publications-and-testimony
-  16. https://deathpenaltyinfo.org/resources/related-websites
-  17. https://deathpenaltyinfo.org/resources/podcasts
-  18. https://deathpenaltyinfo.org/facts-and-research/dpic-reports
-  19. https://deathpenaltyinfo.org/facts-and-research/new-voices
-  20. https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol
-  21. https://deathpenaltyinfo.org/for-educators
-  22. https://deathpenaltyinfo.org/documents/FactSheet.pdf
-  23. https://deathpenaltyinfo.org/donate
-  24. https://deathpenaltyinfo.org/cdn-cgi/l/email-protection#acc8dcc5cfecc8c9cdd8c4dcc9c2cdc0d8d5c5c2cac382c3decb
-  25. https://www.facebook.com/deathpenaltyinfo/
-  26. https://twitter.com/DPInfoCtr
-  27. https://deathpenaltyinfo.org/
-  28. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty#policy-issues
-  29. https://deathpenaltyinfo.org/policy-issues/arbitrariness
-  30. https://deathpenaltyinfo.org/policy-issues/costs
-  31. https://deathpenaltyinfo.org/policy-issues/deterrence
-  32. https://deathpenaltyinfo.org/policy-issues/human-rights
-  33. https://deathpenaltyinfo.org/policy-issues/innocence
-  34. https://deathpenaltyinfo.org/policy-issues/intellectual-disability
-  35. https://deathpenaltyinfo.org/policy-issues/international
-  36. https://deathpenaltyinfo.org/policy-issues/juveniles
-  37. https://deathpenaltyinfo.org/policy-issues/mental-illness
-  38. https://deathpenaltyinfo.org/policy-issues/prosecutorial-accountability
-  39. https://deathpenaltyinfo.org/policy-issues/race
-  40. https://deathpenaltyinfo.org/policy-issues/death-penalty-representation
-  41. https://deathpenaltyinfo.org/policy-issues/sentencing-alternatives
-  42. https://deathpenaltyinfo.org/policy-issues/victims-families
-  43. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty#facts-and-research
-  44. https://deathpenaltyinfo.org/factsheet.pdf
-  45. https://deathpenaltyinfo.org/facts-and-research/death-penalty-census
-  46. https://deathpenaltyinfo.org/facts-and-research/clemency
-  47. https://deathpenaltyinfo.org/facts-and-research/crimes-punishable-by-death
-  48. https://deathpenaltyinfo.org/facts-and-research/dpic-reports
-  49. https://deathpenaltyinfo.org/facts-and-research/history-of-the-death-penalty
-  50. https://deathpenaltyinfo.org/policy-issues/innocence-database
-  51. https://deathpenaltyinfo.org/facts-and-research/murder-rates
-  52. https://deathpenaltyinfo.org/facts-and-research/public-opinion-polls
-  53. https://deathpenaltyinfo.org/facts-and-research/recent-legislative-activity
-  54. https://deathpenaltyinfo.org/facts-and-research/religious-statements
-  55. https://deathpenaltyinfo.org/facts-and-research/sentencing-data
-  56. https://deathpenaltyinfo.org/facts-and-research/student-research-center
-  57. https://deathpenaltyinfo.org/facts-and-research/united-states-supreme-court
-  58. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty#executions
-  59. https://deathpenaltyinfo.org/executions/executions-overview
-  60. https://deathpenaltyinfo.org/executions/upcoming-executions
-  61. https://deathpenaltyinfo.org/executions/execution-database
-  62. https://deathpenaltyinfo.org/executions/methods-of-execution
-  63. https://deathpenaltyinfo.org/executions/botched-executions
-  64. https://deathpenaltyinfo.org/executions/lethal-injection
-  65. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty#death-row
-  66. https://deathpenaltyinfo.org/death-row/overview
-  67. https://deathpenaltyinfo.org/death-row/conditions-on-death-row
-  68. https://deathpenaltyinfo.org/death-row/foreign-nationals
-  69. https://deathpenaltyinfo.org/death-row/native-americans
-  70. https://deathpenaltyinfo.org/death-row/death-row-time-on-death-row
-  71. https://deathpenaltyinfo.org/death-row/women
-  72. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty#state-and-federal-info
-  73. https://deathpenaltyinfo.org/state-and-federal-info/state-by-state
-  74. https://deathpenaltyinfo.org/state-and-federal-info/federal-death-penalty
-  75. https://deathpenaltyinfo.org/state-and-federal-info/military
-  76. https://deathpenaltyinfo.org/
-  77. https://deathpenaltyinfo.org/policy-issues/arbitrariness
-  78. https://deathpenaltyinfo.org/policy-issues/costs
-  79. https://deathpenaltyinfo.org/policy-issues/deterrence
-  80. https://deathpenaltyinfo.org/policy-issues/human-rights
-  81. https://deathpenaltyinfo.org/policy-issues/innocence
-  82. https://deathpenaltyinfo.org/policy-issues/intellectual-disability
-  83. https://deathpenaltyinfo.org/policy-issues/international
-  84. https://deathpenaltyinfo.org/policy-issues/juveniles
-  85. https://deathpenaltyinfo.org/policy-issues/mental-illness
-  86. https://deathpenaltyinfo.org/policy-issues/prosecutorial-accountability
-  87. https://deathpenaltyinfo.org/policy-issues/race
-  88. https://deathpenaltyinfo.org/policy-issues/death-penalty-representation
-  89. https://deathpenaltyinfo.org/policy-issues/sentencing-alternatives
-  90. https://deathpenaltyinfo.org/policy-issues/victims-families
-  91. https://deathpenaltyinfo.org/factsheet.pdf
-  92. https://deathpenaltyinfo.org/facts-and-research/death-penalty-census
-  93. https://deathpenaltyinfo.org/facts-and-research/clemency
-  94. https://deathpenaltyinfo.org/facts-and-research/crimes-punishable-by-death
-  95. https://deathpenaltyinfo.org/facts-and-research/dpic-reports
-  96. https://deathpenaltyinfo.org/facts-and-research/history-of-the-death-penalty
-  97. https://deathpenaltyinfo.org/policy-issues/innocence-database
-  98. https://deathpenaltyinfo.org/facts-and-research/murder-rates
-  99. https://deathpenaltyinfo.org/facts-and-research/public-opinion-polls
- 100. https://deathpenaltyinfo.org/facts-and-research/recent-legislative-activity
- 101. https://deathpenaltyinfo.org/facts-and-research/religious-statements
- 102. https://deathpenaltyinfo.org/facts-and-research/sentencing-data
- 103. https://deathpenaltyinfo.org/facts-and-research/student-research-center
- 104. https://deathpenaltyinfo.org/facts-and-research/united-states-supreme-court
- 105. https://deathpenaltyinfo.org/executions/executions-overview
- 106. https://deathpenaltyinfo.org/executions/upcoming-executions
- 107. https://deathpenaltyinfo.org/executions/execution-database
- 108. https://deathpenaltyinfo.org/executions/methods-of-execution
- 109. https://deathpenaltyinfo.org/executions/botched-executions
- 110. https://deathpenaltyinfo.org/executions/lethal-injection
- 111. https://deathpenaltyinfo.org/death-row/overview
- 112. https://deathpenaltyinfo.org/death-row/conditions-on-death-row
- 113. https://deathpenaltyinfo.org/death-row/foreign-nationals
- 114. https://deathpenaltyinfo.org/death-row/native-americans
- 115. https://deathpenaltyinfo.org/death-row/death-row-time-on-death-row
- 116. https://deathpenaltyinfo.org/death-row/women
- 117. https://deathpenaltyinfo.org/state-and-federal-info/state-by-state
- 118. https://deathpenaltyinfo.org/state-and-federal-info/federal-death-penalty
- 119. https://deathpenaltyinfo.org/state-and-federal-info/military
- 120. https://deathpenaltyinfo.org/about/staff-and-board-of-directors
- 121. https://deathpenaltyinfo.org/about/about-us
- 122. https://deathpenaltyinfo.org/about/in-the-media
- 123. https://deathpenaltyinfo.org/about/dpic-testimony
- 124. https://deathpenaltyinfo.org/about/press-releases
- 125. https://deathpenaltyinfo.org/about/work-for-dpic
- 126. https://deathpenaltyinfo.org/for-the-media
- 127. https://deathpenaltyinfo.org/resources/publications-and-testimony
- 128. https://deathpenaltyinfo.org/resources/related-websites
- 129. https://deathpenaltyinfo.org/resources/podcasts
- 130. https://deathpenaltyinfo.org/facts-and-research/dpic-reports
- 131. https://deathpenaltyinfo.org/facts-and-research/new-voices
- 132. https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol
- 133. https://deathpenaltyinfo.org/for-educators
- 134. https://deathpenaltyinfo.org/documents/FactSheet.pdf
- 135. https://deathpenaltyinfo.org/donate
- 136. https://www.facebook.com/sharer.php?&u=https%3A%2F%2Fdeathpenaltyinfo.org%2Ffacts-and-research%2Fdpic-reports%2Fin-depth%2Fenduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty
- 137. https://twitter.com/intent/tweet?url=https%3A%2F%2Fdeathpenaltyinfo.org%2Ffacts-and-research%2Fdpic-reports%2Fin-depth%2Fenduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty&text=Enduring%20Injustice%3A%20the%20Persistence%20of%20Racial%20Discrimination%20in%20the%20U.S.%20Death%20Penalty
- 138. https://deathpenaltyinfo.org/cdn-cgi/l/email-protection#3d024e485f57585e4900785359484f54535a180f0d745357484e49545e58180e7c180f0d495558180f0d6d584f4e544e4958535e58180f0d525b180f0d6f5c5e545c51180f0d79544e5e4f545054535c49545253180f0d5453180f0d495558180f0d68136e13180f0d79585c4955180f0d6d58535c5149441b5f525944005549494d4e180e7c180f7b180f7b59585c49554d58535c51494454535b5213524f5a180f7b5b5c5e494e105c5359104f584e585c4f5e55180f7b594d545e104f584d524f494e180f7b54531059584d4955180f7b585359484f54535a10545357484e49545e5810495558104d584f4e544e4958535e5810525b104f5c5e545c511059544e5e4f545054535c49545253105453104955581048104e1059585c4955104d58535c514944
- 139. https://deathpenaltyinfo.org/search-results?t[]=7
- 140. https://documents.deathpenaltyinfo.org/pdf/Enduring-Injustice-Race-and-the-Death-Penalty-2020.pdf
- 141. https://documents.deathpenaltyinfo.org/pdf/Resource-Order-Form-2020.pdf
- 142. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty#lynchings-v-executions-interactive-visualization
- 143. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty#graphics
- 144. https://files.deathpenaltyinfo.org/documents/reports/Enduring-Injustice-Race-and-the-Death-Penalty-2020.pdf
- 145. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty#top
- 146. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty#top
- 147. https://deathpenaltyinfo.org/cdn-cgi/l/email-protection#eb8f9b8288ab8f8e8a9f839b8e858a879f9282858d84c584998c
- 148. https://www.facebook.com/deathpenaltyinfo/
- 149. https://twitter.com/DPInfoCtr
- 150. https://deathpenaltyinfo.org/policy-issues/arbitrariness
- 151. https://deathpenaltyinfo.org/policy-issues/costs
- 152. https://deathpenaltyinfo.org/policy-issues/deterrence
- 153. https://deathpenaltyinfo.org/policy-issues/innocence
- 154. https://deathpenaltyinfo.org/policy-issues/intellectual-disability
- 155. https://deathpenaltyinfo.org/policy-issues/juveniles
- 156. https://deathpenaltyinfo.org/policy-issues/international
- 157. https://deathpenaltyinfo.org/policy-issues/mental-illness
- 158. https://deathpenaltyinfo.org/policy-issues/prosecutorial-accountability
- 159. https://deathpenaltyinfo.org/policy-issues/race
- 160. https://deathpenaltyinfo.org/policy-issues/death-penalty-representation
- 161. https://deathpenaltyinfo.org/policy-issues/sentencing-alternatives
- 162. https://deathpenaltyinfo.org/policy-issues/victims-families
- 163. https://deathpenaltyinfo.org/documents/FactSheet.pdf
- 164. https://deathpenaltyinfo.org/facts-and-research/death-penalty-census
- 165. https://deathpenaltyinfo.org/facts-and-research/clemency
- 166. https://deathpenaltyinfo.org/facts-and-research/crimes-punishable-by-death
- 167. https://deathpenaltyinfo.org/facts-and-research/dpic-reports
- 168. https://deathpenaltyinfo.org/facts-and-research/history-of-the-death-penalty
- 169. https://deathpenaltyinfo.org/policy-issues/innocence-database
- 170. https://deathpenaltyinfo.org/facts-and-research/murder-rates
- 171. https://deathpenaltyinfo.org/facts-and-research/public-opinion-polls
- 172. https://deathpenaltyinfo.org/facts-and-research/recent-legislative-activity
- 173. https://deathpenaltyinfo.org/facts-and-research/religious-statements
- 174. https://deathpenaltyinfo.org/facts-and-research/sentencing-data
- 175. https://deathpenaltyinfo.org/facts-and-research/student-research-center
- 176. https://deathpenaltyinfo.org/facts-and-research/united-states-supreme-court
- 177. https://deathpenaltyinfo.org/executions/executions-overview
- 178. https://deathpenaltyinfo.org/executions/upcoming-executions
- 179. https://deathpenaltyinfo.org/executions/execution-database
- 180. https://deathpenaltyinfo.org/executions/methods-of-execution
- 181. https://deathpenaltyinfo.org/executions/botched-executions
- 182. https://deathpenaltyinfo.org/executions/lethal-injection
- 183. https://deathpenaltyinfo.org/death-row/overview
- 184. https://deathpenaltyinfo.org/death-row/conditions-on-death-row
- 185. https://deathpenaltyinfo.org/death-row/foreign-nationals
- 186. https://deathpenaltyinfo.org/death-row/native-americans
- 187. https://deathpenaltyinfo.org/death-row/death-row-time-on-death-row
- 188. https://deathpenaltyinfo.org/death-row/women
- 189. https://deathpenaltyinfo.org/state-and-federal-info/state-by-state
- 190. https://deathpenaltyinfo.org/state-and-federal-info/federal-death-penalty
- 191. https://deathpenaltyinfo.org/state-and-federal-info/military
- 192. https://deathpenaltyinfo.org/about/about-us
- 193. https://deathpenaltyinfo.org/about/staff-and-board-of-directors
- 194. https://deathpenaltyinfo.org/about/in-the-media
- 195. https://deathpenaltyinfo.org/about/dpic-testimony
- 196. https://deathpenaltyinfo.org/about/press-releases
- 197. https://deathpenaltyinfo.org/about/work-for-dpic
- 198. https://deathpenaltyinfo.org/for-the-media
- 199. https://deathpenaltyinfo.org/resources/related-websites
- 200. https://deathpenaltyinfo.org/resources/publications-and-testimony
- 201. https://deathpenaltyinfo.org/resources/podcasts
- 202. https://deathpenaltyinfo.org/facts-and-research/dpic-reports
- 203. https://deathpenaltyinfo.org/facts-and-research/new-voices
- 204. https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol
- 205. https://deathpenaltyinfo.org/for-educators
- 206. https://deathpenaltyinfo.org/documents/FactSheet.pdf
- 207. https://deathpenaltyinfo.org/donate
- 208. tel:202-289-2275
- 209. https://deathpenaltyinfo.org/cdn-cgi/l/email-protection#503420393310343531243820353e313c2429393e363f7e3f2237
- 210. https://deathpenaltyinfo.org/privacy-policy
+   1. android-app://https://play.google.com/store/apps/details?id=org.un.mobile.news&hl=en
+   2. https://news.un.org/en/story/2022/03/1114892
+   3. https://news.un.org/en/story/2022/03/1114892#main-content
+   4. https://www.googletagmanager.com/ns.html?id=GTM-5F844BH
+   5. https://www.un.org/en/
+   6. https://news.un.org/ar
+   7. https://news.un.org/zh
+   8. https://news.un.org/en
+   9. https://news.un.org/fr
+  10. https://news.un.org/ru
+  11. https://news.un.org/es
+  12. https://news.un.org/pt
+  13. https://news.un.org/sw
+  14. https://news.un.org/en/story/2022/03/1114892
+  15. https://news.un.org/hi
+  16. https://news.un.org/ur
+  17. https://unic.un.org/aroundworld/unics/en/whatWeDo/productsAndServices/websites/index.asp?callPage=home
+  18. https://news.un.org/en/
+  19. https://news.un.org/en/
+  20. https://news.un.org/en/advanced-search
+  21. https://news.un.org/en/
+  22. https://news.un.org/en/news/region/africa
+  23. https://news.un.org/en/news/region/americas
+  24. https://news.un.org/en/news/region/asia-pacific
+  25. https://news.un.org/en/news/region/middle-east
+  26. https://news.un.org/en/news/region/europe
+  27. https://news.un.org/en/spotlight/un-art-and-gifts
+  28. https://news.un.org/en/spotlight/character-sketches-brian-urquhart
+  29. https://news.un.org/en/story/2022/03/1114892
+  30. https://news.un.org/en/news/topic/peace-and-security
+  31. https://news.un.org/en/news/topic/economic-development
+  32. https://news.un.org/en/news/topic/humanitarian-aid
+  33. https://news.un.org/en/news/topic/climate-change
+  34. https://news.un.org/en/news/topic/human-rights
+  35. https://news.un.org/en/news/topic/un-affairs
+  36. https://news.un.org/en/news/topic/women
+  37. https://news.un.org/en/news/topic/law-and-crime-prevention
+  38. https://news.un.org/en/news/topic/health
+  39. https://news.un.org/en/news/topic/culture-and-education
+  40. https://news.un.org/en/news/topic/sdgs
+  41. https://news.un.org/en/news/topic/migrants-and-refugees
+  42. https://news.un.org/en/story/2022/03/1114892
+  43. https://news.un.org/en/interviews
+  44. https://news.un.org/en/features
+  45. https://news.un.org/en/gallery
+  46. https://news.un.org/en/audio-product/news-brief
+  47. https://news.un.org/en/audio-product/podcast-the-lid-is-on
+  48. https://news.un.org/en/audio-product/focus-gender
+  49. https://news.un.org/en/audio-product/un-and-africa
+  50. https://news.un.org/en/un-podcasts
+  51. https://www.un.org/sg/en
+  52. https://www.un.org/sg/en/spokesperson
+  53. https://www.un.org/sg/en/latest/sg/statement
+  54. https://www.un.org/sg/en/content/sg/secretary-generals-speeches
+  55. https://www.un.org/sg/en/content/sg/press-encounters
+  56. https://www.un.org/sg/en/content/travels
+  57. https://news.un.org/en/story/2022/03/1114892
+  58. https://videos.un.org/
+  59. https://dam.media.un.org/
+  60. https://www.un.org/press/en
+  61. https://www.un.org/en/media/accreditation/index.shtml
+  62. https://media.un.org/en/webtv/
+  63. https://news.un.org/en/audio-hub
+  64. https://news.un.org/en/content/un-newsletter-subscribe
+  65. https://www.facebook.com/sharer.php?u=https://news.un.org/en/story/2022/03/1114892
+  66. https://twitter.com/intent/tweet?text=UN%E2%80%99s%20Bachelet%20hails%20%E2%80%98millions%20of%20voices%E2%80%99%20tackling%20racial%20discrimination&url=https://news.un.org/en/story/2022/03/1114892
+  67. https://news.un.org/en/story/2022/03/1114892
+  68. mailto:?subject=UN%E2%80%99s%20Bachelet%20hails%20%E2%80%98millions%20of%20voices%E2%80%99%20tackling%20racial%20discrimination&body=https://news.un.org/en/story/2022/03/1114892
+  69. https://news.un.org/en/news/topic/human-rights
+  70. https://www.ohchr.org/Documents/Publications/Durban_text_en.pdf
+  71. https://www.ohchr.org/en/statements-and-speeches/2022/03/debate-commemoration-international-day-elimination-racial
+  72. https://www.ohchr.org/EN/HRBodies/HRC/Pages/Home.aspx
+  73. https://t.co/uAoCk0SpLw#FightRacism
+  74. https://news.un.org/en/story/2021/08/1096932
+  75. http://www.ohchr.org/EN/pages/home.aspx
+  76. https://www.ohchr.org/EN/Issues/Racism/Pages/Implementation-HRC-Resolution-43-1.aspx
+  77. https://news.un.org/en/story/2022/03/1114682
+  78. https://news.un.org/en/content/un-newsletter-subscribe?utm_source=UN%20News&utm_medium=email&utm_campaign=un_news_newsletter
+  79. https://itunes.apple.com/us/app/un-news-reader/id496893005?mt=8
+  80. https://play.google.com/store/apps/details?id=org.un.mobile.news&hl=en
+  81. https://news.un.org/en/tags/racism
+  82. https://news.un.org/en/story/2022/07/1121942
+  83. https://news.un.org/en/story/2022/07/1121942
+  84. https://news.un.org/en/story/2017/03/553552-ahead-international-day-un-rights-chief-urges-governments-target-hate-speech
+  85. https://news.un.org/en/story/2017/03/553552-ahead-international-day-un-rights-chief-urges-governments-target-hate-speech
+  86. https://news.un.org/en/story/2022/08/1125662
+  87. https://news.un.org/en/story/2022/08/1125662
+  88. https://news.un.org/en/story/2022/03/1114682
+  89. https://news.un.org/en/story/2022/03/1114682
+  90. https://news.un.org/en/news/topic/human-rights
+  91. https://www.un.org/en/observances/decade-people-african-descent/slave-trade
+  92. https://news.un.org/en/story/2022/03/1114282
+  93. https://news.un.org/en/story/2022/03/1114282
+  94. https://news.un.org/en/news/topic/migrants-and-refugees
+  95. https://www.unhcr.org/en-us/news/press/2022/3/62370dc44/high-commissioners-message-international-day-elimination-racial-discrimination.html
+  96. https://news.un.org/en/content/navigate-news
+  97. https://news.un.org/en/content/un-system-links
+  98. https://news.un.org/en/content/un-system-links
+  99. https://www.un.org/en/media/accreditation/alert.shtml
+ 100. https://journal.un.org/
+ 101. https://www.un.org/press/en/content/meetings-coverage/
+ 102. https://www.unmultimedia.org/avlibrary/
+ 103. https://www.un.org/sg/en/content/sg/secretary-generals-speeches
+ 104. https://www.un.org/sg/en/content/travels
+ 105. https://www.un.org/sg/en/content/sg/press-encounters
+ 106. https://twitter.com/antonioguterres?lang=en
+ 107. https://www.un.org/sg/en/spokesperson
+ 108. https://www.un.org/sg/en/content/ossg/noon-briefing-highlight
+ 109. https://www.un.org/press/en/content/noon-briefings
+ 110. https://www.un.org/sg/en/content/sg/notes-correspondents
+ 111. https://news.un.org/en/content/un-news-go
+ 112. https://www.facebook.com/UN.News.Centre
+ 113. https://twitter.com/UN_News_Centre
+ 114. https://www.youtube.com/user/unitednations
+ 115. https://news.un.org/en/rss-feeds
+ 116. https://news.un.org/en/contact
+ 117. https://news.un.org/en/
+ 118. https://www.facebook.com/UN.News.Centre/
+ 119. https://twitter.com/un_news_centre
+ 120. https://www.youtube.com/user/unitednations/
+ 121. https://www.flickr.com/photos/un_photo/
+ 122. https://www.instagram.com/unitednations/
+ 123. https://www.pinterest.com/unitednations/
+ 124. https://soundcloud.com/unradio
+ 125. https://podcasts.apple.com/us/podcast/un-news/id304114245?mt=2&app=podcast
+ 126. https://www.un.org/en/get-involved/social-media
+ 127. https://www.un.org/en/about-us/how-to-donate-to-the-un-system
+ 128. https://www.un.org/en/site-index
+ 129. https://www.un.org/en/about-us/copyright
+ 130. https://www.un.org/en/about-us/frequently-asked-questions
+ 131. https://www.un.org/en/about-us/fraud-alert
+ 132. https://www.un.org/en/about-us/privacy-notice
+ 133. https://www.un.org/en/about-us/terms-of-use
+ 134. https://www.facebook.com/sharer.php?u=https://news.un.org/en/story/2022/03/1114892
+ 135. https://twitter.com/intent/tweet?text=UN%E2%80%99s%20Bachelet%20hails%20%E2%80%98millions%20of%20voices%E2%80%99%20tackling%20racial%20discrimination&url=https://news.un.org/en/story/2022/03/1114892
+ 136. https://news.un.org/en/story/2022/03/1114892
+ 137. mailto:?subject=UN%E2%80%99s%20Bachelet%20hails%20%E2%80%98millions%20of%20voices%E2%80%99%20tackling%20racial%20discrimination&body=https://news.un.org/en/story/2022/03/1114892
 
    Hidden links:
- 212. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty
- 213. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty
- 214. https://public.tableau.com/views/ExecutionsbyRaceofDefendantandVictimintheU_S_/ExecutionsbyRacePieChartsFullSizeandFormat?:language=en&:display_count=y&:origin=viz_share_link
- 215. https://public.tableau.com/views/RegionalRaceofDefendantandRaceofVictim/RegionalRaceofDefendantRaceofVictim?:language=en&:display_count=y&:origin=viz_share_link
- 216. https://public.tableau.com/views/ExonerationsMap/ExonerationsDashboard?:language=en&:display_count=y&:origin=viz_share_link
- 217. https://public.tableau.com/views/ExonerationsAfter20Years/Exonerations20Dashboard?:language=en&:display_count=y&:origin=viz_share_link
+ 139. https://twitter.com/UNHumanRights/statuses/1508380614759755779

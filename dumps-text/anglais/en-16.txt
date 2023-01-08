@@ -1,678 +1,637 @@
-   [1]Harvard Business Review Home
-   [2]Subscribe [3]Cart [4]Sign In
-   ____________________ ____________________ (BUTTON) Search [5]CLEAR
-     *
-     *
-     *
-     *
-     *
-     *
-     * SUGGESTED TOPICS
-     *
-     *
-     *
+   #[1]home
 
-   Explore HBR
-     * [6]Diversity
-     * [7]Latest
-     * [8]The Magazine
-     * [9]Ascend
-     * [10]Most Popular
-     * [11]Podcasts
-     * [12]Video
-     * [13]Store
-     * [14]Webinars
-     * [15]Newsletters
+   [2]Close Search
+   Round Separator
 
-   Popular Topics
-     * [16]Managing Yourself
-     * [17]Leadership
-     * [18]Strategy
-     * [19]Managing Teams
-     * [20]Gender
-     * [21]Innovation
-     * [22]Work-life Balance
-     * [23]All Topics
+   Search for: ____________________ (Go) Search
 
-   For Subscribers
-     * [24]The Big Idea
-     * [25]Data & Visuals
-     * [26]Reading Lists
-     * [27]Case Selections
-     * [28]HBR Learning
-     * [29]Subscribe
+   [3]Menu [4]Search [5]Death Penalty Information Center
 
-   My Account
-     * [30]My Library
-     * [31]Topic Feeds
-     * [32]Orders
-     * [33]Account Settings
-     * [34]Email Preferences
-     * [35]Log Out
-     * [36]Sign In
+     * [6]About
+          + [7]Staff & Board of Directors
+          + [8]About Us
+          + [9]DPIC in the Media
+          + [10]DPIC Testimony
+          + [11]Press Releases
+          + [12]Work for DPIC
+     * [13]For the Media
+     * [14]Resources
+          + [15]Publications & Testimony
+          + [16]Related Websites
+          + [17]DPIC Podcasts
+          + [18]DPIC Reports
+          + [19]New Voices
+          + [20]En Español
+     * [21]For Educators
+     * [22]Fact Sheet
+     * [23]Donate
 
-     *
-     *
-     *
-     *
+     * [24]Email
+     * [25]Facebook
+     * [26]Twitter
 
-   [37]Subscribe [38]Diversity [39]Latest [40]Podcasts [41]Video [42]The
-   Magazine [43]Ascend [44]Store [45]Webinars [46]Newsletters [47]All
-   Topics [48]The Big Idea [49]Data & Visuals [50]Reading Lists [51]Case
-   Selections [52]HBR Learning [53]My Library [54]Account Settings [55]Log
-   Out [56]Sign In
+   [27]Home
+     * [28]Policy Issues
+          + [29]Arbitrariness
+          + [30]Costs
+          + [31]Deterrence
+          + [32]Human Rights
+          + [33]Innocence
+          + [34]Intellectual Disability
+          + [35]International
+          + [36]Juveniles
+          + [37]Mental Illness
+          + [38]Prosecutorial Accountability
+          + [39]Race
+          + [40]Representation
+          + [41]Sentencing Alternatives
+          + [42]Victims' Families
+     * [43]Facts & Research
+          + [44]Fact Sheet
+          + [45]Death Penalty Census
+          + [46]Clemency
+          + [47]Crimes Punishable by Death
+          + [48]DPIC Reports
+          + [49]History of the Death Penalty
+          + [50]Innocence Database
+          + [51]Murder Rates
+          + [52]Public Opinion
+          + [53]Recent Legislative Activity
+          + [54]Religion
+          + [55]Sentencing Data
+          + [56]Student Research Center
+          + [57]United States Supreme Court
+     * [58]Executions
+          + [59]Executions Overview
+          + [60]Upcoming Executions
+          + [61]Execution Database
+          + [62]Methods of Execution
+          + [63]Botched Executions
+          + [64]Lethal Injection
+     * [65]Death Row
+          + [66]Death Row Overview
+          + [67]Conditions on Death Row
+          + [68]Foreign Nationals
+          + [69]Native Americans
+          + [70]Time on Death Row
+          + [71]Women
+     * [72]State & Federal Info
+          + [73]State by State
+          + [74]Federal Death Penalty
+          + [75]Military
 
-Your Cart
+     * [76]Home
+     * Policy Issues
+          + [77]Arbitrariness
+          + [78]Costs
+          + [79]Deterrence
+          + [80]Human Rights
+          + [81]Innocence
+          + [82]Intellectual Disability
+          + [83]International
+          + [84]Juveniles
+          + [85]Mental Illness
+          + [86]Prosecutorial Accountability
+          + [87]Race
+          + [88]Representation
+          + [89]Sentencing Alternatives
+          + [90]Victims' Families
+     * Facts & Research
+          + [91]Fact Sheet
+          + [92]Death Penalty Census
+          + [93]Clemency
+          + [94]Crimes Punishable by Death
+          + [95]DPIC Reports
+          + [96]History of the Death Penalty
+          + [97]Innocence Database
+          + [98]Murder Rates
+          + [99]Public Opinion
+          + [100]Recent Legislative Activity
+          + [101]Religion
+          + [102]Sentencing Data
+          + [103]Student Research Center
+          + [104]United States Supreme Court
+     * Executions
+          + [105]Executions Overview
+          + [106]Upcoming Executions
+          + [107]Execution Database
+          + [108]Methods of Execution
+          + [109]Botched Executions
+          + [110]Lethal Injection
+     * Death Row
+          + [111]Death Row Overview
+          + [112]Conditions on Death Row
+          + [113]Foreign Nationals
+          + [114]Native Americans
+          + [115]Time on Death Row
+          + [116]Women
+     * State & Federal Info
+          + [117]State by State
+          + [118]Federal Death Penalty
+          + [119]Military
+     * About
+          + [120]Staff & Board of Directors
+          + [121]About Us
+          + [122]DPIC in the Media
+          + [123]DPIC Testimony
+          + [124]Press Releases
+          + [125]Work for DPIC
+     * [126]For the Media
+     * Resources
+          + [127]Publications & Testimony
+          + [128]Related Websites
+          + [129]DPIC Podcasts
+          + [130]DPIC Reports
+          + [131]New Voices
+          + [132]En Español
+     * [133]For Educators
+     * [134]Fact Sheet
+     * [135]Donate
 
-   Your Shopping Cart is empty.
-   [57]Visit Our Store
-   Guest User
-   Subscriber
-   [58]My Library [59]Topic Feeds [60]Orders [61]Account Settings
-   [62]Email Preferences [63]Log Out
-   Reading List
-   Reading Lists
+   News
 
-   You have 2 free articles left this month.
-   You are reading your last free article for this month.
-   [64]Subscribe for unlimited access.
-   [65]Create an account to read 2 more.
+DPIC Releases Major New Report on Race and the U.S. Death Penalty
 
-   [HBR_logo_black.svg]
-   [66]Hiring and recruitment
+     * [136]Facebook Share
+     * [137]Tweet Tweet
+     * [138]Email Email
 
-Hiring Discrimination Against Black Americans Hasn't Declined in 25 Years
+   Posted on Sep 15, 2020
+     * [139]Race
+     * [140]DPIC Reports
 
-   A meta-analysis of job callback rates.
-   by
-     * [67]Lincoln Quillian,
-     * [68]Devah Pager,
-     * [69]Arnfinn H. Midtbøen, and
-     * [70]Ole Hexel
+   DPIC Releases Major New Report on Race and the U.S. Death Penalty
 
-   by
-     * [71]Lincoln Quillian,
-     * [72]Devah Pager,
-     * [73]Arnfinn H. Midtbøen, and
-     * [74]Ole Hexel
+   The Death Penalty Information Center has released a major new report on
+   race and the U.S. death penalty, providing an in-depth look at the
+   historical role race has played in the death penalty and detailing the
+   pervasive impact racial discrimination continues to have throughout
+   every stage of a death penalty case today. [141]Enduring Injustice: the
+   Persistence of Racial Discrimination in the U.S. Death Penalty.
+   released on September 15, 2020, also makes the case for why redressing
+   discrimination in the American death penalty is essential if the United
+   States is serious about creating a fair and just criminal legal system.
 
-   October 11, 2017
-   [oct17-11-568528987.jpg]
-     * Tweet
-     * Post
-     * Share
-     *
-     * Save
-     * Get PDF
-     * Buy Copies
-     * Print
+   In early news coverage of the report, the Associated Press wrote: "The
+   report from the Death Penalty Information Center is a history lesson in
+   how lynchings and executions have been used in America and how
+   discrimination bleeds into the entire criminal justice system. It
+   traces a line from lynchings of old -- killings outside the law --
+   where Black people were killed in an effort to assert social control
+   during slavery and Jim Crow, and how that eventually translated into
+   state-ordered executions."
 
-   Summary.
+   "The death penalty is inextricably linked to our history of slavery, of
+   lynching, and Jim Crow segregation, and we wanted to put what is
+   happening today in its appropriate context," DPIC Executive Director
+   Robert Dunham told Associated Press. "[W]hat the data tells us and what
+   history tells us is that they're all part of the same phenomenon."
 
-   Many white Americans believe that race is no longer central to one's
-   opportunities in life, and that we're well on our way to systemic
-   racial equality. Are these beliefs accurate? While it's often difficult
-   to measure levels of discrimination over time, research into hiring
-   discrimination shows that black Americans still face discrimination in
-   the hiring process. A meta-analysis of callback rates from all existing
-   field experiments (24 total, including data from more than 54,000
-   applications across more than 25,000 positions) showed evidence of
-   discrimination against both black and Latino applicants. Since 1990
-   white applicants received, on average, 36% more callbacks than black
-   applicants and 24% more callbacks than Latino applicants with otherwise
-   identical résumés. When it comes to Latinos, there is some evidence of
-   a decline in discrimination over the past 25 years. Due to the small
-   number of field experiments including Latinos, statistical tests
-   indicate the evidence of decline is inconclusive. For blacks, however,
-   researchers found no change in hiring rates over time.
-     * Tweet
-     * Post
-     * Share
-     *
-     * Save
-     * Get PDF
-     * Buy Copies
-     * Print
+   The Memphis Commercial Appeal noted that the report was released in an
+   environment of social upheaval in which "[o]pponents of the death
+   penalty are finding their arguments about the history of
+   state-sanctioned executions fit into a wider discourse about racial
+   injustice amid nationwide protests against police brutality and
+   racism."
 
-   [75]Leer en español
-   [76]Ler em português
+   Ngozi Ndulue, DPIC's Senior Director of Research and Special Projects
+   and the author of the report, agreed. "We have seen more explicit
+   reference to the continued racial discrimination in the death penalty
+   in the last few months," she told the Commercial Appeal. "This is a
+   moment that advocates are really looking for concrete changes and what
+   we're trying to do with this report -- the bulk of it was written
+   before the deaths of Ahmaud Arbery, Breonna Taylor, George Floyd --
+   ties really into the moment of reckoning of racial justice the country
+   is having right now."
 
-   Race is often at the forefront of American conversation. It has lately
-   emerged with new urgency around discussions of policing, immigration,
-   First Amendment rights, and even professional football. And yet even as
-   we are confronted with [77]dramatic examples of ongoing racial
-   tensions, most white Americans remain convinced that [78]race is no
-   longer central to one's opportunities in life. [79]Polling data shows
-   that many believe these lingering conflicts represent the actions of a
-   few bad apples and aren't in sync with the larger trend toward systemic
-   racial equality.
+   The report documents the historic role the U.S. death penalty has
+   played as an instrument of social control, tracing its use during
+   slavery as a tool for controlling Black populations and curbing
+   rebellions through the post-Civil War era in which lynchings and other
+   extrajudicial violence rose in prominence and public officials promised
+   legal executions as a means to discourage "vigilante justice." As
+   lynchings decreased in the early 20th century, the report says,
+   executions began to take their place in some of the same circumstances
+   that earlier would have ended in lynchings.
+   [142]Graphic and text from Enduring Injustice, describing Virginia
+   racist history of death-penalty usage. Click graphic to enlarge image.
+   Graphic and text from Enduring Injustice, describing Virginia racist
+   history of death-penalty usage. Click graphic to enlarge image.
 
-   Are these beliefs accurate? What do we know about long-term trends in
-   racial discrimination?
+   The report cites Virginia as an illustration of the racist deployment
+   of capital punishment. "Before the Civil War, Virginia explicitly
+   provided different penalties for white people and its enslaved
+   population," the report says. "By 1848, white people could be sentenced
+   to death only for first-degree murder while enslaved Black people could
+   be executed for a number of non-homicide offenses." By the 20^th
+   century, the racial categorization of crimes was gone from the law
+   books but was retained in practice. From 1900 through 1969, the report
+   shows, 258 African Americans were executed, as compared to 46 whites.
+   Forty-eight Black men were executed for rape, 20 for attempted rape,
+   and 5 for armed robbery. No white person was executed for any crime
+   that did not result in death. The same pattern prevailed across the
+   South, with hundreds of African-American men condemned and executed for
+   the alleged rape or attempted rape of white women or girls. No white
+   man was ever executed for raping a Black woman or girl.
 
-   Discrimination, given how it often manifests subtly, is notoriously
-   difficult to measure in any context. And until recently we have not had
-   much information that we could use to reliably assess changes in
-   discrimination over time. However, in [80]our recent study, published
-   in the Proceedings of the National Academy of Sciences, we were able to
-   analyze trends in discrimination by performing a meta-analysis from all
-   available field experiments pertaining to one area: racial
-   discrimination in hiring. We focused on experiments performed since
-   1990, when field studies became more numerous and their
-   methodologically improved. We analyzed data from 24 field experiments,
-   which included data from more than 54,000 applications across more than
-   25,000 positions.
+   The report also explains that racial bias persists today, as evidenced
+   by cases with white victims being more likely to be investigated and
+   capitally charged; systemic exclusion of jurors of color from service
+   in death-penalty trials; and disproportionate imposition of death
+   sentences against defendants of color. "The death penalty has been used
+   to enforce racial hierarchies throughout United States history,
+   beginning with the colonial period and continuing to this day," Ndulue
+   said.
 
-   We chose field experiments as a sample because they are [81]widely
-   regarded as the most valid method to assess discrimination. They
-   generally come in two major types: Résumé audits, done through the mail
-   or online, submit fictitious résumés with equivalent qualifications and
-   ethnically identifiable names. And in-person audits --
-   done with trained pairs of testers, white and nonwhite -- have
-   participants apply for jobs. By examining the rates of callbacks, or
-   invitations to job interviews, for white and nonwhite applicants with
-   equivalent qualifications, these studies provide high-quality measures
-   of rates of discrimination in hiring.
+   Among the evidence of continuing discrimination in the use of the death
+   penalty, the report references:
+     * A 2015 meta-analysis of 30 studies showing that the killers of
+       white people were more likely than the killers of Black people to
+       face a capital prosecution.
+     * A study in North Carolina showing that qualified Black jurors were
+       struck from juries at more than twice the rate of qualified white
+       jurors. As of 2010, 20 percent of those on the state's death row
+       were sentenced to death by all-white juries.
+     * Data showing that since executions resumed in 1977, 295
+       African-American defendants have been executed for interracial
+       murders of white victims, while only 21 white defendants have been
+       executed for interracial murders of African Americans.
+     * A 2014 mock jury study of more than 500 Californians that found
+       white jurors were more likely to sentence poor Latinx defendants to
+       death than poor white defendants.
+     * Data showing that exonerations of African Americans for murder
+       convictions are 22 percent more likely to be linked to police
+       misconduct.
 
-   Broadly, our meta-analysis of callback rates from all existing field
-   experiments showed evidence of discrimination against both black and
-   Latino applicants. Since 1990 white applicants received, on average,
-   36% more callbacks than black applicants and 24% more callbacks than
-   Latino applicants with identical résumés.
+   "Racial disparities are present at every stage of a capital case and
+   get magnified as a case moves through the legal process," Dunham said.
+   "If you don't understand the history, ... you won't understand why.
+   With the continuing police and white vigilante killings of Black
+   citizens, it is even more important now to focus attention on the
+   outsized role the death penalty plays as an agent and validator of
+   racial discrimination. What is broken or intentionally discriminatory
+   in the criminal legal system is visibly worse in death-penalty cases.
+   Exposing how the system discriminates in capital cases can shine an
+   important light on law enforcement and judicial practices in vital need
+   of abolition, restructuring, or reform."
 
-   When it comes to Latinos, we found some evidence of a decline in
-   discrimination over the past 25 years. Because of the small number of
-   field experiments including Latinos, however, statistical tests
-   indicate the evidence of decline is inconclusive.
+   The death penalty's "discriminatory presence as the apex punishment in
+   the American legal system legitimizes all other harsh and
+   discriminatory punishments," Ndulue said. "That is why the death
+   penalty must be part of any discussion of police reform, prosecutorial
+   accountability, reversing mass incarceration, and the criminal legal
+   system as a whole."
 
-   For black applicants we found no change in hiring rates over time. In
-   the figure below, the dots represent results from 21 studies
-   contrasting white and black applicants, based on a total of 42,708
-   applications for 20,990 positions. The line shows the overall trend.
-   The line slants slightly upward, but it's statistically
-   indistinguishable from a flat line.
-   W170929_QUILLAN_BLACKAMERICANS_v2
+   Sources
 
+   Ngozi Ndulue, [143]Enduring Injustice: the Persistence of Racial
+   Discrimination in the U.S. Death Penalty, Death Penalty Information
+   Center, September 15, 2020; Colleen Long, [144]Report: Death penalty
+   cases show history of racial disparity, Associated Press, September 15,
+   2020; Frank Green, [145]Death penalty has been used to enforce racial
+   hierarchies since colonial times, study concludes, Richmond
+   Times-Dispatch, September 15, 2020; Katherine Burgess, [146]Death
+   penalty opponents see ties to nationwide reckoning over race as center
+   releases new report, Memphis Commercial Appeal, September 15, 2020.
 
-   We wondered if this level of discrimination might be influenced by
-   applicant education, applicant gender, study method, occupational
-   groups, and local labor market conditions. When we controlled for these
-   factors, we found that none account for the trend in discrimination.
-   Under these and other adjustments, our results suggest that levels of
-   discrimination against black job applicants hasn't changed since 1990.
+   Read the [147]DPIC media release.
 
-   Our results do not address the possibility that hiring discrimination
-   may have substantially dropped in the 1960s or early 1970s, during the
-   civil rights era, when many forms of direct discrimination were
-   outlawed. Further, our results pertain only to discrimination at the
-   point of hire, not at later points in the employment relationship, such
-   as wage setting or promotion decisions. It may be the case, then, that
-   meaningful reductions in discrimination have taken place at other
-   points in the employment relationship. What our results do point to is
-   that at the initial point of entry -- hiring decisions -- blacks remain
-   substantially disadvantaged relative to equally qualified whites, and
-   we see little indication of progress over time.
+   Human Rights
 
-   What might account for the stubborn persistence of hiring
-   discrimination? At first glance, our findings seem to contradict other
-   trends. [82]Attitude surveys [83]indicate that overtly prejudicial
-   beliefs have declined, and endorsement of the principles of equal
-   treatment regardless of race has increased. Americans appear to have
-   become more concerned with diversity and inclusion and, [84]in a small
-   number of elite firms, affirmative action practices have made
-   meaningful changes in the opportunities available to racial minorities.
+   Jan 06, 2023
+   [148]DPIC Podcast: Georgetown Racial Justice Institute Director Diann
+   Rust-Tierney on Reconceptualizing the U.S. Death Penalty as a Violation
+   of Fundamental Human Rights
 
-   At the same time, however, assessments of subtle forms of racial
-   stereotypes and measures of unconscious bias have [85]shown little
-   change [86]over time. The vast majority of hiring is subject to very
-   little oversight, and compensatory policies that address racial bias
-   reach a very small fraction of hiring overall. Together, these trends
-   offer little support for optimism about racial progress in the United
-   States. While some people may assume that discrimination has declined
-   over time, through increasing diversity in institutions along with
-   other cultural changes, it seems as though, at least in terms of
-   hiring, this expectation doesn't meet with reality.
+DPIC Podcast: Georgetown Racial Justice Institute Director Diann Rust-Tierney
+on Reconceptualizing the U.S. Death Penalty as a Violation of Fundamental
+Human Rights
 
-   We believe that our results provide a strong rationale for affirmative
-   action policies and point to the continuing need for the enforcement of
-   antidiscrimination legislation. Even among well-intended employers,
-   racial bias may lurk in hiring decisions. Whether conscious or not,
-   bias continues to affect decision making, and we find little evidence
-   that this pattern will diminish on its own. Instead, more active
-   intervention may be needed to reduce discrimination at the point of
-   hire.
-   New!
-   [HBR-learning-icon.png]
-   HBR Learning
-   [topic_landing_page_1400.png]
-   Attracting and Cultivating Talent Course
-   Accelerate your career with Harvard ManageMentor®. HBR Learning's
-   online leadership training helps you hone your skills with courses like
-   Attracting and Cultivating Talent. Earn badges to share on LinkedIn and
-   your resume. Access more than 40 courses trusted by Fortune 500
-   companies.
-   Discover how to attract, hire, develop, and keep talented people who
-   will grow and thrive throughout their employee journey.
-   Start Course
-   [87]Learn More & See All Courses
-   Read more on [88]Hiring and recruitment or related topics [89]Race and
-   [90]Workplace discrimination
-   For HBR Subscribers
-   Must Reads on Diversity
-   HBR's definitive articles on diversity will help your company confront
-   bias and make progress toward inclusion--and higher performance.
-   Show Reading List Show Reading List
-     * LQ
-       [91]Lincoln Quillian is Professor of Sociology and Faculty Fellow
-       at the Institute for Policy Research at Northwestern University.
-       His current research is involves the study of hiring discrimination
-       through meta-analysis of field experiments and research to
-       understand factors contributing to segregation on the basis of race
-       and income.
-     * DP
-       [92]Devah Pager is Professor of Sociology and Public Policy at
-       Harvard University and the Susan S. and the Kenneth L. Wallach
-       Professor at the Radcliffe Institute for Advanced Study. Her
-       current research involves the use of field experiments to study
-       hiring discrimination and to evaluate the consequences of legal
-       debt.
-     * AM
-       [93]Arnfinn H. Midtbøen is Senior Research Fellow at The Institute
-       for Social Research in Oslo, Norway. Midtbøen works on a broad set
-       of research issues, such as ethnic discrimination, second
-       generation incorporation, citizenship, and immigrant employment
-       niches.
-     * OH
-       [94]Ole Hexel is a PhD student at Northwestern University and
-       Sciences Po Paris. His dissertation examines the importance of
-       family assets in the transmission of status across generations,
-       through a comparison of inter vivos transfers in several western
-       democracies.
+   Arbitrariness
 
-     * Tweet
-     * Post
-     * Share
-     *
-     * Save
-     * Get PDF
-     * Buy Copies
-     * Print
+   Jan 03, 2023
+   [149]Court Recommends New Trial for Texas Death-Row Prisoner, Finding
+   Rights Violated by Trial Judge's Virulent Anti-Semitism
 
-   New!
-   [HBR-learning-icon.png] HBR Learning
-   Attracting and Cultivating Talent Course
-   Accelerate your career with Harvard ManageMentor®. HBR Learning's
-   online leadership training helps you hone your skills with courses like
-   Attracting and Cultivating Talent. Earn badges to share on LinkedIn and
-   your resume. Access more than 40 courses trusted by Fortune 500
-   companies.
-   Discover how to attract, hire, develop, and keep talented people who
-   will grow and thrive throughout their employee journey.
-   [95]Start Course
-   [96]Learn More & See All Courses
-   [topic_landing_page_1400.png]
-   Read more on [97]Hiring and recruitment or related topics [98]Race and
-   [99]Workplace discrimination
+Court Recommends New Trial for Texas Death-Row Prisoner, Finding Rights
+Violated by Trial Judge's Virulent Anti-Semitism
 
-   Want to see the other articles in this list?
-   [100](BUTTON) Subscribe Now
-   [101]I'm already a subscriber.
-   Sign In.
-   ____________________ ____________________
-   (BUTTON) Sign In
-   [102]Forgot Password?
-   [103]I'm a subscriber, but I don't have an HBR.org account
-   Thanks for your patience.
-   We're upgrading our systems so we can better serve our subscribers.
-   Unfortunately, that means we have to temporarily suspend subscriber
-   syncing. We apologize for the inconvenience.
-   We'll be back up and running within 48 hours.
-   Let's find your subscription.
-   Enter your subscriber email address.
-   ____________________ (BUTTON) Continue
-   We need a little more information to find your subscription.
-   Enter an account number.
-   ____________________ (BUTTON) Continue
-   [104]I want to try again with a different email address.
-   Need help getting access?
-   Call customer service:
-   US / Canada: 800-274-3214
-   Asia / Pacific: +61 2 9158 6127
-   All Other Countries: +44 1858 438 412
-   Have questions? [105]See our subscription FAQ.
-   You're a subscriber! Now get access to your benefits.
-   Confirm your subscriber information and enter your password.Confirm
-   your subscriber information and create a password
-   NAME:
-   EMAIL: Not You?
-   [eyeHidden.svg] Show password Hide password ____________________
-   Passwords must have at least 10 characters, one number, one lower and
-   one upper case letter, and one special character
-   (BUTTON) Sync Your SubscriptionCreate Account
-   Forgot Password?
-   You're all set, .
-   You now have access to all your subscriber benefits on HBR.org. We've
-   sent an email to confirming your HBR.org account.
-   (BUTTON) Back To the article
-   Forgot your password?
-   Enter your email address and we'll send you a link to reset your
-   password.
+   Human Rights
+
+   Dec 28, 2022
+   [150]Zambia Becomes 25th Sub-Saharan African Nation to Abolish Death
+   Penalty
+
+Zambia Becomes 25^th Sub-Saharan African Nation to Abolish Death Penalty
+
+Join our mailing list
+
    ____________________
-   (BUTTON) Continue
-   Forgot your password?
-   If your email is registered with us, you will receive an email with a
-   link to reset your password.
-   Don't have an account? Activate your subscription.
-   Need help getting access? Contact Customer Service:
-   800.988.0886 (U.S./Canada) 617.783.7500 (International)
-   [106]customerservice@harvardbusiness.org
-   [107]No thanks, take me back to the article [108]Take me back, I want
-   to start over.
+   ____________________
+   Subscribe
+   Death Penalty Information Center
+     * [151]Email
+     * [152]Facebook
+     * [153]Twitter
 
-Partner Center
+   Policy Issues
+     * [154]Arbitrariness
+     * [155]Costs
+     * [156]Deterrence
+     * [157]Innocence
+     * [158]Intellectual Disability
+     * [159]Juveniles
+     * [160]International
+     * [161]Mental Illness
+     * [162]Prosecutorial Accountability
+     * [163]Race
+     * [164]Representation
+     * [165]Sentencing Alternatives
+     * [166]Victims' Families
 
-   [109]Diversity [110]Latest [111]Magazine [112]Ascend [113]Topics
-   [114]Podcasts [115]Video [116]Store [117]The Big Idea [118]Data &
-   Visuals [119]Case Selections [120]HBR Learning
+   Facts & Research
+     * [167]Fact Sheet
+     * [168]Death Penalty Census
+     * [169]Clemency
+     * [170]Crimes Punishable by Death
+     * [171]DPIC Reports
+     * [172]History of the Death Penalty
+     * [173]Innocence Database
+     * [174]Murder Rates
+     * [175]Public Opinion
+     * [176]Recent Legislative Activity
+     * [177]Religion
+     * [178]Sentencing Data
+     * [179]Student Research Center
+     * [180]United States Supreme Court
 
-   [121]Harvard Business Review Home
-   [122]Subscribe
+   Executions
+     * [181]Executions Overview
+     * [182]Upcoming Executions
+     * [183]Execution Database
+     * [184]Methods of Execution
+     * [185]Botched Executions
+     * [186]Lethal Injection
 
-Explore HBR
+   Death Row
+     * [187]Death Row Overview
+     * [188]Conditions on Death Row
+     * [189]Foreign Nationals
+     * [190]Native Americans
+     * [191]Time on Death Row
+     * [192]Women
 
-     * [123]The Latest
-     * [124]Most Popular
-     * [125]All Topics
-     * [126]Magazine Archive
-     * [127]The Big Idea
-     * [128]Reading Lists
-     * [129]Case Selections
-     * [130]Video
-     * [131]Podcasts
-     * [132]Webinars
-     * [133]Data & Visuals
-     * [134]My Library
-     * [135]Newsletters
-     * [136]HBR Press
-     * [137]HBR Ascend
+   State & Federal Info
+     * [193]State by State
+     * [194]Federal Death Penalty
+     * [195]Military
 
-HBR Store
+   About
+     * [196]About Us
+     * [197]Staff & Board of Directors
+     * [198]DPIC in the Media
+     * [199]DPIC Testimony
+     * [200]Press Releases
+     * [201]Work for DPIC
 
-     * [138]Article Reprints
-     * [139]Books
-     * [140]Cases
-     * [141]Collections
-     * [142]Magazine Issues
-     * [143]HBR Guide Series
-     * [144]HBR 20-Minute Managers
-     * [145]HBR Emotional Intelligence Series
-     * [146]HBR Must Reads
-     * [147]Tools
+   [202]For the Media
+   Resources
+     * [203]Related Websites
+     * [204]Publications & Testimony
+     * [205]DPIC Podcasts
+     * [206]DPIC Reports
+     * [207]New Voices
+     * [208]En Español
 
-About HBR
+   [209]For Educators
+   [210]Fact Sheet
+   [211]Donate
+     __________________________________________________________________
 
-     * [148]Contact Us
-     * [149]Advertise with Us
-     * [150]Information for Booksellers/Retailers
-     * [151]Masthead
-     * [152]Global Editions
-     * [153]Media Inquiries
-     * [154]Guidelines for Authors
-     * [155]HBR Analytic Services
-     * [156]Copyright Permissions
+   Death Penalty Information Center | 1701 K Street NW Suite 205
+   Washington, DC 20006
 
-Manage My Account
+   Phone: [212]202-289-2275 | Email: [213][email protected]
 
-     * [157]My Library
-     * [158]Topic Feeds
-     * [159]Orders
-     * [160]Account Settings
-     * [161]Email Preferences
-     * [162]Account FAQ
-     * [163]Help Center
-     * [164]Contact Customer Service
-
-Follow HBR
-
-     * [165]Facebook
-     * [166]Twitter
-     * [167]LinkedIn
-     * [168]Instagram
-     * [169]Your Newsreader
-
-   Harvard Business Publishing
-     * [170]About Us
-     * [171]Careers
-     * [172]Privacy Policy
-     * [173]Cookie Policy
-     * [174]Copyright Information
-     * [175]Trademark Policy
-
-   Harvard Business Publishing:
-     * [176]Higher Education
-     * [177]Corporate Learning
-     * [178]Harvard Business Review
-     * [179]Harvard Business School
-
-   Copyright ©   Harvard Business School Publishing. All rights reserved.
-   Harvard Business Publishing is an affiliate of Harvard Business School.
-
-   [p?c1=2&c2=14457509&cv=2.0&cj=1]
+   [214]Privacy Policy | ©2023 Death Penalty Information Center
 
 References
 
    Visible links:
-   1. https://hbr.org/
-   2. https://hbr.org/subscriptions?ab=topbar-subtout&tpcc=houseads.site.topbar-subtout
-   3. https://hbr.org/shopping-cart
-   4. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
-   5. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
-   6. https://hbr.org/insight-center/race-equity-and-power-at-work
-   7. https://hbr.org/the-latest
-   8. https://hbr.org/magazine
-   9. https://hbr.org/ascend
-  10. https://hbr.org/most-popular
-  11. https://hbr.org/podcasts
-  12. https://hbr.org/video
-  13. https://hbr.org/store
-  14. https://hbr.org/webinars
-  15. https://hbr.org/email-newsletters
-  16. https://hbr.org/topic/subject/managing-yourself
-  17. https://hbr.org/topic/subject/leadership
-  18. https://hbr.org/topic/subject/strategy
-  19. https://hbr.org/topic/subject/managing-people
-  20. https://hbr.org/topic/subject/gender
-  21. https://hbr.org/topic/subject/innovation
-  22. https://hbr.org/topic/subject/work-life-balance
-  23. https://hbr.org/topics
-  24. https://hbr.org/big-ideas
-  25. https://hbr.org/data-visuals
-  26. https://hbr.org/reading-lists
-  27. https://hbr.org/case-selections
-  28. https://hbr.org/learning
-  29. https://hbr.org/subscriptions?ab=leftnav-subtout&tpcc=houseads.site.leftnav-subtout
-  30. https://hbr.org/my-library
-  31. https://hbr.org/my-library/topics
-  32. https://hbr.org/my-library/orders
-  33. https://hbr.org/my-library/settings
-  34. https://hbr.org/my-library/preferences
-  35. https://hbr.org/logout
-  36. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
-  37. https://hbr.org/subscriptions?ab=leftnav-subtout&tpcc=houseads.site.leftnav-subtout
-  38. https://hbr.org/insight-center/race-equity-and-power-at-work
-  39. https://hbr.org/the-latest
-  40. https://hbr.org/podcasts
-  41. https://hbr.org/video
-  42. https://hbr.org/magazine
-  43. https://hbr.org/ascend
-  44. https://hbr.org/store
-  45. https://hbr.org/webinars
-  46. https://hbr.org/email-newsletters
-  47. https://hbr.org/topics
-  48. https://hbr.org/big-ideas
-  49. https://hbr.org/data-visuals
-  50. https://hbr.org/reading-lists
-  51. https://hbr.org/case-selections
-  52. https://hbr.org/learning
-  53. https://hbr.org/my-library
-  54. https://hbr.org/my-library/settings
-  55. https://hbr.org/logout
-  56. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
-  57. https://hbr.org/store
-  58. https://hbr.org/my-library/library
-  59. https://hbr.org/my-library/topics
-  60. https://hbr.org/my-library/orders
-  61. https://hbr.org/my-library/settings
-  62. https://hbr.org/my-library/preferences
-  63. https://hbr.org/logout
-  64. https://hbr.org/subscriptions?ab=redstrip-subtout&tpcc=houseads.site.redstrip-subtout
-  65. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
-  66. https://hbr.org/topic/subject/hiring-and-recruitment
-  67. https://hbr.org/search?term=lincoln%20quillian
-  68. https://hbr.org/search?term=devah%20pager
-  69. https://hbr.org/search?term=arnfinn%20h.%20midtb%F8en
-  70. https://hbr.org/search?term=ole%20hexel
-  71. https://hbr.org/search?term=lincoln%20quillian
-  72. https://hbr.org/search?term=devah%20pager
-  73. https://hbr.org/search?term=arnfinn%20h.%20midtb%F8en
-  74. https://hbr.org/search?term=ole%20hexel
-  75. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years?language=es
-  76. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years?language=pt
-  77. https://www.washingtonpost.com/local/public-safety/study-charlottesville-white-supremacist-rally-in-august-drew-attendees-from-35-states/2017/10/08/fe57868e-ac45-11e7-a908-a3470754bbb9_story.html?utm_term=.7e76955d6e86
-  78. https://www.washingtonpost.com/news/wonk/wp/2014/10/08/white-people-think-racial-discrimination-in-america-is-basically-over/?utm_term=.4f5407ff98e7
-  79. http://www.pewsocialtrends.org/2016/06/27/on-views-of-race-and-inequality-blacks-and-whites-are-worlds-apart/
-  80. http://www.pnas.org/content/114/41/10870.full
-  81. https://www.nap.edu/catalog/10887/measuring-racial-discrimination
-  82. http://igpa.uillinois.edu/programs/racial-attitudes
-  83. http://www.hup.harvard.edu/catalog.php?isbn=9780674745698
-  84. https://www.amazon.com/Realities-Affirmative-Action-Employment-Barbara/dp/0912764368
-  85. http://journals.sagepub.com/doi/abs/10.1111/1467-9280.00262
-  86. http://journals.sagepub.com/doi/abs/10.1177/01461672952111002
-  87. https://hbr.org/learning?ab=articlepage_hmm-landing_hmm-tout-rightrail
-  88. https://hbr.org/topic/subject/hiring-and-recruitment?ab=articlepage-topic
-  89. https://hbr.org/topic/subject/race?ab=articlepage-topic
-  90. https://hbr.org/topic/subject/workplace-discrimination?ab=articlepage-topic
-  91. https://hbr.org/search?term=lincoln%20quillian&search_type=search-all
-  92. https://hbr.org/search?term=devah%20pager&search_type=search-all
-  93. https://hbr.org/search?term=arnfinn%20h.%20midtb%F8en&search_type=search-all
-  94. https://hbr.org/search?term=ole%20hexel&search_type=search-all
-  95. https://hbr.org/api/hmm/link?url=%2Fcontent%2Fattracting_and_cultivating_talent%2Flandingpage.html%3Futm_source%3Dhbrwebsite%26utm_medium%3Darticle-tout
-  96. https://hbr.org/learning?ab=articlepage_hmm-landing_hmm-tout-bottom
-  97. https://hbr.org/topic/subject/hiring-and-recruitment?ab=articlepage-topic
-  98. https://hbr.org/topic/subject/race?ab=articlepage-topic
-  99. https://hbr.org/topic/subject/workplace-discrimination?ab=articlepage-topic
- 100. https://hbr.org/subscriptions?ab=paywall-article-subtout&tpcc=houseads.site.paywall-article-subtout
- 101. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 102. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 103. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 104. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 105. https://hbr.org/subscriber-help
- 106. mailto:customerservice@harvardbusiness.org
- 107. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 108. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 109. https://hbr.org/insight-center/race-equity-and-power-at-work
- 110. https://hbr.org/the-latest
- 111. https://hbr.org/magazine
- 112. https://hbr.org/ascend
- 113. https://hbr.org/topics
- 114. https://hbr.org/podcasts
- 115. https://hbr.org/video
- 116. https://hbr.org/store
- 117. https://hbr.org/big-ideas
- 118. https://hbr.org/data-visuals
- 119. https://hbr.org/case-selections
- 120. https://hbr.org/learning
- 121. https://hbr.org/
- 122. https://hbr.org/subscriptions?ab=footer-subtout&tpcc=houseads.site.footer-subtout
- 123. https://hbr.org/the-latest
- 124. https://hbr.org/most-popular
- 125. https://hbr.org/topics
- 126. https://hbr.org/magazine
- 127. https://hbr.org/big-ideas
- 128. https://hbr.org/reading-lists
- 129. https://hbr.org/case-selections
- 130. https://hbr.org/video
- 131. https://hbr.org/podcasts
- 132. https://hbr.org/webinars
- 133. https://hbr.org/data-visuals
- 134. https://hbr.org/my-library
- 135. https://hbr.org/email-newsletters
- 136. https://hbr.org/hbrpress
- 137. https://hbr.org/ascend
- 138. https://hbr.org/store/articles
- 139. https://hbr.org/store/books
- 140. https://hbr.org/store/case-studies
- 141. https://hbr.org/store/collections
- 142. https://hbr.org/store/magazine-issues
- 143. https://hbr.org/store/landing/guides
- 144. https://hbr.org/store/landing/20-minute-managers
- 145. https://hbr.org/store/landing/emotional-intelligence-series
- 146. https://hbr.org/store/landing/mustreads
- 147. https://hbr.org/store/tools
- 148. https://hbr.org/contact-us
- 149. https://hbr.org/hbr-advertising-sales
- 150. https://hbr.org/booksellers-retailers
- 151. https://hbr.org/about-hbr
- 152. https://hbr.org/global-editions
- 153. https://hbr.org/media-inquiries
- 154. https://hbr.org/guidelines-for-authors-web
- 155. https://hbr.org/hbr-analytic-services
- 156. https://hbr.org/permissions
- 157. https://hbr.org/my-library
- 158. https://hbr.org/my-library/topics
- 159. https://hbr.org/my-library/orders
- 160. https://hbr.org/my-library/settings
- 161. https://hbr.org/my-library/preferences
- 162. https://hbr.org/subscriber-help
- 163. https://hbphelp.zendesk.com/hc/en-us
- 164. https://hbr.org/subscriber-help#contact-customer-service
- 165. http://www.facebook.com/HBR
- 166. http://twitter.com/HarvardBiz
- 167. https://www.linkedin.com/company/harvard-business-review?trk=biz-companies-cym
- 168. https://www.instagram.com/harvard_business_review/?hl=en
- 169. http://feeds.hbr.org/harvardbusiness/
- 170. https://hbr.org/corporate/about
- 171. https://hbr.org/corporate/careers
- 172. https://hbr.org/privacy-policy
- 173. https://hbr.org/corporate/cookie-policy
- 174. https://hbr.org/corporate/copyright
- 175. http://trademark.harvard.edu/pages/trademark-notice
- 176. http://hbsp.harvard.edu/
- 177. http://www.harvardbusiness.org/
- 178. http://hbr.org/
- 179. http://www.hbs.edu/
+   1. https://deathpenaltyinfo.org/
+   2. https://deathpenaltyinfo.org/news/dpic-releases-major-new-report-on-race-and-the-u-s-death-penalty
+   3. https://deathpenaltyinfo.org/news/dpic-releases-major-new-report-on-race-and-the-u-s-death-penalty#menu
+   4. https://deathpenaltyinfo.org/news/dpic-releases-major-new-report-on-race-and-the-u-s-death-penalty#search
+   5. https://deathpenaltyinfo.org/
+   6. https://deathpenaltyinfo.org/news/dpic-releases-major-new-report-on-race-and-the-u-s-death-penalty#about
+   7. https://deathpenaltyinfo.org/about/staff-and-board-of-directors
+   8. https://deathpenaltyinfo.org/about/about-us
+   9. https://deathpenaltyinfo.org/about/in-the-media
+  10. https://deathpenaltyinfo.org/about/dpic-testimony
+  11. https://deathpenaltyinfo.org/about/press-releases
+  12. https://deathpenaltyinfo.org/about/work-for-dpic
+  13. https://deathpenaltyinfo.org/for-the-media
+  14. https://deathpenaltyinfo.org/news/dpic-releases-major-new-report-on-race-and-the-u-s-death-penalty#resources
+  15. https://deathpenaltyinfo.org/resources/publications-and-testimony
+  16. https://deathpenaltyinfo.org/resources/related-websites
+  17. https://deathpenaltyinfo.org/resources/podcasts
+  18. https://deathpenaltyinfo.org/facts-and-research/dpic-reports
+  19. https://deathpenaltyinfo.org/facts-and-research/new-voices
+  20. https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol
+  21. https://deathpenaltyinfo.org/for-educators
+  22. https://deathpenaltyinfo.org/documents/FactSheet.pdf
+  23. https://deathpenaltyinfo.org/donate
+  24. https://deathpenaltyinfo.org/cdn-cgi/l/email-protection#f195819892b1959490859981949f909d8588989f979edf9e8396
+  25. https://www.facebook.com/deathpenaltyinfo/
+  26. https://twitter.com/DPInfoCtr
+  27. https://deathpenaltyinfo.org/
+  28. https://deathpenaltyinfo.org/news/dpic-releases-major-new-report-on-race-and-the-u-s-death-penalty#policy-issues
+  29. https://deathpenaltyinfo.org/policy-issues/arbitrariness
+  30. https://deathpenaltyinfo.org/policy-issues/costs
+  31. https://deathpenaltyinfo.org/policy-issues/deterrence
+  32. https://deathpenaltyinfo.org/policy-issues/human-rights
+  33. https://deathpenaltyinfo.org/policy-issues/innocence
+  34. https://deathpenaltyinfo.org/policy-issues/intellectual-disability
+  35. https://deathpenaltyinfo.org/policy-issues/international
+  36. https://deathpenaltyinfo.org/policy-issues/juveniles
+  37. https://deathpenaltyinfo.org/policy-issues/mental-illness
+  38. https://deathpenaltyinfo.org/policy-issues/prosecutorial-accountability
+  39. https://deathpenaltyinfo.org/policy-issues/race
+  40. https://deathpenaltyinfo.org/policy-issues/death-penalty-representation
+  41. https://deathpenaltyinfo.org/policy-issues/sentencing-alternatives
+  42. https://deathpenaltyinfo.org/policy-issues/victims-families
+  43. https://deathpenaltyinfo.org/news/dpic-releases-major-new-report-on-race-and-the-u-s-death-penalty#facts-and-research
+  44. https://deathpenaltyinfo.org/factsheet.pdf
+  45. https://deathpenaltyinfo.org/facts-and-research/death-penalty-census
+  46. https://deathpenaltyinfo.org/facts-and-research/clemency
+  47. https://deathpenaltyinfo.org/facts-and-research/crimes-punishable-by-death
+  48. https://deathpenaltyinfo.org/facts-and-research/dpic-reports
+  49. https://deathpenaltyinfo.org/facts-and-research/history-of-the-death-penalty
+  50. https://deathpenaltyinfo.org/policy-issues/innocence-database
+  51. https://deathpenaltyinfo.org/facts-and-research/murder-rates
+  52. https://deathpenaltyinfo.org/facts-and-research/public-opinion-polls
+  53. https://deathpenaltyinfo.org/facts-and-research/recent-legislative-activity
+  54. https://deathpenaltyinfo.org/facts-and-research/religious-statements
+  55. https://deathpenaltyinfo.org/facts-and-research/sentencing-data
+  56. https://deathpenaltyinfo.org/facts-and-research/student-research-center
+  57. https://deathpenaltyinfo.org/facts-and-research/united-states-supreme-court
+  58. https://deathpenaltyinfo.org/news/dpic-releases-major-new-report-on-race-and-the-u-s-death-penalty#executions
+  59. https://deathpenaltyinfo.org/executions/executions-overview
+  60. https://deathpenaltyinfo.org/executions/upcoming-executions
+  61. https://deathpenaltyinfo.org/executions/execution-database
+  62. https://deathpenaltyinfo.org/executions/methods-of-execution
+  63. https://deathpenaltyinfo.org/executions/botched-executions
+  64. https://deathpenaltyinfo.org/executions/lethal-injection
+  65. https://deathpenaltyinfo.org/news/dpic-releases-major-new-report-on-race-and-the-u-s-death-penalty#death-row
+  66. https://deathpenaltyinfo.org/death-row/overview
+  67. https://deathpenaltyinfo.org/death-row/conditions-on-death-row
+  68. https://deathpenaltyinfo.org/death-row/foreign-nationals
+  69. https://deathpenaltyinfo.org/death-row/native-americans
+  70. https://deathpenaltyinfo.org/death-row/death-row-time-on-death-row
+  71. https://deathpenaltyinfo.org/death-row/women
+  72. https://deathpenaltyinfo.org/news/dpic-releases-major-new-report-on-race-and-the-u-s-death-penalty#state-and-federal-info
+  73. https://deathpenaltyinfo.org/state-and-federal-info/state-by-state
+  74. https://deathpenaltyinfo.org/state-and-federal-info/federal-death-penalty
+  75. https://deathpenaltyinfo.org/state-and-federal-info/military
+  76. https://deathpenaltyinfo.org/
+  77. https://deathpenaltyinfo.org/policy-issues/arbitrariness
+  78. https://deathpenaltyinfo.org/policy-issues/costs
+  79. https://deathpenaltyinfo.org/policy-issues/deterrence
+  80. https://deathpenaltyinfo.org/policy-issues/human-rights
+  81. https://deathpenaltyinfo.org/policy-issues/innocence
+  82. https://deathpenaltyinfo.org/policy-issues/intellectual-disability
+  83. https://deathpenaltyinfo.org/policy-issues/international
+  84. https://deathpenaltyinfo.org/policy-issues/juveniles
+  85. https://deathpenaltyinfo.org/policy-issues/mental-illness
+  86. https://deathpenaltyinfo.org/policy-issues/prosecutorial-accountability
+  87. https://deathpenaltyinfo.org/policy-issues/race
+  88. https://deathpenaltyinfo.org/policy-issues/death-penalty-representation
+  89. https://deathpenaltyinfo.org/policy-issues/sentencing-alternatives
+  90. https://deathpenaltyinfo.org/policy-issues/victims-families
+  91. https://deathpenaltyinfo.org/factsheet.pdf
+  92. https://deathpenaltyinfo.org/facts-and-research/death-penalty-census
+  93. https://deathpenaltyinfo.org/facts-and-research/clemency
+  94. https://deathpenaltyinfo.org/facts-and-research/crimes-punishable-by-death
+  95. https://deathpenaltyinfo.org/facts-and-research/dpic-reports
+  96. https://deathpenaltyinfo.org/facts-and-research/history-of-the-death-penalty
+  97. https://deathpenaltyinfo.org/policy-issues/innocence-database
+  98. https://deathpenaltyinfo.org/facts-and-research/murder-rates
+  99. https://deathpenaltyinfo.org/facts-and-research/public-opinion-polls
+ 100. https://deathpenaltyinfo.org/facts-and-research/recent-legislative-activity
+ 101. https://deathpenaltyinfo.org/facts-and-research/religious-statements
+ 102. https://deathpenaltyinfo.org/facts-and-research/sentencing-data
+ 103. https://deathpenaltyinfo.org/facts-and-research/student-research-center
+ 104. https://deathpenaltyinfo.org/facts-and-research/united-states-supreme-court
+ 105. https://deathpenaltyinfo.org/executions/executions-overview
+ 106. https://deathpenaltyinfo.org/executions/upcoming-executions
+ 107. https://deathpenaltyinfo.org/executions/execution-database
+ 108. https://deathpenaltyinfo.org/executions/methods-of-execution
+ 109. https://deathpenaltyinfo.org/executions/botched-executions
+ 110. https://deathpenaltyinfo.org/executions/lethal-injection
+ 111. https://deathpenaltyinfo.org/death-row/overview
+ 112. https://deathpenaltyinfo.org/death-row/conditions-on-death-row
+ 113. https://deathpenaltyinfo.org/death-row/foreign-nationals
+ 114. https://deathpenaltyinfo.org/death-row/native-americans
+ 115. https://deathpenaltyinfo.org/death-row/death-row-time-on-death-row
+ 116. https://deathpenaltyinfo.org/death-row/women
+ 117. https://deathpenaltyinfo.org/state-and-federal-info/state-by-state
+ 118. https://deathpenaltyinfo.org/state-and-federal-info/federal-death-penalty
+ 119. https://deathpenaltyinfo.org/state-and-federal-info/military
+ 120. https://deathpenaltyinfo.org/about/staff-and-board-of-directors
+ 121. https://deathpenaltyinfo.org/about/about-us
+ 122. https://deathpenaltyinfo.org/about/in-the-media
+ 123. https://deathpenaltyinfo.org/about/dpic-testimony
+ 124. https://deathpenaltyinfo.org/about/press-releases
+ 125. https://deathpenaltyinfo.org/about/work-for-dpic
+ 126. https://deathpenaltyinfo.org/for-the-media
+ 127. https://deathpenaltyinfo.org/resources/publications-and-testimony
+ 128. https://deathpenaltyinfo.org/resources/related-websites
+ 129. https://deathpenaltyinfo.org/resources/podcasts
+ 130. https://deathpenaltyinfo.org/facts-and-research/dpic-reports
+ 131. https://deathpenaltyinfo.org/facts-and-research/new-voices
+ 132. https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol
+ 133. https://deathpenaltyinfo.org/for-educators
+ 134. https://deathpenaltyinfo.org/documents/FactSheet.pdf
+ 135. https://deathpenaltyinfo.org/donate
+ 136. https://www.facebook.com/sharer.php?&u=https%3A%2F%2Fdeathpenaltyinfo.org%2Fnews%2Fdpic-releases-major-new-report-on-race-and-the-u-s-death-penalty
+ 137. https://twitter.com/intent/tweet?url=https%3A%2F%2Fdeathpenaltyinfo.org%2Fnews%2Fdpic-releases-major-new-report-on-race-and-the-u-s-death-penalty&text=DPIC%20Releases%20Major%20New%20Report%20on%20Race%20and%20the%20U.S.%20Death%20Penalty
+ 138. https://deathpenaltyinfo.org/cdn-cgi/l/email-protection#2c135f594e46494f5811687c656f091e1c7e4940494d5f495f091e1c614d46435e091e1c62495b091e1c7e495c435e58091e1c4342091e1c7e4d4f49091e1c4d4248091e1c584449091e1c79027f02091e1c68494d5844091e1c7c49424d4058550a4e434855114458585c5f091f6d091e6a091e6a48494d58445c49424d40585545424a4302435e4b091e6a42495b5f091e6a485c454f015e4940494d5f495f01414d46435e0142495b015e495c435e58014342015e4d4f49014d4248015844490159015f0148494d5844015c49424d405855
+ 139. https://deathpenaltyinfo.org/search-results?t[]=7
+ 140. https://deathpenaltyinfo.org/search-results?t[]=300
+ 141. https://files.deathpenaltyinfo.org/documents/reports/Enduring-Injustice-Race-and-the-Death-Penalty-2020.pdf
+ 142. https://dpic.imgix.net/Virginia-chart.png
+ 143. https://files.deathpenaltyinfo.org/documents/reports/Enduring-Injustice-Race-and-the-Death-Penalty-2020.pdf
+ 144. https://apnews.com/ded1f517a0fd64bf1d55c448a06acccc
+ 145. https://richmond.com/news/state-and-regional/death-penalty-has-been-used-to-enforce-racial-hierarchies-since-colonial-times-study-concludes/article_6b034900-0d8c-52f2-90fa-8041d8df8929.html
+ 146. https://www.commercialappeal.com/story/news/2020/09/15/death-penalty-opponents-see-ties-nationwide-reckoning-over-race/5794984002/
+ 147. https://deathpenaltyinfo.org/facts-and-research/dpic-reports/in-depth/enduring-injustice-the-persistence-of-racial-discrimination-in-the-u-s-death-penalty
+ 148. https://deathpenaltyinfo.org/news/dpic-podcast-georgetown-racial-justice-institute-director-diann-rust-tierney-on-reconceptualizing-the-u-s-death-penalty-as-a-violation-of-fundamental-human-rights
+ 149. https://deathpenaltyinfo.org/news/court-recommends-new-trial-for-texas-death-row-prisoner-finding-rights-violated-by-trial-judges-virulent-anti-semitism
+ 150. https://deathpenaltyinfo.org/news/zambia-becomes-25th-sub-saharan-african-nation-to-abolish-death-penalty
+ 151. https://deathpenaltyinfo.org/cdn-cgi/l/email-protection#c2a6b2aba182a6a7a3b6aab2a7aca3aeb6bbabaca4adecadb0a5
+ 152. https://www.facebook.com/deathpenaltyinfo/
+ 153. https://twitter.com/DPInfoCtr
+ 154. https://deathpenaltyinfo.org/policy-issues/arbitrariness
+ 155. https://deathpenaltyinfo.org/policy-issues/costs
+ 156. https://deathpenaltyinfo.org/policy-issues/deterrence
+ 157. https://deathpenaltyinfo.org/policy-issues/innocence
+ 158. https://deathpenaltyinfo.org/policy-issues/intellectual-disability
+ 159. https://deathpenaltyinfo.org/policy-issues/juveniles
+ 160. https://deathpenaltyinfo.org/policy-issues/international
+ 161. https://deathpenaltyinfo.org/policy-issues/mental-illness
+ 162. https://deathpenaltyinfo.org/policy-issues/prosecutorial-accountability
+ 163. https://deathpenaltyinfo.org/policy-issues/race
+ 164. https://deathpenaltyinfo.org/policy-issues/death-penalty-representation
+ 165. https://deathpenaltyinfo.org/policy-issues/sentencing-alternatives
+ 166. https://deathpenaltyinfo.org/policy-issues/victims-families
+ 167. https://deathpenaltyinfo.org/documents/FactSheet.pdf
+ 168. https://deathpenaltyinfo.org/facts-and-research/death-penalty-census
+ 169. https://deathpenaltyinfo.org/facts-and-research/clemency
+ 170. https://deathpenaltyinfo.org/facts-and-research/crimes-punishable-by-death
+ 171. https://deathpenaltyinfo.org/facts-and-research/dpic-reports
+ 172. https://deathpenaltyinfo.org/facts-and-research/history-of-the-death-penalty
+ 173. https://deathpenaltyinfo.org/policy-issues/innocence-database
+ 174. https://deathpenaltyinfo.org/facts-and-research/murder-rates
+ 175. https://deathpenaltyinfo.org/facts-and-research/public-opinion-polls
+ 176. https://deathpenaltyinfo.org/facts-and-research/recent-legislative-activity
+ 177. https://deathpenaltyinfo.org/facts-and-research/religious-statements
+ 178. https://deathpenaltyinfo.org/facts-and-research/sentencing-data
+ 179. https://deathpenaltyinfo.org/facts-and-research/student-research-center
+ 180. https://deathpenaltyinfo.org/facts-and-research/united-states-supreme-court
+ 181. https://deathpenaltyinfo.org/executions/executions-overview
+ 182. https://deathpenaltyinfo.org/executions/upcoming-executions
+ 183. https://deathpenaltyinfo.org/executions/execution-database
+ 184. https://deathpenaltyinfo.org/executions/methods-of-execution
+ 185. https://deathpenaltyinfo.org/executions/botched-executions
+ 186. https://deathpenaltyinfo.org/executions/lethal-injection
+ 187. https://deathpenaltyinfo.org/death-row/overview
+ 188. https://deathpenaltyinfo.org/death-row/conditions-on-death-row
+ 189. https://deathpenaltyinfo.org/death-row/foreign-nationals
+ 190. https://deathpenaltyinfo.org/death-row/native-americans
+ 191. https://deathpenaltyinfo.org/death-row/death-row-time-on-death-row
+ 192. https://deathpenaltyinfo.org/death-row/women
+ 193. https://deathpenaltyinfo.org/state-and-federal-info/state-by-state
+ 194. https://deathpenaltyinfo.org/state-and-federal-info/federal-death-penalty
+ 195. https://deathpenaltyinfo.org/state-and-federal-info/military
+ 196. https://deathpenaltyinfo.org/about/about-us
+ 197. https://deathpenaltyinfo.org/about/staff-and-board-of-directors
+ 198. https://deathpenaltyinfo.org/about/in-the-media
+ 199. https://deathpenaltyinfo.org/about/dpic-testimony
+ 200. https://deathpenaltyinfo.org/about/press-releases
+ 201. https://deathpenaltyinfo.org/about/work-for-dpic
+ 202. https://deathpenaltyinfo.org/for-the-media
+ 203. https://deathpenaltyinfo.org/resources/related-websites
+ 204. https://deathpenaltyinfo.org/resources/publications-and-testimony
+ 205. https://deathpenaltyinfo.org/resources/podcasts
+ 206. https://deathpenaltyinfo.org/facts-and-research/dpic-reports
+ 207. https://deathpenaltyinfo.org/facts-and-research/new-voices
+ 208. https://deathpenaltyinfo.org/facts-and-research/en-espa%C3%B1ol
+ 209. https://deathpenaltyinfo.org/for-educators
+ 210. https://deathpenaltyinfo.org/documents/FactSheet.pdf
+ 211. https://deathpenaltyinfo.org/donate
+ 212. tel:202-289-2275
+ 213. https://deathpenaltyinfo.org/cdn-cgi/l/email-protection#5733273e3417333236233f273239363b232e3e39313879382530
+ 214. https://deathpenaltyinfo.org/privacy-policy
 
    Hidden links:
- 181. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 182. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 183. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 184. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 185. http://twitter.com/HarvardBiz
- 186. http://www.facebook.com/HBR
- 187. https://www.linkedin.com/company/harvard-business-review?trk=biz-companies-cym
- 188. https://www.instagram.com/harvard_business_review/?hl=en
- 189. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 190. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 191. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 192. http://twitter.com/HarvardBiz
- 193. http://www.facebook.com/HBR
- 194. https://www.linkedin.com/company/harvard-business-review?trk=biz-companies-cym
- 195. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 196. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 197. https://hbr.org/product/hiring-discrimination-against-black-americans-hasn-t-declined-in-25-years/H03XD9-PDF-ENG
- 198. javascript:window.print();
- 199. http://twitter.com/HarvardBiz
- 200. http://www.facebook.com/HBR
- 201. https://www.linkedin.com/company/harvard-business-review?trk=biz-companies-cym
- 202. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 203. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 204. https://hbr.org/product/hiring-discrimination-against-black-americans-hasn-t-declined-in-25-years/H03XD9-PDF-ENG
- 205. javascript:window.print();
- 206. https://hbr.org/api/hmm/link?url=%2Fcontent%2Fattracting_and_cultivating_talent%2Flandingpage.html%3Futm_source%3Dhbrwebsite%26utm_medium%3Darticle-tout
- 207. http://twitter.com/HarvardBiz
- 208. http://www.facebook.com/HBR
- 209. https://www.linkedin.com/company/harvard-business-review?trk=biz-companies-cym
- 210. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 211. https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years
- 212. https://hbr.org/product/hiring-discrimination-against-black-americans-hasn-t-declined-in-25-years/H03XD9-PDF-ENG
- 213. javascript:window.print();
+ 216. https://deathpenaltyinfo.org/news/dpic-releases-major-new-report-on-race-and-the-u-s-death-penalty
