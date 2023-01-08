@@ -1,35 +1,41 @@
-               o [30]Bureau fédéral de l'égalité entre femmes et hommes
-                 BFEG
-
-Racisme et discrimination raciale : définitions
-
-     * [31]DE
-     * FR
---
-    1. [51]Département fédéral de l'intérieur
-    2. [52]Service de lutte contre le racisme
-    3. [53]FAQ
-    4. Racisme et discrimination raciale : définitions
-
-   [54]Unternavigation
-
+          + [20]Sexe sans risque
+     * [21]Discrimination
+          + [22]Qu'est-ce que la discrimination?
+          + [23]Qu'est-ce que la discrimination raciale?
+          + [24]Discrimination multiple/intersectionnalité
+          + [25]Protection contre la discrimination en Allemagne
+          + [26]Comment me défendre en cas de discrimination ?
 --
 
-   [58]Context sidebar
+Fil d'Ariane
 
-Racisme et discrimination raciale : définitions
+   [36]Accueil [37]Discrimination Qu'est-ce que la discrimination raciale?
 
-   Quand on aborde des sujets tels que le racisme et la discrimination
-   raciale, le premier enjeu est de s'entendre sur les [59]définitions
+   Share on
+     [38]Facebook
 --
-   discrimination, qui ne sont que brièvement introduites sur ce site.
+   links Mann schwenkt Regenbogenfahne und links zeigt eine Person ihre
+   Muskeln
 
-   D'une manière générale, on constate qu'en Suisse, les cas de
-   discrimination raciale ont rarement un fondement idéologique. Ils sont
-   plutôt l'expression de l'ignorance, de peurs diffuses, d'agressivité,
-   de préjugés ou d'un manque d'empathie. Indépendamment de la présence ou
-   non d'un motif idéologique, combattre le racisme implique avant tout
-   d'admettre que la discrimination raciale existe bel et bien et qu'elle
-   est présente aux niveaux structurel, institutionnel et individuel. Il
-   s'agit aussi de reconnaître la souffrance que ces discriminations
-   infligent aux victimes.
+Qu'est-ce que la discrimination raciale?
+
+   La discrimination raciale est la dévalorisation et l'exclusion de
+   personnes en raison de caractéristiques arbitraires, supposées
+   physiques ou culturelles, qui leur sont attribuées de l'extérieur. Ces
+   caractéristiques sont façonnées par des franges privilégiées de la
+--
+   comme « blanches » n'ont pas ou peu accès aux ressources et aux droits
+   matériels et immatériels.
+
+   La discrimination raciale déshumanise les personnes : on leur attribue
+   de mauvaises qualités et une infériorité par rapport au groupe
+   dominant. Tout cela conduit à des désavantages individuels et
+   institutionnels et à la violence.
+--
+Sujets
+
+     * [40]Qu'est-ce que la discrimination?
+     * [41]Qu'est-ce que la discrimination raciale?
+     * [42]Discrimination multiple/intersectionnalité
+     * [43]Protection contre la discrimination en Allemagne
+     * [44]Comment me défendre en cas de discrimination ?
