@@ -67,7 +67,7 @@ Nous avons soumis plusieurs versions de 7/12 et de 8/12, dans lesquelles nous av
 - Séance 11 :
 
 
-## Problèmes recontrées par chacun d'entre nous pendant la création de notre projet
+## Problèmes rencontrés par chacun d'entre nous pendant la création de notre projet
 
 ### Gemma
 
