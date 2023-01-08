@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 #===============================================================================
-# Ce script traite mes URLs et ensuite, crée un tableau HTML avec chacun des URLs en sortie. J'utilise ce script dans le terminal afin de créer mon tableau.html. Pour mes URLs anglais, je vérifie bien de mettre "en" dans les lignes 67 à 70 pour que ces fichiers apparaissent dans le fichier anglais et non ceux de mes camarades. Voici la ligne de commande : 
+# Ce script traite mes URLs et ensuite, crée un tableau HTML avec chacun des URLs en sortie. J'utilise ce script dans le terminal afin de créer mon tableau.html. Pour mes URLs anglais, je vérifie bien de mettre "en" dans les lignes 78 à 81 pour que ces fichiers apparaissent dans le fichier anglais et non ceux de mes camarades. Voici la ligne de commande : 
 # bash base_tableaux_fichier_en.sh fichier_urls fichier_tableau.html
 #==============================================================================
 
@@ -23,7 +23,18 @@ echo "<html><body>" > $fichier_tableau
 echo "<h2>Tableau $basename :</h2>" >> $fichier_tableau
 echo "<br/>" >> $fichier_tableau
 echo "<table>" >> $fichier_tableau
-echo "<tr><th>ligne</th><th>code</th><th>URL</th><th>encodage</th><th>dump_html</th><th>dump_text</th><th>occurrences</th><th>contextes</th><th>concordances</th></tr>" >> $fichier_tableau
+echo "<tr>
+	<th>ligne</th>
+	<th>code</th>
+	<th>URL</th>
+	<th>Encodage</th>
+	<th>Occurrences</th>
+	<th>DumpText</th>
+	<th>HTML</th>
+	<th>Contexte</th>
+	<th>Concordances</th>
+	</tr>" >> $fichier_tableau
+
 
 lineno=1;
 while read -r URL; do
@@ -31,7 +42,7 @@ while read -r URL; do
 	# la façon attendue, sans l'option -w de cURL
 	code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
 	charset=$(curl -ILs $URL | grep -Eo "charset=(\w|-)+" | cut -d= -f2 | tail -n 1)
-	Occurences=$(lynx -accept_all_cookies -dump $URL | egrep "racial discrimination" -wc)
+	Occurrences=$(lynx -accept_all_cookies -dump $URL | egrep "racial discrimination" -wc)
 	echo -e "\tURL : $URL";
 	echo -e "\tcode : $code";
 
@@ -63,7 +74,7 @@ while read -r URL; do
 	<td>$lineno</td>
 	<td>$code</td>
 	<td><a href=\"$URL\">$URL</a></td>
-	<td>$charset</td><td>$Occurences</td>
+	<td>$charset</td><td>$Occurrences</td>
 	<td><a href=\"../dumps-text/en-$lineno.txt\">text</a></td>
 	<td><a href=\"../aspirations/en-$lineno.html\">html</a></td>
 	<td><a href=\"../contextes/en-$lineno.txt\">contexte</a></td>
