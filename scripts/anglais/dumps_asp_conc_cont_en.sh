@@ -7,9 +7,9 @@ cible="racial discrimination"
 while read URL || [[ -n $URL ]];
 do
 	echo "fichier $lineno est en cours de traitement."
-	curl -o ../../aspirations/anglais/en-$lineno.html $URL
-	lynx -accept_all_cookies -dump $URL > ../../dumps-text/anglais/en-$lineno.txt
-	grep -E -A3 -B3 "racial discrimination" ../../dumps-text/anglais/en-$lineno.txt > ../../contexte/anglais/en-$lineno.txt
+	curl -o ../../aspirations/en-$lineno.html $URL
+	lynx -accept_all_cookies -dump $URL > ../../dumps-text/en-$lineno.txt
+	grep -E -A3 -B3 "racial discrimination" ../../dumps-text/en-$lineno.txt > ../../contexte/en-$lineno.txt
 	
 	echo "
 	<!DOCTYPE html>
@@ -30,14 +30,14 @@ do
 						</tr>
 					</thead>
 					<tbody>
-	" > ../../concordances/anglais/concordance_en-$lineno.html
-	lynx -accept_all_cookies -dump $URL | grep -E -o "(\w+|\W+){0,10}$cible(\W+|\w+){0,10}" |sort|uniq | sed -E "s/(.*)($cible)(.*)/<tr><td class="has-text-left">\1<\/td><td class="has-text-centered"><strong>\2<\/strong><\/td><td class="has-text-right">\3<\/td><\/tr>/" >> ../../concordances/anglais/concordance_en-$lineno.html
+	" > ../../concordances/concordance_en-$lineno.html
+	lynx -accept_all_cookies -dump $URL | grep -E -o "(\w+|\W+){0,10}$cible(\W+|\w+){0,10}" |sort|uniq | sed -E "s/(.*)($cible)(.*)/<tr><td class="has-text-left">\1<\/td><td class="has-text-centered"><strong>\2<\/strong><\/td><td class="has-text-right">\3<\/td><\/tr>/" >> ../../concordances/concordance_en-$lineno.html
 	echo "
 	</tbody>
 	</table>
 	</body>
 	</html>
-	" >> ../../concordances/anglais/concordance_en-$lineno.html
+	" >> ../../concordances/concordance_en-$lineno.html
 	lineno=$((lineno+1));
 done < $fichier_urls
 exit
