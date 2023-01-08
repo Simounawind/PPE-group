@@ -1,387 +1,256 @@
-    #[1]alternate [2]alternate
+    #[1]RSS
 
-     * (BUTTON)
-     * Actu
-     * Le Scan Politique
-     * International
-     * Économie
-     * Bourse
-     * Décideurs
-     * Le Scan Éco
-     * Sport 24
-     * Le Scan Sport
-     * Culture
-     * Lifestyle
-     * Madame
-     * Figaro Store
-     * FigaroTV
-     * TVMag
-     * Santé
-     * Étudiant
-     * Figarochic.cn
-     * Histoire
-     * Nautisme
-     * Golf
-     * Figaroscope
-     * Voyage
-     * Enchères
-     * Vin
-     * Jardin
-     * Météo consult
-     * Annuaire santé avec PagesJaunes
-     * Le particulier
-     * Cadremploi
-     * La chaîne météo
-     * Keljob
-     * Kelformation
-     * Ticketac
+     * [2]Accéder au contenu
+     * [3]Accéder au menu
+     * [4]Accéder à la recherche
+     * [5]Accéder au footer
 
-   (BUTTON) < (BUTTON) >
-   Abonnez-vous au Figaro
-   [3]Figaro Immobilier
+   [6]Gouvernement
+   _______________ (Rechercher) Rechercher
 
-   (BUTTON)
-     * [4]Figaro Immobilier
-     * Actualités & conseils
-       Accueil
-       Actualités & conseils
-       Tous nos articles
-       Actualités & conseils
-          + Tous nos articles
-          + [5]Actualités
-          + [6]Conseils
-          + [7]Live et vidéos
-     * [8]Prix de l'immobilier
-     * Louer
-       Accueil
-       Louer
-       Louer un bien
-       Louer
-          + Louer un bien
-          + [9]Location appartement
-          + [10]Location maison
-          + [11]Location parking
-          + [12]Location locaux professionnels
-          + [13]Location immobilier d'exception
-          + [14]Tous nos biens en location
-       Tous nos conseils
-       Louer
-          + Tous nos conseils
-          + [15]Conseils pour la location
-          + [16]Contrat de location
-          + [17]Documents pour un bail
-          + [18]Etat des lieux
-          + [19]Préavis de location
-     * Vendre
-       Accueil
-       Vendre
-       Vendre un bien
-       Vendre
-          + Vendre un bien
-          + [20]Estimation immobilière
-          + [21]Déposer une annonce
-          + [22]Trouver un diagnostiqueur
-          + [23]Simulation de prêt immobilier
-          + [24]Trouver un déménageur
-       Nos conseils
-       Vendre
-          + Nos conseils
-          + [25]Conseils pour vendre un bien
-          + [26]Mandat de vente
-          + [27]Compromis de vente
-          + [28]Frais d'agence
-     * Acheter
-       Accueil
-       Acheter
-       Acheter un bien
-       Acheter
-          + Acheter un bien
-          + [29]Appartement à vendre
-          + [30]Maisons à vendre
-          + [31]Tous nos biens à vendre
-          + [32]Immobilier neuf
-          + [33]Immobilier d'exception
-          + [34]Construire
-       Tous nos conseils
-       Acheter
-          + Tous nos conseils
-          + [35]Conseils pour acheter
-          + [36]Investir dans l'immobilier
-          + [37]Modèle d'offre d'achat
-          + [38]Frais de notaire
-          + [39]Trouver un prêt immobilier
-          + [40]Calculer le coût de l'assurance
-     * [41]Se connecter[42]Déposer une annonce
-     * [43]Abonnez-vous au Figaro
+     * (BUTTON) L'actualité
+          + [7]Toute l'actualité
+          + [8]L'actualité de la Première ministre
+          + [9]Espace presse
+          + [10]Agenda
+          + [11]Discours et rapports
+     * (BUTTON) Les actions du Gouvernement
+          + [12]Les actions
+          + [13]Les portraits de la relance
+          + [14]Conseil des ministres
+     * (BUTTON) Le Gouvernement et les institutions
+          + [15]Composition du Gouvernement
+          + [16]Services de la Première ministre
+          + [17]Visite virtuelle de Matignon
+          + [18]Le savez-vous ?
 
-   [44]Se connecter[45]Déposer une annonce
+   (BUTTON) Voir le fil d'Ariane
+    1. [19]Accueil
+    2. [20]Les services du Premier ministre
+    3. [21]Délégation interministérielle à l'hébergement et à l'accès au
+       logement
+    4. Audition de la France devant le Comité de l'ONU pour l'élimination
+       de la discrimination raciale : la Dihal apporte une contribution
+       sur la lutte contre l'antitsiganisme dont peuvent être victimes les
+       gens du voyage et les personnes ressortissantes de pays
 
-   Trouvez votre bien immobilier
-   (BUTTON) Acheter (BUTTON) Louer
-   ____________________
-   (BUTTON) Rechercher
+   (BUTTON) Menu
 
-   [46]Actualité
+Navigation
 
-Une agence immobilière sur deux prête à une discrimination raciale à la
-location
+[22]Délégation interministérielle à l'hébergement et à l'accès au logement
 
-   SOS Racisme a mené une enquête auprès de 136 agences immobilières en se
-   faisant passer pour des propriétaires réclamant ces discriminations.
-   (BUTTON) (BUTTON) (BUTTON)
+     * [23]Présentation de la Dihal
+     * [24]Organisation de la Dihal
+     * [25]Logement d'abord
+     * [26]Le Service public de la rue au logement
+     * [27]Hébergement / Logement
+     * [28]Résorption des bidonvilles
+     * [29]Pôle migrants - accès au logement des réfugiés
+     * [30]Pôle Gens du voyage
+     * [31]Accès à l'emploi et au logement
+     * [32]Commission interministérielle pour le logement des personnes
+       immigrées
+     * [33]Publications & Documents de la Dihal
+     * [34]Les prochains événements de la Dihal
+     * [35]Contactez la Dihal
+     * [36]Chiffres clés
+     __________________________________________________________________
 
-   Par [47]Le Figaro Immobilier
+   Nous suivre
+     * [37]Twitter
+     * [38]Facebook
 
-   Mis à jour le 21/03/22, 09:07
+   Affaires sociales
 
-   Publié le 21/03/22, 09:07
-   Certaines des agences épinglées dans ce testing l'avaient déjà été lors
-   de l'enquête de 2019. Certaines des agences épinglées dans ce testing
-   l'avaient déjà été lors de l'enquête de 2019. Crédit Photo :
-   Shutterstock/Shutterstock
-     * Paris 17ème (75)
-     * Appartement
+Audition de la France devant le Comité de l'ONU pour l'élimination de la
+discrimination raciale : la Dihal apporte une contribution sur la lutte
+contre l'antitsiganisme dont peuvent être victimes les gens du voyage et les
+personnes ressortissantes de pays
+     __________________________________________________________________
 
-   [48]Voir l'annonce
-     * Paris 16ème (75)
-     * Locaux Professionnels
+   Publié 22/11/2022 | Modifié 22/11/2022
+   Les 15 et 16 novembre dernier avait lieu à Genève l'audition de la
+   France devant le Comité de l'ONU pour l'élimination des discriminations
+   raciales (CERD). La Dihal faisait partie de la délégation française
+   conduite par Sophie Elizéon, déléguée interministérielle à la lutte
+   contre le racisme, l'antisémitisme et la haine anti-LGBT (DILCRAH).
 
-   [49]Voir l'annonce
-     * Le Touquet-Paris-Plage (62)
-     * Maison
+   Le CERD est chargé de veiller au respect de la Convention
+   internationale sur l'élimination de toutes les formes de discrimination
+   raciale (adoptée en 1965 et entrée en vigueur en 1969) par ses Etats
+   parties, tels que la France qui l'a ratifié en 1971. Il est composé de
+   18 experts indépendants élus par les Etats parties à la Convention
+   parmi leurs nationaux. Régulièrement, les pays sont examinés dans le
+   cadre d'audition. La dernière audition de la France remontait à 2015.
 
-   [50]Voir l'annonce
-     * Boulogne-Billancourt (92)
-     * Appartement
+   La cheffe de la délégation, Sophie Elizéon, déléguée interministérielle
+   à la lutte contre le racisme, l'antisémitisme et la haine anti-LGBT
+   (DILCRAH), a rappelé dans son discours introductif que la "France est
+   plus que jamais déterminée à lutter contre le racisme, l'antisémitisme
+   et les discriminations raciales, dans cette approche universelle de
+   défense des droits des êtres humains, au nom de leur dignité et de leur
+   égalité". Elle est revenue sur les avancées de ces dernières années,
+   notamment législatives en matière de lutte contre la haine en ligne, et
+   a annoncé un nouveau plan national de lutte qui couvrira les années
+   2023 à 2026.
 
-   [51]Voir l'annonce
-     * Paris 15ème (75)
-     * Appartement
+   Lors des échanges qui ont suivi avec les membres du Comité, la Dihal a
+   été invitée à intervenir sur la question de la lutte contre
+   l'antitsiganisme (ou racisme anti-roms) qui est un des trois piliers de
+   la stratégie française 2020-2030 en réponse à la recommandation du
+   Conseil de l'Union européenne sur l'égalité, l'inclusion et la
+   participation des Roms.
 
-   [52]Voir l'annonce
+   Manuel Demougeot, directeur de cabinet du Dihal, a ainsi rappelé que la
+   reconnaissance de cette forme spécifique de racisme et sa désignation
+   en tant que telle, tout en l'inscrivant dans le cadre universaliste
+   français, étaient des éléments nouveaux par rapport à la précédente
+   audition de la France devant le CERD.
 
-   Les discriminations raciales pour les [53]locations sont encore très
-   répandues, rapporte [54]Franceinfo qui dévoile une enquête de SOS
-   Racisme, ce lundi. L'association a réalisé un testing auprès de 136
-   agences immobilières, sur tout le territoire. 48,5% des agences testées
-   acceptent de «discriminer ou se rend complice de discrimination»,
-   d'après l'étude. Or, il y a trois ans, SOS Racisme a mené un testing
-   similaire sur les agences en Île-de-France et 51% d'entre elles
-   acceptaient de discriminer mes candidats à la location. «Un constat qui
-   prouve que les mesures mises en place pr lutter contre les discris ne
-   sont pas suffisantes», tweete SOS Racisme.
+   Tout en soulignant l'actualité de ce racisme et la force des
+   stéréotypes, Il a également rappelé des progrès intervenus depuis 2015
+   concernant les populations visées, qu'il s'agisse des gens du voyage
+   français ou des personnes ressortissantes de pays européens considérées
+   ou se considérant comme roms. Concernant les premiers, il a souligné la
+   fin en 2017 de leur régime administratif dérogatoire et la
+   reconnaissance en 2016 de la responsabilité de la France dans
+   l'internement de 6 500 nomades entre 1040 et 1946. Concernant les
+   secondes, il a indiqué que l'instruction du 25 janvier 2018 qui a donné
+   une nouvelle impulsion, à la fois humaine et pragmatique, à la
+   résorption des bidonvilles où vivent ces populations, avait permis de
+   faire baisser leur nombre de 3 000, grâce à des actions d'insertion
+   sociale dans le respect des lois de la République.
 
-   » LIRE AUSSI - [55]Une subvention au logement des Noirs pour indemniser
-   les discriminations
+   Pour retrouver l'intervention :
+   [39]https://media.un.org/en/asset/k14/k14s43tozd?kalturaStartTime=9610
 
-   Pour mener cette enquête, SOS Racisme a contacté par téléphone des
-   agences immobilières de plusieurs villes françaises en se faisant
-   passer pour des propriétaires réclamant ces discriminations. Résultat,
-   les personnes d'origine maghrébine ou subsaharienne «ont une chance sur
-   deux de contacter une agence qui accepterait de pratiquer ou de laisser
-   pratiquer une discrimination à leur endroit», déplore SOS Racisme
-   auprès de Franceinfo.
-
-     Il y a 3ans, un testing similaire réalisé sur les agences en IDF
-     montrait que 51% d'entre elles (contre 48,5% ojd) acceptaient de
-     discriminer ou se rendaient complice. Un constat qui prouve que les
-     mesures mises en place pr lutter contre les discris ne sont pas
-     suffisantes (2.2)
-     -- SOS Racisme - #NonAuRacisme (@SOS_Racisme) [56]March 21, 2022
-
-   Plus précisément, une agence sur quatre laisse le propriétaire choisir
-   son futur locataire en ne retenant pas «les profils dits arabes ou
-   noirs afin d'éviter les problèmes de voisinage», soit 32 agences sur
-   les 136 contactées. Une sur quatre sélectionne elle-même les locataires
-   potentiels sur la base d'un critère discriminatoire racial, soit 34
-   agences sur 136.
-
-Un renforcement des sanctions pénales
-
-   Une directrice d'agence a témoigné anonymement dans l'étude de SOS
-   Racisme: «On est dans un quartier assez aisé et on ne peut pas placer
-   n'importe qui ...».
-
-   Certaines des agences épinglées dans ce testing l'avaient déjà été lors
-   de l'enquête de 2019. SOS Racisme revendique l'instauration de
-   nouvelles mesures comme un «renforcement des sanctions pénales en cas
-   de discriminations», et la «mise en place d'un ordre disciplinaire» en
-   rétablissant «la fonction disciplinaire du Conseil national de la
-   transaction et de la gestion immobilière, supprimée par la loi Elan de
-   2018». La discrimination à la location est punie jusqu'à 3 ans
-   d'emprisonnement et 45.000 euros d'amende.
-
-   À l'inverse, une agence sur deux refuse de procéder à une sélection sur
-   la base d'un critère discriminatoire racial, soit 70 sur 136 agences.
-   Les trois quarts des agences testées, dont des agences appartenant au
-   réseau de la Fnaim, à Century 21, à Guy Hocquet, Stéphane Plaza ou
-   encore Orpi, rappellent pourtant que la loi interdit toutes les formes
-   de discriminations.
-
-   (BUTTON) Partager (BUTTON) twitterEnvoyer (BUTTON)
-
-   Services :
-     * [57]Retrouvez toutes nos annonces immobilières
-
-   La rédaction vous conseille
-     * [58]Discrimination au logement: les agents immobiliers obligés
-       d'être formés
-     * [59]Discrimination au logement: les bailleurs plus fautifs que les
-       agences
-
-   [default.png]
-   Le Figaro Immobilier
-   Journaliste[60] Twitter
-   Ses derniers articles
-     * [61]Cette nouvelle capitale indonésienne menace la forêt tropicale
-     * [62]À Bagdad l'immobilier flambe, porté par le blanchiment d'argent
-     * [63]L'inflation freine les projets immobiliers des Français, pas
-       leur envie de pierre
-
-Réagir à cet article
-
-    1. l&#39;oeil13 Le 22/03/22, 16:19
-       S'il y avait peu de problème ,on ne voit pas pourquoi ,les agences
-       refuseraient de travailler.
-    2. CER203 Le 22/03/22, 13:03
-       Je ne savais pas que les agencés faisaient encore des locations.
-       J'ai tenté de louer un deux pièces dont je suis propriétaire depuis
-       trente ans. Deux agences dont celle au pied de mon immeuble m'ont
-       demandé une attestation de propriété d un notaire. Alors ça a été
-       gens de confiance...
-    3. Heretique Le 21/03/22, 20:29
-       Le désir vieux comme la nuit des temps se dit, "vivre parmi les
-       gens comme nous = to live with people like us". La clé et le
-       ressort-moteur de toute la xénophobie.
-
-   Social
-     *
-     *
-     *
+   Partager cette page
+     * [40]Tweeter
+     * [41]Partager
+     * [42]Envoyer
      *
 
-   À propos
-     * [64]Qui sommes-nous ?
-     * [65]Nous contacter
-     * [66]Nous rejoindre
-     * [67]Espace Presse
+Pied de page
 
-   À découvrir
-     * [68]Tout l'immobilier
+[43]L'actualité
 
-   Services Pro
-     * [69]Accès Pro
-     * [70]Contact Pro
-     * [71]Devenir annonceur
+     * [44]Toute l'actualité
+     * [45]L'actualité de la Première ministre
+     * [46]Espace presse
+     * [47]Agenda
+     * [48]Discours et rapports
 
-   Informations légales
+[49]Les actions du Gouvernement
+
+     * [50]Les actions
+     * [51]Les portraits de la relance
+     * [52]Conseil des ministres
+
+[53]Le Gouvernement et les institutions
+
+     * [54]Composition du Gouvernement
+     * [55]Services de la Première ministre
+     * [56]Visite virtuelle de Matignon
+     * [57]Le savez-vous ?
+
+Les réseaux sociaux du Gouvernement
+
+     * [58]Facebook
+     * [59]Twitter
+     * [60]Linkedin
+     * [61]Instagram
+
+   Sauf mention contraire, tous les contenus de ce site sont sous licence
+   [62]etalab-2.0
+
+   [63]Gouvernement
+     * [64]elysee.fr
+     * [65]service-public.fr
+     * [66]legifrance.gouv.fr
+     * [67]data.gouv.fr
+     * [68]france.fr
+
+     * [69]Données personnelles et cookies
+     * [70]Écrire à la Première ministre
+     * [71]Contact presse
      * [72]Mentions légales
-     * [73]Politique de confidentialité
-     * (BUTTON) Paramétrer les cookies
-     * [74]Info cookies
-
-   Nos applications mobiles
-     *
-     *
-
-   Les autres sites immobilier
-     * [75]Figaro Immoneuf
-     * [76]Propriétés Le Figaro
-     * [77]Achat Terrain
-     * [78]International
-
-   IFRAME: [79]https://www.googletagmanager.com/ns.html?id=GTM-5P7PGBV
+     * [73]Accessibilité : partiellement conforme
+     * [74]Marque de l'État
 
 References
 
-   Visible links:
-   1. android-app://fr.playsoft.lefigarov3/http/figaro.fr/article/478cdcd4-a8ed-11ec-a97f-1597e905d878
-   2. ios-app://319557427/lefigarofr/article/478cdcd4-a8ed-11ec-a97f-1597e905d878/immobilier.lefigaro.fr
-   3. https://immobilier.lefigaro.fr/
-   4. https://immobilier.lefigaro.fr/
-   5. https://immobilier.lefigaro.fr/actualites
-   6. https://immobilier.lefigaro.fr/list
-   7. https://immobilier.lefigaro.fr/annonces/edito/tag/video
-   8. https://immobilier.lefigaro.fr/prix-immobilier
-   9. https://immobilier.lefigaro.fr/annonces/immobilier-location-appartement-france.html
-  10. https://immobilier.lefigaro.fr/annonces/immobilier-location-maison-france.html
-  11. https://immobilier.lefigaro.fr/annonces/immobilier-location-parking-france.html
-  12. https://immobilier.lefigaro.fr/annonces/immobilier-location-divers-france.html
-  13. https://proprietes.lefigaro.fr/location/
-  14. https://immobilier.lefigaro.fr/annonces/immobilier-location-bien-france.html
-  15. https://immobilier.lefigaro.fr/louer/
-  16. https://immobilier.lefigaro.fr/louer/guide-location-immobilier/78-contrat-de-location-duree-signature-resiliation/
-  17. https://immobilier.lefigaro.fr/louer/guide-location-immobilier/786-documents-pour-un-bail-les-papiers-a-fournir/
-  18. https://immobilier.lefigaro.fr/louer/guide-location-immobilier/124-etat-des-lieux/
-  19. https://immobilier.lefigaro.fr/louer/guide-location-immobilier/62-preavis-de-location-quelle-duree-comment-la-reduire/
-  20. https://immobilier.lefigaro.fr/estimation-immobiliere
-  21. https://immobilier.lefigaro.fr/deposer-une-annonce
-  22. https://immobilier.lefigaro.fr/annonces/edito/services/partenaire/diagandgo-devis
-  23. https://e-immobilier.credit-agricole.fr/simulation-pret-immobilier?ORI=lefigaroimmo&at_medium=affiliate&at_campaign=89&at_type=partenariat&at_identifier=LeFigaroImmobilier&at_format=lien_simuler&at_creation=menu_vendre_outils
-  24. https://services.bemove.fr/figaro-immo/demenagement-pro
-  25. https://immobilier.lefigaro.fr/vendre/
-  26. https://immobilier.lefigaro.fr/acheter/guide-d-achat-immobilier/42-mandat-de-vente-que-faut-il-savoir-avant-de-le-signer/
-  27. https://immobilier.lefigaro.fr/acheter/guide-d-achat-immobilier/38-compromis-de-vente-definition-signature-retractation/
-  28. https://immobilier.lefigaro.fr/louer/guide-location-immobilier/764-frais-d-agence-et-location-calcul-remboursement/
-  29. https://immobilier.lefigaro.fr/annonces/immobilier-vente-appartement-france.html
-  30. https://immobilier.lefigaro.fr/annonces/immobilier-vente-maison-france.html
-  31. https://immobilier.lefigaro.fr/annonces/immobilier-vente-bien-france.html
-  32. https://www.explorimmoneuf.com/
-  33. https://proprietes.lefigaro.fr/
-  34. https://www.achat-terrain.com/
-  35. https://immobilier.lefigaro.fr/acheter/
-  36. https://immobilier.lefigaro.fr/investir/
-  37. https://immobilier.lefigaro.fr/acheter/guide-d-achat-immobilier/490-modele-d-offre-d-achat-pour-un-appartement-ou-une-maison/
-  38. https://immobilier.lefigaro.fr/acheter/guide-d-achat-immobilier/40-frais-de-notaire-comment-les-calculer-et-les-reduire/
-  39. https://e-immobilier.credit-agricole.fr/simulca/pages/ptenational_dt?ORI=lefigaroimmo&at_medium=affiliate&at_campaign=89&at_type=partenariat&at_identifier=LeFigaroImmobilier&at_format=lien_simuler&at_creation=menu_acheter_outils#/?seq=screen01
-  40. https://www.meilleurtaux.com/demande-simulation/assurance-de-pret/?IDAPPORTEUR=PARTENAIRE_IFRAME_LEFIGARO_IMMO#xtor=AL-488-[assurance_de_pret]-[externe-figaro]-[le_figaro_immo]
-  41. https://immobilier.lefigaro.fr/annonces/profil/identification.html
-  42. https://immobilier.lefigaro.fr/deposer-une-annonce
-  43. https://boutique.lefigaro.fr/abonnement/premium/rappel-1e2ma
-  44. https://immobilier.lefigaro.fr/annonces/profil/identification.html
-  45. https://immobilier.lefigaro.fr/deposer-une-annonce
-  46. https://immobilier.lefigaro.fr/actualites
-  47. https://immobilier.lefigaro.fr/article/une-agence-immobiliere-sur-deux-prete-a-une-discrimination-raciale-a-la-location_478cdcd4-a8ed-11ec-a97f-1597e905d878/#auteur
-  48. https://immobilier.lefigaro.fr/annonces/annonce-50612614.html
-  49. https://immobilier.lefigaro.fr/annonces/annonce-51329736.html
-  50. https://immobilier.lefigaro.fr/annonces/annonce-51936578.html
-  51. https://immobilier.lefigaro.fr/annonces/annonce-52013244.html
-  52. https://immobilier.lefigaro.fr/annonces/annonce-50501228.html
-  53. http://plus.lefigaro.fr/tag/locations
-  54. https://www.francetvinfo.fr/economie/emploi/metiers/droit-et-justice/logement-pres-de-la-moitie-des-agences-immobilieres-accedent-aux-exigences-discriminatoires-des-proprietaires-selon-sos-racisme_5030486.html
-  55. https://immobilier.lefigaro.fr/article/une-subvention-au-logement-des-noirs-pour-indemniser-les-discriminations_6216a24e-8baf-11eb-830a-943a5001010e/
-  56. https://twitter.com/SOS_Racisme/status/1505807748038115335?ref_src=twsrc%5Etfw
-  57. https://immobilier.lefigaro.fr/annonces/immobilier-vente-bien-france.html
-  58. https://immobilier.lefigaro.fr/article/discrimination-au-logement-les-agents-immobiliers-obliges-d-etre-formes_81a52f96-0314-11eb-b9fc-2de40309cb99/
-  59. https://immobilier.lefigaro.fr/article/discrimination-au-logement-les-bailleurs-plus-fautifs-que-les-agences_7e37f012-7091-11e9-b8c3-07871af7bb9d/
-  60. https://twitter.com/@Le_Figaro_Immo
-  61. https://immobilier.lefigaro.fr/article/cette-nouvelle-capitale-indonesienne-menace-la-foret-tropicale_c784919a-8dd3-11ed-88cc-33a941ff43b3/
-  62. https://immobilier.lefigaro.fr/article/a-bagdad-l-immobilier-flambe-porte-par-le-blanchiment-d-argent_a112dd30-8cd6-11ed-a86d-66d30ea5ec0a/
-  63. https://immobilier.lefigaro.fr/article/l-inflation-freine-les-projets-immobiliers-des-francais-pas-leur-envie-de-pierre_c41a671a-8850-11ed-9129-80e872d55d51/
-  64. https://classifieds.lefigaro.fr/nos-activites/
-  65. https://classifieds.lefigaro.fr/nos-contacts/
-  66. https://classifieds.lefigaro.fr/nous-rejoindre/
-  67. https://classifieds.lefigaro.fr/nos-actualites/
-  68. https://immobilier.lefigaro.fr/immobilier/
-  69. https://explorimmobox.explorimmo.com/#/login
-  70. https://immobilierpro.lefigaro.fr/demande-information
-  71. https://www.figaroimmopro.fr/
-  72. https://immobilier.lefigaro.fr/annonces/explo-static/infos/mentions-legales.html
-  73. https://immobilier.lefigaro.fr/annonces/explo-static/infos/politique-confidentialite.html
-  74. https://immobilier.lefigaro.fr/annonces/edito/info-cookies
-  75. https://www.explorimmoneuf.com/
-  76. https://proprietes.lefigaro.fr/
-  77. https://www.achat-terrain.com/
-  78. https://international.explorimmo.com/
-  79. https://www.googletagmanager.com/ns.html?id=GTM-5P7PGBV
-
-   Hidden links:
-  81. https://immobilier.lefigaro.fr/
-  82. https://immobilier.lefigaro.fr/article/une-agence-immobiliere-sur-deux-prete-a-une-discrimination-raciale-a-la-location_478cdcd4-a8ed-11ec-a97f-1597e905d878/#container-comments
-  83. https://immobilier.lefigaro.fr/article/une-agence-immobiliere-sur-deux-prete-a-une-discrimination-raciale-a-la-location_478cdcd4-a8ed-11ec-a97f-1597e905d878/#container-comments
-  84. https://immobilier.lefigaro.fr/
-  85. https://www.facebook.com/LeFigaroImmobilier/
-  86. https://twitter.com/le_figaro_immo
-  87. https://www.linkedin.com/company/figaro-immo-pro/
-  88. https://apps.apple.com/fr/app/explorimmo-le-meilleur-de-limmobilier/id358085431
-  89. https://play.google.com/store/apps/details?id=com.adenclassifieds.android.explorimmo&hl=fr_FR
+   1. https://www.gouvernement.fr/rss.xml
+   2. https://www.gouvernement.fr/audition-de-la-france-devant-le-comite-de-l-onu-pour-l-elimination-de-la-discrimination-raciale-la#main
+   3. https://www.gouvernement.fr/audition-de-la-france-devant-le-comite-de-l-onu-pour-l-elimination-de-la-discrimination-raciale-la#navigation-header
+   4. https://www.gouvernement.fr/audition-de-la-france-devant-le-comite-de-l-onu-pour-l-elimination-de-la-discrimination-raciale-la#search-block-form
+   5. https://www.gouvernement.fr/audition-de-la-france-devant-le-comite-de-l-onu-pour-l-elimination-de-la-discrimination-raciale-la#footer
+   6. https://www.gouvernement.fr/
+   7. https://www.gouvernement.fr/toute-l-actualite
+   8. https://www.gouvernement.fr/suivre-l-actualite-du-premier-ministre
+   9. https://www.gouvernement.fr/espace-presse
+  10. https://www.gouvernement.fr/agenda/ministre/elisabeth-borne
+  11. https://www.gouvernement.fr/discours-et-rapports
+  12. https://www.gouvernement.fr/les-actions-du-gouvernement
+  13. https://www.gouvernement.fr/portraits-de-la-relance
+  14. https://www.gouvernement.fr/conseil-des-ministres
+  15. https://www.gouvernement.fr/composition-du-gouvernement
+  16. https://www.gouvernement.fr/les-services-du-premier-ministre
+  17. https://www.gouvernement.fr/matignon-visite-virtuelle
+  18. https://www.gouvernement.fr/le-savez-vous
+  19. https://www.gouvernement.fr/
+  20. https://www.gouvernement.fr/les-services-du-premier-ministre
+  21. https://www.gouvernement.fr/delegation-interministerielle-a-l-hebergement-et-a-l-acces-au-logement
+  22. https://www.gouvernement.fr/delegation-interministerielle-a-l-hebergement-et-a-l-acces-au-logement
+  23. https://www.gouvernement.fr/presentation-de-la-dihal
+  24. https://www.gouvernement.fr/organisation-de-la-dihal
+  25. https://www.gouvernement.fr/logement-d-abord
+  26. https://www.gouvernement.fr/le-service-public-de-la-rue-au-logement
+  27. https://www.gouvernement.fr/hebergement-logement
+  28. https://www.gouvernement.fr/resorption-des-bidonvilles
+  29. https://www.gouvernement.fr/pole-migrants-acces-au-logement-des-refugies
+  30. https://www.gouvernement.fr/commission-nationale-consultative-des-gens-du-voyage-4906
+  31. https://www.gouvernement.fr/acces-a-l-emploi-et-au-logement
+  32. https://www.gouvernement.fr/commission-interministerielle-pour-le-logement-des-personnes-immigrees
+  33. https://www.gouvernement.fr/publications-documents-de-la-dihal
+  34. https://www.gouvernement.fr/les-prochains-evenements-de-la-dihal
+  35. https://www.gouvernement.fr/contact/contactez-la-dihal
+  36. https://www.gouvernement.fr/chiffres-cles
+  37. https://www.twitter.com/dihal_gouv
+  38. http://www.facebook.com/dihal.delegation.interministerielle
+  39. https://media.un.org/en/asset/k14/k14s43tozd?kalturaStartTime=9610
+  40. https://twitter.com/intent/tweet?text=Audition%20de%20la%20France%20devant%20le%20Comit%C3%A9%20de%20l%27ONU%20pour%20l%27%C3%A9limination%20de%20la%20discrimination%20raciale%20%3A%20la%20Dihal%20apporte%20une%20contribution%20sur%20la%20lutte%20contre%20l%27antitsiganisme%20dont%20peuvent%20%C3%AAtre%20victimes%20les%20gens%20du%20voyage%20et%20les%20personnes%20ressortissantes%20de%20pays%20https%3A//www.gouvernement.fr/audition-de-la-france-devant-le-comite-de-l-onu-pour-l-elimination-de-la-discrimination-raciale-la&tweet_id&via=gouvernementfr
+  41. https://www.facebook.com/sharer/sharer.php?u=https%3A//www.gouvernement.fr/audition-de-la-france-devant-le-comite-de-l-onu-pour-l-elimination-de-la-discrimination-raciale-la
+  42. https://www.gouvernement.fr/partager?type=node&id=12125&destination=node/12125&lang=fr
+  43. https://www.gouvernement.fr/toute-l-actualite
+  44. https://www.gouvernement.fr/toute-l-actualite
+  45. https://www.gouvernement.fr/suivre-l-actualite-du-premier-ministre
+  46. https://www.gouvernement.fr/espace-presse
+  47. https://www.gouvernement.fr/agenda/ministre/elisabeth-borne
+  48. https://www.gouvernement.fr/discours-et-rapports
+  49. https://www.gouvernement.fr/rename_les-actions-du-gouvernement
+  50. https://www.gouvernement.fr/les-actions-du-gouvernement
+  51. https://www.gouvernement.fr/portraits-de-la-relance
+  52. https://www.gouvernement.fr/conseil-des-ministres
+  53. https://www.gouvernement.fr/composition-du-gouvernement
+  54. https://www.gouvernement.fr/composition-du-gouvernement
+  55. https://www.gouvernement.fr/les-services-du-premier-ministre
+  56. https://www.gouvernement.fr/matignon-visite-virtuelle
+  57. https://www.gouvernement.fr/le-savez-vous
+  58. https://www.facebook.com/gouvernement.fr
+  59. https://twitter.com/gouvernementfr
+  60. https://www.linkedin.com/company/gouvernementfr
+  61. https://www.instagram.com/gouvernementfr/
+  62. https://www.etalab.gouv.fr/licence-ouverte-open-licence
+  63. https://www.gouvernement.fr/
+  64. http://www.elysee.fr/
+  65. http://www.service-public.fr/
+  66. http://legifrance.gouv.fr/
+  67. http://data.gouv.fr/
+  68. http://france.fr/
+  69. https://www.gouvernement.fr/donnees-personnelles-et-cookies
+  70. https://www.gouvernement.fr/contact/ecrire-au-premier-ministre
+  71. https://www.gouvernement.fr/contact/presse
+  72. https://www.gouvernement.fr/mentions-legales
+  73. https://www.gouvernement.fr/accessibilite
+  74. https://www.gouvernement.fr/marque-Etat

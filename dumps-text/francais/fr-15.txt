@@ -1,460 +1,631 @@
-   [1]actu.fr [2]Provence-Alpes-Côte d'Azur (BUTTON)
-   [3]Mon actu (BUTTON) Compte (BUTTON) Connexion (BUTTON) Services
+   IFRAME:
+   [1]https://www.googletagmanager.com/ns.html?id=GTM-5QNLTGR&gtm_auth=XWh
+   1NlOe7Udt_V-KXeCUVQ&gtm_preview=env-2&gtm_cookies_win=x
 
-   Suivez l'actualité de vos communes favorites dans l'onglet Mon actu
-   (BUTTON) J'ai compris
-     * [4]Annonces légales
-     * [5]Horoscope
-     * [6]Jeux
-     * [7]Shopping & Bons-plans
-     * [8]Vidéos
-     * [9]Agenda des évènements
-     * [10]Je partage les actus de mon asso
-     * [11]Élections
-     * [12]Examens
+   [2]Le Parisien : Actualités en direct et info en continu
+   [3]Le Parisien : Actualités en direct et info en continu
+     *
+     *
+     *
+     *
+     * [4]S'abonner
+     * [5]S'abonner
 
-     * [13]Mon compte
-     * [14]Gérer mes favoris
-     * [15]Gérer mes newsletters
-     * [16]Déconnexion
+     * [6]Faits divers
+     * [7]Île-de-France & Oise
 
-   [17]Actu Marseille
-   A lire aussi
+     * [8]Paris
+     * [9]Essonne
+     * [10]Hauts-de-Seine
+     * [11]Seine-Saint-Denis
+     * [12]Val-d'Oise
+     * [13]Val-de-Marne
+     * [14]Seine-et-Marne
+     * [15]Yvelines
+     * [16]Oise
+     * [17]Transports IDF
 
-     * [18]Dernières actus
-     * [19]Société
-     * [20]Économie
-     * [21]Faits divers
-     * [22]Politique
-     * [23]Coronavirus
-     * [24]Loisirs-Culture
-     * [25]Sports
-     * [26]Insolite
-     * [27]Planète
-     * [28]Monde
-     * [29]Lifestyle
-     * [30]Vidéos
-     * [31]Newsletters
-     * [32]recherche
+     [18]PSG
 
-   [33]Enquête. Hausse des catastrophes climatiques : la détresse des
-   sinistrés face aux assureurs
-   (BUTTON) fermer
-     * [34]Actu.fr
-     * [35]Mon actu
-     * [36]Le top
-     * (BUTTON) Partager
+     [19]Sports
+     * [20]Ligue 1 Uber Eats
+     * [21]Football
+     * [22]Coupe du monde 2022
+     * [23]JO 2024
+     * [24]Cyclisme
+     * [25]Rugby
+     * [26]Tennis
+     * [27]Hippisme
 
-   Suivez l'actualité de vos communes favorites dans l'onglet Mon actu
-   (BUTTON) J'ai compris
-    1. [37]Actu
-    2. [38]Provence-Alpes-Côte d'Azur
-    3. [39]Bouches-du-Rhône
-    4. [40]Marseille
+     [28]Politique
+     * [29]Résultats élections
+     * [30]Présidentielle
+     * [31]Législatives
+     * [32]Élections
 
-Marseille et Aix-en-Provence. Des plages privées, bars et boîtes de nuit
-accusés de discrimination raciale
+     [33]Pouvoir d'achat
 
-   SOS Racisme affirme à Actu Marseille qu'une plainte va être déposée
-   contre plusieurs établissements (plages privées, bars, boîtes de nuit)
-   de Marseille et Aix-en-Provence.
-   Par [41]Anne Bouaziz Publié le [42]11 Août 22 à 14:56
-   Actu Marseille
-   [43]Voir mon actu (BUTTON) Suivre ce média
-   xxx
-   L'opération de « testing » menée par SOS Racisme à Juan-les-Pins a
-   également eu lieu à Marseille et Aix-en-Provence, début
-   août. (©Illustration / Adobe Stock)
+     [34]Immobilier
 
-   Comme chaque année, l'association SOS Racisme lance une opération de
-   testing pour prouver des discriminations liées à l'origine, très
-   difficiles à prouver.
+     [35]Environnement
 
-   Qu'est-ce qu'une opération de testing ? Contacté par la
-   rédaction, Hermann Ebongue, secrétaire général de SOS Racisme,
-   rappelle : « Cela consiste à faire des tests de discrimination dans des
-   lieux qui proposent des services, et de voir si les traitements sont
-   les mêmes pour tous les groupes de personnes. »
+     [36]Économie
+     * [37]Consommation
+     * [38]Emploi
+     * [39]Impôts
+     * [40]Entreprises & start-up
+     * [41]Retraites
+     * [42]Automobile
 
-   Des groupes, il y en a trois différents : le groupe de Noirs, le groupe
-   de Maghrébins, et enfin le groupe « Contrôle » qui, lui, est constitué
-   de Blancs. Chacun leur tour, les groupes se rendent - munis d'une
-   caméra cachée - auprès de différents établissements (plages privées,
-   bars, boîtes de nuit) et sollicitent un service.
+     [43]Vie de bureau
 
-   La caméra cachée est un détail important pour Hermann Ebongue qui tient
-   à souligner : « Cela nous permet d'avoir des preuves solides pour aller
-   devant la justice et obtenir gain de cause. »
+     [44]Enquête
 
-   À lire aussi
-     * [44]Des plages de la Côte d'Azur acceptent des clients blancs mais
-       pas noirs : SOS Racisme dénonce
+     [45]Société
+     * [46]Covid-19
+     * [47]Santé
+     * [48]Animaux
+     * [49]Sciences
+     * [50]Météo
+     * [51]Sentinelles
+     * [52]High tech
+     * [53]Intime
 
-Une opération à Marseille et Aix-en-Provence
+     [54]International
 
-   Depuis ce mardi 9 août, une vidéo partagée par [45]Loopsider - et dans
-   laquelle on voit une partie de cette opération menée à Juan-les-Pins
-   (Alpes-Maritimes) - fait le tour des réseaux sociaux. On y voit très
-   clairement une différence de traitement selon les couples.
+     [55]Culture & loisirs
+     * [56]Sorties IDF & Oise
+     * [57]Cinéma
+     * [58]Séries
+     * [59]Télévision & médias
+     * [60]Livres
+     * [61]Musique
 
-   [46]Voir le tweet
+     [62]En région
+     * [63]Calvados
+     * [64]Charente-Maritime
+     * [65]Eure
+     * [66]Eure-et-Loir
+     * [67]Finistère
+     * [68]Haute-Garonne
+     * [69]Loiret
+     * [70]Marne
+     * [71]Martinique
+     * [72]Pyrénées-Orientales
+     * [73]Seine-Maritime
 
-   La même opération a été menée dans les Bouches-du-Rhône, à Marseille et
-   Aix-en-Provence. Hermann Ebongue nous affirme ce jour, jeudi 11 août,
-   qu'une plainte va être déposée par les victimes de discrimination
-   raciale (les militants de SOS Racisme donc) à l'encontre de plusieurs
-   établissements situés à Marseille, et un à Aix-en-Provence.
-   L'association se constituera partie civile. « Des témoins de moralité*
-   ont également pu assister à l'opération », assure toujours le
-   secrétaire général de SOS Racisme.
-   Vidéos : en ce moment sur Actu
+     [74]Bien manger
 
-   Sans dévoiler de noms pour l'instant en raison de la procédure, Hermann
-   Ebongue confirme qu'à Marseille seront visés par cette plainte des
-   plages privées, des bars et des boîtes de nuit. Du côté
-   d'Aix-en-Provence, une seule boîte de nuit sera ciblée par le dépôt de
-   plainte.
+     [75]Le Parisien Étudiant
+     * [76]Orientation
+     * [77]Examens
+     * [78]Jobs Stages
+     * [79]Vie étudiante
+     * [80]Agenda sorties
 
-« Une discrimination, c'est déjà trop »
+     [81]Newsletters
 
-   L'occasion pour le militant associatif de rappeler que le racisme est
-   un délit puni par la loi. Aujourd'hui, Hermann Ebongue attend une
-   réponse forte de la justice. « Son rôle de sanction peut être
-   pédagogique et amener les personnes à changer d'attitude »,
-   commente-t-il.
+     [82]Podcasts
 
-   Y-a-t-il des villes plus discriminantes que d'autres ? « Une
-   discrimination, c'est déjà trop. On ne veut pas stigmatiser une ville,
-   ni un métier, ni un secteur professionnel. Tous les établissements ne
-   font pas de la discrimination », souligne Hermann Ebongue, « même si ça
-   devrait être normal. »
+     [83]Vidéos
+     * [84]Biclou
+     * [85]Vidéos Crime story
+     * [86]Food-checking
 
-   Ces opérations de testing sont menées depuis la fin des années 1990.
+     [87]Jeux gratuits
 
-   *Des élus locaux
-     * [47]#Justice
+     Annonces
+     * [88]Immobilier commercial
+     * [89]Avis de décès
+     * [90]Annonces légales
+     * [91]Marchés publics
 
-   Cet article vous a été utile ? Sachez que vous pouvez suivre Actu
-   Marseille dans l'espace [48]Mon Actu . En un clic, après inscription,
-   vous y retrouverez toute l'actualité de vos villes et marques
-   favorites.
+     [92]Services
+     * [93]Nos applications
+     * [94]Le Parisien Le Guide
+     * [95]Comparateurs
+     * [96]Jeux Concours
+     * [97]Codes promo
+     * [98]Téléchargements
+     * [99]Billetterie
+     * [100]Programme TV
+     * [101]Enchères publiques
 
-   Partagez
-     * [49]Partagez sur Facebook
-     * [50]Partagez sur Twitter
-     * [51]Partagez par Mail
-     * (BUTTON) Copiez/Collez le Lien Copié !
-       https://actu.fr/provence-alpes-cote-d-azur/marseille_13055/marseill
-       e-et-aix-en-provence-des-plages-privees-bars-et-boites-de-nuit-accu
-       ses-de-discrimination-raciale_53069700.html
+   [102]Île-de-France & Oise,[103]Essonne
 
-   [52]Découvrez les newsletters
+«Pas de noirs, pas de jaunes et pas d'arabes» : deux agents immobiliers
+coupables de discrimination raciale
 
-Dernières actualités
+Dans l'Essonne, le père et le fils étaient jugés ce mercredi pour avoir
+refusé de louer des biens à des personnes d'origine étrangère. Ils ont écopé
+de 2 et 4 mois de prison avec sursis.
 
-Actu Marseille
+   Evry, ce mercredi. Comme trois autres personnes, Arnold s'est constitué
+   partie civile dans ce procès. Il soupçonnait l'un des agents
+   immobiliers d'avoir refusé de lui louer un bien en raison de sa couleur
+   de peau. Des faits pour lesquels l'agent a été relaxé.
+   Evry, ce mercredi. Comme trois autres personnes, Arnold s'est constitué
+   partie civile dans ce procès. Il soupçonnait l'un des agents
+   immobiliers d'avoir refusé de lui louer un bien en raison de sa couleur
+   de peau. Des faits pour lesquels l'agent a été relaxé. LP/PAULINE
+   DARVEY
+   0
+   Par Pauline Darvey
+   Le 6 février 2019 à 21h23, modifié le 7 février 2019 à 12h13
 
-   [53]Voir plus
+   « Nous, citoyens français, qu'est-ce qu'on a fait pour mériter d'être
+   relégués au second rang à cause de notre couleur de peau ? » Sur le
+   banc des parties civiles, ce mercredi, Aissata interpelle d'une voix
+   tremblante les deux prévenus. A la barre, Guy, le père de 71 ans et son
+   fils, David, âgé de 50 ans, lui tournent le dos, le regard dans le
+   vide. « J'aimerais comprendre pourquoi ils ont fait des catégories »,
+   implore encore la victime.
 
-Les plus lus
+   Faire des catégories raciales pour refuser de louer des biens à des
+   personnes d'origine étrangère, [104]ce sont les faits qui sont
+   reprochés à David, le gérant d'une agence immobilière de Palaiseau et
+   son père, désormais retraité. Ils sont respectivement condamnés à 2 et
+   4 mois de prison avec sursis pour quatre dossiers. Ils devront par
+   ailleurs payer 17 000 euros de dommages et intérêts aux différentes
+   parties civiles. Ils ont été relaxés pour trois autres dossiers.
 
-France
+« Pas de noirs, pas de jaunes et pas d'arabes »
 
-     * [54]1  Épargne : livret A, LDDS, LEP, PEL... Quels sont les taux
-       attendus pour 2023 ?
-       En raison de l'inflation, le taux du Livret A devrait être revu à
-       la hausse en 2023
-     * [55]2  CARTE. Ces villes du Val-de-Marne qui perdent des habitants
-       Les choux
-     * [56]3  Vendée : malgré l'effet d'annonce, 40 automobilistes pris
-       dans les filets de la gendarmerie
-       Des contrôles de jour comme de nuit lors du week-end de la
-       Saint-Sylvestre.
-     * [57]4  SNCF : la gare Lyon Part-Dieu bondée de monde évacuée en
-       urgence, ce que l'on sait
-       La gare Part-Dieu de Lyon a été évacuée en urgence ce lundi 2
-       janvier 2023.
-     * [58]5  Près de Toulouse, la soirée du Réveillon tourne mal : pas
-       "invités", ils ont vraiment fait n'importe quoi
-       Les gendarmes ont dû intervenir en nombre pour calmer les esprits
-       lors de la soirée de la Saint-Sylvestre, près de Toulouse.
+   Une affaire qui remonte à fin 2005 - début 2006. Comme Aissata, trois
+   autres personnes se sont constituées partie civile. Deux autres
+   victimes ont pu être identifiées. Fin 2005, Aissata cherche à louer un
+   F3 à Palaiseau. Son dossier est accepté. Mais quand elle se rend à
+   l'agence pour signer le bail, on lui indique que ce ne sera finalement
+   plus possible. « La dame avait l'air très gênée, se souvient la
+   plaignante. Je lui ai dit : j'espère que vous ne faites pas de
+   discrimination. »
+   Les images de la caméra cachée avaient été diffusées sur France
+   3./Capture d'écran Les images de la caméra cachée avaient été diffusées
+   sur France 3./Capture d'écran LP/PAULINE DARVEY
 
-   [59]Voir plus
-   [60]Actu Marseille
-   Actu Marseille
-     * [61]Qui sommes-nous ?
-     * [62]Contact
+   Mais Aissata n'a aucune preuve. Arnold, lui, ne se doutait de rien
+   quand on lui a dit que la maison à Villebon qu'il voulait louer était
+   finalement toujours occupée par le locataire. « Je me suis dit que ce
+   n'était pas de chance... »
 
-   Abonnez-vous pour lire le journal PDF en illimité
-   [63]Je m'abonne
-   [64]Actu.fr L'actu près de chez vous
-     * [65]Facebook
-     * [66]Twitter
-     * [67]Flux RSS
-     * [68]Dailymotion
+   C'est l'une des salariées de l'agence qui fera finalement éclater
+   l'affaire. Embauchée en CDD en novembre 2005 après une longue période
+   de chômage, Patricia affirme qu'elle a reçu dès son premier jour reçu
+   des consignes discriminatoires de la part de Guy. « Pas de noirs, pas
+   de jaunes et pas d'arabes », lui aurait ordonné le patron.
 
-   Actu.fr
-     * [69]Qui sommes-nous ?
-     * [70]Nos départements
-     * [71]Contact
-     * [72]Mentions légales
-     * [73]Conditions générales d'utilisation
-     * [74]Données personnelles
-     * [75]Cookies
-     * [76]CGV Publihebdos
-     * [77]Modifier mes choix cookies
-     * [78]Désactiver le cookie Nonli
-     * (BUTTON) Supprimer les cookies publicitaires éditeur
-     * [79]Archives
-     * [80]Newsletters
+Un testing
 
-   Sites du groupe Publihebdos
-     * [81]Annonces légales
-     * [82]Infolocale
-     * [83]Examens
-     * [84]Élections
-     * [85]Publihebdos
-     * [86]Agence APEI
-     * [87]Hebdoscom
+   Rapidement, la chargée de clientèle juge cette situation intenable. «
+   Elle avait d'abord contacté le défenseur des droits qui lui avait
+   conseillé de nous contacter pour faire un testing, rappelle Samuel
+   Thomas, vice-président de la Maison des potes qui avait déposé plainte
+   en tant que vice-président de SOS Racisme en février 2006.
 
-   Sites du groupe Sipa-OF
-     * [88]Ouest-France
-     * [89]Autres
+   Le militant lui propose alors retourner voir son patron équipée d'une
+   caméra cachée et de lui demander de réitérer ses ordres
+   discriminatoires. Les images, tournées le 12 janvier 2006, sont
+   diffusées quelques semaines plus tard sur France 3.
 
-   Résultats législatives 2022
-     * [90]Auvergne-Rhône-Alpes
-     * [91]Centre-Val de Loire
-     * [92]Bretagne
-     * [93]Bourgogne-Franche-Comté
+   « Est-ce que vous reconnaissez ces ordres ? », interroge Samuel Thomas.
+   « Non », réponds sèchement le prévenu, avant que son fils ne vienne à
+   sa rescousse. « C'est une vidéo faite à l'insu de mon père, entre deux
+   portes, alors qu'il devait partir en rendez-vous », s'offusque-t-il.
 
-     * [94]Grand-Est
-     * [95]Hauts-de-France
-     * [96]Île-de-France
-     * [97]Normandie
-     * [98]Nouvelle-Aquitaine
+Appartement plus disponible
 
-     * [99]Nouvelle-Aquitaine
-     * [100]Occitanie
-     * [101]Pays de la Loire
-     * [102]Provence-Alpes-Côte d'Azur
-     * [103]Corse
+   Dans le même temps, en février 2006, un couple dépose également une
+   plainte par l'intermédiaire de la Licra. En septembre 2005, Issa,
+   ingénieur et sa femme Sylvie visitent un appartement. « On leur dit
+   d'abord que c'est l'assurance qui pose problème, précise leur avocate
+   Caroline Elkouby-Salomon. Puis on leur dit que finalement le
+   propriétaire va louer le bien à son neveu. »
 
-     * [104]Guadeloupe
-     * [105]Martinique
-     * [106]Guyane
-     * [107]La Réunion
-     * [108]Mayotte
+   Pourtant l'annonce est encore en ligne et lorsqu'un couple d'amis à eux
+   appelle, le bien est étrangement disponible. Et le neveu n'a en réalité
+   jamais existé... « En fait, on a favorisé un locataire qui louait déjà
+   un appartement dans notre agence », justifie le fils.
 
-   Les grandes villes
-     * [109]Amiens
-     * [110]Bordeaux
-     * [111]Brest
-     * [112]Caen
-     * [113]Le Havre
+8 mois de prison avec sursis requis
 
-     * [114]Lille
-     * [115]Lorient
-     * [116]Lyon
-     * [117]Le Mans
-     * [118]Marseille
+   Tout au long de l'audience, les deux prévenus nient les faits et
+   tentent d'expliquer. Aissata ? « A priori, Madame avait un revenu de 1
+   000 EUR, indique-t-il au tribunal. Est-ce qu'on peut raisonnablement
+   louer un appartement à 800 euros à quelqu'un qui gagne cette somme ? »
 
-     * [119]Metz
-     * [120]Montpellier
-     * [121]Nancy
-     * [122]Nantes
-     * [123]Paris
+   Pour la procureure, Camille Cosquer aucun doute : « Le seul élément qui
+   permet de comprendre pourquoi on a rejeté ces différents dossiers,
+   c'est la couleur de peau de ces personnes. Rien d'autre. » « Un procès
+   essentiel » et « trop rare », pour ce type de faits, selon la
+   magistrate, qui avait requis 8 mois de prison avec sursis.
+   Dans la rubrique
+   Essonne
+   [105]Coupe de France : Linas-Montlhéry a tenu 70 minutes face à Lens
+   [106]Un pédophile condamné à 6 ans de prison pour plusieurs agressions
+   dans les Yvelines et l'Essonne
+   Abonnés
+   [107]«Il y avait du sang partout» : à Juvisy-sur-Orge, un gérant de bar
+   poignardé à la gorge
 
-     * [124]Reims
-     * [125]Rennes
-     * [126]Rouen
-     * [127]Strasbourg
-     * [128]Toulouse
+   (BUTTON) VOIR LES COMMENTAIRES
+   Les plus lus
+   [108]Junior, 22 ans, tué par balle à Sarcelles après avoir été
+   dépouillé et humilié sur les réseaux
+   1
+   [109]Yvelines : confronté à un problème de chariot, il s'engouffre dans
+   le centre commercial... en voiture
+   2
+   [110]Crise à l'hôpital : pas question de «supprimer les 35 heures»,
+   veut clarifier François Braun
+   3
+   [111]Didier Deschamps après sa prolongation avec les Bleus : «Il ne
+   s'agit pas de faire un copier-coller»
+   4
+   [112]Coupe du monde 2023 : deux ex-rugbymen, dont Chabal, soupçonnés
+   d'irrégularités à la billetterie
+   5
+   Journal du jour
+   8 janvier 2023
+   [lp75_vignette_une.jpeg]
+   [113]Lire le journal
 
-   © 2023 actu.fr, détenu et coexploité par Publihebdos et ses filiales.
-   Hébergement dédié : [129]Groupe DIS, Digital Ad Trust et ACPM.
-   Conception et design : [130]Datagif.
+   Evry
+   Paris, le 8 décembre 2022. Maurice Lipkin entouré de ses avocats Maître
+   Lévy et Maître Ichoua. LP/Delphine Goldsztejn
+   Abonnés[114]Le «family business» version polar des opticiens
+   Illustration. L'homme, placé en garde à vue après la découverte d'une
+   femme à moitié nue ce dimanche à Evry-Courcouronnes, a été présenté à
+   un juge. LP/Florian Garcia
+   [115]Mort d'une quadragénaire violée dans un parking à Evry : un homme
+   de 27 ans mis en examen et écroué
+   Epinay-sur-Seine (Seine-Saint-Denis), septembre 2022. La dotation de
+   fonctionnement du lycée Jacques-Feyder va être ponctionnée de quelque
+   132 868 euros. LP/Hélène Haus
+   Abonnés[116]Île-de-France : le montant des dotations globales de
+   fonctionnement en chute libre dans certains lycées
+   Evry-Courcouronnes (Essonne), mercredi 30 novembre 2022. Au lendemain
+   de la tentative de suicide d'un élève en plein cours, des psychologues
+   étaient toujours déployés au sein de l'établissement. LP/Florian Garcia
+   Abonnés[117]«Ça me rend triste» : émotion à Évry-Courcouronnes après la
+   tentative de suicide d'un lycéen
+   Bréau (Seine-et-Marne), le 3 novembre. Benoît Chevron (à gauche) et
+   Charles-Hubert de Bellaigue (à droite), les présidents des fédérations
+   de chasse franciliennes, se sont régalés du civet de cerf préparé par
+   Franck Assimon (au centre) dans son food-truck. LP/F.Lé.
+   Abonnés[118]«Une viande d'avenir» : les chasseurs d'Île-de-France
+   vantent le gibier local
+   Viviana M. gérait notamment les petites annonces des prostituées sur
+   Internet. Quand un client venait de sa part, elle touchait 50% de la
+   somme versée. (Illustration) LP/Olivier Corsan
+   Abonnés[119]«Tête de réseau» ou «ange gardien» ? L'ancienne prostituée
+   devenue proxénète condamnée à 4 ans de prison
+   Saint-Pierre-du-Perray (Essonne). C'est ici, rue du Commerce, que
+   Céline avait été poignardée par celle qui était son amie le 9 avril
+   2020. LP/S.M.
+   Abonnés[120]Immaturité, rumeurs et confinement : la relation entre deux
+   amies a fini dans le sang
+   Evry (Essonne), dimanche 12 juin 2022. Farida Amrani, la candidate de
+   la Nupes dans la 1re circonscription, bascule en tête avec notamment
+   plus de 41% sur Évry et Corbeil. LP/F.L.
+   Abonnés[121]Législatives en Essonne : avec le carton de la Nupes à Évry
+   et Corbeil, l'Insoumise Farida Amrani proche du but
+   Essonne
+   Juvisy-sur-Orge, le samedi 7 janvier 2023. L'agression s'est produite
+   vers 17 heures ce vendredi au sein de la brasserie bar Aux deux gares à
+   Juvisy. LP/Nolwenn Cosson
+   Abonnés[122]«Il y avait du sang partout» : à Juvisy-sur-Orge, un gérant
+   de bar poignardé à la gorge
+   Malgré une belle résistance de Linas-Montlhéry emmené par Ilyas Khairi
+   (à droite), les Lensois d'Alexis Claude-Maurice (au centre) se sont
+   imposés (0-2) en fin de rencontre. (Photo by Geoffroy VAN DER HASSELT /
+   AFP)
+   [123]Coupe de France : Linas-Montlhéry a tenu 70 minutes face à Lens
+   Longjumeau, le vendredi 6 janvier 2023. À l'appel du Comité de défense
+   des hôpitaux du Nord Essonne, un concert de casseroles a animé le début
+   de la cérémonie des voeux de Sandrine Gelot. LP/Cécile Chevallier
+   Abonnés[124]Les défenseurs de l'hôpital de Longjumeau continuent la
+   lutte : «On se battra jusqu'au bout»
+   En garde à vue, le père jugé depuis ce vendredi devant la cour
+   d'assises de l'Essonne à Évry-Courcouronnes avait rapidement avoué
+   avoir exercé des violences à plusieurs reprises sur son bébé. LP/SM
+   Abonnés[125]En Essonne, un homme jugé pour meurtre après avoir secoué
+   son bébé : «Je ne me le pardonnerai jamais»
+   Les Molières (Essonne), le mercredi 4 janvier. Catherine Fourgeaud
+   signe sa deuxième collection : 2023 est l'année du haricot, la fève
+   traditionnelle. Elle dit avoir déjà des idées pour 2024. LP/Sébastien
+   Birden
+   Abonnés[126]Galette des rois : dans l'atelier de Catherine Fourgeaud,
+   la céramiste qui fabrique des fèves de luxe
+   Comme face à Angers (2-0) la saison dernière, Pascal Leno et ses
+   coéquipiers de l'ESA Linas-Montlhéry espèrent vivre encore de belles
+   émotions ce samedi contre le RC Lens. Icon Sport/Catherine Steenkeste
+   Abonnés[127]Auteur de plusieurs épopées, comment Linas-Montlhéry est
+   tombé amoureux de la Coupe de France
+   Illustration. Le condamné a reconnu les faits d'agressions sexuelles et
+   de corruption de mineurs mais il n'a montré que très peu d'empathie
+   pour ses victimes. DR/Pierre Destrade
+   [128]Un pédophile condamné à 6 ans de prison pour plusieurs agressions
+   dans les Yvelines et l'Essonne
+   Paris, ce vendredi 6 janvier. Des Batobus circulent déjà sur la Seine,
+   mais ils ont jusque-là principalement conquis les touristes. LP/Arnaud
+   Dumontier
+   Abonnés[129]«Je me suis toujours demandé pourquoi on n'utilisait pas la
+   Seine» : les Franciliens attendent les navettes
 
-J'ai déjà un compte
+   Guide Shopping Le Parisien
+     * [130]Les résultats du Loto de la FDJ du samedi 7 janvier 2023
+     * [131]Diffusion boxe : à quelle heure et sur quelle chaîne voir le
+       combat Davis - Garcia ?
+     * [132]Cdiscount casse le prix du PC portable gamer Lenovo Legion 5
+       qui chute de 250 euros
+     * [133]Ne manquez pas ces promotions exceptionnelles sur le rayon
+       éclairage chez Leroy Merlin
+     * [134]Sélection shopping
 
-   [131]Je me connecte
-   ou
-   [132]Je crée mon compte
+   Annonces légales
+     * [135]Déposer une annonce
 
-   Selectionnez une région ou recherchez une ville
-   [133]actu.fr
-   ____________________ (BUTTON)
+   Codes promo
+     * [136]Codes promo Cdiscount
+     * [137]Codes Promo Oscaro
+     * [138]Codes promo Hotels.com
+     * [139]Codes promo Ouigo
+     * [140]Codes promo Emma Matelas
+     * [141]Codes Promo Nike
+     * [142]Codes promo Le Matelas Vert
+     * [143]Codes promo Disney+
+     * [144]Codes promo Amazon
+     * [145]Codes promo GoPro
+     * [146]Codes promo See Tickets
+     * Plus de 2000 marchands
+     * Voir
 
-   (BUTTON) fermer
+   Annonces auto
+   volkswagen up
+   [147]volkswagen up
+   10990EUR
+   2015 - Sainte-Geneviève-des-Bois (Essonne)
+   peugeot 208
+   [148]peugeot 208
+   23490EUR
+   2021 - Palaiseau (Essonne)
+   volkswagen golf
+   [149]volkswagen golf
+   19490EUR
+   2018 - Sainte-Geneviève-des-Bois (Essonne)
+   opel crossland x
+   [150]opel crossland x
+   15990EUR
+   2019 - Sainte-Geneviève-des-Bois (Essonne)
+   citroën berlingo
+   [151]citroën berlingo
+   26500EUR
+   2019 - Dourdan (Essonne)
+     * [152]Voir toutes les annonces
 
-   (BUTTON) fermer actu.fr
+   Profitez des avantages de l'offre numérique
+     * L'intégralité des articles et vidéos
+     * L'info locale qui vous concerne
+     * Le journal numérique dès 22h30 la veille de sa parution
+     * Une navigation sans publicité
+     * Des offres privilèges avec le Club Le Parisien
 
-   Aïe vous avez refusé les cookies . Vous ne savez peut-être pas que 400
-   journalistes professionnels travaillent pour actu.fr (Groupe
-   Publihebdos/Sipa Ouest-France). Le recueil de cookies est utile à la
-   collecte de revenus publicitaires qui nous permettent de vous proposer
-   gratuitement des informations fiables de qualité. Si vous aimez
-   actu.fr, vous pouvez [134]accepter les cookies.
+   [153]Je m'abonne
 
-   Contenu externe
-   Nous avons bloqué l'affichage de ce contenu vidéo/audio pour respecter
-   vos choix en matière de cookies. En cliquant sur « Consulter », vous
-   acceptez le dépôt de cookies par des services de vidéos en ligne tel
-   que YouTube, Dailymotion. Vous pouvez modifier vos choix à tout moment
-   en cliquant sur « Modifier mes choix cookies » dans la rubrique
-   Services en bas de cette page.
-   Consulter
+   [154]Centre Français d'Exploitation du Droit de Copie
+   [155]Archives
+   [156]2023[157]2022[158]2021[159]2020[160]2019[161]2018[162]2017[163]201
+   6
+   [164]Réveillon 2023
+   [165]Codes de réduction
+   [166]Résultats élections
 
-   Contenu externe
-   Nous avons bloqué l'affichage de ce contenu pour respecter vos choix en
-   matière de cookies. En cliquant sur « Consulter », vous acceptez le
-   dépôt de cookies par des services de vidéos en ligne tel que YouTube,
-   Dailymotion. Vous pouvez modifier vos choix à tout moment en cliquant
-   sur « Modifier mes choix cookies » dans la rubrique Services en bas de
-   cette page.
-   Consulter
-
-   Contenu externe
-   Nous avons bloqué l'affichage de cette infographie pour respecter vos
-   choix en matière de cookies. En cliquant sur « Consulter », vous
-   acceptez le dépôt de cookies par des services de vidéos en ligne tel
-   que YouTube, Dailymotion. Vous pouvez modifier vos choix à tout moment
-   en cliquant sur « Modifier mes choix cookies » dans la rubrique
-   Services en bas de cette page.
-   Consulter
+   © Le Parisien
+   [167]Nous écrire[168]Qui sommes nous ?[169]Charte de
+   l'égalité[170]Éthique[171]CGU[172]Espace Pro[173]Politique de
+   confidentialité[174]Espace Presse[175]Politique relative aux cookies
 
 References
 
-   1. https://actu.fr/
-   2. https://actu.fr/provence-alpes-cote-d-azur/
-   3. https://moncompte.actu.fr/
-   4. https://annonces-legales.actu.fr/
-   5. https://actu.fr/horoscope
-   6. https://actu.fr/jeux
-   7. https://actu.fr/shopping
-   8. https://actu.fr/videos
-   9. https://infolocale.actu.fr/
-  10. https://www.infolocale.fr/decouvrir/actu/
-  11. https://elections.actu.fr/
-  12. https://examens.actu.fr/
-  13. https://moncompte.actu.fr/profil
-  14. https://moncompte.actu.fr/mon-actu
-  15. https://moncompte.actu.fr/newsletter
-  16. https://moncompte.actu.fr/session/deconnexion?return_url=https://actu.fr
-  17. https://actu.fr/marseille/
-  18. https://actu.fr/marseille/dernieres-actus
-  19. https://actu.fr/marseille/societe
-  20. https://actu.fr/marseille/economie
-  21. https://actu.fr/marseille/faits-divers
-  22. https://actu.fr/marseille/politique
-  23. https://actu.fr/marseille/societe/coronavirus
-  24. https://actu.fr/marseille/loisirs-culture
-  25. https://actu.fr/marseille/sports
-  26. https://actu.fr/marseille/insolite
-  27. https://actu.fr/planete
-  28. https://actu.fr/monde
-  29. https://actu.fr/lifestyle
-  30. https://actu.fr/videos
-  31. https://actu.fr/newsletter/
-  32. https://actu.fr/?s=
-  33. https://actu.fr/planete/climat/hausse-catastrophes-climatiques-la-detresse-des-sinistres-face-aux-assureurs_55864255.html
-  34. https://actu.fr/
-  35. https://moncompte.actu.fr/
-  36. https://actu.fr/top
-  37. https://actu.fr/
-  38. https://actu.fr/provence-alpes-cote-d-azur/
-  39. https://actu.fr/provence-alpes-cote-d-azur/bouches-du-rhone_13/
-  40. https://actu.fr/provence-alpes-cote-d-azur/marseille_13055
-  41. https://actu.fr/auteur/anne-bouaziz
-  42. https://actu.fr/archives/08-2022/11-08-2022/
-  43. https://actu.fr/provence-alpes-cote-d-azur/marseille_13055/marseille-et-aix-en-provence-des-plages-privees-bars-et-boites-de-nuit-accuses-de-discrimination-raciale_53069700.html
-  44. https://actu.fr/provence-alpes-cote-d-azur/grasse_06069/des-plages-de-la-cote-d-azur-acceptent-des-clients-blancs-mais-pas-noirs-sos-racisme-denonce_53046881.html
-  45. https://twitter.com/Loopsidernews/status/1556926384081182722?s=20&t=0O1RhUpNQ8CPA996gVeQZw
-  46. https://twitter.com/SOS_Racisme/status/1556936176447152132?s=20&t=7jJdbe0o_iyBramYdXFzsw
-  47. https://actu.fr/tag/justice
-  48. https://moncompte.actu.fr/
-  49. http://www.facebook.com/sharer.php?u=https://actu.fr/provence-alpes-cote-d-azur/marseille_13055/marseille-et-aix-en-provence-des-plages-privees-bars-et-boites-de-nuit-accuses-de-discrimination-raciale_53069700.html
-  50. https://twitter.com/share?url=https://actu.fr/provence-alpes-cote-d-azur/marseille_13055/marseille-et-aix-en-provence-des-plages-privees-bars-et-boites-de-nuit-accuses-de-discrimination-raciale_53069700.html&text=Marseille%20et%20Aix-en-Provence.%20Des%20plages%20priv%C3%A9es,%20bars%20et%20bo%C3%AEtes%20de%20nuit%20accus%C3%A9s%20de%20discrimination%20raciale&via=actufr
-  51. https://actu.fr/cdn-cgi/l/email-protection#b6f689c5c3d4dcd3d5c28bfbd7c4c5d3dfdadad396d3c296f7dfce9bd3d89be6c4d9c0d3d8d5d39896f2d3c596c6dad7d1d3c596c6c4dfc0751fd3c59a96d4d7c4c596d3c296d4d97518c2d3c596d2d396d8c3dfc296d7d5d5c3c5751fc596d2d396d2dfc5d5c4dfdbdfd8d7c2dfd9d896c4d7d5dfd7dad390d4d9d2cf8bfbd7c4c5d3dfdadad396d3c296f7dfce9bd3d89be6c4d9c0d3d8d5d39896f2d3c596c6dad7d1d3c596c6c4dfc0751fd3c59a96d4d7c4c596d3c296d4d97518c2d3c596d2d396d8c3dfc296d7d5d5c3c5751fc596d2d396d2dfc5d5c4dfdbdfd8d7c2dfd9d896c4d7d5dfd7dad39384868c938486dec2c2c6c58c9999d7d5c2c398d0c499c6c4d9c0d3d8d5d39bd7dac6d3c59bd5d9c2d39bd29bd7ccc3c499dbd7c4c5d3dfdadad3e9878586838399dbd7c4c5d3dfdadad39bd3c29bd7dfce9bd3d89bc6c4d9c0d3d8d5d39bd2d3c59bc6dad7d1d3c59bc6c4dfc0d3d3c59bd4d7c4c59bd3c29bd4d9dfc2d3c59bd2d39bd8c3dfc29bd7d5d5c3c5d3c59bd2d39bd2dfc5d5c4dfdbdfd8d7c2dfd9d89bc4d7d5dfd7dad3e9838586808f81868698dec2dbda
-  52. https://actu.fr/newsletter/
-  53. https://actu.fr/marseille/dernieres-actus
-  54. https://actu.fr/economie/epargne-livret-a-ldds-lep-pel-quels-sont-les-taux-attendus-pour-2023_55784068.html
-  55. https://actu.fr/societe/carte-ces-villes-du-val-de-marne-qui-perdent-des-habitants_56259735.html
-  56. https://actu.fr/pays-de-la-loire/les-sables-d-olonne_85194/vendee-malgre-leffet-dannonce-40-automobilistes-pris-dans-les-filets-de-la-gendarmerie_56312752.html
-  57. https://actu.fr/auvergne-rhone-alpes/lyon_69123/sncf-la-gare-lyon-part-dieu-bondee-de-monde-evacuee-en-urgence-ce-que-l-on-sait_56315125.html
-  58. https://actu.fr/occitanie/saint-jean_31488/pres-de-toulouse-la-soiree-du-reveillon-tourne-mal-pas-invites-ils-ont-vraiment-fait-n-importe-quoi_56321316.html
-  59. https://actu.fr/top
-  60. https://actu.fr/
-  61. https://actu.fr/marseille/edito
-  62. https://actu.fr/marseille/edito/#contacter-redaction
-  63. https://actu.fr/provence-alpes-cote-d-azur/marseille_13055/marseille-et-aix-en-provence-des-plages-privees-bars-et-boites-de-nuit-accuses-de-discrimination-raciale_53069700.html
-  64. https://actu.fr/
-  65. https://fr-fr.facebook.com/actu.fr/
-  66. https://twitter.com/actufr
-  67. https://actu.fr/rss.xml
-  68. https://www.dailymotion.com/actufr
-  69. https://actu.fr/qui-sommes-nous
-  70. https://actu.fr/nos-departements
-  71. https://actu.fr/contact
-  72. https://actu.fr/mentions-legales
-  73. https://actu.fr/conditions-generales-d-utilisation
-  74. https://static.actu.fr/content/politique-donnees-personnelles-actu.pdf
-  75. https://static.actu.fr/content/politique-cookies-actu.pdf
-  76. https://static.actu.fr/content/conditions-generales-de-vente-publihebdos.pdf
-  77. javascript:Didomi.preferences.show()
-  78. https://l.actu.fr/cookie/consent
-  79. https://actu.fr/archives/
-  80. https://actu.fr/newsletter/
-  81. https://annonces-legales.actu.fr/
-  82. https://infolocale.actu.fr/
-  83. https://examens.actu.fr/
-  84. https://elections.actu.fr/
-  85. https://www.publihebdos.com/
-  86. https://agence-apei.com/
-  87. https://www.hebdoscom.com/
-  88. https://www.ouest-france.fr/
-  89. https://www.ouest-france.fr/autres-sites/
-  90. https://elections.actu.fr/auvergne-rhone-alpes
-  91. https://elections.actu.fr/centre-val-de-loire
-  92. https://elections.actu.fr/bretagne
-  93. https://elections.actu.fr/bourgogne-franche-comte
-  94. https://elections.actu.fr/grand-est
-  95. https://elections.actu.fr/hauts-de-france
-  96. https://elections.actu.fr/ile-de-france
-  97. https://elections.actu.fr/normandie
-  98. https://elections.actu.fr/nouvelle-aquitaine
-  99. https://elections.actu.fr/nouvelle-aquitaine
- 100. https://elections.actu.fr/occitanie
- 101. https://elections.actu.fr/pays-de-la-loire
- 102. https://elections.actu.fr/provence-alpes-cote-d-azur
- 103. https://elections.actu.fr/corse
- 104. https://elections.actu.fr/guadeloupe
- 105. https://elections.actu.fr/martinique
- 106. https://elections.actu.fr/guyane
- 107. https://elections.actu.fr/la-reunion
- 108. https://elections.actu.fr/mayotte
- 109. https://elections.actu.fr/hauts-de-france/amiens_80021
- 110. https://elections.actu.fr/nouvelle-aquitaine/bordeaux_33063
- 111. https://elections.actu.fr/bretagne/brest_29019
- 112. https://elections.actu.fr/normandie/caen_14118
- 113. https://elections.actu.fr/normandie/le-havre_76351
- 114. https://elections.actu.fr/hauts-de-france/lille_59350
- 115. https://elections.actu.fr/bretagne/lorient_56121
- 116. https://elections.actu.fr/auvergne-rhone-alpes/lyon_69123
- 117. https://elections.actu.fr/pays-de-la-loire/le-mans_72181
- 118. https://elections.actu.fr/provence-alpes-cote-d-azur/marseille_13055
- 119. https://elections.actu.fr/grand-est/metz_57463
- 120. https://elections.actu.fr/occitanie/montpellier_34172
- 121. https://elections.actu.fr/grand-est/nancy_54395
- 122. https://elections.actu.fr/pays-de-la-loire/nantes_44109
- 123. https://elections.actu.fr/ile-de-france/paris_75056
- 124. https://elections.actu.fr/grand-est/reims_51454
- 125. https://elections.actu.fr/bretagne/rennes_35238
- 126. https://elections.actu.fr/normandie/rouen_76540
- 127. https://elections.actu.fr/grand-est/strasbourg_67482
- 128. https://elections.actu.fr/occitanie/toulouse_31555
- 129. https://www.group-dis.com/
- 130. https://datagif.fr/
- 131. https://moncompte.actu.fr/session?return_url=https://actu.fr/mon-actu
- 132. https://moncompte.actu.fr/
- 133. https://actu.fr/
- 134. javascript:Didomi.setUserAgreeToAll();
+   Visible links:
+   1. https://www.googletagmanager.com/ns.html?id=GTM-5QNLTGR&gtm_auth=XWh1NlOe7Udt_V-KXeCUVQ&gtm_preview=env-2&gtm_cookies_win=x
+   2. https://www.leparisien.fr/
+   3. https://www.leparisien.fr/
+   4. https://www.leparisien.fr/essonne-91/essonne-deux-agents-immobiliers-reconnus-coupables-de-discrimination-raciale-06-02-2019-8006103.php
+   5. https://www.leparisien.fr/essonne-91/essonne-deux-agents-immobiliers-reconnus-coupables-de-discrimination-raciale-06-02-2019-8006103.php
+   6. https://www.leparisien.fr/faits-divers/
+   7. https://www.leparisien.fr/info-paris-ile-de-france-oise/
+   8. https://www.leparisien.fr/paris-75/
+   9. https://www.leparisien.fr/essonne-91/
+  10. https://www.leparisien.fr/hauts-de-seine-92/
+  11. https://www.leparisien.fr/seine-saint-denis-93/
+  12. https://www.leparisien.fr/val-d-oise-95/
+  13. https://www.leparisien.fr/val-de-marne-94/
+  14. https://www.leparisien.fr/seine-et-marne-77/
+  15. https://www.leparisien.fr/yvelines-78/
+  16. https://www.leparisien.fr/oise-60/
+  17. https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/
+  18. https://www.leparisien.fr/sports/football/psg/
+  19. https://www.leparisien.fr/sports/
+  20. https://www.leparisien.fr/sports/ligue-1-uber-eats/
+  21. https://www.leparisien.fr/sports/football/
+  22. https://www.leparisien.fr/sports/football/coupe-du-monde/
+  23. https://www.leparisien.fr/sports/JO/paris-2024/
+  24. https://www.leparisien.fr/sports/cyclisme/
+  25. https://www.leparisien.fr/sports/rugby/
+  26. https://www.leparisien.fr/sports/tennis/
+  27. https://www.leparisien.fr/sports/hippisme/
+  28. https://www.leparisien.fr/politique/
+  29. https://www.leparisien.fr/resultats-elections/
+  30. https://www.leparisien.fr/elections/presidentielle/
+  31. https://www.leparisien.fr/elections/legislatives/
+  32. https://www.leparisien.fr/elections/
+  33. https://www.leparisien.fr/pouvoir-d-achat/
+  34. https://www.leparisien.fr/immobilier/
+  35. https://www.leparisien.fr/environnement/
+  36. https://www.leparisien.fr/economie/
+  37. https://www.leparisien.fr/economie/consommation/
+  38. https://www.leparisien.fr/economie/emploi/
+  39. https://www.leparisien.fr/economie/impots/
+  40. https://www.leparisien.fr/economie/business/
+  41. https://www.leparisien.fr/economie/retraites/
+  42. https://www.leparisien.fr/automobile/
+  43. https://www.leparisien.fr/vie-de-bureau/
+  44. https://www.leparisien.fr/enquete/
+  45. https://www.leparisien.fr/societe/
+  46. https://www.leparisien.fr/coronavirus/
+  47. https://www.leparisien.fr/societe/sante/
+  48. https://www.leparisien.fr/animaux/
+  49. https://www.leparisien.fr/sciences/
+  50. https://www.leparisien.fr/meteo/
+  51. https://www.leparisien.fr/sentinelles/
+  52. https://www.leparisien.fr/high-tech/
+  53. https://www.leparisien.fr/intime/
+  54. https://www.leparisien.fr/international/
+  55. https://www.leparisien.fr/culture-loisirs/
+  56. https://www.leparisien.fr/culture-loisirs/sortir-region-parisienne/
+  57. https://www.leparisien.fr/culture-loisirs/cinema/
+  58. https://www.leparisien.fr/culture-loisirs/series/
+  59. https://www.leparisien.fr/culture-loisirs/tv/
+  60. https://www.leparisien.fr/culture-loisirs/livres/
+  61. https://www.leparisien.fr/culture-loisirs/musique/
+  62. https://www.leparisien.fr/en-region/
+  63. https://www.leparisien.fr/calvados-14/
+  64. https://www.leparisien.fr/charente-maritime-17/
+  65. https://www.leparisien.fr/eure-27/
+  66. https://www.leparisien.fr/eure-et-loir-28/
+  67. https://www.leparisien.fr/finistere-29/
+  68. https://www.leparisien.fr/haute-garonne-31/
+  69. https://www.leparisien.fr/loiret-45/
+  70. https://www.leparisien.fr/marne-51/
+  71. https://www.leparisien.fr/martinique-972/
+  72. https://www.leparisien.fr/pyrenees-orientales-66/
+  73. https://www.leparisien.fr/seine-maritime-76/
+  74. https://www.leparisien.fr/bien-manger/
+  75. https://www.leparisien.fr/etudiant/
+  76. https://www.leparisien.fr/etudiant/orientation/
+  77. https://www.leparisien.fr/etudiant/examens/
+  78. https://www.leparisien.fr/etudiant/jobs-stages/
+  79. https://www.leparisien.fr/etudiant/vie-etudiante/
+  80. http://etudiant.aujourdhui.fr/etudiant/sortir.html
+  81. https://www.leparisien.fr/inscription-newsletters/
+  82. https://www.leparisien.fr/podcasts/
+  83. https://www.leparisien.fr/video/
+  84. https://www.leparisien.fr/biclou/
+  85. https://www.leparisien.fr/crime-story/
+  86. https://www.leparisien.fr/food-checking/
+  87. https://www.leparisien.fr/jeux/
+  88. https://annonces-immopro.leparisien.fr/
+  89. https://carnet.leparisien.fr/
+  90. https://annonces-legales.leparisien.fr/
+  91. https://avisdemarches.leparisien.fr/
+  92. https://www.leparisien.fr/nos-services/
+  93. https://www.leparisien.fr/applications/
+  94. https://www.leparisien.fr/guide-shopping/
+  95. https://comparateur.leparisien.fr/
+  96. https://www.leparisien.fr/jeux/jeu-concours.php
+  97. https://www.leparisien.fr/codes-promo/
+  98. https://telecharger.leparisien.fr/
+  99. https://www.spectaclescarrefour.leparisien.fr/
+ 100. https://programme-tv.leparisien.fr/
+ 101. https://www.leparisien.fr/ferrari/
+ 102. https://www.leparisien.fr/info-paris-ile-de-france-oise/
+ 103. https://www.leparisien.fr/essonne-91/
+ 104. https://www.leparisien.fr/essonne-91/essonne-12-ans-apres-deux-agents-immobiliers-poursuivis-pour-discrimination-raciale-06-07-2018-7809975.php
+ 105. https://www.leparisien.fr/sports/football/coupe-de-france-linas-montlhery-a-tenu-70-minutes-face-a-lens-07-01-2023-GBUUBTASHFDWZHEXHP4CLK3JZI.php
+ 106. https://www.leparisien.fr/yvelines-78/un-pedophile-condamne-a-6-ans-de-prison-pour-plusieurs-agressions-dans-les-yvelines-et-lessonne-07-01-2023-UZ4TZJVWTNEWNBXKPFGSQQ6FYI.php
+ 107. https://www.leparisien.fr/essonne-91/il-y-avait-du-sang-partout-a-juvisy-sur-orge-un-gerant-de-bar-poignarde-a-la-gorge-07-01-2023-KVFKT6ZVJJB5TJSWBHDQ7ABLUE.php
+ 108. https://www.leparisien.fr/val-d-oise-95/junior-22-ans-tue-par-balle-a-sarcelles-apres-avoir-ete-depouille-et-humilie-sur-les-reseaux-07-01-2023-4PWXKXQXXBBKLI2PGLFIVGK2GA.php
+ 109. https://www.leparisien.fr/yvelines-78/yvelines-confronte-a-un-probleme-de-chariot-il-entre-dans-le-centre-commercial-de-chambourcy-en-voiture-06-01-2023-4XRTU2IQ4NENNLSME7JB63NMFA.php
+ 110. https://www.leparisien.fr/societe/sante/crise-a-lhopital-pas-question-de-supprimer-les-35-heures-veut-clarifier-francois-braun-07-01-2023-EQBCBQSSW5CGBGBHESBYO6MLNU.php
+ 111. https://www.leparisien.fr/sports/football/didier-deschamps-apres-sa-prolongation-a-la-tete-des-bleus-il-ne-sagit-pas-de-faire-un-copier-coller-07-01-2023-U3VM753BIFEGFPDNYQLOJ6FLNE.php
+ 112. https://www.leparisien.fr/sports/rugby/coupe-du-monde-2023-deux-anciens-joueurs-dont-chabal-soupconnes-dirregularites-a-la-billetterie-06-01-2023-YK7WVRNTEZF6PF7E5M4A7JQIKY.php
+ 113. https://www.kiosque.leparisien.fr/
+ 114. https://www.leparisien.fr/faits-divers/le-family-business-version-polar-des-opticiens-27-12-2022-T2BYM4NYUVD2LMUNUZGDCFATH4.php
+ 115. https://www.leparisien.fr/essonne-91/evry-courcouronnes-la-quadragenaire-violee-et-grievement-blessee-est-decedee-un-homme-arrete-22-12-2022-L7IQS4BEINCCZNR52UJID6Z4Z4.php
+ 116. https://www.leparisien.fr/seine-saint-denis-93/ile-de-france-le-montant-des-dotations-globales-de-fonctionnement-en-chute-libre-dans-certains-lycees-15-12-2022-IB4DR7K73VEAPL64UAIHTKDNZ4.php
+ 117. https://www.leparisien.fr/essonne-91/ca-me-rend-triste-emotion-a-evry-courcouronnes-apres-la-tentative-de-suicide-dun-lyceen-30-11-2022-2IBSRUR6Z5ABBL33QY4VUBJBHA.php
+ 118. https://www.leparisien.fr/seine-et-marne-77/une-viande-davenir-les-chasseurs-dile-de-france-vantent-le-gibier-local-24-11-2022-EAR5SATMCRH7HDP6BPBLN4GUHA.php
+ 119. https://www.leparisien.fr/faits-divers/tete-de-reseau-ou-ange-gardien-lancienne-prostituee-devenue-proxenete-condamnee-a-4-ans-de-prison-26-09-2022-FVZE7VRMJNCGNCYQ2O6RDKER6M.php
+ 120. https://www.leparisien.fr/essonne-91/immaturite-rumeurs-et-confinement-la-relation-entre-deux-amies-a-fini-dans-le-sang-19-09-2022-447UBPX5CNB6LKWNGKBFQNN5ZQ.php
+ 121. https://www.leparisien.fr/essonne-91/legislatives-en-essonne-avec-le-carton-de-la-nupes-a-evry-et-corbeil-linsoumise-farida-amrani-proche-du-but-13-06-2022-OSIQYEC2SFAFHFHZ7OBYKOS2IE.php
+ 122. https://www.leparisien.fr/essonne-91/il-y-avait-du-sang-partout-a-juvisy-sur-orge-un-gerant-de-bar-poignarde-a-la-gorge-07-01-2023-KVFKT6ZVJJB5TJSWBHDQ7ABLUE.php
+ 123. https://www.leparisien.fr/sports/football/coupe-de-france-linas-montlhery-a-tenu-70-minutes-face-a-lens-07-01-2023-GBUUBTASHFDWZHEXHP4CLK3JZI.php
+ 124. https://www.leparisien.fr/essonne-91/les-defenseurs-de-lhopital-de-longjumeau-continuent-la-lutte-on-se-battra-jusquau-bout-07-01-2023-XDY2OJKAOVAN7OMZY7F6KL2XBE.php
+ 125. https://www.leparisien.fr/essonne-91/en-essonne-un-homme-juge-pour-meurtre-apres-avoir-secoue-son-bebe-je-ne-me-le-pardonnerai-jamais-07-01-2023-XNGN62VCZJAARKF6UWYBMV3T6U.php
+ 126. https://www.leparisien.fr/yvelines-78/galette-des-rois-dans-latelier-de-catherine-fourgeaud-la-ceramiste-qui-fabrique-des-feves-de-luxe-07-01-2023-KHFETKMOQVAPVMMFQKBMTPYCC4.php
+ 127. https://www.leparisien.fr/sports/football/auteur-de-plusieurs-epopees-comment-linas-montlhery-est-tombe-amoureux-de-la-coupe-de-france-07-01-2023-HH4OZDIBURAAXN3SVGEV777BG4.php
+ 128. https://www.leparisien.fr/yvelines-78/un-pedophile-condamne-a-6-ans-de-prison-pour-plusieurs-agressions-dans-les-yvelines-et-lessonne-07-01-2023-UZ4TZJVWTNEWNBXKPFGSQQ6FYI.php
+ 129. https://www.leparisien.fr/paris-75/je-me-suis-toujours-demande-pourquoi-on-nutilisait-pas-la-seine-les-franciliens-attendent-les-navettes-07-01-2023-NAWHFFJPZ5H2XBEINTUININAIU.php
+ 130. https://www.leparisien.fr/guide-shopping/en-ce-moment/les-resultats-du-loto-de-la-fdj-du-samedi-7-janvier-2023-07-01-2023-S2SDSOMM7VFL5C54JZI5BJGWO4.php
+ 131. https://www.leparisien.fr/guide-shopping/en-ce-moment/diffusion-boxe-a-quelle-heure-et-sur-quelle-chaine-voir-le-combat-davis-garcia-07-01-2023-4V2E53MHXRC4JHZYSQNB2BXLQU.php
+ 132. https://www.leparisien.fr/guide-shopping/high-tech/divers/cdiscount-casse-le-prix-du-pc-portable-gamer-lenovo-legion-5-qui-chute-de-250-euros-07-01-2023-UKETIHXMTFBVZF7E2PQQIY3T2E.php
+ 133. https://www.leparisien.fr/guide-shopping/maison/ne-manquez-pas-ces-promotions-exceptionnelles-sur-le-rayon-eclairage-chez-leroy-merlin-07-01-2023-KP4MXIQW7NDQFAYAGRO6CKQIBY.php
+ 134. https://www.leparisien.fr/guide-shopping/
+ 135. https://www.annonces-legales.fr/lp/leparisien/choisir-votre-journal
+ 136. https://www.leparisien.fr/codes-promo/marques/cdiscount.php
+ 137. https://www.leparisien.fr/codes-promo/marques/oscaro.php
+ 138. https://www.leparisien.fr/codes-promo/marques/hotels-com.php
+ 139. https://www.leparisien.fr/codes-promo/marques/ouigo.php
+ 140. https://www.leparisien.fr/codes-promo/marques/emma-matelas.php
+ 141. https://www.leparisien.fr/codes-promo/marques/nike.php
+ 142. https://www.leparisien.fr/codes-promo/marques/le-matelas-vert.php
+ 143. https://www.leparisien.fr/codes-promo/marques/disneyplus.php
+ 144. https://www.leparisien.fr/codes-promo/marques/amazon.php
+ 145. https://www.leparisien.fr/codes-promo/marques/gopro.php
+ 146. https://www.leparisien.fr/codes-promo/marques/see-tickets.php
+ 147. https://www.paruvendu.fr/a/voiture-occasion/volkswagen/up/1265762745A1KVVOVWUP?utm_medium=display&utm_source=leparisien&utm_campaign=leparisien_widget&xtor=AD-1759&partenaire=leparisien
+ 148. https://www.paruvendu.fr/a/voiture-occasion/peugeot/208/1265762271A1KVVOPE208?utm_medium=display&utm_source=leparisien&utm_campaign=leparisien_widget&xtor=AD-1759&partenaire=leparisien
+ 149. https://www.paruvendu.fr/a/voiture-occasion/volkswagen/golf/1265762177A1KVVOVWGOL?utm_medium=display&utm_source=leparisien&utm_campaign=leparisien_widget&xtor=AD-1759&partenaire=leparisien
+ 150. https://www.paruvendu.fr/a/voiture-occasion/opel/crossland-x/1265762176A1KVVOOPCRO?utm_medium=display&utm_source=leparisien&utm_campaign=leparisien_widget&xtor=AD-1759&partenaire=leparisien
+ 151. https://www.paruvendu.fr/a/voiture-occasion/citroen/berlingo/1265762160A1KVVOCIBER?utm_medium=display&utm_source=leparisien&utm_campaign=leparisien_widget&xtor=AD-1759&partenaire=leparisien
+ 152. https://www.paruvendu.fr/voiture-occasion/?partenaire=leparisien
+ 153. https://www.leparisien.fr/essonne-91/essonne-deux-agents-immobiliers-reconnus-coupables-de-discrimination-raciale-06-02-2019-8006103.php
+ 154. http://www.cfcopies.com/contrat-autorisation2/
+ 155. https://www.leparisien.fr/archives/
+ 156. https://www.leparisien.fr/archives/2023/
+ 157. https://www.leparisien.fr/archives/2022/
+ 158. https://www.leparisien.fr/archives/2021/
+ 159. https://www.leparisien.fr/archives/2020/
+ 160. https://www.leparisien.fr/archives/2019/
+ 161. https://www.leparisien.fr/archives/2018/
+ 162. https://www.leparisien.fr/archives/2017/
+ 163. https://www.leparisien.fr/archives/2016/
+ 164. http://www.parisetudiant.com/etudiant/sortir/soiree-reveillon-nouvel-an.html
+ 165. https://www.leparisien.fr/codes-promo/marques/
+ 166. https://www.leparisien.fr/resultats-elections/
+ 167. https://www.leparisien.fr/contact/
+ 168. https://www.leparisien.fr/qui-sommes-nous/
+ 169. https://www.leparisien.fr/charte-egalite/
+ 170. https://www.leparisien.fr/ethique/
+ 171. https://www.leparisien.fr/cgu/
+ 172. https://www.leparisien.fr/espace-professionnel/
+ 173. https://www.leparisien.fr/politique-confidentialite/
+ 174. http://pressroom-lesechos-leparisien.com/
+ 175. https://www.leparisien.fr/cookies/
+
+   Hidden links:
+ 177. https://authentication.leparisien.fr/connexion/
+ 178. https://www.kiosque.leparisien.fr/
+ 179. https://www.leparisien.fr/faits-divers/le-family-business-version-polar-des-opticiens-27-12-2022-T2BYM4NYUVD2LMUNUZGDCFATH4.php
+ 180. https://www.leparisien.fr/essonne-91/evry-courcouronnes-la-quadragenaire-violee-et-grievement-blessee-est-decedee-un-homme-arrete-22-12-2022-L7IQS4BEINCCZNR52UJID6Z4Z4.php
+ 181. https://www.leparisien.fr/seine-saint-denis-93/ile-de-france-le-montant-des-dotations-globales-de-fonctionnement-en-chute-libre-dans-certains-lycees-15-12-2022-IB4DR7K73VEAPL64UAIHTKDNZ4.php
+ 182. https://www.leparisien.fr/essonne-91/ca-me-rend-triste-emotion-a-evry-courcouronnes-apres-la-tentative-de-suicide-dun-lyceen-30-11-2022-2IBSRUR6Z5ABBL33QY4VUBJBHA.php
+ 183. https://www.leparisien.fr/seine-et-marne-77/une-viande-davenir-les-chasseurs-dile-de-france-vantent-le-gibier-local-24-11-2022-EAR5SATMCRH7HDP6BPBLN4GUHA.php
+ 184. https://www.leparisien.fr/faits-divers/tete-de-reseau-ou-ange-gardien-lancienne-prostituee-devenue-proxenete-condamnee-a-4-ans-de-prison-26-09-2022-FVZE7VRMJNCGNCYQ2O6RDKER6M.php
+ 185. https://www.leparisien.fr/essonne-91/immaturite-rumeurs-et-confinement-la-relation-entre-deux-amies-a-fini-dans-le-sang-19-09-2022-447UBPX5CNB6LKWNGKBFQNN5ZQ.php
+ 186. https://www.leparisien.fr/essonne-91/legislatives-en-essonne-avec-le-carton-de-la-nupes-a-evry-et-corbeil-linsoumise-farida-amrani-proche-du-but-13-06-2022-OSIQYEC2SFAFHFHZ7OBYKOS2IE.php
+ 187. https://www.leparisien.fr/essonne-91/il-y-avait-du-sang-partout-a-juvisy-sur-orge-un-gerant-de-bar-poignarde-a-la-gorge-07-01-2023-KVFKT6ZVJJB5TJSWBHDQ7ABLUE.php
+ 188. https://www.leparisien.fr/sports/football/coupe-de-france-linas-montlhery-a-tenu-70-minutes-face-a-lens-07-01-2023-GBUUBTASHFDWZHEXHP4CLK3JZI.php
+ 189. https://www.leparisien.fr/essonne-91/les-defenseurs-de-lhopital-de-longjumeau-continuent-la-lutte-on-se-battra-jusquau-bout-07-01-2023-XDY2OJKAOVAN7OMZY7F6KL2XBE.php
+ 190. https://www.leparisien.fr/essonne-91/en-essonne-un-homme-juge-pour-meurtre-apres-avoir-secoue-son-bebe-je-ne-me-le-pardonnerai-jamais-07-01-2023-XNGN62VCZJAARKF6UWYBMV3T6U.php
+ 191. https://www.leparisien.fr/yvelines-78/galette-des-rois-dans-latelier-de-catherine-fourgeaud-la-ceramiste-qui-fabrique-des-feves-de-luxe-07-01-2023-KHFETKMOQVAPVMMFQKBMTPYCC4.php
+ 192. https://www.leparisien.fr/sports/football/auteur-de-plusieurs-epopees-comment-linas-montlhery-est-tombe-amoureux-de-la-coupe-de-france-07-01-2023-HH4OZDIBURAAXN3SVGEV777BG4.php
+ 193. https://www.leparisien.fr/yvelines-78/un-pedophile-condamne-a-6-ans-de-prison-pour-plusieurs-agressions-dans-les-yvelines-et-lessonne-07-01-2023-UZ4TZJVWTNEWNBXKPFGSQQ6FYI.php
+ 194. https://www.leparisien.fr/paris-75/je-me-suis-toujours-demande-pourquoi-on-nutilisait-pas-la-seine-les-franciliens-attendent-les-navettes-07-01-2023-NAWHFFJPZ5H2XBEINTUININAIU.php
+ 195. https://www.leparisien.fr/codes-promo/
+ 196. https://www.paruvendu.fr/a/voiture-occasion/volkswagen/up/1265762745A1KVVOVWUP?utm_medium=display&utm_source=leparisien&utm_campaign=leparisien_widget&xtor=AD-1759&partenaire=leparisien
+ 197. https://www.paruvendu.fr/a/voiture-occasion/peugeot/208/1265762271A1KVVOPE208?utm_medium=display&utm_source=leparisien&utm_campaign=leparisien_widget&xtor=AD-1759&partenaire=leparisien
+ 198. https://www.paruvendu.fr/a/voiture-occasion/volkswagen/golf/1265762177A1KVVOVWGOL?utm_medium=display&utm_source=leparisien&utm_campaign=leparisien_widget&xtor=AD-1759&partenaire=leparisien
+ 199. https://www.paruvendu.fr/a/voiture-occasion/opel/crossland-x/1265762176A1KVVOOPCRO?utm_medium=display&utm_source=leparisien&utm_campaign=leparisien_widget&xtor=AD-1759&partenaire=leparisien
+ 200. https://www.paruvendu.fr/a/voiture-occasion/citroen/berlingo/1265762160A1KVVOCIBER?utm_medium=display&utm_source=leparisien&utm_campaign=leparisien_widget&xtor=AD-1759&partenaire=leparisien

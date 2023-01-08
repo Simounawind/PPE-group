@@ -1,333 +1,406 @@
-   IFRAME: [1]https://www.googletagmanager.com/ns.html?id=GTM-5NFGMPZ
-
-     * [2]Ma ville
-     * [3]Sport
-     * [4]Faits divers
-     * [5]Actu
-     * [6]Loisirs
-     * [7]Annonces
-     * [8]Immo
-     * [9]Avis de décès
-     *
-     * ____________________
-       Recherche
-
-   [10][hit.xiti?s=78691&s2=20&p=contenu::mdl::plus-facile-quand-on-est-bl
-   anc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raci
-   ale::10483714&di=&x1=web-noscript] Mon journal Menu
-   [11]"Plus facile quand on est blanc" : des plages privées de la Côte
-   d'Azur accusées de discrimination raciale
-     * [12]Mon compte
-     * [13]S'abonner
-
-     * [14]Monde
-     * [15]Europe
-     * [16]Politique
-     * [17]Société
-     * [18]Justice
-     * [19]Circulation - Déplacements
-     * [20]Météo
-     * [21]Environnement
-     * [22]Méditerranée
-     * [23]Économie
-     * [24]Éducation
-     * [25]Sciences et techniques
-     * [26]Santé
-     * [27]People
-     * [28]Bourse
-     *
-
-   Menu
-   ____________________
-   [29]Journal [30]Abonnez-vous [31]Boutique [32]Accueil
-   [33]Podcasts
-     * Annonces légales
-          + [34]Aude
-          + [35]Aveyron
-          + [36]Bouches-du-Rhône
-          + [37]Gard
-          + [38]Hérault
-          + [39]Lozère
-          + [40]Pyrénées-Orientales
-          + [41]Vaucluse
-
-     * [42]Accueil
-     * [43]Actu
-     * [44]Société
-
-"Plus facile quand on est blanc" : des plages privées de la Côte d'Azur
-accusées de discrimination raciale
-
-     * Une caméra cachée réalisée à Juan-Les-Pins a été relayée par
-       Loopsider et a suscité une vague de commentaires sur les réseaux
-       sociaux. Une caméra cachée réalisée à Juan-Les-Pins a été relayée
-       par Loopsider et a suscité une vague de commentaires sur les
-       réseaux sociaux. Capture écran Twitter - LoopSider
-
-   [45]Société, [46]Réseaux sociaux
-   Publié le 11/08/2022 à 13:29
-
-   Une caméra cachée réalisée à Juan-Les-Pins a été relayée par Loopsider
-   et a suscité une vague de commentaires sur les réseaux sociaux.
-   Nombreux sont les internautes à crier à la discrimination raciale.
-
-   La séquence vidéo fait scandale. En caméra cachée, l'association
-   SOS-Racisme a passé au crible différentes plages privées de la Côte
-   d'Azur pour vérifier l'existence de pratiques discriminatoires à
-   l'entrée de ces lieux prisés de certains vacanciers. Une méthode
-   utilisée par l'association depuis 1990, relayé par nos confrères
-   du [47]Monde et de Loopsider.
-
-Des couples tests d'origines différentes
-
-   Trois couples, d'origines différentes, se sont rendus tour à tour au
-   sein du même bar, accompagnés d'une caméra cachée, pour profiter de sa
-   plage privée. Lorsque le couple de couleur demande un transat, le
-   réceptionniste leur signale que les réservations sont complètes. Même
-   réponse pour le couple de Maghrébins quelques minutes plus tard.
-
-   Et là, surprise : quand le couple blanc se présente devant le
-   responsable, cette fois, leur interlocuteur réussit à trouver deux
-   places.
-
-   Le constat sera identique dans un autre établissement de la station
-   balnéaire.
-
-     Plus facile d'obtenir un transat sur les plages privées de la Côte
-     d'Azur quand on est blanc, que quand on est une personne racisée.
-     C'est ce qu'ont prouvé des militants de SOS racisme, lors d'un
-     testing le 30 juillet à Juan-les-Pins.
-     Nous les avons suivis en caméra cachée.
-     [48]pic.twitter.com/AyWWZo3NQF
-     -- Loopsider (@Loopsidernews) [49]August 9, 2022
-
-     Le niveau de racisme en France est exceptionnel
-
-   Évidemment, la séquence n'a pas tardé à faire réagir les internautes...
-
-     Le bon racisme puant de 2022...\ud83d\ude11
-     -- Abdoulaye Kanté (@AbdoulayeK3) [50]August 9, 2022
-
-     La plage n'est pas privée donc non vous ne choisissez pas . Le jour
-     où elle sera à vous cette plage on en reparlera.
-     -- Just a Victim \ud83d\ude2a 12/01/19 (@Instrevise) [51]August 9,
-     2022
-
-     Même un transat. Le niveau de racisme en France est exceptionnel. Au
-     moins un pays où on domine le classement.
-     -- Persépolis (@LeBoubou_) [52]August 9, 2022
-
-   L'association SOS-Racisme compte déposer plainte et interpeller les
-   préfectures, les plagistes se trouvant sur des plages publiques,
-   indique Dominique Sopo, président de l'association à BFMTV.
-     *
-     *
-     *
+   (BUTTON)
+   (BUTTON)
+   (BUTTON) Menu
+   [1]Libération
+      [2]Politique   [3]International   [4]CheckNews   [5]Culture
+   [6]Idées et Débats   [7]Société   [8]Environnement   [9]Economie
+   [10]Lifestyle   [11]Portraits   [12]Sports   [13]Sciences
+   (BUTTON)
+     * [14]Accueil(S'ouvre dans une nouvelle fenêtre)
+     * [15]Fil Info(S'ouvre dans une nouvelle fenêtre)
+     * [16]Politique (BUTTON)
+          + [17]Elections
+     * [18]International (BUTTON)
+          + [19]Europe
+          + [20]Amérique
+          + [21]Afrique
+          + [22]Moyen-Orient
+          + [23]Asie Pacifique
+     * [24]CheckNews
+     * [25]Culture (BUTTON)
+          + [26]Arts
+          + [27]Cinéma
+          + [28]Jeux vidéo
+          + [29]Musique
+          + [30]Photographie
+          + [31]Livres
+          + [32]BD
+          + [33]Scènes
+          + [34]Séries
+     * [35]Idées et Débats (BUTTON)
+          + [36]Opinions
+          + [37]Editorial
+          + [38]Tribunes
+     * [39]Société (BUTTON)
+          + [40]Police / Justice
+          + [41]Droits des femmes
+          + [42]Education
+          + [43]Familles
+          + [44]Logement
+          + [45]Religions
+          + [46]Santé
+          + [47]Sexualités et genres
+          + [48]Ville
+     * [49]Environnement (BUTTON)
+          + [50]Agriculture
+          + [51]Alimentation
+          + [52]Biodiversité
+          + [53]Climat
+          + [54]Nucléaire
+          + [55]Pollution
+     * [56]Economie (BUTTON)
+          + [57]Economie numérique
+          + [58]Médias
+          + [59]Social
+          + [60]Transports
+     * [61]Lifestyle (BUTTON)
+          + [62]Design
+          + [63]High tech
+          + [64]Mode
+          + [65]Gastronomie
+          + [66]Voyages
+     * [67]En images(S'ouvre dans une nouvelle fenêtre)
+     * [68]Portraits
+     * [69]Sports (BUTTON)
+          + [70]Football
+          + [71]Cyclisme
+          + [72]Jeux Olympiques
+          + [73]Tennis
+          + [74]Rugby
+          + [75]Sports mécaniques
+     * [76]Sciences (BUTTON)
+          + [77]Archéologie
+          + [78]Biologie
+          + [79]Espace
+          + [80]Histoire
+     * [81]Plus (BUTTON)
+          + [82]Séries d'été
+          + [83]Numéros spéciaux
+     * [84]Forums & événements
+     * [85]Archives (BUTTON)
+          + [86]2023(S'ouvre dans une nouvelle fenêtre)
+          + [87]2022(S'ouvre dans une nouvelle fenêtre)
+          + [88]2021(S'ouvre dans une nouvelle fenêtre)
+     * [89]Lire le journal(S'ouvre dans une nouvelle fenêtre)
+     * [90]La boutique(S'ouvre dans une nouvelle fenêtre)
+     * [91]Les newsletters(S'ouvre dans une nouvelle fenêtre)
+     * [92]Les unes(S'ouvre dans une nouvelle fenêtre)
+     * [93]Foire aux questions(S'ouvre dans une nouvelle fenêtre)
+     * [94]Contactez-nous(S'ouvre dans une nouvelle fenêtre)
+     * [95]Petites annonces(S'ouvre dans une nouvelle fenêtre)
      *
 
-   [53]Mélissa Simon [54]Mélissa Simon
-   [55]suivre ce journaliste
-     *
-     *
-     *
-     *
+   [96]Accueil / [97]Idées et Débats
+   TRIBUNE
 
-   Les plus lus
-     * [56]Lus
-     * [57]Commentés
+Discrimination raciale, un héritage français
 
-     * 1 [58]Faits divers. Le père de famille de 37 ans disparu depuis le
-       lendemain de Noël a finalement été retrouvé, il faisait la manche
-     * 2 [59]Monde. VIDEO. Ce clip de propagande russe compare la France à
-       un rat appelé "Emmanuel", tué par un soldat de Wagner
-     * 3 [60]Faits divers. Un enfant de 6 ans appelle à l'aide par la
-       fenêtre : ses parents sont découverts inanimés dans l'appartement
-     * 4 [61]Animaux. Colombie : la découverte de l'unique ocelot albinos
-       connu au monde est une très mauvaise nouvelle pour l'espèce
-     * 5 [62]Santé. Régime après les fêtes : des scientifiques ont
-       découvert comment ne pas grossir après une perte de poids
+   par [98]Michel Wieviorka, sociologue et George Pau-Langevin, députée
+   socialiste
+   publié le 17 février 2009 à 6h51
+   (mis à jour le 17 février 2009 à 6h51)
 
-     * 1 [63]Economie. Vers une fin des tournées quotidiennes des facteurs
-       ? La Poste nuance mais confirme une expérimentation
-     * 2 [64]Guerre en Ukraine. Guerre en Ukraine : la France va livrer
-       des chars de combat légers à Kiev, promet Macron à Zelensky
-     * 3 [65]Guerre en Ukraine. Guerre en Ukraine : un passage en 2023
-       sous les frappes russes peu après les voeux de Zelensky
-     * 4 [66]Télé-médias. Audiences TV 2022 : TF1 au plus bas malgré la
-       Coupe du monde, les chaînes d'informations tirent leur épingle du
-       jeu
-     * 5 [67]Economie. Lunellois : Pierre et Cathie Solignac envisagent la
-       fermeture de leurs boulangeries-pâtisseries
+   La France, enthousiaste après l'élection du premier président des
+   Etats-Unis afro-américain, s'interroge : pourquoi pas chez nous ?
+   Réponse : parce que les Etats-Unis ont agi, et pas la France.
+   Ils partaient pourtant de très loin, avec des éléments d'apartheid
+   maintenus jusque dans les années 60. Mouvements pour les droits
+   civiques, volontarisme politique avec la discrimination positive dans
+   les universités et l'administration, émergence progressive de la
+   diversité dans les élites politiques, médiatiques, économiques : Barack
+   Obama ne sort pas de nulle part, il est l'aboutissement d'un mouvement
+   de fond.
 
-   À lire aussi de Société
-     * 1 [68]Environnement. Frontignan : il n'y a plus de dépôt sauvage,
-       avenue de la Méditerranée
-     * 2 [69]Patrimoine. Pourquoi y a-t-il une fève cachée dans la galette
-       des Rois et d'où vient cette tradition ?
-     * 3 [70]Solidarité. Opération Sakado : lycéens et collégiens de
-       Montpellier mobilisés pour aider les sans-abri
-     * 4 [71]Pétanque. Sète : la grande finale de pétanque de la PPF
-       reportée sur fond d'affaire d'homicide
-     * 5 [72]Société. "Comme un animal de zoo" : des hôtesses de l'air
-       forcées à se montrer en sous-vêtements devant des recruteurs
+   Rien de tel en France. Au nom d'un universalisme abstrait, la
+   République a longtemps refusé de reconnaître sa nouvelle diversité.
+   Dans les années 80 et 90, parler de multiculturalisme, même tempéré,
+   c'était vite risquer d'être traité de communautariste ou de casseur de
+   la République.
 
-   [73][image.jpg]
-   Aussi à la une
-     * 1 [74]Santé. Annonces de Macron aux soignants : l'urgentiste
-       Patrick Pelloux dénonce une "Ubérisation" de la santé
-     * 2 [75]Santé. Covid-19 : une entreprise montpelliéraine annonce une
-       étude "encourageante" sur un traitement par l'ivermectine
-     * 3 [76]Patrimoine. Pourquoi y a-t-il une fève cachée dans la galette
-       des Rois et d'où vient cette tradition ?
-     * 4 [77]Faits divers. Patron de bar abattu à Montpellier : une
-       information judiciaire ouverte pour meurtre en bande organisée avec
-       préméditation
-     * 5 [78]Energie. Crise énergétique : boulangers, artisans,
-       restaurateurs... les TPE vont payer moins cher, promet
-       TotalEnergies
+   La situation, certes, évolue. Des mesures volontaristes apparaissent
+   pour combattre les discriminations. On nous invite à sauver un des
+   éléments du modèle français, l'élitisme républicain, en élargissant la
+   base sociale au sein de laquelle se recrutent les étudiants des grandes
+   écoles, ou assimilables, telle Sciences-Po. Il est vrai que cette base
+   est devenue singulièrement étroite, et qu'il vaudrait mieux que des
+   jeunes des milieux populaires puissent eux aussi tenter de rejoindre
+   les élites. La droite l'a compris, en témoigne la promotion récente au
+   gouvernement de Richard Descoings, l'homme qui a transformé dans
+   un même mouvement l'accès à Sciences-Po, et l'institution elle-même.
+   Mais faire face à «la diversité» ne peut se limiter à redonner vie à la
+   méritocratie républicaine, héritage perdu de la III^e République. C'est
+   toute la société qui doit reconnaître sa diversité.
 
-   Suivez-nous
-     *
-     *
-     *
-     *
+   Les difficultés sociales sont considérables. Elles affectent les
+   dernières générations de Français issus de l'immigration, qui subissent
+   massivement le tarissement de la croissance et le chômage de masse. La
+   panne de l'intégration est d'abord sociale : l'ascenseur social s'est
+   bloqué et les derniers arrivés restent au sous-sol. Cette réalité est
+   renforcée par la polarisation territoriale des inégalités et par la
+   relégation des plus pauvres dans les ghettos : la France ne «fait plus
+   société», ses territoires font sécession. Pour y répondre,
+   l'égalitarisme formel de la République d'hier est inopérant. Les
+   injonctions égalitaristes sommant les migrants de s'intégrer sans leur
+   en donner les ressources sont des leurres. Il faut adopter des
+   politiques sociales et territoriales radicales, visant à l'égalité
+   réelle.
 
-   Newsletter quotidienne ____________________ Ok
+   Mais les problèmes de la diversité ne sont pas que sociaux. Ils
+   concernent avant tout certains groupes, de quelque nom qu'on les
+   appelle - issus de l'immigration, minorités visibles, Arabes,
+   Noirs, etc. L'étudiant au nom arabe qui ne trouve pas de stage,
+   contrairement à ses camarades de même milieu social au patronyme bien
+   «français», le diplômé noir qui n'est jamais convoqué pour un entretien
+   d'embauche ne sont pas seulement pénalisés pour des raisons sociales.
 
-   Pratique
-   [79]Vidéos
-   [80]Carnets
-   [81]Programme tv
-   [82]Horoscope
-   [83]Bourse
-   [84]Partenaires
-   Journal et Services
-   [85]S'abonner
-   [86]Gérer mon abonnement
-   [87]Archives
-   [88]Collections
-   [89]Applications mobiles
-   [90]Rss
-   [91]Visiter l'imprimerie
-   [92]Boutique Midi Libre
-   Visitez aussi
-   [93]Midi Libre annonces
-   [94]L'Agence de comm
-   [95]Mentions légales [96]Données personnelles [97]Cookies [98]Publicité
-   [99]Charte de modération [100]Contactez-nous [101]Plan du site
+   La discrimination raciale existe. Elle est inscrite dans les schémas
+   mentaux français : l'altérité de la couleur de peau, un héritage
+   colonial mal digéré, une vision culturaliste de la France en sont des
+   facteurs puissants. Elle a été renforcée par l'agitation politique
+   des années lepénistes - certes sans véritable conséquence dans le droit
+   français mais avec un fort impact psychologique «désintégrateur» : le
+   débat sur la nationalité, avec la volonté de remettre en cause le droit
+   du sol au profit d'un droit du sang «gaulois» ; la crispation sur
+   l'islam, avec le rejet du voile et des mosquées ; l'affirmation d'une
+   politique d'immigration choisie, renvoyant en miroir aux Français issus
+   de l'immigration le stigmate de «Français subis».
 
-   [102]www.midilibre.fr © 2023
-   Logo Midi Libre
+   C'est pourquoi des politiques spécifiques sont nécessaires pour faire
+   reculer les discriminations. Pour les sanctionner bien sûr mais avant
+   tout pour modifier les représentations collectives et faire admettre,
+   comme aux Etats-Unis, que la République est désormais diverse.
+
+   Il faut aujourd'hui avancer sur le terrain de la connaissance des
+   discriminations, mieux appréhender les effectifs et les difficultés
+   spécifiques de certaines populations. Le débat, légitime, sur «les
+   statistiques ethniques» ne doit pas faire oublier cette évidence : nous
+   avons besoin de données précises pour agir. Connaître notre société
+   dans ses dimensions culturelles, religieuses, d'origine nationale,
+   devrait contribuer à faire reculer le racisme. Et nous permettre de
+   tirer profit de notre diversité.
+
+   George Pau-Langevin est l'auteure d'un projet de loi qui sera présenté
+   jeudi à l'Assemblée.
+   (BUTTON) (BUTTON)
+   Dans la même rubrique
+   TRIBUNE
+   [99]
+
+«Eco-terrorisme» : les luttes écologistes dans le viseur du ministère de
+l'Intérieur ?
+
+   7 janv. 2023abonnés
+   [100]
+
+Les lueurs des mots de janvier, par Lola Lafon
+
+   [101]Opinions7 janv. 2023abonnés
+   [102]
+
+La sorcière électricité
+
+   [103]Opinions7 janv. 2023abonnés
+   [104]
+
+«La Poste est le service public universel par excellence»
+
+   [105]Idées et Débats7 janv. 2023abonnés
+   Le portrait du jour
+   [106]
+
+Esteban Ocon, va vite et deviens
+
+   6 janv. 2023abonnés
+
+   © Libé 2022
+
+   © Libé 2022
+
+Dans l'actu
+
+     * [107]Réforme des retraites
+     * [108]Le gouvernement Borne
+     * [109]Crise énergétique
+     * [110]Réchauffement climatique
+     * [111]Inflation
+     * [112]Covid-19
+     * [113]Guerre en Ukraine
+     * [114]Révolte en Iran
+
+Services
+
+     * [115]S'abonner(Opens in new window)
+     * [116]La boutique(Opens in new window)
+     * [117]Contactez-nous(Opens in new window)
+     * [118]Donnez-nous votre avis(Opens in new window)
+     * [119]Foire aux questions(Opens in new window)
+     * [120]Proposer une tribune(Opens in new window)
+     * [121]Evénements Libé(Opens in new window)
+     * [122]Cours d'anglais(Opens in new window)
+     * [123]Petites annonces(Opens in new window)
+
+Conditions générales
+
+     * [124]Mentions légales(Opens in new window)
+     * [125]Charte éthique(Opens in new window)
+     * [126]CGVU(Opens in new window)
+     * [127]Protection des données personnelles(Opens in new window)
+     * [128]Gestion des cookies(Opens in new window)
+     * [129]Licence(Opens in new window)
+
+Où lire Libé?
+
+     * [130]Lire le journal(Opens in new window)
+     * [131]Les newsletters(Opens in new window)
+     * [132]Présentation de l'application(Opens in new window)
+     * [133]Application sur Android(Opens in new window)
+     * [134]Application sur iPhone / iPad(Opens in new window)
+     * [135]Archives
+
+   Libération
 
 References
 
    Visible links:
-   1. https://www.googletagmanager.com/ns.html?id=GTM-5NFGMPZ
-   2. https://www.midilibre.fr/communes/
-   3. https://www.midilibre.fr/sport/
-   4. https://www.midilibre.fr/faits-divers/
-   5. https://www.midilibre.fr/actu/
-   6. https://www.midilibre.fr/agenda/
-   7. https://www.midilibre.fr/annonces/
-   8. https://www.bienici.com/midilibre?referrer=midilibre#xtor=CS3-561
-   9. https://avis-deces.midilibre.fr/
-  10. https://kiosque.midilibre.fr/
-  11. https://www.midilibre.fr/
-  12. https://profil.midilibre.fr/login/?SSO_Context=https%3A%2F%2Fwww.midilibre.fr%2F2022%2F08%2F11%2Fplus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale-10483714.php
-  13. https://abonnement.midilibre.fr/?src=edito&url=https%3A%2F%2Fwww.midilibre.fr%2F2022%2F08%2F11%2Fplus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale-10483714.php#xtor=CS1-1-[mdl]-[article_gratuit_standard]-[header]-[plus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale::10483714]
-  14. https://www.midilibre.fr/actu/monde/
-  15. https://www.midilibre.fr/actu/monde/europe/
-  16. https://www.midilibre.fr/actu/politique/
-  17. https://www.midilibre.fr/actu/societe/
-  18. https://www.midilibre.fr/actu/justice/
-  19. https://www.midilibre.fr/actu/circulation-deplacements/
-  20. https://www.midilibre.fr/actu/meteo/
-  21. https://www.midilibre.fr/actu/environnement/
-  22. https://www.midilibre.fr/economie/tourisme/mediterranee/
-  23. https://www.midilibre.fr/economie/
-  24. https://www.midilibre.fr/actu/education/
-  25. https://www.midilibre.fr/actu/sciences-et-techniques/
-  26. https://www.midilibre.fr/sante/
-  27. https://www.midilibre.fr/divertissement/people/
-  28. https://www.midilibre.fr/services/bourse/
-  29. https://kiosque.midilibre.fr/
-  30. https://abonnement.midilibre.fr/#xtor=CS1-1-[mdl]-[article_gratuit_standard]-[menu_mobile]-[plus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale::10483714]
-  31. https://abonnement.midilibre.fr/site/midilibrev2/default/fr/abonnement/boutique.html#xtor=CS1-1-[mdl]-[article_gratuit_standard]-[menu_mobile]-[plus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale::10483714]
-  32. https://www.midilibre.fr/
-  33. https://www.midilibre.fr/podcasts/
-  34. https://www.midilibre.fr/annonces/legales/aude
-  35. https://www.midilibre.fr/annonces/legales/aveyron
-  36. https://www.midilibre.fr/annonces/legales/bouches-du-rhone
-  37. https://www.midilibre.fr/annonces/legales/gard
-  38. https://www.midilibre.fr/annonces/legales/herault
-  39. https://www.midilibre.fr/annonces/legales/lozere
-  40. https://www.midilibre.fr/annonces/legales/pyrenees-orientales
-  41. https://www.midilibre.fr/annonces/legales/vaucluse
-  42. https://www.midilibre.fr/
-  43. https://www.midilibre.fr/actu/
-  44. https://www.midilibre.fr/actu/societe/
-  45. https://www.midilibre.fr/actu/societe/
-  46. https://www.midilibre.fr/economie/innovation-high-tech/reseaux-sociaux/
-  47. https://www.lemonde.fr/societe/article/2022/08/01/sur-la-cote-d-azur-les-plages-privees-a-l-epreuve-des-tests-de-discrimination-raciale_6136849_3224.html
-  48. https://t.co/AyWWZo3NQF
-  49. https://twitter.com/Loopsidernews/status/1556926384081182722?ref_src=twsrc%5Etfw
-  50. https://twitter.com/AbdoulayeK3/status/1557045463865507847?ref_src=twsrc%5Etfw
-  51. https://twitter.com/Instrevise/status/1557083611291074560?ref_src=twsrc%5Etfw
-  52. https://twitter.com/LeBoubou_/status/1556945528256176131?ref_src=twsrc%5Etfw
-  53. https://www.midilibre.fr/auteur/melissa-simon
-  54. https://www.midilibre.fr/auteur/melissa-simon
-  55. https://www.midilibre.fr/auteur/melissa-simon
-  56. https://www.midilibre.fr/2022/08/11/plus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale-10483714.php#top-lus
-  57. https://www.midilibre.fr/2022/08/11/plus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale-10483714.php#top-comments
-  58. https://www.midilibre.fr/2023/01/04/disparition-inquietante-un-pere-de-famille-de-37-ans-na-plus-donne-signe-de-vie-depuis-le-lendemain-de-noel-10903463.php
-  59. https://www.midilibre.fr/2022/12/30/video-dans-un-clip-de-propagande-russe-la-france-est-comparee-a-un-rat-appele-emmanuel-que-tue-un-soldat-de-wagner-10896543.php
-  60. https://www.midilibre.fr/2023/01/01/un-enfant-de-6-ans-appelle-a-laide-par-la-fenetre-ses-parents-sont-decouverts-inanimes-dans-lappartement-10899007.php
-  61. https://www.midilibre.fr/2022/12/30/colombie-la-decouverte-de-lunique-ocelot-albinos-connu-au-monde-est-une-tres-mauvaise-nouvelle-pour-lespece-10896473.php
-  62. https://www.midilibre.fr/2023/01/01/regime-apres-les-fetes-des-scientifiques-ont-decouvert-comment-ne-pas-grossir-apres-une-perte-de-poids-10896100.php
-  63. https://www.midilibre.fr/2023/01/06/vers-une-fin-des-tournees-quotidiennes-des-facteurs-la-poste-lance-des-experimentations-en-mars-10907690.php
-  64. https://www.midilibre.fr/2023/01/04/guerre-en-ukraine-la-france-va-livrer-des-chars-de-combats-a-kiev-promet-emmanuel-macron-a-volodimir-zelensky-10904467.php
-  65. https://www.midilibre.fr/2023/01/01/guerre-en-ukraine-un-passage-en-2023-sous-les-frappes-russes-peu-apres-les-voeux-de-zelensky-10898721.php
-  66. https://www.midilibre.fr/2023/01/02/audiences-tv-2022-tf1-au-plus-bas-malgre-la-coupe-du-monde-les-chaines-dinformations-tirent-leur-epingle-du-jeu-10900802.php
-  67. https://www.midilibre.fr/2023/01/04/lunellois-pierre-et-cathie-solignac-envisagent-la-fermeture-de-leurs-boulangeries-patisseries-10904546.php
-  68. https://www.midilibre.fr/2023/01/06/frontignan-il-ny-a-plus-de-depot-sauvage-avenue-de-la-mediterranee-10908322.php
-  69. https://www.midilibre.fr/2023/01/06/pourquoi-y-a-t-il-une-feve-cachee-dans-la-galette-des-rois-et-dou-vient-cette-tradition-10907774.php
-  70. https://www.midilibre.fr/2023/01/06/lyceens-et-collegiens-de-montpellier-mobilises-pour-aider-les-sans-abri-10908381.php
-  71. https://www.midilibre.fr/2023/01/06/sete-la-grande-finale-de-petanque-de-la-ppf-reportee-sur-fond-daffaire-dhomicide-10908604.php
-  72. https://www.midilibre.fr/2023/01/06/comme-un-animal-de-zoo-des-hotesses-de-lair-forcees-a-se-montrer-en-sous-vetements-devant-des-recruteurs-10908331.php
-  73. https://abonnement.midilibre.fr/site/midilibrev2/default/fr/abonnement/boutique.html#xtor=CS1-1-[mdl]-[bloc]-[sidebare]-[bloc_boutique]
-  74. https://www.midilibre.fr/2023/01/06/annonces-de-macron-aux-soignants-lurgentiste-patrick-pelloux-denonce-une-uberisation-de-la-sante-10908491.php
-  75. https://www.midilibre.fr/2023/01/06/covid-19-lentreprise-montpellieraine-medincell-annonce-des-resultats-positifs-sur-un-traitement-a-livermectine-10908542.php
-  76. https://www.midilibre.fr/2023/01/06/pourquoi-y-a-t-il-une-feve-cachee-dans-la-galette-des-rois-et-dou-vient-cette-tradition-10907774.php
-  77. https://www.midilibre.fr/2023/01/06/patron-de-bar-a-chicha-abattu-information-judiciaire-pour-meurtre-en-bande-organisee-avec-premeditation-les-mis-en-cause-incarceres-10908544.php
-  78. https://www.midilibre.fr/2023/01/06/crise-energetique-boulangers-artisans-restaurateurs-les-tpe-vont-payer-moins-cher-annonce-totalenergies-10908568.php
-  79. https://www.midilibre.fr/videos/
-  80. https://avis-deces.midilibre.fr/
-  81. http://tvmag.midilibre.fr/
-  82. https://www.midilibre.fr/services/horoscope/
-  83. https://www.midilibre.fr/services/bourse/
-  84. https://www.midilibre.fr/partenaire/
-  85. https://abonnement.midilibre.fr/#xtor=CS1-1-[mdl]-[article_gratuit_standard]-[footer]-[plus-facile-quand-on-est-blanc-des-plages-privees-de-la-cote-dazur-accusees-de-discrimination-raciale::10483714]
-  86. https://profil.midilibre.fr/account/
-  87. https://www.midilibre.fr/archives-journal/
-  88. https://abonnement.midilibre.fr/site/midilibrev2/default/fr/abonnement/boutique.html?catref=coup_de_coeur
-  89. https://www.midilibre.fr/apps/
-  90. https://www.midilibre.fr/rss.xml
-  91. http://visites.journaux-du-midi.com/
-  92. https://abonnement.midilibre.fr/site/midilibrev2/default/fr/abonnement/boutique.html
-  93. http://www.midilibre-annonces.com/
-  94. https://www.lagencedecomm.fr/
-  95. https://www.midilibre.fr/page/mentions-legales
-  96. https://www.midilibre.fr/page/charte-donnees-personnelles
-  97. https://www.midilibre.fr/page/utilisation-cookies
-  98. https://www.lagencedecomm.fr/
-  99. https://www.midilibre.fr/page/charte-de-bonne-conduite
- 100. https://www.midilibre.fr/page/contactez-nous
- 101. https://www.midilibre.fr/plan-du-site/
- 102. https://www.midilibre.fr/
+   1. https://www.liberation.fr/
+   2. https://www.liberation.fr/politique/
+   3. https://www.liberation.fr/international/
+   4. https://www.liberation.fr/checknews/
+   5. https://www.liberation.fr/culture/
+   6. https://www.liberation.fr/idees-et-debats/
+   7. https://www.liberation.fr/societe/
+   8. https://www.liberation.fr/environnement/
+   9. https://www.liberation.fr/economie/
+  10. https://www.liberation.fr/lifestyle/
+  11. https://www.liberation.fr/portraits/
+  12. https://www.liberation.fr/sports/
+  13. https://www.liberation.fr/sciences/
+  14. https://www.liberation.fr/
+  15. https://www.liberation.fr/fil-info/
+  16. https://www.liberation.fr/politique/
+  17. https://www.liberation.fr/politique/elections/
+  18. https://www.liberation.fr/international/
+  19. https://www.liberation.fr/international/europe/
+  20. https://www.liberation.fr/international/amerique/
+  21. https://www.liberation.fr/international/afrique/
+  22. https://www.liberation.fr/international/moyen-orient/
+  23. https://www.liberation.fr/international/asie-pacifique/
+  24. https://www.liberation.fr/checknews/
+  25. https://www.liberation.fr/culture/
+  26. https://www.liberation.fr/culture/arts/
+  27. https://www.liberation.fr/culture/cinema/
+  28. https://www.liberation.fr/culture/jeux-video/
+  29. https://www.liberation.fr/culture/musique/
+  30. https://www.liberation.fr/culture/photographie/
+  31. https://www.liberation.fr/culture/livres/
+  32. https://www.liberation.fr/culture/bd/
+  33. https://www.liberation.fr/culture/scenes/
+  34. https://www.liberation.fr/culture/series/
+  35. https://www.liberation.fr/idees-et-debats/
+  36. https://www.liberation.fr/idees-et-debats/opinions/
+  37. https://www.liberation.fr/idees-et-debats/editorial/
+  38. https://www.liberation.fr/idees-et-debats/tribunes/
+  39. https://www.liberation.fr/societe/
+  40. https://www.liberation.fr/societe/police-justice/
+  41. https://www.liberation.fr/societe/droits-des-femmes/
+  42. https://www.liberation.fr/societe/education/
+  43. https://www.liberation.fr/societe/familles/
+  44. https://www.liberation.fr/societe/logement/
+  45. https://www.liberation.fr/societe/religions/
+  46. https://www.liberation.fr/societe/sante/
+  47. https://www.liberation.fr/societe/sexualite-et-genres/
+  48. https://www.liberation.fr/societe/ville/
+  49. https://www.liberation.fr/environnement/
+  50. https://www.liberation.fr/environnement/agriculture/
+  51. https://www.liberation.fr/environnement/alimentation/
+  52. https://www.liberation.fr/environnement/biodiversite/
+  53. https://www.liberation.fr/environnement/climat/
+  54. https://www.liberation.fr/environnement/nucleaire/
+  55. https://www.liberation.fr/environnement/pollution/
+  56. https://www.liberation.fr/economie/
+  57. https://www.liberation.fr/economie/economie-numerique/
+  58. https://www.liberation.fr/economie/medias/
+  59. https://www.liberation.fr/economie/social/
+  60. https://www.liberation.fr/economie/transports/
+  61. https://www.liberation.fr/lifestyle/
+  62. https://www.liberation.fr/lifestyle/design/
+  63. https://www.liberation.fr/lifestyle/hightech/
+  64. https://www.liberation.fr/lifestyle/mode/
+  65. https://www.liberation.fr/lifestyle/gastronomie/
+  66. https://www.liberation.fr/lifestyle/voyages/
+  67. https://www.liberation.fr/en-images/
+  68. https://www.liberation.fr/portraits/
+  69. https://www.liberation.fr/sports/
+  70. https://www.liberation.fr/sports/football/
+  71. https://www.liberation.fr/sports/cyclisme/
+  72. https://www.liberation.fr/sports/jeux-olympiques/
+  73. https://www.liberation.fr/sports/tennis/
+  74. https://www.liberation.fr/sports/rugby/
+  75. https://www.liberation.fr/sports/sports-mecaniques/
+  76. https://www.liberation.fr/sciences/
+  77. https://www.liberation.fr/sciences/archeologie/
+  78. https://www.liberation.fr/sciences/biologie/
+  79. https://www.liberation.fr/sciences/espace/
+  80. https://www.liberation.fr/sciences/histoire/
+  81. https://www.liberation.fr/plus/
+  82. https://www.liberation.fr/plus/speciaux-cahier-ete/
+  83. https://www.liberation.fr/plus/numeros-speciaux/
+  84. https://www.liberation.fr/forums/
+  85. https://www.liberation.fr/archives/
+  86. https://www.liberation.fr/archives/2023/
+  87. https://www.liberation.fr/archives/2022/
+  88. https://www.liberation.fr/archives/2021/
+  89. https://journal.liberation.fr/
+  90. https://boutique.liberation.fr/
+  91. https://www.liberation.fr/newsletters/
+  92. http://unes.liberation.fr/
+  93. https://offre.liberation.fr/aide/
+  94. https://www.liberation.fr/contact/
+  95. https://petites-annonces.liberation.fr/
+  96. https://www.liberation.fr/
+  97. https://www.liberation.fr/idees-et-debats/
+  98. https://www.liberation.fr/auteur/michel-wieviorka/
+  99. https://www.liberation.fr/idees-et-debats/tribunes/eco-terrorisme-les-luttes-ecologistes-dans-le-viseur-du-ministere-de-linterieur-20230107_6DZTJ4B4BVCTVJ2KN7IJ3TXLAA/
+ 100. https://www.liberation.fr/idees-et-debats/opinions/les-lueurs-des-mots-de-janvier-20230107_7WVTDGBJMNCLJEL7RBUIDQQP44/
+ 101. https://www.liberation.fr/idees-et-debats/opinions/
+ 102. https://www.liberation.fr/idees-et-debats/opinions/la-sorciere-electricite-20230107_DIB2R5P7CRDS3F5TUKW3JCBR3E/
+ 103. https://www.liberation.fr/idees-et-debats/opinions/
+ 104. https://www.liberation.fr/idees-et-debats/la-poste-est-le-service-public-universel-par-excellence-20230107_M2XX5SSDSBFO5MMSX73ZGLN7IU/
+ 105. https://www.liberation.fr/idees-et-debats/
+ 106. https://www.liberation.fr/portraits/esteban-ocon-va-vite-et-deviens-20230106_H2KJJIYRFBABFEXZZ4ZLL72AUA/
+ 107. https://www.liberation.fr/tags/reforme-des-retraites/
+ 108. https://www.liberation.fr/dossier/gouvernement-elisabeth-borne/
+ 109. https://www.liberation.fr/tags/energie/
+ 110. https://www.liberation.fr/tags/rechauffement-climatique/
+ 111. https://www.liberation.fr/tags/inflation/
+ 112. https://www.liberation.fr/dossier/covid-19/
+ 113. https://www.liberation.fr/dossier/ukraine-la-crise/
+ 114. https://www.liberation.fr/tags/iran/
+ 115. https://abo.liberation.fr/
+ 116. https://boutique.liberation.fr/
+ 117. https://www.liberation.fr/contact/
+ 118. https://libe-etudes.typeform.com/to/LZ9iwHae/
+ 119. https://aideliberation.crisp.help/fr/
+ 120. https://www.liberation.fr/proposer-une-tribune/
+ 121. https://offre.liberation.fr/evenements/
+ 122. https://cours-anglais.liberation.fr/
+ 123. https://petites-annonces.liberation.fr/
+ 124. https://www.liberation.fr/mentions-legales/
+ 125. https://www.liberation.fr/charte-ethique/
+ 126. https://www.liberation.fr/cgvu/
+ 127. https://www.liberation.fr/protection-des-donnees-personnelles/
+ 128. https://www.liberation.fr/gestions-des-cookies/
+ 129. https://www.liberation.fr/licence/
+ 130. https://journal.liberation.fr/
+ 131. https://www.liberation.fr/newsletters/
+ 132. https://www.liberation.fr/application-mobile/
+ 133. https://play.google.com/store/apps/details?id=com.visuamobile.liberation&hl=fr&gl=US
+ 134. https://apps.apple.com/fr/app/lib%C3%A9ration-toute-lactualit%C3%A9/id336173383/
+ 135. https://www.liberation.fr/archives/
 
    Hidden links:
- 104. https://www.facebook.com/midilibre/
- 105. https://twitter.com/Midilibre
- 106. https://www.instagram.com/midilibre/
- 107. https://www.midilibre.fr/apps/
- 108. https://profil.midilibre.fr/account/newsletter
+ 137. https://www.liberation.fr/idees-et-debats/tribunes/eco-terrorisme-les-luttes-ecologistes-dans-le-viseur-du-ministere-de-linterieur-20230107_6DZTJ4B4BVCTVJ2KN7IJ3TXLAA/
+ 138. https://www.liberation.fr/portraits/esteban-ocon-va-vite-et-deviens-20230106_H2KJJIYRFBABFEXZZ4ZLL72AUA/
+ 139. https://www.facebook.com/Liberation/
+ 140. https://twitter.com/libe
+ 141. https://www.liberation.fr/arc/outboundfeeds/collection/accueil-une/?outputType=xml

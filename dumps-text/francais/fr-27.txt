@@ -1,753 +1,339 @@
-   #[1]Météo quotidienne [2]Actualité locale [3]Actualité départementale
-   [4]Actualité sportive [5]Derniéres minutes
+   #[1]alternate [2]publisher
 
-   IFRAME: [6]https://www.googletagmanager.com/ns.html?id=GTM-M55VGXP
+   IFRAME: [3]https://www.googletagmanager.com/ns.html?id=GTM-T4CHHR
 
-   [7]La Seyne [8]Toulon[9]Golfe de Saint Tropez[10]Brignoles[11]Hyères
-   [12]Autres villes
-
-   S'inscrire
-   Se connecter
-
-   Mon compte Maville
-     * [13]Mon compte
-     * [14]Mon espace PRO
-     * [15]Déconnexion
-
-   Maville.com  par  Ouest-France
-
-     * [16]Accueil Maville
-     *
-     * [17]Info
-       [18]Accueil Info[19]Info en continu[20]Info La Seyne[21]Info
-       Var[22]Info Provence-Alpes-Côte d'Azur[23]En France et dans le
-       Monde[24]Insolite[25]Galeries photos info[26]Archives actualité
-     * [27]Sport
-       [28]Accueil Sport[29]Actualités sportives de La Seyne[30]Actualité
-       sportive régionale[31]Actualité sportive nationale et
-       internationale
-     * [32]Salles de sport
-     * [33]Restos
-       [34]Accueil Restaurants[35]Trouvez un restaurant[36]Professionnel
-       de la restauration ?[37]Toutes nos catégories
-     * [38]Ciné
-       [39]Accueil Cinéma[40]Les sorties de la semaine[41]Trouvez une
-       séance[42]Les films à l'affiche[43]Actualité cinéma[44]Archives
-       Cinéma[45]Séries TV
-     * [46]Sorties
-       [47]Agenda des sorties[48]Actualité de vos sorties
-     * [49]Jeux
-       [50]Accueil Jeux[51]Liste des jeux[52]Liste des gagnants
-     * [53]Bons Plans
-       [54]Tous les bons Plans
-     * [55]Shopping
-     * [56]Météo
-     * [57]Pratique
-       [58]Infos pratiques[59]Shopping[60]Urgences[61]Programme
-       TV[62]Contactez-nous
-     *
-
-       ____________________________________________________________
-       Rechercher
-
-Pourquoi dire Oui aux cookies ?
-
-   (BUTTON) Réduire ce message
-
-   Nous avons besoin de vos cookies pour vous offrir la meilleure
-   expérience de lecture possible et vous proposer des articles
-   personnalisés selon votre lieu de vie et des publicités selon vos
-   centres d'intérêt, avec une sécurité maximale du site.
-
-   Ils contribuent au modèle économique de notre entreprise et permettent
-   aux journalistes de notre rédaction déployés à travers la région, de
-   continuer à concevoir une information fiable et de qualité, toujours
-   proche de vous.
-   Maville.com  par  Ouest-France
-   [63]J'accepte les cookies
-
-   [64]Info
-   Qui, quoi ? ____________________
    (BUTTON)
-   [65]Accueil [66]Info [67]En France et dans le Monde [68]Racisme : L'ONU
-   dénonce la banalisation du discours haineux en France
+   [4]Gala
 
-   logo Ouest-France Mercredi 29 avril 2015 10:15
+   Gala
+   [5]Je m'abonne [6]newsletter
+     * [7]Actu
+     * [8]Royautés
+     * [9]Politique
+     * [10]Cinéma
+     * [11]Mode
+     * [12]Beauté
+     * [13]Portraits
+     * [14]Vidéos
+     * [15]Guide shopping
+     * [16]Carnet d'adresses
+     * (BUTTON) RECHERCHER
+     * +
 
-Racisme : L'ONU dénonce la banalisation du discours haineux en France
+   > Gala Fermer la recherche
+   ____________________ (BUTTON) Recherche
+   [17]Je m'abonne [18]newsletter
+   (BUTTON)
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+     * [19]Gérer mon profil
+     * [20]Mes stars
+     * [21]Notifications
+     * [22]Accéder aux débats
+     * [23]Déconnexion
 
-   [69]2
-     *
+   (BUTTON)
+   [gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==]
+   (BUTTON)
 
-   [70]photo les difficultés pour les populations roms pour accéder aux
-   aires d'accueil en france inquiète l'onu. 1
+     * [24]L'actu
+     * [25]News de stars
 
-   Les difficultés pour les populations Roms pour accéder aux aires
-   d'accueil en France inquiète l'ONU. © Marc Ollivier - Ouest France
+« Crève sale négresse » : Joséphine Baker bafouée... Cette star
+internationale lui a rendu hommage
 
-Le comité pour l'élimination de la discrimination raciale de l'ONU va
-examiner durant deux jours le cas de la France. Il a dénoncé des discours
-haineux envers les minorités.
+   Alice Gobaud | dim. 28 novembre 2021 à 08h27 - Mis à jour le dim. 28
+   novembre 2021 à 12h13
 
-   Le comité pour l'élimination de la discrimination raciale de l[71]'ONU
-   va examiner pendant deux jours, la situation en France.
+   @ANGELI-RINDOFF / BESTIMAGE
 
-   Jusqu'à mercredi le comité va se pencher sur les mesures prises par la
-   France pour lutter contre les discriminations.
+   Joséphine Baker deviendra la première femme noire à rejoindre les
+   "Grandes Femmes" qui reposent au Panthéon, ce mardi 30 novembre.
+   Victime de racisme jusqu'à la fin de sa vie, celle que l'on surnommait
+   la "Vénus noire" a mené un combat acharné contre la discrimination
+   raciale, une engagement salué par une star internationale.
 
-   La France est l'un des 177 pays à avoir ratifié la[72] Convention
-   internationale sur l'élimination de toutes les formes de discrimination
-   raciale de 1965 et doit, à ce titre, soumettre des rapports réguliers
-   au comité de 18 experts indépendants internationaux. Le dernier examen
-   de la France remonte à 2010
+   En 1975, Joséphine Baker, 68 ans, prépare un nouveau show pour la scène
+   du théâtre Bobino à Paris. Après les répétitions, comme le raconte
+   Emmanuel Bonini dans son livre La Véritable Joséphine Baker
+   (Pygmalion), l'artiste regagne sa loge. Sur sa coiffeuse, ce message :
+   "Crève sale négresse". Des mots qui consternent la "Vénus noire" :
+   "Dire qu'après tout ce que j'ai fait depuis 50 ans, il y a encore
+   quelqu'un pour écrire cela... c'est triste", soupire-t-elle. Star du
+   music-hall, actrice, résistante, Joséphine Baker était aussi une
+   militante antiraciste.
 
-   « On constate que le .principe d'égalité n'est pas complètement reflété
-   dans les réalités du pays (...) à cause surtout de l'intolérance et du
-   racisme », a déclaré le président du Comité, Ion Diaconu, à l'ouverture
-   de l'enquête ce mardi. « Ne faut-il pas ériger le discours haineux en
-   véritable infraction ? », a également considéré l'experte togolaise,
-   Afiwa-Kindéna Hohoueto.
+   De son premier spectacle en 1925, née la légende "Baker". Dans un décor
+   de jungle, ceinture de bananes sur ses hanches, Joséphine Baker, nue,
+   enflamme le théâtre des Champs-Élysées. La meneuse de revue a bâti sa
+   carrière sur sa couleur de peau, tout en transcendant, au fil des
+   années, les clichés coloniaux. Au siècle suivant, la star américaine
+   Beyoncé rendra hommage à la première icône noire, en enfilant à son
+   tour une jupe de bananes, lors d'un concert en 2006. Par ses
+   engagements contre la discrimination raciale, Joséphine Baker a marqué
+   l'Histoire.
+   Joséphine Baker sur scène en 1928. © MARY EVANS/SIPAJoséphine Baker sur
+   scène en 1928.
 
-Des paroles mais peu d'actions
+Joséphine Baker, engagée pour la défense des droits civiques des
+Afro-Américains, dénonce le "Black Power"
 
-   Thomas Wagner, le représentant de la mission française auprès de l'ONU
-   a ouvert les débats en rappelant que François Hollande dans ses voeux
-   aux Français, avait placé « la lutte contre le racisme et
-   l'antisémitisme en cause nationale pour l'année 2015 ».
+   Freda Josephine McDonald, de son vrai nom, grandit à Saint-Louis, dans
+   le Missouri, dans une société ségrégationniste [26]où elle vit un
+   véritable enfer. Devenue française en 1937, Joséphine Baker n'a jamais
+   oublié les États-Unis. En 1951, après des années d'absence, elle débute
+   une tournée à travers le pays. Première escale : la Floride. Devant les
+   médias, la chanteuse exige que les Noirs puissent assister à ses
+   spectacles, au même titre que les Blancs, et arrache les affiches
+   ségrégationnistes sur son chemin. Le lendemain soir, c'est un public
+   multiracial qui applaudit la star sur scène. Même succès à New York, où
+   Joséphine Baker offre une rose à un spectateur, lui demandant de la
+   faire passer au reste du public, tel un message de paix. "Au cours de
+   toutes ces années, je vous ai donné tout ce que j'avais. Maintenant je
+   vous appartiens comme vous m'appartenez", peut-on lire dans la
+   biographie écrite par Emmanuel Bonini.
 
-   Le comité à également salué le plan de lutte contre le racisme et
-   l'antisémitisme mis en place en janvier, après les attentats contre le
-   journal satirique Charlie Hebdo.
+   Joséphine Baker poursuit son combat pour les droits civiques des
+   Afro-américains lors de la célèbre marche de 1963 à Washington. Ce
+   jour-là, elle est la seule femme à s'exprimer aux côtés de Martin
+   Luther King, militant pour la paix et l'égalité raciale. Quelques
+   années plus tard, Joséphine Baker, pourtant ruinée, achète des billets
+   d'avion pour assister avec ses enfants aux obsèques de Bobby Kennedy,
+   engagé dans la lutte contre les discriminations.
 
-   Mais ce plan n'est pas suffisant. Comment la France lutte-t-elle contre
-   les discours publics racistes et contre les ghettos ? Quel est l'impact
-   des attentats de janvier ? Autant de questions auxquelles les
-   représentants français devront répondre.
+   En 1970, la militante antiraciste Angela Davis est jugée pour
+   complicité dans l'affaire des "Frères Soledad". Au moment de son
+   procès, Joséphine Baker dénonce le "Black Power". "Ces mots me
+   choquent. Ne me parlez pas de pouvoir noir. Tous les pouvoirs sont les
+   mêmes et cette forme de discrimination me déplaît énormément",
+   déclare-t-elle à un journal américain, cité dans le livre d'Emmanuel
+   Bonini.
+   Joséphine Baker lors de la marche sur Washington le 28 août 1963. ©
+   DALMAS/SIPAJoséphine Baker lors de la marche sur Washington le 28 août
+   1963.
 
-Les Roms, grandes victimes de la discrimination
+Joséphine Baker donne jusqu'à son "dernier souffle pour dire la vérité sur le
+racisme"
 
-   Dans leur rapport de 2010 le comité de l'ONU avait déjà dénoncé le
-   traitement des populations Roms, tout comme la CNCDH, [73]la commission
-   nationale des droits de l'homme. Et la situation a peu évolué depuis.
+   En France, c'est en 1956 que Joséphine Baker débute son combat contre
+   le racisme. Mettant la scène de côté, elle s'engage avec la LICA
+   (ancêtre de la LICRA, Ligue internationale contre le racisme et
+   l'antisémitisme). "J'abandonne tout, je donne mon temps, mon argent, je
+   donne jusqu'à mon dernier souffle (...) pour dire la vérité sur le
+   racisme", promet-elle à l'époque.
 
-   Cette année, le comité à déjà dénoncé « une certaine banalisation du
-   discours de la haine » dans le pays, notamment vis-à-vis des Roms.
+   Son militantisme se confond avec sa vie de famille. Joséphine Baker
+   constitue sa "tribu arc-en-ciel", composée de douze enfants adoptés du
+   Japon, de Colombie, de Finlande, de France, d'Algérie, de
+   Côte-d'Ivoire, du Vénézuela ou encore du Maroc, réunie dans son château
+   des Milandes en Dordogne. Dernière utopie de cette mère de famille,
+   créer un collège de la Fraternité Universelle. Une université où l'on
+   enseignerait les droits civiques et les problèmes liés à la
+   discrimination raciale. Faute de financement, l'établissement ne verra
+   jamais le jour. Mais comme le répétait souvent Joséphine Baker, "Ce qui
+   ne peut être fait dans une vie sera fait dans une autre".
+   Joséphine Baker et sa "tribu arc-en-ciel" en Dordogne, en 1964. ©
+   Avalon/ABACAJoséphine Baker et sa "tribu arc-en-ciel" en Dordogne, en
+   1964.
 
-   L'existence d'un livret d'accueil et les difficultés des populations
-   Roms pour accéder aux aires d'accueil inquiète Ian Diaconnu.
+   Crédits photos : ANGELI-RINDOFF / BESTIMAGE
 
-   Des rapports antérieurs suggèrent une exclusion massive de Roms, et le
-   président a ajouté que « des violences sont encore commises contre les
-   Roms par des particuliers et même par des représentants des forces de
-   police ».
-
-   Ces faits ajoutés à l'accès difficile à l'éducation en France pour ces
-   populations laissent entrevoir que les discriminations raciales loin
-   d'être invisible, sont néanmoins banalisées.
-
-   Les conclusions des 18 experts de l'ONU ne seront pas publiées avant le
-   15 mai.
-
-   Ouest-France
-
-     *
-
-   [74]Donnez votre avis [75]2
-   logo Ouest-France [76]Abonnez-vous 1^er mois offert [77]Acheter le
-   journal du jour [78]Achetez le journal au format numérique
-
-     * merci d'indiquer un nom de film
-       Titre de l'info *
-       merci d'indiquer un titre'
-       Nom du restaurant *
-       ____________________
-          + Choisir un resto :
-          + Cet établissement est nouveau sur maville.com
-       merci d'indiquer un nom de restaurant
-         ______________________________________________________________
-
-       Adresse du restaurant *
-       ____________________
-       merci de saisir l'adresse du restaurant
-       Ville du restaurant *
-       ____________________
-       ____________________
-       merci de saisir la ville du restaurant
-       Téléchargez votre photo (2 Mo max)
-         ______________________________________________________________
-
-       Nom du bar *
-       ____________________
-          + Choisir un bar :
-          + Cet établissement est nouveau sur maville.com
-       merci d'indiquer un nom de bar
-         ______________________________________________________________
-
-       Adresse du bar *
-       ____________________
-       merci de saisir l'adresse du bar
-       Ville du bar *
-       ____________________
-       ____________________
-       merci de saisir la ville du bar
-         ______________________________________________________________
-
-       merci d'indiquer un titre à votre avis
-       ____________________
-
-
-
-   _
-
-     merci d'indiquer un contenu à votre avis
-   * Notez :
-     *
-     * [79]1
-     * [80]2
-     * [81]3
-     * [82]4
-
-   merci de saisir une note
-   Donnez nous vos impressions : *
-     *
-     * [83]1
-     * [84]2
-     * [85]3
-     * [86]4
-
-   L'accueil / la qualité du service
-   merci d'indiquer une note pour l'accueil
+A propos de
      __________________________________________________________________
 
-     *
-     * [87]1
-     * [88]2
-     * [89]3
-     * [90]4
+     * Abonnez-vous à votre star préférée et recevez ses actus en avant
+       première !
+     * Joséphine Baker
+       [27]
+       Joséphine Baker
+       (BUTTON) Suivre Suivi
+     * (BUTTON) suivre plus de stars
 
-   L'ambiance / le décor
-   merci d'indiquer une note pour l'ambiance
+Autour de
      __________________________________________________________________
 
-     *
-     * [91]1
-     * [92]2
-     * [93]3
-     * [94]4
+   [28]racisme [29]engagement [30]Martin Luther King [31]Beyoncé
+   [32]Etats-Unis
 
-   Le rapport qualité / prix
-   merci d'indiquer une note pour le prix
-   Téléchargez votre photo. Poids de votre photo : 2Mo max
-                       
+   gal
 
-     ____________________
+   Revivez ces 100 moments qui ont marqué l'année 2022 en images !
+   [33]Rétrospective
 
+   Sur le même thème
+     __________________________________________________________________
 
+    1. josephine_baker_ou_a-t-elle_ete_enterree
+       Article contenant une vidéo
+         ______________________________________________________________
 
-   [ ] En cochant cette case, j'accepte et je reconnais avoir pris
-   connaissance des [95]conditions générales d'utilisation et de [96]la
-   politique de données personnelles.
+       lun. 29 novembre 2021
+       [34]Joséphine Baker : où a-t-elle été enterrée?
+         ______________________________________________________________
 
-     (BUTTON) Envoyer
-   Vos données personnelles font l'objet d'un traitement informatique par
-   la société Ouest-France Multimédia, sur le fondement de l'exécution
-   d'un contrat et sont utilisées notamment pour prendre en compte,
-   modérer et répondre à vos commentaires sur les contenus mis en ligne
-   sur le site. Elles seront conservées conformément à notre politique de
-   données personnelles, sauf dispositions légales particulières. Vous
-   disposez d'un droit d'accès, de rectification, d'opposition, de
-   limitation et de portabilité, en vous adressant directement à
-   [97]pdp@sipa.ouest-france.fr ou par courrier à "Délégué à la Protection
-   des Données Personnelles SIPA Ouest-France Multimédia - ZI Rennes
-   Sud-Est,- 10 rue du Breil - 35051 Rennes cedex 9". Vous avez également
-   le droit d'introduire une réclamation auprès de la CNIL. [98]En savoir
-   plus
+    2. miss_univers_clemence_botino_a_couper_le_souffle_pour_rendre_hommag
+       e_a_josephine_baker
+       Article contenant une vidéo
+       sam. 11 décembre 2021
+       [35]Miss Univers : Clémence Botino à couper le souffle pour rendre
+       hommage à Joséphine Baker
+         ______________________________________________________________
 
-     (BUTTON) OK
+    3. disparition_d_emiliano_sala_l_emouvant_hommage_rendu_au_footballeur
+       _disparu
+       jeu. 31 janvier 2019
+       [36]Disparition d'Emiliano Sala : l'émouvant hommage rendu au
+       footballeur disparu
+         ______________________________________________________________
 
-   avatar Oscarmpfouma
+    4.
+    5. les_stars_ont_rendu_hommage_a_alain_bashung
+       ven. 20 mars 2009
+       [37]Les stars ont rendu hommage à Alain Bashung
+         ______________________________________________________________
 
-   Racisme en France
-   Oscarmpfouma
-   Les premiers responsables sont les faiseurs d'opinion - la faune
-   interlope des "intellectuels" (journalistes stupides, et la caricature
-   de philosophes actuels, médiocres à souhait , qui sont une véritable
-   honte au sein de la famille des grands esprits qui ont haussé la France
-   au zénit des pays civilisés).
-   La Droite et l'Extrême Droite stupides sont devenues de puissantes
-   fabriques de concepts fumeux, nocifs et d'une effiacité diabolique
-   (bien-pensance, pensée unique, répentance, haine de soi, grand
-   remplacement, racisme anti-blancs, etc.) dont la France a été gavée à
-   tire-larigot et qui ont pourri le pays où Les Lumières sont sorties des
-   bains baptismaux de l'intellectualisme moderne.
-   La notion de racisme anti-blancs est des plus vicieuses. Une analyse
-   fine de cette locution ne dit pas ce qu'on imagine : c'est purement et
-   simplement un appel au viol et au meurtre ! Je termine avec la formule,
-   grammaticalement correcte, mais sémantiquement vicieuse :" La France,
-   aime-la ou quitte-la" . Il s'agit d'une injonction. J'aimerais
-   comprendre comment le verbe "aimer" peut être conjugué à l'impératif,
-   quand le destinateur a tous ses neurones ! (Réaction spontannée de
-   O.P.)
+    6. prostituee_par_sa_mere_battue_exploitee_josephine_baker_a_connu_l_e
+       nfer
+       Article contenant une vidéo
+       ven. 26 novembre 2021
+       [38]Prostituée par sa mère, battue, exploitée... Joséphine Baker a
+       connu l'enfer
+         ______________________________________________________________
 
-   [99] Réagir à cet avis
+    7. josephine_baker_ruinee_comment_grace_kelly_l_a_soutenue_a_la_fin_de
+       _sa_vie
+       Article contenant une vidéo
+       mar. 30 novembre 2021
+       [39]Joséphine Baker ruinée : comment Grace Kelly l'a soutenue à la
+       fin de sa vie
+         ______________________________________________________________
 
-   Réagissez à cet avis
+    8. guy_bedos_inhume_en_corse_les_stars_lui_ont_rendu_hommage
+       Article contenant une vidéo
+       lun. 08 juin 2020
+       [40]Guy Bedos inhumé en Corse : les stars lui ont rendu hommage
+         ______________________________________________________________
 
-     * Titre*
-       ____________________
-     * Commentaire*
+    9. mort_de_joel_robuchon_l_hommage_inattendu_d_une_star_internationale
+       mar. 07 août 2018
+       [41]Mort de Joël Robuchon : l'hommage inattendu d'une star
+       internationale
+         ______________________________________________________________
 
-       _
-     * Pour publier votre commentaire, merci de vous identifier
-       Chargement en cours
-       ____________________
-       Votre pseudo
-       Chargement en cours
-       ____________________
-     * [ ] En cochant cette case, j'accepte et je reconnais avoir pris
-       connaissance des [100]conditions générales d'utilisation et de
-       [101]la politique de données personnelles.
-     * (BUTTON) Annuler (BUTTON) Publier
-     * Vos données personnelles font l'objet d'un traitement informatique
-       par la société Ouest-France Multimédia, sur le fondement de votre
-       consentement et sont utilisées pour répondre à vos demandes
-       d'informations. Elles seront conservées pendant 3 ans à compter de
-       la collecte des données sauf dispositions légales particulières.
-       Vous disposez d'un droit d'accès, de rectification, d'opposition,
-       de limitation et de portabilité, en vous adressant directement à
-       [102]pdp@sipa.ouest-france.fr ou par courrier à "Délégué à la
-       Protection des Données Personnelles SIPA Ouest-France Multimédia -
-       ZI Rennes Sud-Est - 10 rue du Breil - 35051 Rennes cedex 9". Vous
-       avez également le droit d'introduire une réclamation auprès de la
-       CNIL. [103]En savoir plus
+   10. lucien_gainsbourg_a_rendu_hommage_a_son_pere
+       jeu. 29 juillet 2010
+       [42]Lucien Gainsbourg a rendu hommage à son père
+         ______________________________________________________________
 
-   avatar Pean.roselyne
+   11. sylvester_stallone_a_rendu_un_dernier_hommage_a_son_fils
+       dim. 22 juillet 2012
+       [43]Sylvester Stallone a rendu un dernier hommage à son fils
+         ______________________________________________________________
 
-   Racisme : L'ONU dénonce la banalisation du discours haineux en France;
-   Pean.roselyne
-   Mais il y a une chose qu'il ne faut pas oublier on n'à plus les moyens
-   d'accueillir tout les étrangers; la Roumanie n'à pas toucher des aides
-   de L'Europe pour que les personnes vivent dignement dans leur Pays,
-   déjà chez nous il y a un chômage pas possible; comment voulez vous que
-   ces personnes vivent correctement; avec des aides alors que nous c'est
-   tout juste si on est pas critiqué quand on est sans travail; en plus
-   bonjour les vols les attaques en tout genre, c'est pas l'Amérique non
-   plus; ceux qui critique la France n'ont qu'à s'en occuper de ces gens
-   après on verra; .
+   [44]Abonnement magazines Prisma Media
 
-   [104] Réagir à cet avis
+Autour de Joséphine Baker
+     __________________________________________________________________
 
-   Réagissez à cet avis
+    1. Grace Kelly
+       [45]
+       Grace Kelly
+       (BUTTON) Suivre Suivi
+    2. Brigitte Bardot
+       [46]
+       Brigitte Bardot
+       (BUTTON) Suivre Suivi
+    3. Christian Dior
+       [47]
+       Christian Dior
+       (BUTTON) Suivre Suivi
 
-     * Titre*
-       ____________________
-     * Commentaire*
+   Connexion à Prisma Connect
+   (BUTTON)
 
-       _
-     * Pour publier votre commentaire, merci de vous identifier
-       Chargement en cours
-       ____________________
-       Votre pseudo
-       Chargement en cours
-       ____________________
-     * [ ] En cochant cette case, j'accepte et je reconnais avoir pris
-       connaissance des [105]conditions générales d'utilisation et de
-       [106]la politique de données personnelles.
-     * (BUTTON) Annuler (BUTTON) Publier
-     * Vos données personnelles font l'objet d'un traitement informatique
-       par la société Ouest-France Multimédia, sur le fondement de votre
-       consentement et sont utilisées pour répondre à vos demandes
-       d'informations. Elles seront conservées pendant 3 ans à compter de
-       la collecte des données sauf dispositions légales particulières.
-       Vous disposez d'un droit d'accès, de rectification, d'opposition,
-       de limitation et de portabilité, en vous adressant directement à
-       [107]pdp@sipa.ouest-france.fr ou par courrier à "Délégué à la
-       Protection des Données Personnelles SIPA Ouest-France Multimédia -
-       ZI Rennes Sud-Est - 10 rue du Breil - 35051 Rennes cedex 9". Vous
-       avez également le droit d'introduire une réclamation auprès de la
-       CNIL. [108]En savoir plus
+   [48]Accueil
+     * © 2023 Prisma Média - Groupe Vivendi - Tous droits réservés
+     * [49]CGU
+     * [50]Mentions Légales
+     * [51]Publicité
+     * [52]Gala sur votre Mobile
+     * [53]Protection des données
+     * (BUTTON) Paramétrer vos cookies
+     * [54]Nos Abonnements Magazines
+     * [55]Abonnement newsletter
+     * [56]Équipe éditoriale
 
-   [109]Donnez votre avis [110]2
+   newsletter
+   Gala L'actu du jour
+     __________________________________________________________________
 
-   Newsletter maville
+   Gala L'actu du jour
 
-Abonnez-vous à la newsletter - La Seyne
+   Découvrez tous les jours le meilleur de l'actualité depuis votre boite
+   mail
+   [57]Je m'inscris
+   Magazine
+   gal
 
-   ____________________ Je m'inscris
-   En cours de recherche
-   Votre e-mail, avec votre consentement, est utilisé par la société
-   Ouest-France Multimédia pour recevoir les newsletters sélectionnées.
-   [111]En savoir plus
-
-Exprimez-vous !
-
-   Faites-vous le Janvier sobre ou Dry January ? 31
-   Réagir
-
-L'info en continu
-
-     *
-
-Près de Nice, un bus chute de...
-       06/01/23 - 14:36
-     *
-
-Vaste incendie près de...
-       06/01/23 - 10:56
-     *
-
-Var. Une voiture tombe sur les...
-       06/01/23 - 10:37
-     *
-
-Météo. De la pluie, quelques...
-       05/01/23 - 16:32
-     *
-
-Var. Soupçonné d'avoir tué...
-       05/01/23 - 16:12
-
-   [112]  Toute l'info en continu
-
-     *
-    [113]Info     Infos les + lues
-     *
-    [114]Info     Infos les + commentées
-
-     *
-   Nº1
-
-Ligue 2. Ruben Kutran, ancien joueur du centre de...
-     *
-   Nº2
-
-Saint-Malo. Ce bateau innovant peut se passer d'une place...
-     *
-   Nº3
-
-TÉMOIGNAGE. Son compagnon meurt de la maladie...
-     *
-   Nº4
-
-Athlétisme. Lemaitre s'entoure d'une nouvelle...
-     *
-   Nº5
-
-EN IMAGES. Au stade du Santos FC, le Brésil rend un...
-
-     *
-   N°1
-
-Var. Une voiture tombe sur les rails, son conducteur...
-     *
-   N°2
-
-PODCAST. Michel Blanc, des Bronzés aux Cadors
-     *
-   N°3
-
-Football. Harry Kane sur son penalty raté contre la...
-     *
-   N°4
-
-Guerre en Ukraine : le cessez-le-feu controversé de la...
-     *
-   N°5
-
-Guerre en Ukraine. Toujours pas de chars occidentaux pour...
-
-Quiz et jeux
-
-     * 36 photo quiz. les photographes et les photographies célèbres
-       Quiz. Les photographes et les photographies célèbres
-
-     * 32 photo quiz. 10 questions sur les éléphants
-    Quiz. 10 questions sur les éléphants
-     * 6 photo quiz. l'amitié dans la littérature
-    Quiz. L'amitié dans la littérature
-
-   [115]  Tous les quiz
-   [116]Retour en haut
-
-Rubriques site maville
-
-     * [117]Accueil
-     * [118]Info
-     * [119]Sport
-     * [120]Restaurants
-     * [121]Cinéma
-     * [122]Sorties
-     *
-
-     * [123]Jeux
-     * [124]Shopping
-     * [125]Météo
-     * [126]Pratique
-     * [127]Bons plans du jour
-     *
-     *
-
-     * [128]Devenez annonceur
-     * [129]Cookies
-     * [130]Données personnelles
-     * [131]Mentions légales
-     * [132]Plan du site
-     * [133]Contact
-     * [134]Modifier le consentement
-
-Sites Ouest-France
-
-     * [135]Ouest-France
-     * [136]Ouest-France Auto
-     * [137]Ouest-France Immo
-     * [138]Ouest-France Emploi
-     * [139]Ouest-France Solidarité
-     *
-     *
-
-     * [140]Incubateur OFF7
-     * [141]Comparateur Assurances
-     * [142]Infolocale
-     * [143]Bons plans Ouest-France
-     * [144]Commerces Ouest-France
-     * [145]Comparateur de produits
-     * [146]Codes promo
-
-     * [147]Angers
-     * [148]Brest
-     * [149]Caen
-     * [150]Clermont-Ferrand
-     * [151]Le Mans
-     * [152]Lille
-     * [153]Lorient
-     * [154]Marseille
-     * [155]Montpellier
-     * [156]Nantes
-     * [157]Nice
-     * [158]Nîmes
-     * [159]Quimper
-     * [160]Rennes
-     * [161]Toulon
-     * [162]Tours
-     * [163]Vannes
-
-     * [164]Antibes
-     * [165]Brignoles
-     * [166]Cagnes-sur-Mer
-     * [167]Cannes
-     * [168]Draguignan
-     * [169]Fréjus-Saint-Raphaël
-     * [170]Golfe de Saint Tropez
-     * [171]Grasse
-     * [172]Hyères
-     * [173]Menton
-
-   [174]Les applications mobiles Ouest-France disponibles en
-   téléchargement
-   [175]maville.com par © Copyright maville.com | [176]WEB66  [177]ACPM
-   OJD
-   Accès au site Mobile
+   Toute l'actualité des stars est dans le magazine Gala
+   [58]je m'abonne
 
 References
 
-   Visible links:
-   1. https://laseyne.maville.com/flux/rss/meteo.php
-   2. https://laseyne.maville.com/flux/rss/actu.php?c=loc
-   3. https://laseyne.maville.com/flux/rss/actu.php?c=dep
-   4. https://laseyne.maville.com/flux/rss/actu.php?c=spo
-   5. https://laseyne.maville.com/flux/rss/dma.php
-   6. https://www.googletagmanager.com/ns.html?id=GTM-M55VGXP
-   7. https://laseyne.maville.com/
-   8. https://toulon.maville.com/
-   9. https://golfedesainttropez.maville.com/
-  10. https://brignoles.maville.com/
-  11. https://hyeres.maville.com/
-  12. https://maville.com/
-  13. https://laseyne.maville.com/moncompte/mesinformations
-  14. https://laseyne.maville.com/deals/moncompte/mesenseignes
-  15. javascript:void(0);
-  16. https://laseyne.maville.com/
-  17. https://laseyne.maville.com/info/
-  18. https://laseyne.maville.com/info/
-  19. https://laseyne.maville.com/info/info-en-continu/
-  20. https://laseyne.maville.com/info/info-locale/
-  21. https://laseyne.maville.com/info/info-departementale/
-  22. https://laseyne.maville.com/info/info-regionale/
-  23. https://laseyne.maville.com/info/info-nationale/
-  24. https://laseyne.maville.com/info/insolite
-  25. https://laseyne.maville.com/info/galerie-photo.php
-  26. https://laseyne.maville.com/actu/
-  27. https://laseyne.maville.com/sport/
-  28. https://laseyne.maville.com/sport/
-  29. https://laseyne.maville.com/sport/actualites-sportives-locales.php
-  30. https://laseyne.maville.com/sport/archives_-_fil_actu.Htm
-  31. https://laseyne.maville.com/sport/infos/
-  32. https://laseyne.maville.com/sallesdesport/
-  33. https://laseyne.maville.com/restaurants-bars/
-  34. https://laseyne.maville.com/restaurants-bars/
-  35. https://laseyne.maville.com/restaurants-bars/liste-etablissement
-  36. https://laseyne.maville.com/restaurants-bars/contact-pro
-  37. https://laseyne.maville.com/restaurants-bars/liste-categorie/
-  38. https://laseyne.maville.com/cinema/
-  39. https://laseyne.maville.com/cinema/
-  40. https://laseyne.maville.com/cinema/sortie-semaine/
-  41. https://laseyne.maville.com/cinema/#toutesSalles
-  42. https://laseyne.maville.com/cinema/films-affiche/
-  43. https://laseyne.maville.com/cinema/info-en-continu/
-  44. https://laseyne.maville.com/cinema/archives/
-  45. https://laseyne.maville.com/cinema/series-tv.php
-  46. https://laseyne.maville.com/sortir/agenda_accueil.php
-  47. https://laseyne.maville.com/sortir/agenda_accueil.php
-  48. https://laseyne.maville.com/sortir/info-en-continu/
-  49. https://laseyne.maville.com/jeux/
-  50. https://laseyne.maville.com/jeux/
-  51. https://laseyne.maville.com/jeux/tous-les-jeux/
-  52. https://laseyne.maville.com/jeux/gagnants/
-  53. https://laseyne.maville.com/deals/
-  54. https://laseyne.maville.com/deals/
-  55. https://laseyne.maville.com/shopping/
-  56. https://laseyne.maville.com/meteo/locale/
-  57. javascript:void(0)
-  58. https://laseyne.maville.com/pratique/infos_liste.php
-  59. https://laseyne.maville.com/shopping/tendance/
-  60. https://laseyne.maville.com/pratique/numero-urgences.php
-  61. https://laseyne.maville.com/pratique/television.php
-  62. https://laseyne.maville.com/pratique/contact.php
-  63. https://laseyne.maville.com/actu/actudet_-racisme-l-onu-denonce-la-banalisation-du-discours-haineux-en-france_54135-2759825_actu.Htm
-  64. https://laseyne.maville.com/info/
-  65. https://laseyne.maville.com/
-  66. https://laseyne.maville.com/info/
-  67. https://laseyne.maville.com/info/info-nationale/
-  68. https://laseyne.maville.com/actu/actudet_-racisme-l-onu-denonce-la-banalisation-du-discours-haineux-en-france_54135-2759825_actu.Htm
-  69. https://laseyne.maville.com/actu/actudet_-racisme-l-onu-denonce-la-banalisation-du-discours-haineux-en-france_54135-2759825_actu.Htm#ancreAvis
-  70. https://maville.com/photosmvi/2015/04/29/P1D2759825G.jpg
-  71. http://www.un.org/apps/newsFr/storyF.asp?NewsID=34620#.VUCPgeExAXE
-  72. http://www.ohchr.org/FR/ProfessionalInterest/Pages/CERD.aspx
-  73. http://www.cncdh.fr/fr/publications/la-lutte-contre-le-racisme-lantisemitisme-et-la-xenophobie-annee-2010
-  74. https://laseyne.maville.com/actu/actudet_-racisme-l-onu-denonce-la-banalisation-du-discours-haineux-en-france_54135-2759825_actu.Htm#bloc_saisie_assiste
-  75. https://laseyne.maville.com/actu/actudet_-racisme-l-onu-denonce-la-banalisation-du-discours-haineux-en-france_54135-2759825_actu.Htm#ancreAvis
-  76. https://abonnement.ouest-france.fr/lp2/pack-num-maville-0618?utm_source=maville&utm_medium=lien&utm_campaign=of-abo&utm_content=page-article
-  77. http://journal.ouest-france.fr/?utm_source=maville&utm_medium=lienarticle
-  78. http://journal.ouest-france.fr/?utm_source=maville&utm_medium=lienarticle
-  79. javascript:void(0);
-  80. javascript:void(0);
-  81. javascript:void(0);
-  82. javascript:void(0);
-  83. javascript:void(0);
-  84. javascript:void(0);
-  85. javascript:void(0);
-  86. javascript:void(0);
-  87. javascript:void(0);
-  88. javascript:void(0);
-  89. javascript:void(0);
-  90. javascript:void(0);
-  91. javascript:void(0);
-  92. javascript:void(0);
-  93. javascript:void(0);
-  94. javascript:void(0);
-  95. https://laseyne.maville.com/pratique/deals/cgv.php
-  96. https://laseyne.maville.com/mentions_vieprive.php
-  97. mailto:pdp@sipa.ouest-france.fr
-  98. https://laseyne.maville.com/mentions_vieprive.php
-  99. javascript:void(0)
- 100. https://laseyne.maville.com/pratique/deals/cgv.php
- 101. https://laseyne.maville.com/mentions_vieprive.php
- 102. mailto:pdp@sipa.ouest-france.fr
- 103. https://laseyne.maville.com/mentions_vieprive.php
- 104. javascript:void(0)
- 105. https://laseyne.maville.com/pratique/deals/cgv.php
- 106. https://laseyne.maville.com/mentions_vieprive.php
- 107. mailto:pdp@sipa.ouest-france.fr
- 108. https://laseyne.maville.com/mentions_vieprive.php
- 109. https://laseyne.maville.com/actu/actudet_-racisme-l-onu-denonce-la-banalisation-du-discours-haineux-en-france_54135-2759825_actu.Htm#bloc_saisie_assiste
- 110. https://laseyne.maville.com/actu/actudet_-racisme-l-onu-denonce-la-banalisation-du-discours-haineux-en-france_54135-2759825_actu.Htm#ancreAvis
- 111. https://laseyne.maville.com/mentions_vieprive.php
- 112. https://laseyne.maville.com/info/info-en-continu/
- 113. javascript:void(0);
- 114. javascript:void(0);
- 115. https://laseyne.maville.com/info/mavillequiz.php
- 116. https://laseyne.maville.com/actu/actudet_-racisme-l-onu-denonce-la-banalisation-du-discours-haineux-en-france_54135-2759825_actu.Htm#top
- 117. https://laseyne.maville.com/
- 118. https://laseyne.maville.com/info/
- 119. https://laseyne.maville.com/sport/
- 120. https://laseyne.maville.com/restaurants-bars/
- 121. https://laseyne.maville.com/cinema/
- 122. https://laseyne.maville.com/sortir/agenda_accueil.php
- 123. https://laseyne.maville.com/jeux/
- 124. https://laseyne.maville.com/shopping/
- 125. https://laseyne.maville.com/meteo/meteo.php
- 126. https://laseyne.maville.com/pratique/infos_liste.php
- 127. https://laseyne.maville.com/deals/
- 128. https://additimedia.ouest-france.fr/
- 129. https://laseyne.maville.com/pratique/dossiers/OF/juridique/cgu.php
- 130. https://laseyne.maville.com/mentions_vieprive.php
- 131. https://laseyne.maville.com/mentions_legales.php
- 132. https://laseyne.maville.com/plan-du-site/
- 133. https://laseyne.maville.com/pratique/contact.php
- 134. javascript:Didomi.preferences.show()
- 135. https://www.ouest-france.fr/
- 136. https://www.ouestfrance-auto.com/
- 137. https://www.ouestfrance-immo.com/
- 138. https://www.ouestfrance-emploi.com/
- 139. https://www.ouestfrance-solidarite.org/
- 140. https://off7.ouest-france.fr/
- 141. https://www.acommeassure.com/
- 142. https://s.infolocale.fr/
- 143. https://www.ouest-france.fr/shopping/
- 144. https://commerces.ouest-france.fr/
- 145. https://www.ouest-france.fr/shopping/comparateur/
- 146. https://codepromo.ouest-france.fr/
- 147. https://angers.maville.com/
- 148. https://brest.maville.com/
- 149. https://caen.maville.com/
- 150. https://clermont.maville.com/
- 151. https://lemans.maville.com/
- 152. https://lille.maville.com/
- 153. https://lorient.maville.com/
- 154. https://marseille.maville.com/
- 155. https://montpellier.maville.com/
- 156. https://nantes.maville.com/
- 157. https://nice.maville.com/
- 158. https://nimes.maville.com/
- 159. https://quimper.maville.com/
- 160. https://rennes.maville.com/
- 161. https://toulon.maville.com/
- 162. https://tours.maville.com/
- 163. https://vannes.maville.com/
- 164. https://antibes.maville.com/
- 165. https://brignoles.maville.com/
- 166. https://cagnes.maville.com/
- 167. https://cannes.maville.com/
- 168. https://draguignan.maville.com/
- 169. https://frejus-saintraphael.maville.com/
- 170. https://golfedesainttropez.maville.com/
- 171. https://grasse.maville.com/
- 172. https://hyeres.maville.com/
- 173. https://menton.maville.com/
- 174. https://www.ouest-france.fr/services/nos-applis-mobiles/
- 175. https://laseyne.maville.com/
- 176. http://www.presse-regionale.fr/
- 177. https://www.acpm.fr/?utm_source=mvi&utm_medium=lien&utm_campaign=ojd&utm_content=lien-footer
-
-   Hidden links:
- 179. https://laseyne.maville.com/
- 180. https://laseyne.maville.com/actu/actudet_-sondage.-faites-vous-le-janvier-sobre-ou-dry-january-_loc-5574786_actu.Htm
- 181. https://laseyne.maville.com/actu/actudet_-pres-de-nice-un-bus-chute-de-50-metres-dans-un-ravin-_fil-5576936_actu.Htm
- 182. https://laseyne.maville.com/actu/actudet_-vaste-incendie-pres-de-saint-tropez-en-aout-2021-un-suspect-interpelle-et-mis-en-examen-_fil-5576797_actu.Htm
- 183. https://laseyne.maville.com/actu/actudet_-var.-une-voiture-tombe-sur-les-rails-son-conducteur-s-en-extirpe-avant-l-arrivee-d-un-train-_fil-5576782_actu.Htm
- 184. https://laseyne.maville.com/actu/actudet_-meteo.-de-la-pluie-quelques-eclaircies-et-de-la-douceur-les-previsions-pour-ce-week-end-_fil-5575921_actu.Htm
- 185. https://laseyne.maville.com/actu/actudet_-var.-soupconne-d-avoir-tue-un-motard-en-le-percutant-volontairement-un-conducteur-en-garde-a-vue-_fil-5575888_actu.Htm
- 186. https://laseyne.maville.com/sport/detail_-ligue-2.-ruben-kutran-ancien-joueur-du-centre-de-formation-des-girondins-de-bordeaux-est-decede-_-5572226_actu.Htm
- 187. https://laseyne.maville.com/sport/detail_-saint-malo.-ce-bateau-innovant-peut-se-passer-d-une-place-de-port_fil-3406371_actu.Htm
- 188. https://laseyne.maville.com/sport/detail_-temoignage.-son-compagnon-meurt-de-la-maladie-d-alzheimer-a-59-ans-il-ne-parlait-plus-a-la-fin-_fil-5574999_actu.Htm
- 189. https://laseyne.maville.com/sport/detail_-athletisme.-lemaitre-s-entoure-d-une-nouvelle-equipe-fournie-et-experte-pour-se-relancer-vers-les-jo-_54135-5475184_actu.Htm
- 190. https://laseyne.maville.com/sport/detail_-en-images.-au-stade-du-santos-fc-le-bresil-rend-un-dernier-hommage-au-roi-pele-_-5572987_actu.Htm
- 191. https://laseyne.maville.com/sport/detail_-var.-une-voiture-tombe-sur-les-rails-son-conducteur-s-en-extirpe-avant-l-arrivee-d-un-train-_fil-5576782_actu.Htm
- 192. https://laseyne.maville.com/sport/detail_-podcast.-michel-blanc-des-bronzes-aux-cadors-_fil-5576781_actu.Htm
- 193. https://laseyne.maville.com/sport/detail_-football.-harry-kane-sur-son-penalty-rate-contre-la-france-ca-me-hantera-pour-toujours-_fil-5576774_actu.Htm
- 194. https://laseyne.maville.com/sport/detail_-guerre-en-ukraine-le-cessez-le-feu-controverse-de-la-russie-a-debute-_fil-5576771_actu.Htm
- 195. https://laseyne.maville.com/sport/detail_-guerre-en-ukraine.-toujours-pas-de-chars-occidentaux-pour-kiev-_fil-5576767_actu.Htm
- 196. https://laseyne.maville.com/actu/actudet_-quiz.-les-photographes-et-les-photographies-celebres-_54532-5365740_actu.Htm
- 197. https://laseyne.maville.com/actu/actudet_-quiz.-10-questions-sur-les-elephants-_54532-5365718_actu.Htm
- 198. https://laseyne.maville.com/actu/actudet_-quiz.-l-amitie-dans-la-litterature-_54532-5348369_actu.Htm
- 199. https://www.ouest-france.fr/
+   1. android-app://com.prismamedia.gala.fr/gala/news/ff7c4bdc-1458-4584-abec-848b01ef4f02
+   2. https://plus.google.com/112669537477086014675
+   3. https://www.googletagmanager.com/ns.html?id=GTM-T4CHHR
+   4. https://www.gala.fr/
+   5. https://boutique.gala.fr/
+   6. https://connect.gala.fr/newsletters
+   7. https://www.gala.fr/l_actu
+   8. https://www.gala.fr/royautes
+   9. https://www.gala.fr/politique
+  10. https://www.gala.fr/l_actu/culture
+  11. https://www.gala.fr/mode
+  12. https://www.gala.fr/beaute
+  13. https://www.gala.fr/stars_et_gotha
+  14. https://www.gala.fr/video
+  15. https://www.gala.fr/guide-shopping
+  16. https://www.moncarnet-gala.fr/
+  17. https://boutique.gala.fr/
+  18. https://connect.gala.fr/newsletters
+  19. https://www.gala.fr/l_actu/news_de_stars/creve-sale-negresse-josephine-baker-insultee-son-combat-contre-le-racisme-naura-t-il-servi-a-rien_481614
+  20. https://connect.gala.fr/subscriptions
+  21. https://www.gala.fr/notifications
+  22. https://www.gala.fr/espace-debat/debats
+  23. https://www.gala.fr/l_actu/news_de_stars/creve-sale-negresse-josephine-baker-insultee-son-combat-contre-le-racisme-naura-t-il-servi-a-rien_481614
+  24. https://www.gala.fr/l_actu
+  25. https://www.gala.fr/l_actu/news_de_stars
+  26. https://www.gala.fr/l_actu/news_de_stars/prostituee-par-sa-mere-battue-exploitee-josephine-baker-a-connu-lenfer_481522
+  27. https://www.gala.fr/stars_et_gotha/josephine_baker
+  28. https://www.gala.fr/page/tag/racisme
+  29. https://www.gala.fr/page/tag/engagement
+  30. https://www.gala.fr/page/tag/martin-luther-king
+  31. https://www.gala.fr/page/tag/beyonce
+  32. https://www.gala.fr/page/tag/etats-unis
+  33. https://photo.gala.fr/photos-ces-100-images-qui-ont-marque-lannee-2022-52236?medium=bas-article&source=site-gal&campaign=diapo-retro-2022-images
+  34. https://www.gala.fr/l_actu/news_de_stars/josephine-baker-ou-a-t-elle-ete-enterree_481789
+  35. https://www.gala.fr/l_actu/news_de_stars/miss-univers-clemence-botino-a-couper-le-souffle-pour-rendre-hommage-a-josephine-baker_482572
+  36. https://www.gala.fr/l_actu/news_de_stars/disparition-demiliano-sala-lemouvant-hommage-rendu-au-footballeur-disparu_425072
+  37. https://www.gala.fr/l_actu/news_de_stars/les_stars_ont_rendu_hommage_a_alain_bashung_174785
+  38. https://www.gala.fr/l_actu/news_de_stars/prostituee-par-sa-mere-battue-exploitee-josephine-baker-a-connu-lenfer_481522
+  39. https://www.gala.fr/l_actu/news_de_stars/josephine-baker-ruinee-comment-grace-kelly-la-soutenue-a-la-fin-de-sa-vie_481825
+  40. https://www.gala.fr/l_actu/news_de_stars/guy-bedos-les-stars-lui-ont-rendu-hommage_449700
+  41. https://www.gala.fr/l_actu/news_de_stars/mort-de-joel-robuchon-lhommage-inattendu-dune-star-internationale_418014
+  42. https://www.gala.fr/l_actu/news_de_stars/lucien_gainsbourg_a_rendu_hommage_a_son_pere_207036
+  43. https://www.gala.fr/l_actu/news_de_stars/sylvester_stallone_a_rendu_un_dernier_hommage_a_son_fils_269174
+  44. https://www.prismashop.fr/bons-plans/offres-speciales-15.html?code=SIENOELPETITSPRIX22&utm_source=gal-fr&utm_medium=sites-editos&utm_campaign=multi-noel-petits-prix-22&utm_content=noel-petits-prix-22
+  45. https://www.gala.fr/stars_et_gotha/grace_kelly
+  46. https://www.gala.fr/stars_et_gotha/brigitte_bardot
+  47. https://www.gala.fr/stars_et_gotha/christian_dior
+  48. https://www.gala.fr/
+  49. https://www.prismamedia.com/cgu-groupe-prisma/
+  50. https://www.prismamedia.com/mentions-legales-gala/
+  51. https://www.prismamediasolutions.com/
+  52. https://www.gala.fr/decouvrez_l_application_gala_sur_votre_mobile
+  53. https://www.prismamedia.com/charte-pour-la-protection-des-donnees/
+  54. https://boutique.gala.fr/
+  55. https://connect.gala.fr/newsletters
+  56. https://www.gala.fr/equipe-editoriale
+  57. https://connect.gala.fr/?inc-nl=gala_quotidienne_nl,gala_quotidienne_soir_nl&signupservice=GAL_NEWSLETTERS_POPIN-NL_SITE-GAL_NL-GAL-QUOTIDIENNE-MATIN-GAL_NEWSLETTERS_POPIN-NL_SITE-GAL_NL-GAL-QUOTIDIENNE-SOIR&redirectTo=https%3A%2F%2Fwww.gala.fr%2Fl_actu%2Fnews_de_stars%2Fcreve-sale-negresse-josephine-baker-insultee-son-combat-contre-le-racisme-naura-t-il-servi-a-rien_481614
+  58. https://boutique.gala.fr/
