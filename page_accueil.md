@@ -10,7 +10,7 @@ Sur notre site, vous pourrez y découvrir toutes les étapes effectués jusqu'au
 
 Dans les premiers jours de notre brainstorming, nous voulions étudier un mot qui a une grande importance, qui se manifeste chaque jour dans non seulement nos vies quotidiennes, mais dans le monde entier. Avec la possibilité d'étudier une multitude de contextes dans nos trois langues choisis : français, anglais et chinois. Nous avons alors examiné quelques sites internets afin de trouver des idées des mots qui apparaît souvent. Deux mots sont venus en tête : discrimination et racisme.
 
-On c'est alors demandé si la discrimination raciale pouvait se dérouler dans des situations précises qui sont semblable dans chacun de nos pays ou si c'était plutôt "culturel".
+On s'est alors demandé si la discrimination raciale pouvait se dérouler dans des situations précises qui sont semblables dans chacun de nos pays ou si c'était plutôt "culturel". Par la suite, on s'est demandé quelles populations était la plus affectée par les discriminations raciales.
 
 **Discrimination** *nom féminin*
 Action de discerner, de distinguer les choses les unes des autres avec précision.
