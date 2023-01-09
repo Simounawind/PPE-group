@@ -97,6 +97,7 @@ section {
   padding-top: 1px;
   background: linear-gradient(to right, transparent, #d0d0d5, transparent);
 }
+
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -291,7 +292,7 @@ section {
   font-weight: 700;
   color: #000000fc;
   text-transform: uppercase;
-  
+
 }
 
 .accueil h2 {
@@ -366,69 +367,69 @@ tbody td {
 --------------------------------------------------------------*/
 
 
-.script{
-  width:650px;
+.script {
+  width: 650px;
   top: 100px;
   left: 100px;
-  position:relative;
-  background-color:rgb(0, 0, 0);
+  position: relative;
+  background-color: rgb(0, 0, 0);
   margin-bottom: 100px;
-  }
+}
 
 
-.scriptfinal{
-  width:650px;
+.scriptfinal {
+  width: 650px;
   top: 100px;
   left: 100px;
-  position:relative;
-  background-color:rgb(0, 0, 0);
+  position: relative;
+  background-color: rgb(0, 0, 0);
   margin-bottom: 200px;
-  }
+}
 
 
 
-.forwhat1{
+.forwhat1 {
   left: 0px;
   top: 400px;
-  position:relative;
-  background-color:rgba(255, 255, 255, 0);
-  }
+  position: relative;
+  background-color: rgba(255, 255, 255, 0);
+}
 
 
-.forwhat2{
+.forwhat2 {
   left: 0px;
   top: 800px;
-  position:relative;
-  background-color:rgba(255, 255, 255, 0);
-  }
+  position: relative;
+  background-color: rgba(255, 255, 255, 0);
+}
 
 
-.forwhat3{
+.forwhat3 {
   left: 0px;
   top: 200px;
-  position:relative;
-  background-color:rgba(255, 255, 255, 0);
-  }
+  position: relative;
+  background-color: rgba(255, 255, 255, 0);
+}
 
 
-.forwhat4{
+.forwhat4 {
   left: 0px;
   top: 160px;
-  position:relative;
-  background-color:rgba(255, 255, 255, 0);
-  }
+  position: relative;
+  background-color: rgba(255, 255, 255, 0);
+}
 
 
-  .son{
-  width:200px;
-  height:200px;
-  position:absolute;
-  top:50%;
-  left:50%;
-  margin-top:-100px;
-  margin-left:-100px;
-  background-color:black;
-  }
+.son {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -100px;
+  background-color: black;
+}
 
 
 
@@ -439,14 +440,14 @@ tbody td {
 # groupe
 --------------------------------------------------------------*/
 .nous {
-  background: rgb(232, 202, 85);
+  background: rgb(157, 206, 237);
   padding: 60px 0;
 }
 
 .nous .member {
   text-align: center;
   border-radius: 5px;
-  background: rgb(255, 255, 255);
+  background: rgb(247, 248, 220);
 }
 
 

@@ -74,7 +74,8 @@
   <section>
   <header class="section-header">
     <h2>&nbsp&nbsp&nbsp&nbsp&nbsp脚本</h2>
-    <p style="color:whitesmoke ;">Les Scripts Chinois</p>
+    <p style="color:rgb(255, 255, 255) ;">Les Scripts Chinois</p>
+    <h5 style="margin-top: 50px; color:rgb(241, 240, 240) ;">Ces divers scripts en dessous sont crées et utilisés au fur et à mesure que le projet avançait.   </p>
   </header>
   </section>
 
@@ -85,7 +86,7 @@
           <div class="row motifs-tabs">          
             <div class="forwhat1 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
               <h3>Script créant les fichiers du corpus </h3>
-              <p style="color:azure; text-align: justify;">C'est le script pour créer le corpus de notre analyse.</p>
+              <p style="color:azure; text-align: justify;"><strong>dumps_asp_conc_cont_ch.sh</strong>, basé sur les scripts montrés par les professeurs, est crée et combiné par Xiaohua. C'est le script  pour créer le corpus de notre analyse.</p>
               <p style="color:azure; text-align: justify;">Avec ce script, le seul argument attendu est le fichier urls.
                 On peut ainsi créer les fichiers dumps-text, aspirations, contextes, cooccurences et les mettre dans le dossier correspondant. </p>
                 <p style="color:azure ; text-align: justify;">La base de notre analyse est ainsi construite.</p>
@@ -143,6 +144,8 @@ done &lt; $fichier_urls
 exit                       
                 </code></pre></div>
               </div>
+              <br><br><br>
+              <hr class="hr-edge-weak">
 
     <!-- ======= script-2 ======= -->   
 
@@ -151,6 +154,7 @@ exit
                   <h3>Script créant le tableau cru </h3>
                   <p style="color:azure; text-align: justify;">C'est le script pour créer le tableau cru.</p>
                   <p style="color:azure; text-align: justify;">Avec ce script, on obtiendra des infos utiles concernant les urls, leur contenu, y compris l'occurence du mot cible, ses coordances, son contexte etc... </p>
+                    <p style="color:azure ; text-align: justify;">la commande <i style="color:rgb(22, 227, 90);">curl</i> correspande aux fichiers aspirés, <i style="color:rgb(239, 184, 18);">lynx</i> aux dumps-texts, et <i style="color:rgb(13, 159, 243);">w3m</i> pour obtenir les dumps-texts chinois. On a aussi utilisé fréquemment le <i style="color:rgb(232, 4, 4);">tube</i> de linux pour transporter les contenus.</p>
                     <p style="color:azure ; text-align: justify;">Enfin, on affichera tout ce qu'on a obtenu dans le tableau de style très simple, qui contient 9 colonnes et ainsi les qu'on a obtenu par ce script</p>
                   <br>
                   <p>
@@ -247,7 +251,8 @@ echo "&lt;/body&gt;&lt;/html&gt;" &gt;&gt; $fichier_tableau
 
 
 
-
+                  <br><br><br>
+                  <hr class="hr-edge-weak">
 
     <!-- ======= script-3 jieba for cloud ======= -->   
 
@@ -323,7 +328,8 @@ my_wordcloud.to_file('result.jpg')
                         </code></pre></div>
                       </div>
 
-
+                      <br><br><br>
+                      <hr class="hr-edge-weak">
 
     <!-- ======= script-4 itrameurbonformat======= -->   
 
@@ -381,7 +387,8 @@ echo "&lt;/lang&gt;" &gt;&gt; contexte.txt
                             </code></pre></div>
                           </div>
 
-
+                          <br><br><br>
+                          <hr class="hr-edge-weak">
 
     <!-- ======= script-4 itrameurbonformat======= -->   
 
@@ -418,7 +425,8 @@ fW.close()
         </div>
 
 
-
+        <br><br><br>
+        <hr class="hr-edge-weak">
 
     <!-- ======= les sites tres utiles ======= -->   
 
@@ -440,6 +448,28 @@ https://www.jianshu.com/p/e2f12268fe81
 https://www.v2ex.com/t/186829
 https://getbootstrap.com/docs/5.3/getting-started/
                                 </code></pre></div>
+                        
+
+        <br><br><br>
+        <hr class="hr-edge-weak">
+    <!-- ======= les sites d'images cités ======= -->   
+
+    <div class="row motifs-tabs">          
+      <div class="forwhat4 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
+        <h3 id="sourceimage"> 📷 d'où viennent les images </h3>
+        <p style="color:azure; text-align: justify;">merciiiiii</p>
+        <br>
+      </div>
+      
+    <div class="col-lg-6">
+    <pre class='scriptfinal txt' ><code>
+https://www.licra.org/loi-contre-le-racisme-anti-asiatique-aux-etats-unis
+https://actualitte.com/article/101971/international/etats-unis-la-theorie-critique-de-la-race-se-heurte-a-la-censure
+https://www.crisconsortium.org/challenging-racisms/mapping-anti-racism
+https://unsplash.com/fr/photos/ZIKnVsJVJpg?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
+
+          </code></pre></div>
+
           </div>
         </div>
       </div>
@@ -462,9 +492,9 @@ https://getbootstrap.com/docs/5.3/getting-started/
     Projet (PEE) du TAL M1 22/23 réalisé par <strong><span>CUI Xiaohua</span>, </strong><strong><span>Tannina Hamizi</span></strong> et <strong><span>Gemma Felton</span></strong>
     </div>
     <div class="faitpar">
-      Dirigés par @<a href="http://www.tal.univ-paris3.fr/plurital/"><strong>pluriTAL</strong></a> | Site basé sur <a href="https://getbootstrap.com/">Bootstrap</a>
+      Dirigés par @<a href="http://www.tal.univ-paris3.fr/plurital/"><strong>pluriTAL</strong></a> | Site basé sur <a href="https://getbootstrap.com/">Bootstrap</a> | <a href="scripts_cn.html#sourceimage">Sources des images du site</a>
       <div class="faitpar">
-        <a href="https://github.com/gemmafelton/PPE-group" class="github"><i class="bi bi-github"></i></a>
+        <a href="https://github.com/gemmafelton/PPE-group" class="github"><i class="bi bi-github"></i>
       </div>
     </div>
   </div>
