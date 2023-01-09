@@ -79,7 +79,7 @@ Nous avons appris comment utiliser iTrameur et comment créer des nuages de mots
 
 * Après le mise à jour de mon OS, j'ai rencontré des problèmes avec les commandes git. J'ai donc du réinstaller les commandes git pour pouvoir continuer.
 
-* Je n'ai pas réussi à faire le git commit à plusieurs reprises dû à un problème de merge. J'ai regarde sur l'internet mais je n'ai pas réussi. Pendant le cours, M. Magistry nous a aidé à trouver le problème. Nous avons fait un 'git status' pour voir ce qui posait de problème afin de le regler. Après plusieurs commandes, nous avons réussi à faire un merge et j'ai pu procédé avec mon git push. Ceci était à cause d'une problème de branches divergententes donc j'ai utilisé la ligne de commande " git config --global pull.rebase false " pour que cette option sera le défaut pour tous mes dépôts.
+* Je n'ai pas réussi à faire le git commit à plusieurs reprises dû à un problème de merge. J'ai regarde sur l'internet mais je n'ai pas réussi. Pendant le cours, M. Magistry nous a aidé à trouver le problème. Nous avons fait un 'git status' pour voir ce qui posait de problème afin de le régler. Après plusieurs commandes, nous avons réussi à faire un merge et j'ai pu procédé avec mon git push. Ceci était à cause d'une problème de branches divergententes donc j'ai utilisé la ligne de commande " git config --global pull.rebase false " pour que cette option sera le défaut pour tous mes dépôts.
 
 * J'ai du utiliser la ligne de commande "git commit -m "suppr ds_store" afin de supprimer DS.store un fichier qui se crée automatiquement sur mac et qui pose de problèmes lors du dépôt du travail.
 
@@ -88,8 +88,9 @@ Nous avons appris comment utiliser iTrameur et comment créer des nuages de mots
 * 24.11.2022 : J'ai rencontré quelques problèmes pour mettre à jour mon git à plusieurs reprises. J'ai donc décidé de le recloner pour faciliter mes ajouts par la suite.
 * Problème pour commiter a cause du divergence de branches.
 * Fichier .DS_STORE qui se créer seul à de multiples reprises.
-Lorsque j'ai voulu faire la concaténation de mes fichiers dumps-texts avec le fichier itrameur.sh, celui ci ne prenait pas en compte tous mes dumps-texts je pense que c'est parce qu'ils n'ont pas tous le même encodage mais je n'ai pas réussis a y remédier. J'ai alors créer le fichier manuellement, qui celui-ci sera utilisé pour les graphes et nuage de mots.
+* Lorsque j'ai voulu faire la concaténation de mes fichiers dumps-texts avec le fichier itrameur.sh, celui-ci ne prenait pas en compte tous mes dumps-texts je pense que c'est parce qu'ils n'ont pas tous le même encodage mais je n'ai pas réussis a y remédier. J'ai alors créer le fichier manuellement, qui celui-ci sera utilisé pour les iTrameur graphes et nuage de mots.
 * Un autre problème que j'ai pu rencontrer c'est lorsque j'ai fais la compte de mes occurrences, certains affichait 0 occurrences alors qu'il y'en avait. J'ai alors refais me recherche d'urls 3 fois.
+*
 
 
 ### Simon
