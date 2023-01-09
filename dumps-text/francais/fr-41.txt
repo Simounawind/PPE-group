@@ -231,60 +231,62 @@ Menaces à l'encontre d'Assa Traoré
    [ ]
 
    L'info en continu
-     * [79]02H44 Retour de soldats graciés au Mali: la Côte d'Ivoire pour
-       "des...
-     * [80]01H25 La Chine lève la quarantaine pour les voyageurs
-       internationaux
-     * [81]22H02 Ukraine: la trêve russe est finie, les hostilités n'ont
-       pas cessé
-     * [82]20H07 McCarthy élu "speaker" au Congrès américain, mais
-       affaibli par la...
-     * [83]18H01 Iran : Paris dénonce des exécutions « révoltantes »
-     * [84]17H32 Burkina: l'ONU demande une enquête "impartiale" après le
-       massacre...
-     * [85]17H19 Dans l'est de l'Ukraine, un Noël dans la cave sous les
-       bombardements
-     * [86]16H22 Le milliardaire chinois Jack Ma va céder Ant Group
-     * [87]16H09 "Chacun ses limites": dans l'Est de l'Ukraine, les plus
-       âgés à...
-     * [88]14H06 L'acteur porno Ron Jeremy déclaré inapte pour son procès
-     * [89]14H00 L'école à distance, la nouvelle routine des enfants
-       chinois
-     * [90]14H00 Philippe Charlier : « Le vaudou, une religion mais aussi
-       une culture »
-     * [91]13H39 A Varsovie, le premier Noël de réfugiés ukrainiens
-       depuis...
-     * [92]13H20 Ukraine : la trêve russe est finie, les hostilités n'ont
-       pas cessé
-     * [93]13H00 États-Unis : Kevin McCarthy élu « speaker », la fin d'un
-       (trop)...
-     * [94]12H51 Après l'accord de paix, un Noël d'espoir pour les
-       orthodoxes...
-     * [95]12H40 Une carte dévoilée aux Pays-Bas relance la quête
-       d'un trésor nazi...
-     * [96]11H25 Iran: deux hommes exécutés en lien avec les
-       manifestations (justice)
-     * [97]11H21 Iran : deux nouvelles exécutions en lien avec les
-       manifestations
-     * [98]10H07 Poutine assiste seul à un office de la Noël orthodoxe
-       dans une...
-     * [99]10H00 Cheick Diallo : « Il fallait sauver cette Biennale de
-       Bamako »
-     * [100]09H45 La junte malienne gracie les 49 soldats ivoiriens
-       arrêtés en juillet
-     * [101]09H38 À 6 ans, il tire sur sa maîtresse en pleine classe
-     * [102]09H31 Otages, « Charlie Hebdo » : pourquoi la France est
-       devenue la cible...
-     * [103]09H06 Harry, un prince à la dérive
-     * [104]08H00 « Ils veulent nous briser » : en Arménie, avec les
-       naufragés de...
-     * [105]08H00 Assassinat antikurde rue La Fayette : où en est
-       l'enquête ?
-     * [106]07H44 États-Unis : Kevin McCarthy enfin élu président de la
-       Chambre des...
-     * [107]07H20 La folle semaine du Congrès des Etats-Unis
-     * [108]00H01 Venezuela: "Mort lente", un alcool artisanal tue 9
-       personnes d'un...
+     * [79]21H22 L'assaut des Bolsonaristes au Brésil: un air de déjà-vu
+       aux Etats-Unis
+     * [80]21H11 Le Pakistan obtient plus de 9 milliards USD de promesses
+       d'aides...
+     * [81]20H40 L'Iran prononce trois nouvelles condamnations à mort,
+       vive...
+     * [82]20H35 Brésil : Reprise en main à Brasilia après les assauts
+       des...
+     * [83]20H25 Jair Bolsonaro hospitalisé aux Etats-Unis pour « des
+       problèmes...
+     * [84]19H59 Iran : trois nouvelles condamnations à mort de
+       manifestants
+     * [85]19H51 Biden au Mexique pour réchauffer la relarion bilatérale
+     * [86]19H00 Bénin : un pays qui veut maintenir son cap économique
+     * [87]18H49 Grèves au Royaume-Uni: le gouvernement cherche à renouer
+       le dialogue
+     * [88]18H20 Saccages à Brasilia: les failles de sécurité en question
+     * [89]17H52 Querelles de ménage en sous-sol: les couples sous tension
+       dans...
+     * [90]16H26 « Il va devoir reconstruire le Brésil » : l'immense défi
+       de Lula
+     * [91]16H22 Invasion des lieux de pouvoir au Brésil : après les
+       violences, les...
+     * [92]16H19 Émeutes au Brésil : plus proches des Gilets jaunes que du
+       coup d'État
+     * [93]16H14 Avant la sortie de ses mémoires explosifs, Harry nie
+       vouloir...
+     * [94]15H00 Âge, pension, ... où la retraite est-elle la meilleure en
+       Europe ?
+     * [95]14H54 Canal de Suez: un navire échoué remis à flot, le trafic
+       reste normal
+     * [96]14H07 Ukraine : les séparatistes revendiquent le contrôle d'un
+       village...
+     * [97]13H43 Les livraisons de chars occidentaux vont « prolonger
+       les...
+     * [98]12H12 Brésil : la France « condamne les violences » contre les
+       institutions
+     * [99]12H00 Nigeria : haro sur les retraits d'argent liquide
+     * [100]11H33 Brésil : les images impressionnantes de l'assaut des
+       pro-Bolsonaro
+     * [101]09H41 Iran : 17 condamnations à mort depuis le début des
+       contestations
+     * [102]09H15 Brésil : « les putschistes sont en train d'être
+       identifiés », selon...
+     * [103]07H13 Ukraine : deux morts et neuf blessés malgré la trêve
+       russe
+     * [104]07H09 Collision entre deux bus au Sénégal : le deuil national
+       et la colère
+     * [105]07H00 Les Mémoires de Harry : le chantage fait partie de l'ADN
+       royal
+     * [106]06H34 Crise migratoire : Joe Biden s'arrête au Texas avant
+       son...
+     * [107]06H23 Le prince Harry défend à la télévision ses Mémoires
+       « nécessaires »
+     * [108]03H50 Brésil: A l'assaut du Congrès, les bolsonaristes
+       crient...
 
    [109]Toute l'actualité International
 
@@ -562,36 +564,36 @@ References
   76. https://www.lepoint.fr/html/cgu/
   77. https://www.lepoint.fr/html/cgu/
   78. https://www.lepoint.fr/html/contact/
-  79. https://www.lepoint.fr/monde/au-lendemain-de-leur-grace-par-le-mali-46-soldats-ivoiriens-attendus-a-abidjan-07-01-2023-2504037_24.php
-  80. https://www.lepoint.fr/monde/la-chine-leve-la-quarantaine-pour-les-voyageurs-internationaux-08-01-2023-2504052_24.php
-  81. https://www.lepoint.fr/monde/russes-et-ukrainiens-fetent-noel-les-hostilites-se-poursuivent-07-01-2023-2504023_24.php
-  82. https://www.lepoint.fr/monde/deux-ans-apres-l-assaut-le-congres-americain-paralyse-par-une-fronde-d-elus-trumpistes-06-01-2023-2503957_24.php
-  83. https://www.lepoint.fr/monde/iran-paris-denonce-des-executions-revoltantes-07-01-2023-2504041_24.php
-  84. https://www.lepoint.fr/monde/burkina-l-onu-demande-une-enquete-impartiale-apres-le-massacre-de-28-personnes-07-01-2023-2504040_24.php
-  85. https://www.lepoint.fr/monde/dans-l-est-de-l-ukraine-un-noel-dans-la-cave-sous-les-bombardements-07-01-2023-2504039_24.php
-  86. https://www.lepoint.fr/economie/le-milliardaire-chinois-jack-ma-va-ceder-ant-group-07-01-2023-2504033_28.php
-  87. https://www.lepoint.fr/monde/chacun-ses-limites-dans-l-est-de-l-ukraine-les-plus-ages-a-l-epreuve-de-la-guerre-06-01-2023-2503932_24.php
-  88. https://www.lepoint.fr/monde/l-acteur-porno-ron-jeremy-declare-inapte-pour-son-proces-07-01-2023-2504027_24.php
-  89. https://www.lepoint.fr/monde/l-ecole-a-distance-la-nouvelle-routine-des-enfants-chinois-07-01-2023-2504024_24.php
-  90. https://www.lepoint.fr/afrique/philippe-charlier-le-vaudou-une-religion-mais-aussi-une-culture-07-01-2023-2504025_3826.php
-  91. https://www.lepoint.fr/monde/a-varsovie-le-premier-noel-de-refugies-ukrainiens-depuis-l-invasion-russe-07-01-2023-2504022_24.php
-  92. https://www.lepoint.fr/monde/ukraine-l-armee-russe-assure-poursuivre-son-cessez-le-feu-07-01-2023-2504020_24.php
-  93. https://www.lepoint.fr/monde/etats-unis-kevin-mccarthy-elu-speaker-la-fin-d-un-trop-long-feuilleton-07-01-2023-2504019_24.php
-  94. https://www.lepoint.fr/monde/apres-l-accord-de-paix-un-noel-d-espoir-pour-les-orthodoxes-d-ethiopie-07-01-2023-2504013_24.php
-  95. https://www.lepoint.fr/histoire/une-carte-devoilee-aux-pays-bas-relance-la-quete-d-un-tresor-nazi-oublie-07-01-2023-2504014_1615.php
-  96. https://www.lepoint.fr/monde/iran-deux-hommes-executes-en-lien-avec-les-manifestations-justice-07-01-2023-2504008_24.php
-  97. https://www.lepoint.fr/monde/iran-deux-nouvelles-executions-en-lien-avec-les-manifestations-07-01-2023-2503999_24.php
-  98. https://www.lepoint.fr/monde/poutine-assiste-seul-a-un-office-de-la-noel-orthodoxe-dans-une-eglise-du-kremlin-07-01-2023-2504000_24.php
-  99. https://www.lepoint.fr/afrique/cheick-diallo-il-fallait-sauver-cette-biennale-de-bamako-07-01-2023-2503997_3826.php
- 100. https://www.lepoint.fr/monde/la-junte-malienne-gracie-les-49-soldats-ivoiriens-arretes-en-juillet-07-01-2023-2503995_24.php
- 101. https://www.lepoint.fr/monde/a-6-ans-il-tire-sur-sa-maitresse-en-pleine-classe-07-01-2023-2503994_24.php
- 102. https://www.lepoint.fr/monde/otages-charlie-hebdo-pourquoi-l-iran-cible-la-france-06-01-2023-2503949_24.php
- 103. https://www.lepoint.fr/people/harry-un-prince-a-la-derive-07-01-2023-2503982_2116.php
- 104. https://www.lepoint.fr/monde/ils-veulent-nous-briser-en-armenie-avec-les-naufrages-de-l-hotel-goris-07-01-2023-2503985_24.php
- 105. https://www.lepoint.fr/justice/assassinat-antikurde-rue-la-fayette-ou-en-est-l-enquete-07-01-2023-2503986_2386.php
- 106. https://www.lepoint.fr/monde/etats-unis-kevin-mccarthy-enfin-elu-president-de-la-chambre-des-representants-07-01-2023-2503983_24.php
- 107. https://www.lepoint.fr/monde/le-film-d-une-semaine-delirante-au-congres-des-etats-unis-06-01-2023-2503975_24.php
- 108. https://www.lepoint.fr/monde/venezuela-mort-lente-un-alcool-artisanal-tue-9-personnes-d-un-village-au-nouvel-an-07-01-2023-2503978_24.php
+  79. https://www.lepoint.fr/monde/l-assaut-des-bolsonaristes-au-bresil-un-air-de-deja-vu-aux-etats-unis-09-01-2023-2504229_24.php
+  80. https://www.lepoint.fr/monde/changement-climatique-le-pakistan-cherche-des-fonds-apres-les-inondations-destructrices-de-2022--09-01-2023-2504122_24.php
+  81. https://www.lepoint.fr/monde/l-iran-prononce-trois-nouvelles-condamnations-a-mort-vive-indignation-internationale-09-01-2023-2504220_24.php
+  82. https://www.lepoint.fr/monde/apres-l-assaut-des-bolsonaristes-les-lieux-de-pouvoir-a-nouveau-sous-controle-au-bresil-09-01-2023-2504174_24.php
+  83. https://www.lepoint.fr/monde/jair-bolsonaro-hospitalise-aux-etats-unis-pour-des-problemes-abdominaux-09-01-2023-2504224_24.php
+  84. https://www.lepoint.fr/monde/iran-trois-nouvelles-condamnations-a-mort-de-manifestants-09-01-2023-2504191_24.php
+  85. https://www.lepoint.fr/monde/biden-au-mexique-pour-rechauffer-la-relarion-bilaterale-09-01-2023-2504221_24.php
+  86. https://www.lepoint.fr/afrique/benin-un-pays-qui-veut-maintenir-son-cap-economique-09-01-2023-2504211_3826.php
+  87. https://www.lepoint.fr/monde/royaume-uni-sous-pression-des-greves-le-gouvernement-recoit-les-syndicats-lundi-09-01-2023-2504123_24.php
+  88. https://www.lepoint.fr/monde/saccages-a-brasilia-les-failles-de-securite-en-question-09-01-2023-2504209_24.php
+  89. https://www.lepoint.fr/monde/querelles-de-menage-en-sous-sol-les-couples-sous-tension-dans-l-ukraine-en-guerre-09-01-2023-2504180_24.php
+  90. https://www.lepoint.fr/monde/on-va-devoir-reconstruire-le-bresil-l-immense-defi-de-lula-31-10-2022-2495872_24.php
+  91. https://www.lepoint.fr/monde/coup-d-etat-manque-au-bresil-apres-les-violences-les-questions-09-01-2023-2504138_24.php
+  92. https://www.lepoint.fr/monde/emeutes-au-bresil-plus-proches-des-gilets-jaunes-que-du-coup-d-etat-09-01-2023-2504187_24.php
+  93. https://www.lepoint.fr/monde/avant-la-sortie-de-ses-memoires-explosifs-harry-nie-vouloir-blesser-sa-famille-09-01-2023-2504188_24.php
+  94. https://www.lepoint.fr/politique/emmanuel-berretta/europe-ou-la-retraite-est-elle-la-meilleure-05-01-2023-2503813_1897.php
+  95. https://www.lepoint.fr/monde/canal-de-suez-un-navire-echoue-remis-a-flot-le-trafic-reste-normal-09-01-2023-2504183_24.php
+  96. https://www.lepoint.fr/monde/ukraine-les-separatistes-revendiquent-le-controle-d-un-village-pres-de-bakhmout-09-01-2023-2504178_24.php
+  97. https://www.lepoint.fr/monde/les-livraisons-de-chars-occidentaux-vont-prolonger-les-souffrances-des-ukrainiens-09-01-2023-2504176_24.php
+  98. https://www.lepoint.fr/monde/bresil-la-france-condamne-les-violences-contre-les-institutions-08-01-2023-2504115_24.php
+  99. https://www.lepoint.fr/afrique/nigeria-haro-sur-les-retraits-d-argent-liquide-09-01-2023-2504162_3826.php
+ 100. https://www.lepoint.fr/monde/bresil-les-images-impressionnantes-de-l-assaut-des-pro-bolsonaro-09-01-2023-2504156_24.php
+ 101. https://www.lepoint.fr/monde/contestation-en-iran-le-nombre-de-condamnation-a-mort-grimpe-a-17--09-01-2023-2504145_24.php
+ 102. https://www.lepoint.fr/monde/bresil-apres-le-chaos-les-lieux-de-pouvoir-sous-controle-09-01-2023-2504133_24.php
+ 103. https://www.lepoint.fr/monde/ukraine-deux-morts-et-neuf-blesses-malgre-la-treve-russe-08-01-2023-2504088_24.php
+ 104. https://www.lepoint.fr/afrique/collision-entre-deux-bus-au-senegal-le-deuil-national-et-la-colere-09-01-2023-2504131_3826.php
+ 105. https://www.lepoint.fr/monde/les-memoires-de-harry-le-chantage-fait-partie-de-l-adn-royal-09-01-2023-2504130_24.php
+ 106. https://www.lepoint.fr/monde/crise-migratoire-joe-biden-s-arrete-au-texas-avant-son-deplacement-au-mexique-08-01-2023-2504112_24.php
+ 107. https://www.lepoint.fr/monde/le-prince-harry-defend-a-la-television-ses-memoires-necessaires-09-01-2023-2504118_24.php
+ 108. https://www.lepoint.fr/monde/bresil-a-l-assaut-du-congres-les-bolsonariistes-crient-intervention-militaire-09-01-2023-2504121_24.php
  109. https://www.lepoint.fr/24h-info/monde/
  110. https://journal.lepoint.fr/sommaire-2631
  111. https://www.lepoint.fr/dossiers/monde/cocaine-europe-drogue-trafic-france-narcos/

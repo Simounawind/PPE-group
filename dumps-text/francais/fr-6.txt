@@ -88,6 +88,8 @@
 Discrimination raciale : Les agences immobilières en France complices de
 ségrégation
 
+   Rédigé par La rédaction Mardi 22 Mars 2022
+
 Selon une enquête menée par SOS Racisme auprès des agences immobilières
 françaises, la moitié d'entre elles pratiquent le délit de faciès. Des
 discriminations qui perdurent.
@@ -146,11 +148,11 @@ discriminations qui perdurent.
    Dans la même rubrique :
    [52]< [53]>
 
-Jeudi 5 Janvier 2023 - 11:04 [54]Palestine : Un adolescent palestinien tué
-par des tirs israéliens
+Lundi 9 Janvier 2023 - 12:21 [54]Nigeria : Une trentaine de personnes
+enlevées par des hommes armés
 
-Jeudi 5 Janvier 2023 - 11:02 [55]Esplanade des Mosquées : Les pays musulmans
-exigent une action du Conseil de Sécurité de l'ONU
+Lundi 9 Janvier 2023 - 12:17 [55]Chine : Poursuite des exercices de combat
+près de Taiwan
      __________________________________________________________________
      __________________________________________________________________
      __________________________________________________________________
@@ -164,26 +166,26 @@ exigent une action du Conseil de Sécurité de l'ONU
    ´ Top News
      __________________________________________________________________
 
-[56]2022, l'an de tous les contrastes : Joies et épreuves d'une année
-mi-figue, mi-raisin
-
-[57]Championnat saoudien : Ronaldo sanctionné avant même de toucher son
+[56]Championnat saoudien : Ronaldo sanctionné avant même de toucher son
 premier ballon!
 
-[58]CHAN 2023: L'Algérie dit non au vol direct de l'équipe nationale
+[57]CHAN 2023: L'Algérie dit non au vol direct de l'équipe nationale
 
-[59]Transport militaire : le Maroc reçoit son escadron de camions
-multi-essieux de l'Inde
+[58]Conseil de Sécurité : Quand l'Algérie tourne le dos à la cause
+palestinienne par haine du Maroc
 
-[60]Infrastructures routières : Le Maroc classé 5ème dans la région MENA
-
-[61]Industrie automobile : le Maroc aspire à produire 2 millions de voitures
-en 2030
-
-[62]OCP et Solar Institute Jülich produiront du phosphate à base d'énergie
+[59]OCP et Solar Institute Jülich produiront du phosphate à base d'énergie
 solaire
 
-[63]Projets TGV : Abdeljalil explique les raisons des retards
+[60]Marrakech : Le Zellige dans sa pure authenticité marocaine
+
+[61]Automobile : Un recul de 8% des ventes par rapport à 2021
+
+[62]Visite du ministre israélien à Al Aqsa : le Maroc rejoint le camp de la
+condamnation
+
+[63]Rétro-Verso : La touche marocaine du Musée Yves Saint Laurent
+     __________________________________________________________________
      __________________________________________________________________
      __________________________________________________________________
      __________________________________________________________________
@@ -303,16 +305,16 @@ References
   51. http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.lopinion.ma%2FDiscrimination-raciale-Les-agences-immobilieres-en-France-complices-de-segregation_a25332.html&title=Discrimination+raciale+%3A+Les+agences+immobili%C3%A8res+en+France+complices+de+s%C3%A9gr%C3%A9gation&source=&summary=
   52. javascript:void(0)
   53. javascript:void(0)
-  54. https://www.lopinion.ma/Palestine-Un-adolescent-palestinien-tue-par-des-tirs-israeliens_a35247.html
-  55. https://www.lopinion.ma/Esplanade-des-Mosquees-Les-pays-musulmans-exigent-une-action-du-Conseil-de-Securite-de-l-ONU_a35246.html
-  56. https://www.lopinion.ma/2022-l-an-de-tous-les-contrastes-Joies-et-epreuves-d-une-annee-mi-figue-mi-raisin_a35112.html
-  57. https://www.lopinion.ma/Championnat-saoudien-Ronaldo-sanctionne-avant-meme-de-toucher-son-premier-ballon_a35238.html
-  58. https://www.lopinion.ma/CHAN-2023-L-Algerie-dit-non-au-vol-direct-de-l-equipe-nationale_a35167.html
-  59. https://www.lopinion.ma/Transport-militaire-le-Maroc-recoit-son-escadron-de-camions-multi-essieux-de-l-Inde_a35117.html
-  60. https://www.lopinion.ma/Infrastructures-routieres-Le-Maroc-classe-5eme-dans-la-region-MENA_a35143.html
-  61. https://www.lopinion.ma/Industrie-automobile-le-Maroc-aspire-a-produire-2-millions-de-voitures-en-2030_a35103.html
-  62. https://www.lopinion.ma/OCP-et-Solar-Institute-J%C3%BClich-produiront-du-phosphate-a-base-d-energie-solaire_a35216.html
-  63. https://www.lopinion.ma/Projets-TGV-Abdeljalil-explique-les-raisons-des-retards_a35151.html
+  54. https://www.lopinion.ma/Nigeria-Une-trentaine-de-personnes-enlevees-par-des-hommes-armes_a35360.html
+  55. https://www.lopinion.ma/Chine-Poursuite-des-exercices-de-combat-pres-de-Taiwan_a35359.html
+  56. https://www.lopinion.ma/Championnat-saoudien-Ronaldo-sanctionne-avant-meme-de-toucher-son-premier-ballon_a35238.html
+  57. https://www.lopinion.ma/CHAN-2023-L-Algerie-dit-non-au-vol-direct-de-l-equipe-nationale_a35167.html
+  58. https://www.lopinion.ma/Conseil-de-Securite-Quand-l-Algerie-tourne-le-dos-a-la-cause-palestinienne-par-haine-du-Maroc_a35304.html
+  59. https://www.lopinion.ma/OCP-et-Solar-Institute-J%C3%BClich-produiront-du-phosphate-a-base-d-energie-solaire_a35216.html
+  60. https://www.lopinion.ma/Marrakech-Le-Zellige-dans-sa-pure-authenticite-marocaine_a35218.html
+  61. https://www.lopinion.ma/Automobile-Un-recul-de-8-des-ventes-par-rapport-a-2021_a35333.html
+  62. https://www.lopinion.ma/Visite-du-ministre-israelien-a-Al-Aqsa-le-Maroc-rejoint-le-camp-de-la-condamnation_a35256.html
+  63. https://www.lopinion.ma/Retro-Verso-La-touche-marocaine-du-Musee-Yves-Saint-Laurent_a35197.html
   64. https://www.lopinion.ma/
   65. https://www.lopinion.ma/Actu-Maroc_r1.html
   66. https://www.lopinion.ma/L-Opinion_r54.html

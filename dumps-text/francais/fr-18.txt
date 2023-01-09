@@ -25,7 +25,7 @@
    (BUTTON) Fermer
    [18]S'abonner au journal [19]Se connecter
      * [20]À la Une
-       Dernière édition
+       Édition du soir
      * [21]Vidéos
      * [22]Enquêtes
      * [23]Dossiers
@@ -769,125 +769,116 @@ INJUSTICIABILITE DE LA DISCRIMINATION RACIALE EN FRANCE
    Je m'abonne
    Les articles les plus lus
 
-   Journal -- Police
-   [69]Photos de suspects et propos racistes : le tableau de chasse d'un
-   policier pro-Zemmour sur Telegram
-
-   Journal -- Extrême droite
-   [70]Chants nazis, homophobie : la nouvelle recrue de l'OL ne choque
-   personne, et surtout pas son entraîneur
+   Journal
+   [69]La préfecture des Alpes-Maritimes a pris des OQTF mensongères
+   contre deux victimes de traite
 
    Journal
-   [71]Philippe Martinez (CGT) sur les retraites : « Après le travail, ce
-   sera le cimetière »
+   [70]« Je travaillais, j'étais payée, j'avais mon voile. Mais la vie ne
+   pouvait pas être aussi simple... »
+
+   Journal -- Défense et diplomatie
+   [71]Livrer des blindés à l'Ukraine : le « coup » réussi de Paris
 
    Journal -- France
-   [72]La justice soupçonne des pots-de-vin entre des policiers
-   franciliens et la fourrière
+   [72]À Toulouse, le procès du chercheur Mathieu Rigouste met en lumière
+   les violences policières
 
-   Journal
-   [73]Des juges en plus... et des alternatives aux juges : le plan
-   Dupond-Moretti pour désengorger les tribunaux
+   Journal -- Économie et social
+   [73]En 2023, l'économie mondiale s'enfoncera dans sa crise structurelle
    Recommandés par nos abonné·es
 
    Billet de blog
    [74]« Salut aux Gilets jaunes » par Raoul Vaneigem
 
    Billet de blog
-   [75]Médecins libéraux en grève : le rien à cirer des urgences de ville
+   [75]Mon boulet et sa boîte de chocolats
 
    Billet de blog
    [76]La réalité de la médecine générale
 
    À la Une de Mediapart
 
-   Journal -- France
-   [77]Des milliers de Kurdes réclament une réaction de la France
+   Journal
+   [77]Après l'insurrection, le Brésil et Lula accusent le coup
 
-   Dix ans après l'assassinat de trois militantes kurdes à Paris, des
-   milliers de manifestants ont réclamé la vérité sur cet attentat dont
-   les commémorations ont été percutées par une nouvelle tuerie fin
-   décembre. Là encore, la motivation ne fait aucun doute selon la
-   communauté, qui accuse la Turquie d'Erdogan. « Des actes racistes, il y
-   en a des dizaines en France, il y a même des morts. Mais ils ne sont
-   pas dirigés contre les Kurdes », dit un manifestant.
-   par Antton Rouget
+   Lundi, le calme revient peu à peu à Brasilia secoué par les attaques
+   contre les lieux de pouvoir, dimanche 8 janvier, par des centaines de
+   militants de l'ancien président d'extrême droite Jair Bolsonaro. Lula,
+   à peine investi, fait déjà face à un immense défi.
+   par Jean-Mathieu Albertini
+
+   Journal -- Économie et social
+   [78]CAC 40 : tout pour le capital, nouvelle saison
+
+   Même dans les temps difficiles, la spirale prix-profits-capital
+   prospère allègrement. En 2022, les entreprises du CAC 40 ont reversé
+   80,5 milliards d'euros à leurs actionnaires. Un record. Le capitalisme
+   de la rente croît et embellit.
+   par Martine Orange
 
    Journal
-   [78]« Je travaillais, j'étais payée, j'avais mon voile. Mais la vie ne
-   pouvait pas être aussi simple... »
+   [79]Les résultats des Mediapart Awards dévoilés ce soir dans
+   « Abonnez-vous », notre émission Twitch
 
-   Début 2022, la photo de N'deye Bodian, vendeuse chez H&amp;M, portant
-   un long voile et un masque, circule sur les réseaux sociaux à la faveur
-   d'une campagne présidentielle marquée par l'islamophobie et les idées
-   d'extrême droite. Ces publications ont changé sa vie.
-   par Latifa Oulkhouir
+   Ce lundi 9 janvier, à 19 heures, Michaël Hajdenberg, coresponsable du
+   service Enquêtes de Mediapart, commentera les résultats des Mediapart
+   Awards 2022. Présent depuis 2008, il répondra également à toutes vos
+   questions sur le journal.
+   par Abonnez-vous
 
-   Journal -- Justice
-   [79]Scandale du chlordécone : Mediapart publie l'intégralité de la
-   décision des juges
+   Journal -- France
+   [80]Chlordécone aux Antilles : le non-lieu judiciaire alimente la
+   défiance vis-à-vis de l'État français
 
-   Seize ans après le dépôt d'une première plainte, la justice a prononcé
-   un non-lieu dans l'enquête sur l'empoisonnement des Antilles au
-   chlordécone. Dans leur ordonnance, les juges reconnaissent néanmoins un
-   « scandale sanitaire » et considèrent qu'il s'agit « probablement du
-   premier dossier judiciaire a` traiter d'une pollution d'une telle
-   ampleur ». Mediapart rend public, en accès libre, cette ordonnance de
-   non-lieu néanmoins historique.
-   par La rédaction de Mediapart
-
-   Journal -- Écosystèmes et pollution
-   [80]Pour le maire de Point-à-Pitre, « le combat continue »
-
-   À la suite du non-lieu prononcé dans l'enquête sur l'empoisonnement des
-   Antilles au chlordécone, Harry Durimel, maire écologiste de
-   Pointe-à-Pitre (Guadeloupe) et avocat historique des victimes, a
-   annoncé son intention de faire appel et revient pour Mediapart sur les
-   conséquences délétères de cette décision.
-   par Mickaël Correia
+   Le non-lieu rendu dans l'affaire de ce pesticide qui a empoisonné les
+   Antilles françaises pour plusieurs siècles accentue le sentiment
+   d'impuissance généralisée face à un fléau accusé de provoquer des
+   cancers de la prostate. La réponse des autorités semble bien
+   insuffisante.
+   par Amandine Ascensio
 
    La sélection du Club
 
    Billet de blog
-   [81]Mathieu Belezi où l'esthétique du carnage
+   [81]La réforme
 
-   Attaquer la terre et le soleil paru aux éditions Tripode a valu à son
-   auteur, Mathieu Belezi le prix littéraire 2022 du journal Le Monde.
-   C'est le troisième roman de l'écrivain consacré à un sujet peu exploré
-   par la littérature française : l'Algérie coloniale.
-   par Khaled Sid Mohand
+   Une réforme est systématiquement « nécessaire ». La réforme est par
+   nature « impopulaire ». La réforme est toujours « urgente » et « on a
+   trop attendu pour la mener » . Recette : comment expliquer
+   médiatiquement la nécessité d'une réforme.
+   par Hervé Jarry
 
    Billet de blog
-   [82]L'Archipel de Nouvelles du non-dit de Stéphane Jaubertie
+   [82]La démographie, ça sert surtout à faire peur
 
-   En une quinzaine de saynètes qu'il préfère appeler « nouvelles »,
-   l'auteur dramatique Stéphane Jaubertie observe, de près, le courant des
-   Eaux vives: celles qui charrient mots, vécus, images, pensées frappés
-   par un goût d'interdit ou ce mal étrange qu'on appelle « non-dit ».
-   par Denys Laboutière
+   La démographie est à la mode. Qu'il soit question d'écologie,
+   d'immigration ou de retraites, cette discipline est sans cesse
+   mobilisée, parfois de façon simpliste, souvent pour justifier des
+   politiques réactionnaires. (Renaud Duterme)
+   par Géographies en mouvement
+
+   Billet de blog
+   [83]De quoi le débat sur la « réforme » des retraites est-il le
+   symptôme ?
+
+   Le 10 janvier, le Gouvernement dévoilera sa « réforme » des retraites.
+   Ce débat, cantonné à ses aspects techniques, est toujours à côté du
+   sujet, élucidant le temps libéré pour être utile à la société, garder
+   les petits-enfants, faire du bénévolat. Une société à plusieurs
+   vitesses s'enracine chaque jour dans notre pays, que tout report de
+   l'âge légal de départ en retraite ne fera qu'aggraver.
+   par emilie.agnoux
 
    Billet d'édition
-   [83]« Le Lac au miroir » d'Odile Lefranc, itinéraires à la jonction des
-   temps terrestres
+   [84]#7 - [Retraites] Les Invisibles / Les Vulves assassines / La CGT /
+   Pédalos
 
-   « Le Lac au miroir » est le premier roman de la poétesse Odile Lefranc,
-   un récit-enquête sur le peintre et musicien allemand Walter Spies,
-   figure de l'avant-garde berlinoise, et une quête-poursuite entre Bali,
-   la France et l'Allemagne dont l'héroïne, Hannah Springer, 38 ans, vogue
-   de dilemmes en énigmes, de paradis rêvés en réalités mensongères, de
-   secrets volés en révélations étourdissantes.
-   par esther heboyan
-
-   Billet de blog
-   [84]Rescapée du développement personnel
-
-   J'ai lu un livre de développement personnel dans un moment de perdition
-   regrettable. Je souhaiterais me confesser... Le développement
-   personnel, pseudo-science avortée, fille d'un mariage morganatique
-   entre les flatulences du sens commun et les élucubrations d'un
-   morticole. Il y a tant à dire sur cette littérature, j'y consacrerai
-   donc quelques mots.
-   par Lyna Gridi
+   À la veille d'un mouvement pour défendre le droit à la retraite (qu'on
+   rendra victorieux !), le collectif inverti·e·s propose une édition
+   spéciale de « sur la table de chevet des inverti·e·s » avec quelques
+   ressources pour préparer ce mouvement.
+   par les inverti.e.s
 
    Newsletters
 
@@ -1118,22 +1109,22 @@ References
   66. https://twitter.com/intent/tweet?text=INJUSTICIABILITE+DE+LA+DISCRIMINATION+RACIALE+EN+FRANCE+via+%40MediapartBlogs&url=https%3A%2F%2Fblogs.mediapart.fr%2Flounghes%2Fblog%2F221116%2Finjusticiabilite-de-la-discrimination-raciale-en-france%3Fat_medium%3Dcustom3%26at_campaign%3D67
   67. https://blogs.mediapart.fr/lounghes/blog/221116/injusticiabilite-de-la-discrimination-raciale-en-france/commentaires
   68. https://www.mediapart.fr/charte-de-participation
-  69. https://www.mediapart.fr/journal/france/040123/photos-de-suspects-et-propos-racistes-le-tableau-de-chasse-d-un-policier-pro-zemmour-sur-telegram
-  70. https://www.mediapart.fr/journal/france/040123/chants-nazis-homophobie-la-nouvelle-recrue-de-l-ol-ne-choque-personne-et-surtout-pas-son-entraineur
-  71. https://www.mediapart.fr/journal/politique/050123/philippe-martinez-cgt-sur-les-retraites-apres-le-travail-ce-sera-le-cimetiere
-  72. https://www.mediapart.fr/journal/france/040123/la-justice-soupconne-des-pots-de-vin-entre-des-policiers-franciliens-et-la-fourriere
-  73. https://www.mediapart.fr/journal/france/050123/des-juges-en-plus-et-des-alternatives-aux-juges-le-plan-dupond-moretti-pour-desengorger-les-tribunaux
+  69. https://www.mediapart.fr/journal/france/070123/la-prefecture-des-alpes-maritimes-pris-des-oqtf-mensongeres-contre-deux-victimes-de-traite
+  70. https://www.mediapart.fr/journal/france/070123/je-travaillais-j-etais-payee-j-avais-mon-voile-mais-la-vie-ne-pouvait-pas-etre-aussi-simple
+  71. https://www.mediapart.fr/journal/international/060123/livrer-des-blindes-l-ukraine-le-coup-reussi-de-paris
+  72. https://www.mediapart.fr/journal/france/060123/toulouse-le-proces-du-chercheur-mathieu-rigouste-met-en-lumiere-les-violences-policieres
+  73. https://www.mediapart.fr/journal/economie-et-social/070123/en-2023-l-economie-mondiale-s-enfoncera-dans-sa-crise-structurelle
   74. https://www.mediapart.fr/vingtras/blog/070123/salut-aux-gilets-jaunes-par-raoul-vaneigem
-  75. https://www.mediapart.fr/georges-andre/blog/050123/medecins-liberaux-en-greve-le-rien-cirer-des-urgences-de-ville
+  75. https://www.mediapart.fr/anaisbeauvais/blog/080123/mon-boulet-et-sa-boite-de-chocolats
   76. https://www.mediapart.fr/florenceroger/blog/070123/la-realite-de-la-medecine-generale
-  77. https://www.mediapart.fr/journal/france/070123/d-un-triple-meurtre-l-autre-des-milliers-de-kurdes-reclament-une-reaction-de-la-france
-  78. https://www.mediapart.fr/journal/france/070123/je-travaillais-j-etais-payee-j-avais-mon-voile-mais-la-vie-ne-pouvait-pas-etre-aussi-simple
-  79. https://www.mediapart.fr/journal/france/080123/scandale-du-chlordecone-mediapart-publie-l-integralite-de-la-decision-des-juges
-  80. https://www.mediapart.fr/journal/ecologie/060123/scandale-du-chlordecone-le-combat-continue
-  81. https://www.mediapart.fr/khaledsidmohand/blog/050123/mathieu-belezi-ou-lesthetique-du-carnage
-  82. https://www.mediapart.fr/denys-laboutiere/blog/221222/larchipel-de-nouvelles-du-non-dit-de-stephane-jaubertie
-  83. https://www.mediapart.fr/edition/des-livres-la-mer/article/030123/le-lac-au-miroir-d-odile-lefranc-itineraires-la-jonction-des-temps-terrestres
-  84. https://www.mediapart.fr/lyna-gridi/blog/050123/rescapee-du-developpement-personnel
+  77. https://www.mediapart.fr/journal/international/090123/apres-l-insurrection-le-bresil-et-lula-accusent-le-coup
+  78. https://www.mediapart.fr/journal/economie-et-social/090123/cac-40-tout-pour-le-capital-nouvelle-saison
+  79. https://www.mediapart.fr/journal/france/090123/les-resultats-des-mediapart-awards-devoiles-dans-abonnez-vous-notre-emission-twitch
+  80. https://www.mediapart.fr/journal/france/090123/chlordecone-aux-antilles-le-non-lieu-judiciaire-alimente-la-defiance-vis-vis-de-l-etat-francais
+  81. https://www.mediapart.fr/herve-jarry/blog/291222/la-reforme
+  82. https://www.mediapart.fr/geographies-en-mouvement/blog/201222/la-demographie-ca-sert-surtout-faire-peur
+  83. https://www.mediapart.fr/emilieagnoux/blog/090123/de-quoi-le-debat-sur-la-reforme-des-retraites-est-il-le-symptome
+  84. https://www.mediapart.fr/edition/sur-la-table-de-chevet-des-inverti-e-s/article/231222/7-retraites-les-invisibles-les-vulves-assassines-la-cgt-pedal
   85. https://info.mediapart.fr/renderers/page_inscription
   86. https://www.mediapart.fr/journal/international
   87. https://www.mediapart.fr/journal/ecologie

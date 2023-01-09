@@ -20,16 +20,16 @@
      * [20]Sports
 
    News Ticker
-     * [21][ décembre 8, 2022 ] Quelles sont les raisons de modifier un
+     * [21][ janvier 9, 2023 ] Pourquoi s'intéresser aux métiers de
+       l'assurance ? Finance
+     * [22][ décembre 8, 2022 ] Quelles sont les raisons de modifier un
        boîtier électronique ? Actu
-     * [22][ décembre 8, 2022 ] Comment faire de la chirurgie esthétique
+     * [23][ décembre 8, 2022 ] Comment faire de la chirurgie esthétique
        gratuitement ? Bien-Etre
-     * [23][ novembre 17, 2022 ] Les raisons de choisir un bracelet acier
+     * [24][ novembre 17, 2022 ] Les raisons de choisir un bracelet acier
        inoxydable femme Mode
-     * [24][ octobre 20, 2022 ] Participer au théâtre pour préparer son
+     * [25][ octobre 20, 2022 ] Participer au théâtre pour préparer son
        avenir Business
-     * [25][ octobre 19, 2022 ] La protection du droit de l'homme : Une
-       nouvelle loi pour tous Actu
 
    Rechercher : ____________________ Rechercher
 
@@ -92,8 +92,8 @@ Les actions de l'ONU face à la discrimination raciale
    cette journée internationale c'est de concilier et d'unir tout le
    peuple du monde et de les inciter à se réunir pour abolir toute
    discrimination.
-   A lire également  CES 2019 : les géants de la beauté s'attaquent de
-   plus en plus à la connectivité
+   A lire également  Le site Google va se plier aux normes imposées par
+   l'Inde
 
 Les sanctions probables en cas de discrimination raciale
 
@@ -162,11 +162,11 @@ Laisser un commentaire [38]Annuler la réponse
 
 Articles récents
 
-     * [39]Quelles sont les raisons de modifier un boîtier électronique ?
-     * [40]Comment faire de la chirurgie esthétique gratuitement ?
-     * [41]Les raisons de choisir un bracelet acier inoxydable femme
-     * [42]Participer au théâtre pour préparer son avenir
-     * [43]La protection du droit de l'homme : Une nouvelle loi pour tous
+     * [39]Pourquoi s'intéresser aux métiers de l'assurance ?
+     * [40]Quelles sont les raisons de modifier un boîtier électronique ?
+     * [41]Comment faire de la chirurgie esthétique gratuitement ?
+     * [42]Les raisons de choisir un bracelet acier inoxydable femme
+     * [43]Participer au théâtre pour préparer son avenir
 
 Catégories
 
@@ -207,11 +207,11 @@ References
   18. https://www.francelemagazine.fr/mode/
   19. https://www.francelemagazine.fr/sante/
   20. https://www.francelemagazine.fr/sports/
-  21. https://www.francelemagazine.fr/quelles-sont-les-raisons-de-modifier-un-boitier-electronique/
-  22. https://www.francelemagazine.fr/comment-faire-de-la-chirurgie-esthetique-gratuitement/
-  23. https://www.francelemagazine.fr/les-raisons-de-choisir-un-bracelet-acier-inoxydable-femme/
-  24. https://www.francelemagazine.fr/participer-au-theatre-pour-preparer-son-avenir/
-  25. https://www.francelemagazine.fr/la-protection-du-droit-de-lhomme-une-nouvelle-loi-pour-tous/
+  21. https://www.francelemagazine.fr/pourquoi-sinteresser-aux-metiers-de-lassurance/
+  22. https://www.francelemagazine.fr/quelles-sont-les-raisons-de-modifier-un-boitier-electronique/
+  23. https://www.francelemagazine.fr/comment-faire-de-la-chirurgie-esthetique-gratuitement/
+  24. https://www.francelemagazine.fr/les-raisons-de-choisir-un-bracelet-acier-inoxydable-femme/
+  25. https://www.francelemagazine.fr/participer-au-theatre-pour-preparer-son-avenir/
   26. https://www.francelemagazine.fr/
   27. https://www.francelemagazine.fr/actu/
   28. https://www.francelemagazine.fr/2021/09/
@@ -225,11 +225,11 @@ References
   36. https://www.francelemagazine.fr/que-faire-en-cas-dadultere/
   37. https://www.francelemagazine.fr/lemailing-un-outil-qui-parametre-les-meilleurs-avantages-de-marketing/
   38. https://www.francelemagazine.fr/la-discrimination-raciale-un-probleme-mondial/#respond
-  39. https://www.francelemagazine.fr/quelles-sont-les-raisons-de-modifier-un-boitier-electronique/
-  40. https://www.francelemagazine.fr/comment-faire-de-la-chirurgie-esthetique-gratuitement/
-  41. https://www.francelemagazine.fr/les-raisons-de-choisir-un-bracelet-acier-inoxydable-femme/
-  42. https://www.francelemagazine.fr/participer-au-theatre-pour-preparer-son-avenir/
-  43. https://www.francelemagazine.fr/la-protection-du-droit-de-lhomme-une-nouvelle-loi-pour-tous/
+  39. https://www.francelemagazine.fr/pourquoi-sinteresser-aux-metiers-de-lassurance/
+  40. https://www.francelemagazine.fr/quelles-sont-les-raisons-de-modifier-un-boitier-electronique/
+  41. https://www.francelemagazine.fr/comment-faire-de-la-chirurgie-esthetique-gratuitement/
+  42. https://www.francelemagazine.fr/les-raisons-de-choisir-un-bracelet-acier-inoxydable-femme/
+  43. https://www.francelemagazine.fr/participer-au-theatre-pour-preparer-son-avenir/
   44. https://www.francelemagazine.fr/actu/
   45. https://www.francelemagazine.fr/bien-etre/
   46. https://www.francelemagazine.fr/business/
@@ -249,7 +249,7 @@ References
   59. https://www.francelemagazine.fr/la-discrimination-raciale-un-probleme-mondial/
   60. mailto:?subject=La%20discrimination%20raciale%20%3A%20un%20probl%C3%A8me%20mondial&body=https%3A%2F%2Fwww.francelemagazine.fr%2Fla-discrimination-raciale-un-probleme-mondial%2F
   61. https://www.francelemagazine.fr/la-discrimination-raciale-un-probleme-mondial/
-  62. https://www.francelemagazine.fr/ces-2019-les-geants-de-la-beaute-sattaquent-de-plus-en-plus-a-la-connectivite/
+  62. https://www.francelemagazine.fr/le-site-google-va-se-plier-aux-normes-imposees-par-linde/
   63. https://www.francelemagazine.fr/la-discrimination-raciale-un-probleme-mondial/
   64. https://www.francelemagazine.fr/la-discrimination-raciale-un-probleme-mondial/
   65. https://www.francelemagazine.fr/la-discrimination-raciale-un-probleme-mondial/
