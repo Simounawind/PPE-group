@@ -4,11 +4,11 @@ Dans le cadre du cours " Programmation et projet encadré 1 ", nous avons travai
 
 En vous guidant sur notre site, vous découvrez nos démarches fait lors de la mise en place de notre projet.
 =
-Sur notre site, vous pourrez y découvrir toutes les étapes effectués jusqu'aux résultats. Bonne découverte !
+Sur notre site, vous pourrez y découvrir toutes les étapes effectuées jusqu'aux résultats. Bonne découverte !
 
 ## choix du mot
 
-Dans les premiers jours de notre brainstorming, nous voulions étudier un mot qui a une grande importance, qui se manifeste chaque jour dans non seulement nos vies quotidiennes, mais dans le monde entier. Avec la possibilité d'étudier une multitude de contextes dans nos trois langues choisis : français, anglais et chinois. Nous avons alors examiné quelques sites internets afin de trouver des idées des mots qui apparaît souvent. Deux mots sont venus en tête : discrimination et racisme.
+Dans les premiers jours de notre brainstorming, nous voulions étudier un mot qui a une grande importance, qui se manifeste chaque jour dans non seulement nos vies quotidiennes, mais dans le monde entier. Avec la possibilité d'étudier une multitude de contextes dans nos trois langues choisies : français, anglais et chinois. Nous avons alors examiné quelques sites internet afin de trouver des idées des mots qui apparaissent souvent. Deux mots nous sont venus en tête : discrimination et racisme.
 
 On s'est alors demandé si la discrimination raciale pouvait se dérouler dans des situations précises qui sont semblables dans chacun de nos pays ou si c'était plutôt "culturel". Par la suite, on s'est demandé quelles populations était la plus affectée par les discriminations raciales.
 
