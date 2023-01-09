@@ -11,15 +11,15 @@ Nous avons choisi le mot "discrimination", plus spécifiquement "**discriminatio
 
 ## Comment nous avons choisis nos URL's
 
-* Nous nous sommes concentrés sur les articles de presse tout en essayant de regarder s'il y'avait des blogs, forums ou encore Twitter permettant de raconter leurs histoires personnelles cela n'a pas été concluant.
+* Nous nous sommes concentrés sur les articles de presse tout en essayant de regarder s'il y'avait des blogs, forums ou encore Twitter permettant de raconter leurs histoires personnelles cela n'a pas été très concluant.
 
 * En français, lors de la recherche pour spécifier mon syntagme j'ajoutais des guillemets comme ceci "discrimination raciale", cela permet de chercher les urls comportement ce syntagme. Néanmoins, le petit problème rencontré c'est que dans certaines urls, le syntagme était employé seulement dans le titre.
 
-* Au début, le contexte anglais que j'ai chosi d'étudier c'était celui de l'Afrique du Sud étant donné que mon pays a une histoire très important concernant ce sujet. En revanche, lorsque j'ai recherché des URLs, je n'ai pas trouvé assez d'occurrences pour pouvoir créer mon corpus. Ceci est dû au fait qu'en Afrique du Sud, il existe plusieurs synonymes du syntagme "racial discrimination". J'ai donc decidé de me baser sur l'anglais américain. J'ai utilisé les mêmes démarches pour chosir mes URLs - en recherchant le syntagme "racial discrimination".
+* Au début, le contexte anglais que j'ai choisi d'étudier c'était celui de l'Afrique du Sud étant donné que mon pays a une histoire très important concernant ce sujet. En revanche, lorsque j'ai recherché des URLs, je n'ai pas trouvé assez d'occurrences pour pouvoir créer mon corpus. Ceci est dû au fait qu'en Afrique du Sud, il existe plusieurs synonymes du syntagme "racial discrimination". J'ai donc decidé de me baser sur l'anglais américain. J'ai utilisé les mêmes démarches pour chosir mes URLs - en recherchant le syntagme "racial discrimination".
 
 * En ce qui concerne la discrimination raciale, cela ne concerne pas seulement les Noirs et les Blancs, les Jaunes devraient également être considérés. Par conséquent, par rapport aux corpus anglais et français, ma recherche a porté davantage sur la discrimination raciale à l'encontre des Asiatiques. Pendant ma recherche d'urls, j'ai utilisé trois moteurs de recherche, Baidu, Google et Bing, et j'ai trouvé des corpus provenant de Zhihu (version chinoise de Reddit), de Sina, de Sohu et de divers sites gouvernementaux. Parmi ces sites, il y en avait quelques-uns qui étaient complètement inaccessibles, comme ceux de Baijiahao, que j'ai éliminé et remplacé en conséquence.
 
-  
+
 
 
 ## Travail effectué pendant les séances
