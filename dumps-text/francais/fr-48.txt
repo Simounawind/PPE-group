@@ -234,13 +234,40 @@ Un humoriste
    ____________________ Votre e-mail
    (BUTTON) S'abonner
    ____________________
-   [37]Les neuf livres à lire pour comprendre l'anarchisme
+   [37]Le sport français va-t-il bientôt cesser de s'autofinancer?
    (BUTTON)
    Partager sur Facebook
    (BUTTON)
    Partager sur Twitter
 
-   [38]Les neuf livres à lire pour comprendre l'anarchisme
+   [38]Le sport français va-t-il bientôt cesser de s'autofinancer?
+
+   Alors que le sport français brille à travers le monde grâce à sa
+   politique de redistribution, en place depuis les années 1960, les
+   dernières décisions des gouvernements Castex et Borne semblent remettre
+   en cause cette logique verticale.
+
+   Pierre Rondeau -- 9 janvier 2023 -- Temps de lecture : 4 min
+   [39]Existe-t-il vraiment une culture de droite en France?
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Twitter
+
+   [40]Existe-t-il vraiment une culture de droite en France?
+
+   Alors que la droitisation bat son plein, il serait néanmoins hasardeux
+   d'affirmer qu'une culture de droite cohérente et unique s'édifie dans
+   le pays.
+
+   Gaël Brustier -- 9 janvier 2023 -- Temps de lecture : 3 min
+   [41]Les neuf livres à lire pour comprendre l'anarchisme
+   (BUTTON)
+   Partager sur Facebook
+   (BUTTON)
+   Partager sur Twitter
+
+   [42]Les neuf livres à lire pour comprendre l'anarchisme
 
    «La Conquête du pain», «Manifeste de l'anarchie», «Y a-t-il plus fier
    et libre que nous?», «L'Anarchisme: ce dont il s'agit vraiment»... La
@@ -248,28 +275,6 @@ Un humoriste
    saisir la complexité de cette philosophie politique.
 
    Sylvain Boulouque -- 7 janvier 2023 -- Temps de lecture : 8 min
-   [39]Dans l'pétrin
-   (BUTTON)
-   Partager sur Facebook
-   (BUTTON)
-   Partager sur Twitter
-
-   [40]Dans l'pétrin
-
-   Denis Pessin -- 6 janvier 2023
-   [41]Les Français se mobiliseront-ils contre la réforme des retraites?
-   (BUTTON)
-   Partager sur Facebook
-   (BUTTON)
-   Partager sur Twitter
-
-   [42]Les Français se mobiliseront-ils contre la réforme des retraites?
-
-   Les syndicats sont unanimement contre le relèvement de l'âge de départ,
-   et la population française aussi dans sa majorité... pour l'instant
-   uniquement dans les sondages.
-
-   Slate.fr -- 6 janvier 2023 -- Temps de lecture : 2 min
 
    [43]Slate.fr
 
@@ -375,12 +380,12 @@ References
   34. https://www.slate.fr/dossier/3933/islamophobie
   35. https://www.slate.fr/dossier/1601/extreme-droite
   36. https://www.slate.fr/dossier/93911/election-presidentielle-2022
-  37. https://www.slate.fr/culture/pages-dhistoire/episode-9-anarchisme-livres-kropotkine-woodcock-bellegarrigue-reclus-louise-michel-severine-emma-goldman-de-cleyre
-  38. https://www.slate.fr/culture/pages-dhistoire/episode-9-anarchisme-livres-kropotkine-woodcock-bellegarrigue-reclus-louise-michel-severine-emma-goldman-de-cleyre
-  39. https://www.slate.fr/story/238765/pessin-dans-petrin-manifestation-prix-electricite-boulangers
-  40. https://www.slate.fr/story/238765/pessin-dans-petrin-manifestation-prix-electricite-boulangers
-  41. https://www.slate.fr/story/238744/francais-mobilisation-reforme-retraites-syndicats-gouvernement
-  42. https://www.slate.fr/story/238744/francais-mobilisation-reforme-retraites-syndicats-gouvernement
+  37. https://www.slate.fr/story/238639/sport-financement-amateur-elite-professionnels-cnosf-ministere-taxe-buffet-droits-tele
+  38. https://www.slate.fr/story/238639/sport-financement-amateur-elite-professionnels-cnosf-ministere-taxe-buffet-droits-tele
+  39. https://www.slate.fr/story/238612/culture-droite-france-occidentalisme-droitisation-rassemblement-national-zemmour
+  40. https://www.slate.fr/story/238612/culture-droite-france-occidentalisme-droitisation-rassemblement-national-zemmour
+  41. https://www.slate.fr/culture/pages-dhistoire/episode-9-anarchisme-livres-kropotkine-woodcock-bellegarrigue-reclus-louise-michel-severine-emma-goldman-de-cleyre
+  42. https://www.slate.fr/culture/pages-dhistoire/episode-9-anarchisme-livres-kropotkine-woodcock-bellegarrigue-reclus-louise-michel-severine-emma-goldman-de-cleyre
   43. https://www.slate.fr/
   44. https://www.slate.com/
   45. https://www.slate.fr/studio/

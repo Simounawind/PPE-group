@@ -3,68 +3,70 @@
    [3]alternate [4]alternate
 
    [5]premium1 premium1
-   [6]Actu des tendances Actu des tendances
 
+   [6]banniere 1 banniere 1
    [7]Actu des tendances Actu des tendances
+
+   [8]Actu des tendances Actu des tendances
    ____________________ (Rechercher)
 
    Catégories
-     * [8]L'actu des tendances
-          + [9]Nouveaux usages
-          + [10]Tech à suivre
-          + [11]Entreprises innovantes
-          + [12]Nouvelle économie
-          + [13]Mondes créatifs
-          + [14]Médias mutants
-          + [15]L'actualité de L'ADN
-     * [16]Tendances par secteur
-          + [17]20 secteurs décryptés
-          + [18]Partenaires
-          + [19]Le manifeste
-          + [20]Contact
-     * [21]TRIBUNES
-          + [22]News Business
-          + [23]RSE
-          + [24]RH & Management
-          + [25]Tech for business
-          + [26]Commercial
-          + [27]Marketing & Communication
-          + [28]Par secteurs
-     * [29]Transition
-          + [30]Transition écologique
-          + [31]Les cahiers du Shift
-          + [32]L'ADN le Shift
-     * [33]L'ADN studio
-          + [34]L'ADN studio
-          + [35]Détecter les tendances
-          + [36]Mettre en récit
-          + [37]Faire connaître
-          + [38]Se former
-     * [39]le Shift
-          + [40]Le collectif de L'ADN
-          + [41]Le programme
-          + [42]Rencontrez les membres
-          + [43]Rejoignez-nous
-          + [44]Résonances
-     * [45]L'ADN DANCE
-          + [46]Le projet
-          + [47]Édition 2021 | Chaillot
-          + [48]Édition 2020 | 104Paris
-          + [49]Artistes & Penseurs
-          + [50]L'Équipe
-          + [51]Billetterie
-     * [52]L'ADN DATA
-     * [53]La boutique
-          + [54]La revue
-          + [55]Le livre des tendances
-          + [56]Abonnements
-          + [57]Mon panier
-     * [58]qui sommes-nous ?
-          + [59]L'ADN Groupe
-          + [60]Nos valeurs
-          + [61]Nos engagements
-          + [62]L'équipe
-          + [63]Nous contacter
+     * [9]L'actu des tendances
+          + [10]Nouveaux usages
+          + [11]Tech à suivre
+          + [12]Entreprises innovantes
+          + [13]Nouvelle économie
+          + [14]Mondes créatifs
+          + [15]Médias mutants
+          + [16]L'actualité de L'ADN
+     * [17]Tendances par secteur
+          + [18]20 secteurs décryptés
+          + [19]Partenaires
+          + [20]Le manifeste
+          + [21]Contact
+     * [22]TRIBUNES
+          + [23]News Business
+          + [24]RSE
+          + [25]RH & Management
+          + [26]Tech for business
+          + [27]Commercial
+          + [28]Marketing & Communication
+          + [29]Par secteurs
+     * [30]Transition
+          + [31]Transition écologique
+          + [32]Les cahiers du Shift
+          + [33]L'ADN le Shift
+     * [34]L'ADN studio
+          + [35]L'ADN studio
+          + [36]Détecter les tendances
+          + [37]Mettre en récit
+          + [38]Faire connaître
+          + [39]Se former
+     * [40]le Shift
+          + [41]Le collectif de L'ADN
+          + [42]Le programme
+          + [43]Rencontrez les membres
+          + [44]Rejoignez-nous
+          + [45]Résonances
+     * [46]L'ADN DANCE
+          + [47]Le projet
+          + [48]Édition 2021 | Chaillot
+          + [49]Édition 2020 | 104Paris
+          + [50]Artistes & Penseurs
+          + [51]L'Équipe
+          + [52]Billetterie
+     * [53]L'ADN DATA
+     * [54]La boutique
+          + [55]La revue
+          + [56]Le livre des tendances
+          + [57]Abonnements
+          + [58]Mon panier
+     * [59]qui sommes-nous ?
+          + [60]L'ADN Groupe
+          + [61]Nos valeurs
+          + [62]Nos engagements
+          + [63]L'équipe
+          + [64]Nous contacter
 
      *
      *
@@ -75,102 +77,102 @@
 
    Actu des tendances Actu des tendances
 
-     * [64]Actu des tendances Actu des tendances
-     * [65]Tendances
-     * [66]Par Secteur
-     * [67]TRIBUNES
-     * [68]Transition
-     * [69]L'ADN Studio
-     * [70]Le Shift
-     * [71]L'ADN DANCE
-     * [72]L'ADN DATA
-     * [73]La Boutique
+     * [65]Actu des tendances Actu des tendances
+     * [66]Tendances
+     * [67]Par Secteur
+     * [68]TRIBUNES
+     * [69]Transition
+     * [70]L'ADN Studio
+     * [71]Le Shift
+     * [72]L'ADN DANCE
+     * [73]L'ADN DATA
+     * [74]La Boutique
 
-     * [74]qui sommes-nous ?
+     * [75]qui sommes-nous ?
 
    ____________________ (Rechercher)
 
-   [75]L'ADN L'ADN
+   [76]L'ADN L'ADN
 
    TENDANCES & MUTATIONS
 
-     * [76]Nouveaux usages
+     * [77]Nouveaux usages
        Les rubriques de la rédaction
-       [77]o   Études
-       [78]o   Usages et style de vie
-       [79]o   Usages par génération
-       [80]o   Usages par genre
+       [78]o   Études
+       [79]o   Usages et style de vie
+       [80]o   Usages par génération
+       [81]o   Usages par genre
        Les rubriques partenaires
-       [81]o   Close to Z : comprendre la génération Z avec AFK la Gaîté
+       [82]o   Close to Z : comprendre la génération Z avec AFK la Gaîté
        Lyrique
-       [82]o   Les pouvoirs du son avec Ircam Amplify
-     * [83]Tech à suivre
+       [83]o   Les pouvoirs du son avec Ircam Amplify
+     * [84]Tech à suivre
        Les rubriques de la rédaction
-       [84]o   Biotech
-       [85]o   Blockchain
-       [86]o   Data : big et smart
-       [87]o   IA, Machine Learning, IoT, ...
-       [88]o   Robotique et homme augmenté
+       [85]o   Biotech
+       [86]o   Blockchain
+       [87]o   Data : big et smart
+       [88]o   IA, Machine Learning, IoT, ...
+       [89]o   Robotique et homme augmenté
        Les rubriques partenaires
-       [89]o   Décryptologie avec litebit
-       [90]o   Repenser la mobilité avec Groupe Renault
-       [91]o   S'inspirer de l'avenir avec Meta
-       [92]o   Vers le Web3 et au-delà avec Coinhouse
-     * [93]Entreprises innovantes
+       [90]o   Décryptologie avec litebit
+       [91]o   Repenser la mobilité avec Groupe Renault
+       [92]o   S'inspirer de l'avenir avec Meta
+       [93]o   Vers le Web3 et au-delà avec Coinhouse
+     * [94]Entreprises innovantes
        Les rubriques de la rédaction
-       [94]o   Case study
-       [95]o   Expérience clients et ux
-       [96]o   Marques engagées
-       [97]o   Nouvelles gouvernances
-       [98]o   Parole d'expert
-       [99]o   Transparence
+       [95]o   Case study
+       [96]o   Expérience clients et ux
+       [97]o   Marques engagées
+       [98]o   Nouvelles gouvernances
+       [99]o   Parole d'expert
+       [100]o   Transparence
        Les rubriques partenaires
-       [100]o   Futur du dialogue social avec AlterNego
-       [101]o   Le numérique au service du bien commun avec leboncoin
-       [102]o   RE_CORP avec Angie Consulting
-       [103]o   Un-Pacte pour Demain avec So good et Pernod Ricard
-     * [104]Nouvelle Économie
-     * [105]Mondes créatifs
+       [101]o   Futur du dialogue social avec AlterNego
+       [102]o   Le numérique au service du bien commun avec leboncoin
+       [103]o   RE_CORP avec Angie Consulting
+       [104]o   Un-Pacte pour Demain avec So good et Pernod Ricard
+     * [105]Nouvelle Économie
+     * [106]Mondes créatifs
        Les rubriques de la rédaction
-       [106]o   Architecture et ville du futur
-       [107]o   Art numérique
-       [108]o   Réalités alternatives
-       [109]o   Top des pubs
+       [107]o   Architecture et ville du futur
+       [108]o   Art numérique
+       [109]o   Réalités alternatives
+       [110]o   Top des pubs
        Les rubriques partenaires
-       [110]o   Art, entreprises et société avec L'École pro - Centre
+       [111]o   Art, entreprises et société avec L'École pro - Centre
        Pompidou
-       [111]o   Jeunes Créations avec NONFICTION
-       [112]o   Modernité, modernité avec Mobilier national
-       [113]o   Sustainable design avec école intuit.lab
-     * [114]Médias mutants
+       [112]o   Jeunes Créations avec NONFICTION
+       [113]o   Modernité, modernité avec Mobilier national
+       [114]o   Sustainable design avec école intuit.lab
+     * [115]Médias mutants
        Les rubriques de la rédaction
-       [115]o   Brand content
-       [116]o   Case study media
-       [117]o   Presse et nouvelles écritures
-       [118]o   Radio et son
-       [119]o   Réseaux sociaux
-       [120]o   TV et nouvelles images
+       [116]o   Brand content
+       [117]o   Case study media
+       [118]o   Presse et nouvelles écritures
+       [119]o   Radio et son
+       [120]o   Réseaux sociaux
+       [121]o   TV et nouvelles images
        Les rubriques partenaires
-       [121]o   FEMINITE(S) avec Prisma Media Solutions
-       [122]o   YouTube Scan avec TubeReach
+       [122]o   FEMINITE(S) avec Prisma Media Solutions
+       [123]o   YouTube Scan avec TubeReach
 
    Expression de la discrimination raciale en dessinant des expressions
    avec les doigts Expression de la discrimination raciale en dessinant
    des expressions avec les doigts
-     * [123]L'Actualité de L'ADN
-     * [124]#Emploi
-     * [125]#entreprises
-     * [126]#Inclusion
-     * [127]#monde du travail
-     * [128]#Travail
+     * [124]L'Actualité de L'ADN
+     * [125]#Emploi
+     * [126]#entreprises
+     * [127]#Inclusion
+     * [128]#monde du travail
+     * [129]#Travail
 
 Entreprises : pour 68 % des Français, les discriminations raciales impactent
 les carrières
 
-   Par [129]Peggy Baron - Le 3 novembre 2022
+   Par [130]Peggy Baron - Le 3 novembre 2022
    © dashu83 - Getty
 
-   [130]Accueil > [131]L'Actualité de L'ADN > Entreprises : pour 68 % des
+   [131]Accueil > [132]L'Actualité de L'ADN > Entreprises : pour 68 % des
    Français, les discriminations raciales impactent les carrières
      *
      *
@@ -182,28 +184,28 @@ les carrières
    interrogées rapportent avoir été témoins ou victimes de discrimination
    raciale et ethnique en entreprise.
 
-   Si pour de nombreux Français [132]travailler pour une entreprise
+   Si pour de nombreux Français [133]travailler pour une entreprise
    inclusive et soucieuse de la diversité est devenu un critère plus
-   important que l'[133]équilibre entre vie professionnelle et vie privée,
-   ou même que[134] la rémunération, une récente [135]enquête* de
+   important que l'[134]équilibre entre vie professionnelle et vie privée,
+   ou même que[135] la rémunération, une récente [136]enquête* de
    Glassdoor démontre que du côté des entreprises, il reste un long chemin
    à parcourir.
 
 Constaté ou vécu, le racisme en entreprise se maintient
 
    L'étude révèle que 31 % des personnes interrogées rapportent avoir été
-   témoins ou [136]victimes de discrimination raciale et ethnique en
+   témoins ou [137]victimes de discrimination raciale et ethnique en
    entreprise. Cela représente une hausse de 3 % par rapport à 2019. En
    effet, dans une précédente étude de Glassdoor, 28 % des employés
-   français déclaraient avoir été [137]victimes ou témoins de racisme au
-   travail (Étude « [138]Diversité et inclusion 2019 » ). Conjointement,
-   23 % de répondants déclarent avoir été témoins ou [139]victimes de
-   discriminations raciales et ethniques lors d'un [140]processus de
+   français déclaraient avoir été [138]victimes ou témoins de racisme au
+   travail (Étude « [139]Diversité et inclusion 2019 » ). Conjointement,
+   23 % de répondants déclarent avoir été témoins ou [140]victimes de
+   discriminations raciales et ethniques lors d'un [141]processus de
    recrutement, et la même proportion (24 %) lors d'une promotion, soit
    près d'un quart des répondants.
 
    Interrogés sur les conséquences professionnelles de ces
-   [141]discriminations, plus de deux tiers des répondants (68 %),
+   [142]discriminations, plus de deux tiers des répondants (68 %),
    estiment que les opportunités de carrière des employés sont affectées
    par la discrimination raciale et ethnique.
 
@@ -213,7 +215,7 @@ Les efforts des employeurs remarqués
    leur entreprise fait « suffisamment » d'efforts pour employer des
    personnes d'origines diverses à des postes managériaux (contre 75 %
    pour tous les postes confondus). Dans le détail, 61 % des répondants
-   pensent que leur employeur se préoccupe de [142]la diversité et de
+   pensent que leur employeur se préoccupe de [143]la diversité et de
    l'inclusion, et 47 % qu'il communique davantage sur les efforts
    déployés pour améliorer la diversité et l'inclusion en comparaison à 12
    mois plus tôt.
@@ -226,7 +228,7 @@ Un plus grand écart de salaire lié à l'origine ethnique
    diminuer les écarts de salaire liés à l'origine ethnique. 29 % des
    personnes interrogées considéraient que l'écart s'était élargi pendant
    la crise de la covid, et plus de la moitié (52 %) pensait que davantage
-   de [143]transparence salariale pourrait aider à combler cet écart. Des
+   de [144]transparence salariale pourrait aider à combler cet écart. Des
    chiffres qui ne sont pas anodins et montrent qu'il reste encore
    beaucoup à faire selon Lauren Thomas, économiste chez Glassdoor qui a
    déclaré : « Dans un contexte bien connu de pénurie de talents, il est
@@ -252,32 +254,32 @@ d'inclusion
        auprès de 1 000 employés français âgés de plus de 18 ans et
        salariés à temps plein.
 
-   [144]Peggy Baron
+   [145]Peggy Baron
      *
      *
      *
      *
 
-   [145]premium2 premium2
+   [146]premium2 premium2
 
    À lire aussi
 
-   [146]Le chiffre 2,3 sur fond rose avec deux filles de chaque côté Le
+   [147]Le chiffre 2,3 sur fond rose avec deux filles de chaque côté Le
    chiffre 2,3 sur fond rose avec deux filles de chaque côté
 
-[147]En 2035, les Français occuperont en moyenne 2,3 emplois
+[148]En 2035, les Français occuperont en moyenne 2,3 emplois
 
-   [148]Un jeune homme noir allongé sur son lit entouré d'objets Un jeune
+   [149]Un jeune homme noir allongé sur son lit entouré d'objets Un jeune
    homme noir allongé sur son lit entouré d'objets
 
-[149]Moins de diplômes, carrière fluide, système-potes... que cherchent les Z
+[150]Moins de diplômes, carrière fluide, système-potes... que cherchent les Z
 dans leur vie professionnelle ?
 
    commentaires
 
    Participer à la conversation
 
-Laisser un commentaire [150]Annuler la réponse
+Laisser un commentaire [151]Annuler la réponse
 
    Votre adresse e-mail ne sera pas publiée.
 
@@ -299,15 +301,15 @@ Laisser un commentaire [150]Annuler la réponse
    mon prochain commentaire.
    (BUTTON) Envoyer
 
-   [151]premium2 premium2
+   [152]premium2 premium2
 
    Ces articles pourraient vous intéresser Ces articles pourraient vous
    intéresser
 
-   [152]Beyoncé Beyoncé
-   [153]L'Actualité de L'ADN [154]News
+   [153]Beyoncé Beyoncé
+   [154]L'Actualité de L'ADN [155]News
 
-[155]Le nouveau single de Beyoncé « Break My Soul » salué comme l'hymne de la
+[156]Le nouveau single de Beyoncé « Break My Soul » salué comme l'hymne de la
 Grande Résignation
 
      *
@@ -316,12 +318,12 @@ Grande Résignation
 
    Le 22 juin 2022
 
-   [156]Femme dormant sur son bureau de travail, avec des post-it imitant
+   [157]Femme dormant sur son bureau de travail, avec des post-it imitant
    les yeux ouverts Femme dormant sur son bureau de travail, avec des
    post-it imitant les yeux ouverts
-   [157]L'Actualité de L'ADN [158]News
+   [158]L'Actualité de L'ADN [159]News
 
-[159]Sommeil : les Français veulent faire la sieste au boulot
+[160]Sommeil : les Français veulent faire la sieste au boulot
 
      *
      *
@@ -329,10 +331,10 @@ Grande Résignation
 
    Le 5 octobre 2022
 
-   [160]Bureau de travail Bureau de travail
-   [161]L'Actualité de L'ADN [162]News
+   [161]Bureau de travail Bureau de travail
+   [162]L'Actualité de L'ADN [163]News
 
-[163]Étude : 37 % des actifs sont proches du « quiet quitting »
+[164]Étude : 37 % des actifs sont proches du « quiet quitting »
 
      *
      *
@@ -340,14 +342,14 @@ Grande Résignation
 
    Le 2 novembre 2022
 
-   [164][svg%3E] [couvs.jpg]
+   [165][svg%3E] [couvs.jpg]
 
 Je commande la revue n°31 de L'ADN
 
 Abonnez-vous à la revue
 
    [svg%3E] [filet-rose.png]
-   [165]Commander
+   [166]Commander
 
    Tous les jours sur le web et chaque trimestre en format revue, L'ADN
    décrypte les tendances & les mutations de nos sociétés. Signaux
@@ -366,46 +368,46 @@ Abonnez-vous à la revue
 
 Nos amis
 
-     * [166]China connect
-     * [167]Festival Atmosphères
-     * [168]hello tomorrow
-     * [169]Les Napoléons
-     * [170]One to One Biarritz
-     * [171]Scopitone
-     * [172]solidays
-     * [173]Les Universités d'été de l'économie de demain
-     * [174]Virtuality
-     * [175]VIVATECH PARIS
-     * [176]We love green
+     * [167]China connect
+     * [168]Festival Atmosphères
+     * [169]hello tomorrow
+     * [170]Les Napoléons
+     * [171]One to One Biarritz
+     * [172]Scopitone
+     * [173]solidays
+     * [174]Les Universités d'été de l'économie de demain
+     * [175]Virtuality
+     * [176]VIVATECH PARIS
+     * [177]We love green
 
 Nos produits
 
-     * [177]Le livre des tendances
-     * [178]La revue
+     * [178]Le livre des tendances
+     * [179]La revue
 
 Nos médias
 
-     * [179]Actu des tendances
-     * [180]Tendances par secteur
-     * [181]L'ADN business
+     * [180]Actu des tendances
+     * [181]Tendances par secteur
+     * [182]L'ADN business
 
 Nos offres
 
-     * [182]data
-     * [183]Le shift
+     * [183]data
+     * [184]Le shift
 
 Plus loin...
 
-     * [184]L'ADN groupe
-     * [185]Nous contacter
-     * [186]L'équipe
-     * [187]Mentions légales
+     * [185]L'ADN groupe
+     * [186]Nous contacter
+     * [187]L'équipe
+     * [188]Mentions légales
 
    Gérer le consentement aux cookies
    Nous utilisons des cookies et utilisons des informations de votre
    appareil pour améliorer votre expérience sur le site et à des fins
    d'analyse d'audience. Vous pouvez accepter ou refuser ces opérations.
-   Consultez le détail des cookies utilisés dans notre [188]Politique de
+   Consultez le détail des cookies utilisés dans notre [189]Politique de
    cookies
    Techniques
    [ ] Techniques
@@ -436,11 +438,11 @@ Plus loin...
    d'utilisateurs afin d'envoyer des publicités, ou pour suivre
    l'utilisateur sur un site web ou sur plusieurs sites web ayant des
    finalités marketing similaires.
-   [189]Gérer les options [190]Manage services [191]Gérer les fournisseurs
-   [192]En savoir plus sur ces finalités
+   [190]Gérer les options [191]Manage services [192]Gérer les fournisseurs
+   [193]En savoir plus sur ces finalités
    (BUTTON) Tout accepter (BUTTON) Tout refuser (BUTTON) Configurer
-   (BUTTON) Valider [193]Configurer
-   [194]{title} [195]{title} [196]{title}
+   (BUTTON) Valider [194]Configurer
+   [195]{title} [196]{title} [197]{title}
 
    (BUTTON) Gérer le consentement
 
@@ -452,226 +454,227 @@ References
    3. https://www.ladn.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F
    4. https://www.ladn.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F&format=xml
    5. https://boutique.ladn.eu/produit/le-livre-des-tendances-2023/
-   6. https://www.ladn.eu/
+   6. https://partner.canva.com/c/3645610/1546515/10068
    7. https://www.ladn.eu/
    8. https://www.ladn.eu/
-   9. https://www.ladn.eu/nouveaux-usages/
-  10. https://www.ladn.eu/tech-a-suivre/
-  11. https://www.ladn.eu/entreprises-innovantes/
-  12. https://www.ladn.eu/nouvelle-economie/
-  13. https://www.ladn.eu/mondes-creatifs/
-  14. https://www.ladn.eu/media-mutants/
-  15. https://www.ladn.eu/actualite/
-  16. https://demain.ladn.eu/
-  17. https://demain.ladn.eu/secteurs/
-  18. https://demain.ladn.eu/les-partenaires/
-  19. https://demain.ladn.eu/le-manifeste/
-  20. https://demain.ladn.eu/contact/
-  21. https://business.ladn.eu/
-  22. https://business.ladn.eu/news-business/
-  23. https://business.ladn.eu/experts-metiers/rse/
-  24. https://business.ladn.eu/experts-metiers/management-rh/
-  25. https://business.ladn.eu/experts-metiers/tech-for-business/
-  26. https://business.ladn.eu/experts-metiers/commercial/
-  27. https://business.ladn.eu/experts-metiers/marketing-communication/
-  28. https://business.ladn.eu/experts-metiers/par-secteurs/
-  29. https://www.ladn.eu/transition/
+   9. https://www.ladn.eu/
+  10. https://www.ladn.eu/nouveaux-usages/
+  11. https://www.ladn.eu/tech-a-suivre/
+  12. https://www.ladn.eu/entreprises-innovantes/
+  13. https://www.ladn.eu/nouvelle-economie/
+  14. https://www.ladn.eu/mondes-creatifs/
+  15. https://www.ladn.eu/media-mutants/
+  16. https://www.ladn.eu/actualite/
+  17. https://demain.ladn.eu/
+  18. https://demain.ladn.eu/secteurs/
+  19. https://demain.ladn.eu/les-partenaires/
+  20. https://demain.ladn.eu/le-manifeste/
+  21. https://demain.ladn.eu/contact/
+  22. https://business.ladn.eu/
+  23. https://business.ladn.eu/news-business/
+  24. https://business.ladn.eu/experts-metiers/rse/
+  25. https://business.ladn.eu/experts-metiers/management-rh/
+  26. https://business.ladn.eu/experts-metiers/tech-for-business/
+  27. https://business.ladn.eu/experts-metiers/commercial/
+  28. https://business.ladn.eu/experts-metiers/marketing-communication/
+  29. https://business.ladn.eu/experts-metiers/par-secteurs/
   30. https://www.ladn.eu/transition/
-  31. https://www.ladn.eu/les-cahiers-du-shift/
-  32. https://www.ladn.eu/ladn-shift/
-  33. https://www.ladn.eu/ladn-studio/
+  31. https://www.ladn.eu/transition/
+  32. https://www.ladn.eu/les-cahiers-du-shift/
+  33. https://www.ladn.eu/ladn-shift/
   34. https://www.ladn.eu/ladn-studio/
-  35. https://www.ladn.eu/ladn-studio/ladn-studio-detecter-les-tendances/
-  36. https://www.ladn.eu/ladn-studio/ladn-studio-mettre-en-recit/
-  37. https://www.ladn.eu/ladn-studio/ladn-studio-faire-connaitre/
-  38. https://www.ladn.eu/ladn-studio/ladn-studio-se-former/
-  39. https://www.ladn.eu/ladn-shift/
+  35. https://www.ladn.eu/ladn-studio/
+  36. https://www.ladn.eu/ladn-studio/ladn-studio-detecter-les-tendances/
+  37. https://www.ladn.eu/ladn-studio/ladn-studio-mettre-en-recit/
+  38. https://www.ladn.eu/ladn-studio/ladn-studio-faire-connaitre/
+  39. https://www.ladn.eu/ladn-studio/ladn-studio-se-former/
   40. https://www.ladn.eu/ladn-shift/
-  41. https://www.ladn.eu/ladn-shift/devenez-membre-de-ladn-shift/
-  42. https://www.ladn.eu/ladn-shift/les-membres-de-ladn-shift/
-  43. https://www.ladn.eu/ladn-shift/etes-vous-un-entre-eux/
-  44. https://resonances.ladn.eu/
-  45. https://www.ladn.eu/ladn-dance-lab/
+  41. https://www.ladn.eu/ladn-shift/
+  42. https://www.ladn.eu/ladn-shift/devenez-membre-de-ladn-shift/
+  43. https://www.ladn.eu/ladn-shift/les-membres-de-ladn-shift/
+  44. https://www.ladn.eu/ladn-shift/etes-vous-un-entre-eux/
+  45. https://resonances.ladn.eu/
   46. https://www.ladn.eu/ladn-dance-lab/
-  47. https://www.ladn.eu/ladn-dance-lab/ladn-dance-edition-2021/
-  48. https://www.ladn.eu/ladn-dance-lab/edition-2020/
-  49. https://www.ladn.eu/ladn-dance-lab/artistes-penseurs/
-  50. https://www.ladn.eu/ladn-dance-lab/lequipe-de-ladn-dance/
-  51. https://theatre-chaillot.fr/fr/ladn-dance-living-lab/
-  52. https://data.ladn.eu/
-  53. https://boutique.ladn.eu/
-  54. https://boutique.ladn.eu/boutique/
-  55. https://boutique.ladn.eu/le-livre-des-tendances/
-  56. https://boutique.ladn.eu/
-  57. https://boutique.ladn.eu/panier/
-  58. https://www.ladn.eu/qui-sommes-nous/
+  47. https://www.ladn.eu/ladn-dance-lab/
+  48. https://www.ladn.eu/ladn-dance-lab/ladn-dance-edition-2021/
+  49. https://www.ladn.eu/ladn-dance-lab/edition-2020/
+  50. https://www.ladn.eu/ladn-dance-lab/artistes-penseurs/
+  51. https://www.ladn.eu/ladn-dance-lab/lequipe-de-ladn-dance/
+  52. https://theatre-chaillot.fr/fr/ladn-dance-living-lab/
+  53. https://data.ladn.eu/
+  54. https://boutique.ladn.eu/
+  55. https://boutique.ladn.eu/boutique/
+  56. https://boutique.ladn.eu/le-livre-des-tendances/
+  57. https://boutique.ladn.eu/
+  58. https://boutique.ladn.eu/panier/
   59. https://www.ladn.eu/qui-sommes-nous/
-  60. https://www.ladn.eu/nos-valeurs/
-  61. https://www.ladn.eu/nos-engagements/
-  62. https://www.ladn.eu/equipe/
-  63. https://www.ladn.eu/nous-contacter/
-  64. https://www.ladn.eu/
+  60. https://www.ladn.eu/qui-sommes-nous/
+  61. https://www.ladn.eu/nos-valeurs/
+  62. https://www.ladn.eu/nos-engagements/
+  63. https://www.ladn.eu/equipe/
+  64. https://www.ladn.eu/nous-contacter/
   65. https://www.ladn.eu/
-  66. https://demain.ladn.eu/
-  67. https://business.ladn.eu/
-  68. https://www.ladn.eu/transition/
-  69. https://www.ladn.eu/ladn-studio/
-  70. https://www.ladn.eu/ladn-shift/
-  71. https://www.ladn.eu/ladn-dance-lab/
-  72. https://data.ladn.eu/
-  73. https://boutique.ladn.eu/
-  74. https://www.ladn.eu/qui-sommes-nous/
-  75. https://www.ladn.eu/
-  76. https://www.ladn.eu/nouveaux-usages/
-  77. https://www.ladn.eu/nouveaux-usages/etude-marketing/
-  78. https://www.ladn.eu/nouveaux-usages/usages-et-style-de-vie/
-  79. https://www.ladn.eu/nouveaux-usages/usages-par-generation/
-  80. https://www.ladn.eu/nouveaux-usages/usages-par-genre/
-  81. https://www.ladn.eu/nouveaux-usages/close-to-z-comprendre-generation-z/
-  82. https://www.ladn.eu/nouveaux-usages/pouvoirs-du-son/
-  83. https://www.ladn.eu/tech-a-suivre/
-  84. https://www.ladn.eu/tech-a-suivre/biotech/
-  85. https://www.ladn.eu/tech-a-suivre/blockchain/
-  86. https://www.ladn.eu/tech-a-suivre/data-big-et-smart/
-  87. https://www.ladn.eu/tech-a-suivre/ia-machine-learning-iot/
-  88. https://www.ladn.eu/tech-a-suivre/robotique-homme-augmente/
-  89. https://www.ladn.eu/tech-a-suivre/decryptologie/
-  90. https://www.ladn.eu/tech-a-suivre/repenser-mobilite/
-  91. https://www.ladn.eu/tech-a-suivre/sinspirer-de-lavenir/
-  92. https://www.ladn.eu/tech-a-suivre/vers-le-web3-et-au-dela/
-  93. https://www.ladn.eu/entreprises-innovantes/
-  94. https://www.ladn.eu/entreprises-innovantes/case-study/
-  95. https://www.ladn.eu/entreprises-innovantes/ux-et-experience-clients/
-  96. https://www.ladn.eu/entreprises-innovantes/marques-engagees/
-  97. https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/
-  98. https://www.ladn.eu/entreprises-innovantes/parole-expert/
-  99. https://www.ladn.eu/entreprises-innovantes/transparence/
- 100. https://www.ladn.eu/entreprises-innovantes/futur-du-dialogue-social/
- 101. https://www.ladn.eu/entreprises-innovantes/le-numerique-au-service-du-bien-commun/
- 102. https://www.ladn.eu/entreprises-innovantes/re-corp/
- 103. https://www.ladn.eu/entreprises-innovantes/un-pacte-pour-demain/
- 104. https://www.ladn.eu/nouvelle-economie/
- 105. https://www.ladn.eu/mondes-creatifs/
- 106. https://www.ladn.eu/mondes-creatifs/architecture-ville-futur/
- 107. https://www.ladn.eu/mondes-creatifs/art-numerique/
- 108. https://www.ladn.eu/mondes-creatifs/realites-alternatives/
- 109. https://www.ladn.eu/mondes-creatifs/top-des-pubs/
- 110. https://www.ladn.eu/mondes-creatifs/art-entreprises-societe/
- 111. https://www.ladn.eu/mondes-creatifs/jeunes-creations/
- 112. https://www.ladn.eu/mondes-creatifs/modernite-modernite/
- 113. https://www.ladn.eu/mondes-creatifs/sustainable-design/
- 114. https://www.ladn.eu/media-mutants/
- 115. https://www.ladn.eu/media-mutants/brand-content/
- 116. https://www.ladn.eu/media-mutants/case-study-media/
- 117. https://www.ladn.eu/media-mutants/presse-et-nouvelles-ecritures/
- 118. https://www.ladn.eu/media-mutants/radio-et-son/
- 119. https://www.ladn.eu/media-mutants/reseaux-sociaux/
- 120. https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/
- 121. https://www.ladn.eu/media-mutants/feminites-prisma/
- 122. https://www.ladn.eu/media-mutants/youtube-scan/
- 123. https://www.ladn.eu/actualite/
- 124. https://www.ladn.eu/tag/emploi/
- 125. https://www.ladn.eu/tag/entreprises/
- 126. https://www.ladn.eu/tag/inclusion/
- 127. https://www.ladn.eu/tag/monde-du-travail/
- 128. https://www.ladn.eu/tag/travail/
- 129. https://www.ladn.eu/author/peggy/
- 130. https://www.ladn.eu/
- 131. https://www.ladn.eu/actualite/
- 132. https://www.glassdoor.com/research/the-pandemic-hasnt-changed-what-matters-most-to-employees/
- 133. https://www.ladn.eu/actualite/royaume-uni-teste-semaine-4-jours-travail/
- 134. https://www.ladn.eu/nouveaux-usages/etude-marketing/les-salaries-francais-ne-sont-pas-tres-sensibles-aux-inegalites-de-salaire/
- 135. https://www.glassdoor.fr/blog/combattre-racisme-au-travail/
- 136. https://www.ladn.eu/actualite/algorithme-recrutement-garantie-lutte-contre-discriminations-embauche/
- 137. https://www.ladn.eu/entreprises-innovantes/marques-engagees/newsjacking-george-floyd-antiracisme-hypocrites/
- 138. https://about-content.glassdoor.com/app/uploads/sites/2/2019/10/Glassdoor-Diversity-Survey-Supplement-1.pdf?_gl=1*1xslq9q*_ga*NDg2ODEwMzk3LjE2NjQyMDg2ODU.*_ga_RC95PMVB3H*MTY2NDIwODY4NC4xLjAuMTY2NDIwODY4NC42MC4wLjA.
- 139. https://www.ladn.eu/actualite/linkedin-accusation-discrimination-femmes-amende/
- 140. https://www.ladn.eu/usages-at-work/pour-recruter-gen-z-faudra-passer-tiktok/
- 141. https://www.ladn.eu/media-mutants/reseaux-sociaux/sexisme-racisme-industrie-jeu-video-qui-faute/
- 142. https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/diversite-entreprise-pas-si-bonne-idee/
- 143. https://www.ladn.eu/nouveaux-usages/etude-marketing/etude-transparence-salaire-entreprise/
- 144. https://www.ladn.eu/author/peggy/
- 145. https://boutique.ladn.eu/produit/le-livre-des-tendances-2023/
- 146. https://www.ladn.eu/nouveaux-usages/en-2035-les-francais-occuperont-en-moyenne-23-emplois/
+  66. https://www.ladn.eu/
+  67. https://demain.ladn.eu/
+  68. https://business.ladn.eu/
+  69. https://www.ladn.eu/transition/
+  70. https://www.ladn.eu/ladn-studio/
+  71. https://www.ladn.eu/ladn-shift/
+  72. https://www.ladn.eu/ladn-dance-lab/
+  73. https://data.ladn.eu/
+  74. https://boutique.ladn.eu/
+  75. https://www.ladn.eu/qui-sommes-nous/
+  76. https://www.ladn.eu/
+  77. https://www.ladn.eu/nouveaux-usages/
+  78. https://www.ladn.eu/nouveaux-usages/etude-marketing/
+  79. https://www.ladn.eu/nouveaux-usages/usages-et-style-de-vie/
+  80. https://www.ladn.eu/nouveaux-usages/usages-par-generation/
+  81. https://www.ladn.eu/nouveaux-usages/usages-par-genre/
+  82. https://www.ladn.eu/nouveaux-usages/close-to-z-comprendre-generation-z/
+  83. https://www.ladn.eu/nouveaux-usages/pouvoirs-du-son/
+  84. https://www.ladn.eu/tech-a-suivre/
+  85. https://www.ladn.eu/tech-a-suivre/biotech/
+  86. https://www.ladn.eu/tech-a-suivre/blockchain/
+  87. https://www.ladn.eu/tech-a-suivre/data-big-et-smart/
+  88. https://www.ladn.eu/tech-a-suivre/ia-machine-learning-iot/
+  89. https://www.ladn.eu/tech-a-suivre/robotique-homme-augmente/
+  90. https://www.ladn.eu/tech-a-suivre/decryptologie/
+  91. https://www.ladn.eu/tech-a-suivre/repenser-mobilite/
+  92. https://www.ladn.eu/tech-a-suivre/sinspirer-de-lavenir/
+  93. https://www.ladn.eu/tech-a-suivre/vers-le-web3-et-au-dela/
+  94. https://www.ladn.eu/entreprises-innovantes/
+  95. https://www.ladn.eu/entreprises-innovantes/case-study/
+  96. https://www.ladn.eu/entreprises-innovantes/ux-et-experience-clients/
+  97. https://www.ladn.eu/entreprises-innovantes/marques-engagees/
+  98. https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/
+  99. https://www.ladn.eu/entreprises-innovantes/parole-expert/
+ 100. https://www.ladn.eu/entreprises-innovantes/transparence/
+ 101. https://www.ladn.eu/entreprises-innovantes/futur-du-dialogue-social/
+ 102. https://www.ladn.eu/entreprises-innovantes/le-numerique-au-service-du-bien-commun/
+ 103. https://www.ladn.eu/entreprises-innovantes/re-corp/
+ 104. https://www.ladn.eu/entreprises-innovantes/un-pacte-pour-demain/
+ 105. https://www.ladn.eu/nouvelle-economie/
+ 106. https://www.ladn.eu/mondes-creatifs/
+ 107. https://www.ladn.eu/mondes-creatifs/architecture-ville-futur/
+ 108. https://www.ladn.eu/mondes-creatifs/art-numerique/
+ 109. https://www.ladn.eu/mondes-creatifs/realites-alternatives/
+ 110. https://www.ladn.eu/mondes-creatifs/top-des-pubs/
+ 111. https://www.ladn.eu/mondes-creatifs/art-entreprises-societe/
+ 112. https://www.ladn.eu/mondes-creatifs/jeunes-creations/
+ 113. https://www.ladn.eu/mondes-creatifs/modernite-modernite/
+ 114. https://www.ladn.eu/mondes-creatifs/sustainable-design/
+ 115. https://www.ladn.eu/media-mutants/
+ 116. https://www.ladn.eu/media-mutants/brand-content/
+ 117. https://www.ladn.eu/media-mutants/case-study-media/
+ 118. https://www.ladn.eu/media-mutants/presse-et-nouvelles-ecritures/
+ 119. https://www.ladn.eu/media-mutants/radio-et-son/
+ 120. https://www.ladn.eu/media-mutants/reseaux-sociaux/
+ 121. https://www.ladn.eu/media-mutants/tv-et-nouvelles-images/
+ 122. https://www.ladn.eu/media-mutants/feminites-prisma/
+ 123. https://www.ladn.eu/media-mutants/youtube-scan/
+ 124. https://www.ladn.eu/actualite/
+ 125. https://www.ladn.eu/tag/emploi/
+ 126. https://www.ladn.eu/tag/entreprises/
+ 127. https://www.ladn.eu/tag/inclusion/
+ 128. https://www.ladn.eu/tag/monde-du-travail/
+ 129. https://www.ladn.eu/tag/travail/
+ 130. https://www.ladn.eu/author/peggy/
+ 131. https://www.ladn.eu/
+ 132. https://www.ladn.eu/actualite/
+ 133. https://www.glassdoor.com/research/the-pandemic-hasnt-changed-what-matters-most-to-employees/
+ 134. https://www.ladn.eu/actualite/royaume-uni-teste-semaine-4-jours-travail/
+ 135. https://www.ladn.eu/nouveaux-usages/etude-marketing/les-salaries-francais-ne-sont-pas-tres-sensibles-aux-inegalites-de-salaire/
+ 136. https://www.glassdoor.fr/blog/combattre-racisme-au-travail/
+ 137. https://www.ladn.eu/actualite/algorithme-recrutement-garantie-lutte-contre-discriminations-embauche/
+ 138. https://www.ladn.eu/entreprises-innovantes/marques-engagees/newsjacking-george-floyd-antiracisme-hypocrites/
+ 139. https://about-content.glassdoor.com/app/uploads/sites/2/2019/10/Glassdoor-Diversity-Survey-Supplement-1.pdf?_gl=1*1xslq9q*_ga*NDg2ODEwMzk3LjE2NjQyMDg2ODU.*_ga_RC95PMVB3H*MTY2NDIwODY4NC4xLjAuMTY2NDIwODY4NC42MC4wLjA.
+ 140. https://www.ladn.eu/actualite/linkedin-accusation-discrimination-femmes-amende/
+ 141. https://www.ladn.eu/usages-at-work/pour-recruter-gen-z-faudra-passer-tiktok/
+ 142. https://www.ladn.eu/media-mutants/reseaux-sociaux/sexisme-racisme-industrie-jeu-video-qui-faute/
+ 143. https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/diversite-entreprise-pas-si-bonne-idee/
+ 144. https://www.ladn.eu/nouveaux-usages/etude-marketing/etude-transparence-salaire-entreprise/
+ 145. https://www.ladn.eu/author/peggy/
+ 146. https://forms.office.com/e/b2c9aShdRS
  147. https://www.ladn.eu/nouveaux-usages/en-2035-les-francais-occuperont-en-moyenne-23-emplois/
- 148. https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/diplome-carriere-systeme-generation-z-vie-professionnelle/
+ 148. https://www.ladn.eu/nouveaux-usages/en-2035-les-francais-occuperont-en-moyenne-23-emplois/
  149. https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/diplome-carriere-systeme-generation-z-vie-professionnelle/
- 150. https://www.ladn.eu/actualite/discrimination-raciale-ethiques-entreprises-francaises/#respond
- 151. https://boutique.ladn.eu/produit/le-livre-des-tendances-2023/
- 152. https://www.ladn.eu/actualite/beyonce-break-my-soul-hymne-grande-resignation-demission/
- 153. https://www.ladn.eu/actualite/
- 154. https://www.ladn.eu/format_article/news/
- 155. https://www.ladn.eu/actualite/beyonce-break-my-soul-hymne-grande-resignation-demission/
- 156. https://www.ladn.eu/actualite/francais-probleme-sommeil-impact-travail-coronavirus/
- 157. https://www.ladn.eu/actualite/
- 158. https://www.ladn.eu/format_article/news/
- 159. https://www.ladn.eu/actualite/francais-probleme-sommeil-impact-travail-coronavirus/
- 160. https://www.ladn.eu/actualite/tendance-phenomene-quiet-quitting-demission-silencieuse-france/
- 161. https://www.ladn.eu/actualite/
- 162. https://www.ladn.eu/format_article/news/
- 163. https://www.ladn.eu/actualite/tendance-phenomene-quiet-quitting-demission-silencieuse-france/
- 164. https://boutique.ladn.eu/produit/les-annees-molles/
+ 150. https://www.ladn.eu/entreprises-innovantes/nouvelles-gouvernances/diplome-carriere-systeme-generation-z-vie-professionnelle/
+ 151. https://www.ladn.eu/actualite/discrimination-raciale-ethiques-entreprises-francaises/#respond
+ 152. https://forms.office.com/e/b2c9aShdRS
+ 153. https://www.ladn.eu/actualite/beyonce-break-my-soul-hymne-grande-resignation-demission/
+ 154. https://www.ladn.eu/actualite/
+ 155. https://www.ladn.eu/format_article/news/
+ 156. https://www.ladn.eu/actualite/beyonce-break-my-soul-hymne-grande-resignation-demission/
+ 157. https://www.ladn.eu/actualite/francais-probleme-sommeil-impact-travail-coronavirus/
+ 158. https://www.ladn.eu/actualite/
+ 159. https://www.ladn.eu/format_article/news/
+ 160. https://www.ladn.eu/actualite/francais-probleme-sommeil-impact-travail-coronavirus/
+ 161. https://www.ladn.eu/actualite/tendance-phenomene-quiet-quitting-demission-silencieuse-france/
+ 162. https://www.ladn.eu/actualite/
+ 163. https://www.ladn.eu/format_article/news/
+ 164. https://www.ladn.eu/actualite/tendance-phenomene-quiet-quitting-demission-silencieuse-france/
  165. https://boutique.ladn.eu/produit/les-annees-molles/
- 166. http://www.chinaconnect.fr/
- 167. https://www.atmospheresfestival.com/
- 168. https://hello-tomorrow.org/
- 169. http://lesnapoleons.com/
- 170. https://www.one-to-one-biarritz.com/
- 171. https://www.stereolux.org/scopitone-2021
- 172. http://www.solidays.org/
- 173. https://www.ueed2021.com/index
- 174. http://www.virtuality-paris.com/
- 175. http://www.vivatechnologyparis.com/
- 176. http://www.welovegreen.fr/
- 177. https://boutique.ladn.eu/le-livre-des-tendances/
- 178. https://boutique.ladn.eu/boutique/
- 179. https://www.ladn.eu/
- 180. https://demain.ladn.eu/
- 181. https://business.ladn.eu/
- 182. http://www.ladn-data.eu/
- 183. https://www.ladn.eu/ladn-shift/
- 184. https://www.ladn.eu/qui-sommes-nous/
- 185. https://www.ladn.eu/nous-contacter/
- 186. https://www.ladn.eu/equipe/
- 187. https://www.ladn.eu/mentions-legales/
- 188. https://www.ladn.eu/politique-de-cookies-eu/
- 189. https://www.ladn.eu/actualite/discrimination-raciale-ethiques-entreprises-francaises/
+ 166. https://boutique.ladn.eu/produit/les-annees-molles/
+ 167. http://www.chinaconnect.fr/
+ 168. https://www.atmospheresfestival.com/
+ 169. https://hello-tomorrow.org/
+ 170. http://lesnapoleons.com/
+ 171. https://www.one-to-one-biarritz.com/
+ 172. https://www.stereolux.org/scopitone-2021
+ 173. http://www.solidays.org/
+ 174. https://www.ueed2021.com/index
+ 175. http://www.virtuality-paris.com/
+ 176. http://www.vivatechnologyparis.com/
+ 177. http://www.welovegreen.fr/
+ 178. https://boutique.ladn.eu/le-livre-des-tendances/
+ 179. https://boutique.ladn.eu/boutique/
+ 180. https://www.ladn.eu/
+ 181. https://demain.ladn.eu/
+ 182. https://business.ladn.eu/
+ 183. http://www.ladn-data.eu/
+ 184. https://www.ladn.eu/ladn-shift/
+ 185. https://www.ladn.eu/qui-sommes-nous/
+ 186. https://www.ladn.eu/nous-contacter/
+ 187. https://www.ladn.eu/equipe/
+ 188. https://www.ladn.eu/mentions-legales/
+ 189. https://www.ladn.eu/politique-de-cookies-eu/
  190. https://www.ladn.eu/actualite/discrimination-raciale-ethiques-entreprises-francaises/
  191. https://www.ladn.eu/actualite/discrimination-raciale-ethiques-entreprises-francaises/
- 192. https://cookiedatabase.org/tcf/purposes/
- 193. https://www.ladn.eu/actualite/discrimination-raciale-ethiques-entreprises-francaises/
+ 192. https://www.ladn.eu/actualite/discrimination-raciale-ethiques-entreprises-francaises/
+ 193. https://cookiedatabase.org/tcf/purposes/
  194. https://www.ladn.eu/actualite/discrimination-raciale-ethiques-entreprises-francaises/
  195. https://www.ladn.eu/actualite/discrimination-raciale-ethiques-entreprises-francaises/
  196. https://www.ladn.eu/actualite/discrimination-raciale-ethiques-entreprises-francaises/
+ 197. https://www.ladn.eu/actualite/discrimination-raciale-ethiques-entreprises-francaises/
 
    Hidden links:
- 198. https://www.facebook.com/ladn.eu
- 199. https://twitter.com/LADN_EU
- 200. https://www.linkedin.com/company/9424705
- 201. https://www.instagram.com/ladneu/
- 202. https://www.youtube.com/channel/UCyHOlcBwuieomyZEVsZZS7A
- 203. https://flipboard.com/@ladneu
- 204. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F
- 205. https://twitter.com/share?text=Entreprises%C2%A0%3A%20%20pour%2068%20%25%20des%20Fran%C3%A7ais%2C%20les%20discriminations%20raciales%20impactent%20les%20carri%C3%A8res&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F&via=LADN_EU
- 206. https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F&source=L%27ADN
- 207. https://flipboard.com/?url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F
- 208. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F
- 209. https://twitter.com/share?text=Entreprises%C2%A0%3A%20%20pour%2068%20%25%20des%20Fran%C3%A7ais%2C%20les%20discriminations%20raciales%20impactent%20les%20carri%C3%A8res&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F&via=LADN_EU
- 210. https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F&source=L%27ADN
- 211. https://flipboard.com/?url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F
- 212. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fbeyonce-break-my-soul-hymne-grande-resignation-demission%2F
- 213. https://twitter.com/share?text=Le%20nouveau%20single%20de%20Beyonc%C3%A9%20%20%C2%AB%C2%A0Break%20My%20Soul%C2%A0%C2%BB%20%20salu%C3%A9%20comme%20l%27hymne%20de%20la%20Grande%20R%C3%A9signation&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fbeyonce-break-my-soul-hymne-grande-resignation-demission%2F&via=LADN_EU
- 214. https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fbeyonce-break-my-soul-hymne-grande-resignation-demission%2F&source=L%27ADN
- 215. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Ffrancais-probleme-sommeil-impact-travail-coronavirus%2F
- 216. https://twitter.com/share?text=Sommeil%C2%A0%3A%20%20les%20Fran%C3%A7ais%20veulent%20faire%20la%20sieste%20au%20boulot&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Ffrancais-probleme-sommeil-impact-travail-coronavirus%2F&via=LADN_EU
- 217. https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Ffrancais-probleme-sommeil-impact-travail-coronavirus%2F&source=L%27ADN
- 218. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Ftendance-phenomene-quiet-quitting-demission-silencieuse-france%2F
- 219. https://twitter.com/share?text=%C3%89tude%C2%A0%3A%20%2037%20%25%20des%20actifs%20sont%20proches%20du%20%20%C2%AB%C2%A0quiet%20quitting%C2%A0%C2%BB%20&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Ftendance-phenomene-quiet-quitting-demission-silencieuse-france%2F&via=LADN_EU
- 220. https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Ftendance-phenomene-quiet-quitting-demission-silencieuse-france%2F&source=L%27ADN
- 221. https://www.facebook.com/ladn.eu
- 222. https://twitter.com/LADN_EU
- 223. https://www.linkedin.com/company/9424705
- 224. https://www.instagram.com/ladneu/
- 225. https://www.youtube.com/channel/UCyHOlcBwuieomyZEVsZZS7A
- 226. https://flipboard.com/@ladneu
- 227. https://www.ladn.eu/actualite/discrimination-raciale-ethiques-entreprises-francaises/#scrollToTop
+ 199. https://www.facebook.com/ladn.eu
+ 200. https://twitter.com/LADN_EU
+ 201. https://www.linkedin.com/company/9424705
+ 202. https://www.instagram.com/ladneu/
+ 203. https://www.youtube.com/channel/UCyHOlcBwuieomyZEVsZZS7A
+ 204. https://flipboard.com/@ladneu
+ 205. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F
+ 206. https://twitter.com/share?text=Entreprises%C2%A0%3A%20%20pour%2068%20%25%20des%20Fran%C3%A7ais%2C%20les%20discriminations%20raciales%20impactent%20les%20carri%C3%A8res&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F&via=LADN_EU
+ 207. https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F&source=L%27ADN
+ 208. https://flipboard.com/?url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F
+ 209. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F
+ 210. https://twitter.com/share?text=Entreprises%C2%A0%3A%20%20pour%2068%20%25%20des%20Fran%C3%A7ais%2C%20les%20discriminations%20raciales%20impactent%20les%20carri%C3%A8res&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F&via=LADN_EU
+ 211. https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F&source=L%27ADN
+ 212. https://flipboard.com/?url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fdiscrimination-raciale-ethiques-entreprises-francaises%2F
+ 213. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fbeyonce-break-my-soul-hymne-grande-resignation-demission%2F
+ 214. https://twitter.com/share?text=Le%20nouveau%20single%20de%20Beyonc%C3%A9%20%20%C2%AB%C2%A0Break%20My%20Soul%C2%A0%C2%BB%20%20salu%C3%A9%20comme%20l%27hymne%20de%20la%20Grande%20R%C3%A9signation&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fbeyonce-break-my-soul-hymne-grande-resignation-demission%2F&via=LADN_EU
+ 215. https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Fbeyonce-break-my-soul-hymne-grande-resignation-demission%2F&source=L%27ADN
+ 216. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Ffrancais-probleme-sommeil-impact-travail-coronavirus%2F
+ 217. https://twitter.com/share?text=Sommeil%C2%A0%3A%20%20les%20Fran%C3%A7ais%20veulent%20faire%20la%20sieste%20au%20boulot&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Ffrancais-probleme-sommeil-impact-travail-coronavirus%2F&via=LADN_EU
+ 218. https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Ffrancais-probleme-sommeil-impact-travail-coronavirus%2F&source=L%27ADN
+ 219. https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Ftendance-phenomene-quiet-quitting-demission-silencieuse-france%2F
+ 220. https://twitter.com/share?text=%C3%89tude%C2%A0%3A%20%2037%20%25%20des%20actifs%20sont%20proches%20du%20%20%C2%AB%C2%A0quiet%20quitting%C2%A0%C2%BB%20&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Ftendance-phenomene-quiet-quitting-demission-silencieuse-france%2F&via=LADN_EU
+ 221. https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ladn.eu%2Factualite%2Ftendance-phenomene-quiet-quitting-demission-silencieuse-france%2F&source=L%27ADN
+ 222. https://www.facebook.com/ladn.eu
+ 223. https://twitter.com/LADN_EU
+ 224. https://www.linkedin.com/company/9424705
+ 225. https://www.instagram.com/ladneu/
+ 226. https://www.youtube.com/channel/UCyHOlcBwuieomyZEVsZZS7A
+ 227. https://flipboard.com/@ladneu
+ 228. https://www.ladn.eu/actualite/discrimination-raciale-ethiques-entreprises-francaises/#scrollToTop
