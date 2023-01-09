@@ -88,7 +88,7 @@ Nous avons appris comment utiliser iTrameur et comment créer des nuages de mots
 * 24.11.2022 : J'ai rencontré quelques problèmes pour mettre à jour mon git à plusieurs reprises. J'ai donc décidé de le recloner pour faciliter mes ajouts par la suite.
 * Problème pour commiter a cause du divergence de branches.
 * Fichier .DS_STORE qui se créer seul à de multiples reprises.
-* Lorsque j'ai voulu faire la concaténation de mes fichiers dumps-texts avec le fichier itrameur.sh, celui-ci ne prenait pas en compte tous mes dumps-texts je pense que c'est parce qu'ils n'ont pas tous le même encodage mais je n'ai pas réussis a y remédier. J'ai alors créer le fichier manuellement, qui celui-ci sera utilisé pour les iTrameur graphes et nuage de mots.
+* Lorsque j'ai voulu faire la concaténation de mes fichiers dumps-texts avec le fichier itrameur.sh, celui-ci ne prenait pas en compte tous mes dumps-texts je pense que c'est parce qu'ils n'ont pas tous le même encodage mais je n'ai pas réussis a y remédier. J'ai alors créer le fichier manuellement, qui celui-ci sera utilisé pour les iTrameur graphes et nuage de mots. J'ai aussi du supprimer manuellement les mots vides tels que les propositions, conjonction... qui me permettrais de résultats plus optimal.
 * Un autre problème que j'ai pu rencontrer c'est lorsque j'ai fais la compte de mes occurrences, certains affichait 0 occurrences alors qu'il y'en avait. J'ai alors refais me recherche d'urls 3 fois.
 *
 
