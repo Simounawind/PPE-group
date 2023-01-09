@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
 #===============================================================================
-à modifier
+# Ce script traite mes URLs et ensuite, crée un tableau HTML avec chacun des URLs en sortie. J'utilise ce script dans le terminal afin de créer mon tableau.html. Pour mes URLs anglais, je vérifie bien de mettre "en" dans les lignes 78 à 81 pour que ces fichiers apparaissent dans le fichier anglais et non ceux de mes camarades. Voici la ligne de commande : 
+# bash base_tableaux_fichier_en.sh fichier_urls fichier_tableau.html
 #==============================================================================
 
 fichier_urls=$1 # le fichier d'URL en entrée
