@@ -2,6 +2,10 @@
 
 Dans le cadre du cours " Programmation et projet encadré 1 ", nous avons travaillé sur un projet dont le thème est : La vie multilingue des mots sur le web. Tout au long du semestre, nous avons constitué notre projet avec les connaissances apprises en cours lié au TAL : constitution de corpus, segmentation, extraction, nettoyage des textes, etc. En vous guidant sur notre site, vous découvrez nos démarches fait lors de la mise en place de notre projet et de ce site web.
 
+En vous guidant sur notre site, vous découvrez nos démarches fait lors de la mise en place de notre projet.
+=
+Sur notre site, vous pourrez y découvrir toutes les étapes effectués jusqu'aux résultats. Bonne découverte !
+
 ## choix du mot
 
 Dans les premiers jours de notre brainstorming, nous voulions étudier un mot qui a une grande importance, qui se manifeste chaque jour dans non seulement nos vies quotidiennes, mais dans le monde entier. Avec la possibilité d'étudier une multitude de contextes dans nos trois langues choisis : français, anglais et chinois. Nous avons alors examiné quelques sites internets afin de trouver des idées des mots qui apparaît souvent. Deux mots sont venus en tête : discrimination et racisme.
@@ -23,7 +27,7 @@ Désigne tout traitement défavorable d’une personne ou d’un groupe de perso
 - L’appartenance ou non-appartenance à une ethnie, une nation, une « race » ou une religion déterminée.
 
  **discrimination raciale**
- En France, la discrimination raciale a tendance à correspondre à une population dite "étrangère". Elle peut subvenir dans différents contextes comme dans la vie quotidienne, dans la recherche d'emploi, la recherche de logement, dans le système universitaire...
+ En France, la discrimination raciale a tendance à correspondre à une population dite "étrangère": elle s'adresse aux individus de couleurs Elle peut subvenir dans différents contextes comme dans la vie quotidienne, dans la recherche d'emploi, la recherche de logement, dans le système universitaire...
  **racial discrimination** en anglais
  L'histoire de l'Afrique du Sud
  **种族歧视** en chinois
