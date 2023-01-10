@@ -15,7 +15,7 @@ Nous avons choisi le mot "discrimination", plus spécifiquement "**discriminatio
 
 * En français, lors de la recherche pour spécifier mon syntagme j'ajoutais des guillemets comme ceci "discrimination raciale", cela permet de chercher les urls comportement ce syntagme. Néanmoins, le petit problème rencontré c'est que dans certaines urls, le syntagme était employé seulement dans le titre.
 
-* Au début, le contexte anglais que j'ai choisi d'étudier c'était celui de l'Afrique du Sud étant donné que mon pays a une histoire très important concernant ce sujet. En revanche, lorsque j'ai recherché des URLs, je n'ai pas trouvé assez d'occurrences pour pouvoir créer mon corpus. Ceci est dû au fait qu'en Afrique du Sud, il existe plusieurs synonymes du syntagme "racial discrimination". J'ai donc decidé de me baser sur l'anglais américain. J'ai utilisé les mêmes démarches pour chosir mes URLs - en recherchant le syntagme "racial discrimination".
+* Au début, le contexte anglais que j'ai choisi d'étudier c'était celui de l'Afrique du Sud étant donné que mon pays a une histoire très important concernant ce sujet. En revanche, lorsque j'ai recherché des URLs, je n'ai pas trouvé assez d'occurrences pour pouvoir créer mon corpus. Ceci est dû au fait qu'en Afrique du Sud, il existe plusieurs synonymes du syntagme "racial discrimination". J'ai donc décidé de me baser sur l'anglais américain. J'ai utilisé les mêmes démarches pour chosir mes URLs - en recherchant le syntagme "racial discrimination".
 
 * En ce qui concerne la discrimination raciale, cela ne concerne pas seulement les Noirs et les Blancs, les Jaunes devraient également être considérés. Par conséquent, par rapport aux corpus anglais et français, ma recherche a porté davantage sur la discrimination raciale à l'encontre des Asiatiques. Pendant ma recherche d'urls, j'ai utilisé trois moteurs de recherche, Baidu, Google et Bing, et j'ai trouvé des corpus provenant de Zhihu (version chinoise de Reddit), de Sina, de Sohu et de divers sites gouvernementaux. Parmi ces sites, il y en avait quelques-uns qui étaient complètement inaccessibles, comme ceux de Baijiahao, que j'ai éliminé et remplacé en conséquence.
 
@@ -77,7 +77,7 @@ Nous avons appris comment utiliser iTrameur et comment créer des nuages de mots
 ## Problèmes rencontrés par chacun d'entre nous pendant la création de notre projet
 
 ### Gemma
-* Comme mentionnée plus haut, j'ai eu des problèmes lors de la selection de mes URLs. J'ai done recommencé plusieurs fois afin de trouve des URLs qui m'aideront à avoir un contexte avec assez d'informations. C'est pourquoi j'ai décidé de changer de type d'anglais.
+* Comme mentionnée plus haut, j'ai eu des problèmes lors de la sélection de mes URLs. J'ai donc recommencé plusieurs fois afin de trouve des URLs qui m'aideront à avoir un contexte avec assez d'informations. C'est pourquoi j'ai décidé de changer de type d'anglais.
 
 * Pendant le semestre, j'ai rencontré plusieurs problèmes qui concernait la plupart du temps ,un problème lors du commit ou lors d'un git push après la modification de mon travail. Cela m'a empêché d'avancer autant que je voulais car j'étais souvent bloquée au même étape, ce qui m'a avéré très compliqué.
 
@@ -89,12 +89,12 @@ Nous avons appris comment utiliser iTrameur et comment créer des nuages de mots
 
 
 ### Tannina
-* 24.11.2022 : J'ai rencontré quelques problèmes pour mettre à jour mon git à plusieurs reprises. J'ai donc décidé de le recloner pour faciliter mes ajouts par la suite.
+* J'ai rencontré quelques problèmes pour mettre à jour mon git à plusieurs reprises. J'ai donc décidé de le recloner pour faciliter mes ajouts par la suite.
 * Problème pour commiter a cause du divergence de branches.
 * Fichier .DS_STORE qui se créer seul à de multiples reprises.
-* Lorsque j'ai voulu faire la concaténation de mes fichiers dumps-texts avec le fichier itrameur.sh, celui-ci ne prenait pas en compte tous mes dumps-texts je pense que c'est parce qu'ils n'ont pas tous le même encodage mais je n'ai pas réussis a y remédier. J'ai alors créer le fichier manuellement, qui celui-ci sera utilisé pour les iTrameur graphes et nuage de mots. J'ai aussi du supprimer manuellement les mots vides tels que les propositions, conjonction... qui me permettrais de résultats plus optimal.
-* Un autre problème que j'ai pu rencontrer c'est lorsque j'ai fais la compte de mes occurrences, certains affichait 0 occurrences alors qu'il y'en avait. J'ai alors refais me recherche d'urls 3 fois.
-*
+* Lorsque j'ai voulu faire la concaténation de mes fichiers dumps-texts avec le fichier itrameur.sh, celui-ci ne prenait pas en compte tous mes dumps-texts je pense que c'est parce qu'ils n'ont pas tous le même encodage. *Solution* : la commande cat *.txt >> dumps_entier permet de regrouper tous les fichiers dumps en un seul. Ce fichier sera utilisé iTrameur graphes et nuage de mots. J'ai voulu créer un script comportant des stopwords afin de les retirer et avoir un fichier plus optimal mais je n'ai pas réussis à enlever les mots vides.
+* Un autre problème que j'ai pu rencontrer c'est lorsque j'ai fais le compte de mes occurrences, certains urls affichaient 0 occurrences alors qu'il y'en avait. J'ai alors refais me recherche d'urls 3 fois, de même qu'un site a pour code 403 alors que le site est ouvert et libre d'accès avec occurrences.
+* J'ai par ailleurs eu des problèmes avec le concordancier que je n'ai pas réussis à régler, certains fichiers sont totalement vides.
 
 
 ### Simon
