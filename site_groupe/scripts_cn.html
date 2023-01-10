@@ -97,9 +97,9 @@
                 <p style="color:azure ; text-align: justify;">La base de notre analyse est ainsi construite.</p>
               <br>
               <p>
-              <a href="https://github.com/gemmafelton/PPE-group/blob/main/scripts/chinois/dumps_asp_conc_cont_ch.sh" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
+              <a href="https://github.com/Simounawind/PPE1/blob/main/projet_final/scripts/dumps_asp_conc_cont_ch.sh" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
               &ensp;&ensp;&ensp;
-              <a href="../scripts/dumps_asp_conc_cont_ch.sh" download="dumps_asp_conc_cont_ch.sh" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
+              <a href="https://github.com/Simounawind/PPE1/blob/main/projet_final/scripts/dumps_asp_conc_cont_ch.sh" download="dumps_asp_conc_cont_ch.sh" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
   
             </p>
             </div>
@@ -163,9 +163,9 @@ exit
                     <p style="color:azure ; text-align: justify;">Enfin, on affichera tout ce qu'on a obtenu dans le tableau de style très simple, qui contient 9 colonnes et ainsi les qu'on a obtenu par ce script</p>
                   <br>
                   <p>
-                  <a href="https://github.com/gemmafelton/PPE-group/blob/main/scripts/chinois/base_tableaux_fichier_ch.sh" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
+                  <a href="https://github.com/Simounawind/PPE1/blob/main/projet_final/scripts/base_tableaux_fichier_ch.sh" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
                   &ensp;&ensp;&ensp;
-                  <a href="https://github.com/gemmafelton/PPE-group" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
+                  <a href="https://github.com/Simounawind/PPE1/blob/main/projet_final/scripts/base_tableaux_fichier_ch.sh" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
                   </p>
                 </div>
                 
@@ -259,178 +259,198 @@ echo "&lt;/body&gt;&lt;/html&gt;" &gt;&gt; $fichier_tableau
                   <br><br><br>
                   <hr class="hr-edge-weak">
 
-    <!-- ======= script-3 jieba for cloud ======= -->   
 
-                  <div class="row motifs-tabs">          
-                    <div class="forwhat1 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
-                      <h3>🐍 Script Python les fichiers du corpus</h3>
-                      <p style="color:azure; text-align: justify;">C'est le script qui segmente les mots chinois, et ensuite créer l'image nuage de mots.</p>
-                      <p style="color:azure; text-align: justify;">Jieba est un logiciel qui nous permettra de segmenter du texte en chinois. Il faut installer jieba et PIL et numpy, et ensuite les importer dans le script, ensuite avec des fonctions os, on "read" et "write" les contenus pour obtenir un corpus idéal et pur pour le nuage de mots.</p>
-                        <p style="color:azure ; text-align: justify;">J'ai aussi créé un set STOPWORDS ⛔️ , qui contient tous les mots ou lettres qu'on veut pas afficher dans l'image.</p>
-                        <p style="color:azure ; text-align: justify;">Une photo avec coleur correspondant à notre sujet est aussi utilisé pour rendre le image plus beau.</p>
-                        <br>
-                      <p>
-                      <a href="https://github.com/gemmafelton/PPE-group/blob/main/scripts/chinois/jieba_token_wordcloud.py" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
-                      &ensp;&ensp;&ensp;
-                      <a href="https://github.com/gemmafelton/PPE-group" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
-                      </p>
-                    </div>
-                    
-                  <div class="col-lg-6">
-                  <pre class='script Python' ><code>
-import jieba
-import matplotlib.pyplot as plt
-from imageio import imread
-from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
-import numpy as np
-from PIL import Image
-# module for Chinese word segmentation 
 
-text_from_file = open('dumps.txt', 'r', encoding='UTF-8')         
-data = text_from_file.read()        
-seg_list = jieba.cut(data, cut_all = False)      
-# open & read file for tokenization -> tokenize line by line
 
-fW = open('dumps-ch_token.txt', 'w', encoding='UTF-8')      
-word_space = ' '.join(seg_list)
-fW.write(' '.join(seg_list))        
-# put result in new file, separate tokens by space
 
-text_from_file.close()
-fW.close()
+                  
+    <!-- ======= script-3 script shell for itrameur ======= -->   
 
-STOPWORDS = set((
-        "En", "ch", "text", "ais", "svg", "Fran", "text", "page", "text page", "b", "v2",
-        "他", "看", "就", "以及", "其", "吗", "进行", "是", "用", "也", "的",
-        "年", "了", "日", "月", "年", "都", "有", "你", "和", "我", "但", "而", "中", "不", "上", "这", "在", "到", "为", "与", "说", "对", "但是", "从"
-        , "会", "还", "将", "很", "让 ", " 让", "或", "等", "要", "来", "就是", "一种", "时", "并", "她", "表示", "一些", "这个", "又", "后", "以为", "以", "让", 
-        "通过", "者", "不是", "分享", "比", "里", "去", "所以", "向", "那", "那么", "广告", "或者", "应该", "一定", "一", "则", "I"
-        , "and", "已", "己", "什么", "才", "过", "设计", "因", "着因", 
-        "of", "the", "文章", "to"
-    ))
+    <div class="row motifs-tabs">          
+      <div class="forwhat1 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
+        <h3>Script concaténant les dumps text</h3>
+        <p style="color:azure; text-align: justify;">Après avoir obtenu tant de fichier text, il faut les concaténer dans un fichier d'ensemble tout en insérant les délimiteurs comme &lt;page="ch-24"&gt.</p>
+        <p style="color:azure; text-align: justify;">Il suffit d'employer des connaissances de bash, de shell qu'on a appris au cours pour réaliser cela.</p>
 
-img = imread('poing.png')
-img = np.array(Image.open('poing.png'))
-
-my_wordcloud = WordCloud(
-    scale=6,
-    background_color='white', #设置背景颜色
-    mask=img,  #背景图片
-    max_words = 200, #设置最大显示的词数
-    stopwords = STOPWORDS, #设置停用词
-    #设置字体格式，字体格式 .ttf文件需自己网上下载，最好将名字改为英文，中文名路径加载会出现问题。
-    font_path = 'alima.ttf', 
-    max_font_size = 150, #设置字体最大值
-    random_state=50, #设置随机生成状态，即多少种配色方案
-    ).generate(word_space)
-
-image_colors = ImageColorGenerator(img)
-my_wordcloud.recolor(color_func=image_colors)
-plt.imshow(my_wordcloud)
-plt.axis('off')
-plt.show()
-my_wordcloud.to_file('result.jpg')                    
-                        </code></pre></div>
-                      </div>
-
-                      <br><br><br>
-                      <hr class="hr-edge-weak">
-
-    <!-- ======= script-4 itrameurbonformat======= -->   
-
-                      <div class="row motifs-tabs">          
-                        <div class="forwhat1 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
-                          <h3>Script créant le fichier base pour iTrameur</h3>
-                          <p style="color:azure; text-align: justify;">C'est le script pour créer le fichier txt brut au bon format d'iTrameur. Avec ce script, on peut concatener tous les contenus des fichiers dumps-texts dans un seul fichier, qui s'appelle "contexte.txt"</p>
-                          <p style="color:azure; text-align: justify;">Grâce à ce script, les contenus dans context.txt sont annotés avec les délimiteurs suggérés dans le site officiel d'iTrameur.</p>
-                          <br>
-                          <p>
-                          <a href="https://github.com/Simounawind/PPE1/blob/main/projet_final/itrameur/make_itrameur_corpus.sh" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
-                          &ensp;&ensp;&ensp;
-                          <a href="https://github.com/gemmafelton/PPE-group" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
-                          </p>
-                        </div>
-                        
-                      <div class="col-lg-6">
-                      <pre class='script python' ><code>
+            <br>
+        <p>
+        <a href="https://github.com/Simounawind/PPE1/blob/main/projet_final/itrameur/make_itrameur_corpus.sh" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
+        &ensp;&ensp;&ensp;
+        <a href="https://github.com/Simounawind/PPE1/blob/main/projet_final/itrameur/make_itrameur_corpus.sh" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
+        </p>
+      </div>
+      <div class="col-lg-6">
+        <pre class='script python' ><code>
 #!/usr/bin/zsh
 
 if  [[ $# -ne 2 ]]
 then 
-    echo "Deux arguments attendus: &lt;dossier&gt; &lt;langue&gt;"
-    exit
+echo "Deux arguments attendus: &lt;dossier&gt; &lt;langue&gt;"
+exit
 fi
 
 dossier=$1
 langue_abr=$2   
 
 echo "&lt;lang=\"$langue_abr\"&gt;" &gt; contexte.txt
-     
+
 
 for filepath in $(ls -Utr $dossier/$langue_abr-*.txt)
 do
-    # filepath == dumps-text/fr-1.txt
-    #  == &gt; pagename =fr-1
-    echo "$filepath"
-    pagename="$(basename -s .txt $filepath)"  #ch-1
-    echo "&lt;page=\"$pagename\"&gt;" &gt;&gt; contexte.txt
-    echo "&lt;text&gt;"  &gt;&gt; contexte.txt
+# filepath == dumps-text/fr-1.txt
+#  == &gt; pagename =fr-1
+echo "$filepath"
+pagename="$(basename -s .txt $filepath)"  #ch-1
+echo "&lt;page=\"$pagename\"&gt;" &gt;&gt; contexte.txt
+echo "&lt;text&gt;"  &gt;&gt; contexte.txt
 
-    #on récupère les dumps ou contextes
-    # et on écrit à l'intérieur de la base text
-    content=$(cat $filepath)
-    # ordre important : & en premier
-    # sinon : &lt; =&gt; &lt ; =&gt; &amp;lt: 
-    content=$(echo "$content" | sed 's/&/&amp;/g')
-    content=$(echo "$content" | sed 's/&lt;/&lt;/g')
-    content=$(echo "$content" | sed 's/&gt;/&gt;/g')  
-    echo "$content" &gt;&gt; contexte.txt
-    echo "&lt;/text&gt;" &gt;&gt; contexte.txt
-    echo "&lt;/page&gt; §" &gt;&gt; contexte.txt
+#on récupère les dumps ou contextes
+# et on écrit à l'intérieur de la base text
+content=$(cat $filepath)
+# ordre important : & en premier
+# sinon : &lt; =&gt; &lt ; =&gt; &amp;lt: 
+content=$(echo "$content" | sed 's/&/&amp;/g')
+content=$(echo "$content" | sed 's/&lt;/&lt;/g')
+content=$(echo "$content" | sed 's/&gt;/&gt;/g')  
+echo "$content" &gt;&gt; contexte.txt
+echo "&lt;/text&gt;" &gt;&gt; contexte.txt
+echo "&lt;/page&gt; §" &gt;&gt; contexte.txt
 done
 echo "&lt;/lang&gt;" &gt;&gt; contexte.txt
-                            </code></pre></div>
-                          </div>
+              </code></pre></div>
+            </div>
 
-                          <br><br><br>
-                          <hr class="hr-edge-weak">
+            <br><br><br>
+            <hr class="hr-edge-weak">
+
+   
+    <!-- ======= script-4 jieba for itrameur ======= -->   
+
+                  <div class="row motifs-tabs">          
+                    <div class="forwhat1 col-lg-4" style="margin: -310px 0 20px 50px ; color: rgb(154, 241, 13);">
+                      <h3>Script créant le corpus iTrameur</h3>
+                          <p style="color:azure; text-align: justify;">C'est le script le plus difficile pour moi. Je l'utilisais pour créer le fichier txt avec des mots segmentés et pertinents. </p>
+                          <p style="color:azure; text-align: justify;">Basé sur le "contexte.txt" déjà crée, il faut aussi segmenter son contenu parce qu'il n'y a pas de space entre chaque mots chinois dans une phrase. Donc j'ai utilisé <i style="color:rgb(93, 93, 233)">jieba</i>, qui est un set de fonctions qui nous permet de segmenter les textes en chinois. J'ai utilisé le mode normal pour ne pas créer des mots redondants.</p>
+                          <p style="color:azure; text-align: justify;">Mais là j'ai eu un problème que j'arrivais toujours pas à résoudre. Avec jieba, on segmente aussi les délimiteurs. Avec <i style="color:coral">jieba.load_userdict('userdict.txt')</i> je n'arrive non plus à garder les délimiteurs, parce que jieba n'accepte pas les crochets pointus, donc je cherchais sur Internet et a modifié les codes source de jieba, enfin les délimiteurs sont gardés. Mais les stopwords existent encore !!! Donc j'ai dû corriger manuellement les délimiteurs, mais heureusement cela ne coûte pas beaucou de temps.
+                             Mais grâce à ce script, les contenus dans context.txt sont annotés avec les délimiteurs suggérés dans le site officiel d'iTrameur, et le contenu est assez nettoyé.</p>
+                             <p style="color:azure; text-align: justify;"> Nous pouvons ainsi utiliser le fichier sans délimiteurs pour la création des nuages de mots. ☁️</p>
+                          <br>
+                      <p>
+                      <a href="https://github.com/Simounawind/PPE1/blob/main/projet_final/itrameur/jieba_itrameur.py" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
+                      &ensp;&ensp;&ensp;
+                      <a href="https://github.com/Simounawind/PPE1/blob/main/projet_final/itrameur/jieba_itrameur.py" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
+                      </p>
+                    </div>
+                  <div class="col-lg-6">
+                  <pre class='script Python' ><code>
+
+import jieba
+
+#jieba.load_userdict('userdict.txt') mais marche pas
+def stopwordslist(filepath):
+    stopwords = [line.strip() for line in open(filepath, 'r', encoding='utf-8').readlines()]
+    return stopwords
+
+# pour segmenter
+def seg_sentence(sentence):
+    sentence_seged = jieba.cut(sentence.strip())
+    stopwords = stopwordslist('stop_words.txt')
+    outstr = ''
+    for word in sentence_seged:
+        if word not in stopwords:
+            if word != '\t':
+                outstr += word
+                outstr += " "
+    return outstr
+
+# enfin
+inputs = open('dumps.txt', 'r', encoding='utf-8')
+outputs = open('corpus-ch_itrameur_final.txt', 'w')
+for line in inputs:
+    line_seg = seg_sentence(line)
+    outputs.write(line_seg + '\n')
+outputs.close()
+inputs.close()                    
+                        </code></pre></div>
+                      </div>
+
+                      <br><br><br><br><br><br><br><br>
+                      <hr class="hr-edge-weak">
 
     <!-- ======= script-4 itrameurbonformat======= -->   
 
-    <div class="row motifs-tabs">          
-      <div class="forwhat3 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
-        <h3>N'oubliez pas de segmenter aussi le contenu pour iTrameur</h3>
-        <p style="color:azure; text-align: justify;">Basé sur le "contexte.txt" déjà crée, ce script sert à segmenter son contenu avec jieba.</p>
-        <br>
-        <p>
-        <a href="https://github.com/gemmafelton/PPE-group/blob/main/scripts/chinois/jieba_itrameur.py" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
-        &ensp;&ensp;&ensp;
-        <a href="https://github.com/gemmafelton/PPE-group" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
-        </p>
-      </div>
-      
-    <div class="col-lg-6">
-    <pre class='script python' ><code>
+                      <div class="row motifs-tabs">          
+                        <div class="forwhat1 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
+                          <h3>Script - Nuages des mots ☁️</h3>
+                          <p style="color:azure; text-align: justify;">C'est le script qui segmente les mots chinois, et ensuite créer l'image nuage de mots.</p>
+                      <p style="color:azure; text-align: justify;">Toujour avec jieba, nous pouvons créer le nuage des mots avec wordcloud. Ayant maitrîsé les commandes de base de wordcloud, j'ai imité les codes d'autrui pour ajouter des coleurs et le beau font style.</p>
+                        <p style="color:azure ; text-align: justify;">J'ai aussi créé un set STOPWORDS ⛔️ , qui contient tous les mots ou lettres qu'on veut pas afficher dans l'image.</p>
+                         <br>
+                         
+                          <p>
+                          <a href="https://github.com/Simounawind/PPE1/blob/main/projet_final/wordcloud/jieba_token_wordcloud.py" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
+                          &ensp;&ensp;&ensp;
+                          <a href="https://github.com/Simounawind/PPE1/blob/main/projet_final/wordcloud/jieba_token_wordcloud.py" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
+                          </p>
+                        </div>
+                        <div class="col-lg-6">
+                          <pre class='script Python' ><code>
+        
 import jieba
 import matplotlib.pyplot as plt
-# module for Chinese word segmentation
+from imageio import imread
+from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+import numpy as np
+from PIL import Image
+
 
 text_from_file = open('dumps.txt', 'r', encoding='UTF-8')
 data = text_from_file.read()
-jieba.load_userdict("userdict.txt")
 seg_list = jieba.cut(data, cut_all=False)
+# open & read file for tokenization -> tokenize line by line
 
-fW = open('corpus-ch_itrameur.txt', 'w', encoding='UTF-8')
-fW.write(' '.join(seg_list))
+fW = open('dumps-ch_token.txt', 'w', encoding='UTF-8')
+word_space = ' '.join(seg_list)
+fW.write(word_space)
 # put result in new file, separate tokens by space
 
 text_from_file.close()
 fW.close()
-          </code></pre></div>
-        </div>
 
+STOPWORDS = set((
+    "En", "ch", "text", "ais", "svg", "Fran", "text", "page", "text page", "b", "v2",
+    "他", "看", "就", "以及", "其", "吗", "进行", "是", "用", "也", "的",
+    "年", "了", "日", "月", "年", "都", "有", "你", "和", "我", "但", "而", "中", "不", "上", "这", "在", "到", "为", "与", "说", "对", "但是", "从", "会", "还", "将", "很", "让 ", " 让", "或", "等", "要", "来", "就是", "一种", "时", "并", "她", "表示", "一些", "这个", "又", "后", "以为", "以", "让",
+    "通过", "者", "不是", "分享", "比", "里", "去", "所以", "向", "那", "那么", "广告", "或者", "应该", "一定", "一", "则", "I", "and", "已", "己", "什么", "才", "过", "设计", "因", "着因",
+    "of", "the", "文章", "to", "认为", "时候", "它", "其中", "着", "方面", "所有", "没有", "之后", "已经", "前", "给", "这是", "这样", "开始", "一样", "指出", "该", "地", "这些", "需要", "曾", "现在", "地方", "好", "由", "像", "这是", "给", "特别", "作为", "当", "甚至", "个", "下", "最后", "包括", "如果", "发生", "最", "还是", "可以", "把", "时间", "不能", "却", "成为", "继续", "跟", "对于", "高", "当"
+    "其实", "们", "来自", "一个", "可能", "觉得", "这种", "比如", "因为", "相关", "因此", "看到", "只是", "有关", "最近", "一直", "万", "一名", "仍", "及", "再", "您", "多", "导致", "想", "所", "非常", "Espa", "不要", "无法", "情况", "地位", "ol", "为了", "如何", "其他", "那些", "虽然", "为什么", "为了", "有人", "这一", "出", "一位", "很多", "主要", "", "",
+))
 
-        <br><br><br>
+img = imread('poing.png')
+img = np.array(Image.open('poing.png'))
+
+my_wordcloud = WordCloud(
+    scale=6,
+    background_color='white',  # 设置背景颜色
+    mask=img,  # 背景图片
+    max_words=200,  # 设置最大显示的词数
+    stopwords=STOPWORDS,  # 设置停用词
+    # 设置字体格式，字体格式 .ttf文件需自己网上下载，最好将名字改为英文，中文名路径加载会出现问题。
+    font_path='alima.ttf',
+    max_font_size=150,  # 设置字体最大值
+    random_state=50,  # 设置随机生成状态，即多少种配色方案
+).generate(word_space)
+
+image_colors = ImageColorGenerator(img)
+my_wordcloud.recolor(color_func=image_colors)
+plt.imshow(my_wordcloud)
+plt.axis('off')
+plt.show()
+my_wordcloud.to_file('result.jpg')
+              </code></pre></div>
+                              </div>
+        
+                              <br><br><br><br>
         <hr class="hr-edge-weak">
 
     <!-- ======= les sites tres utiles ======= -->   
@@ -475,7 +495,10 @@ https://unsplash.com/fr/photos/ZIKnVsJVJpg?utm_source=unsplash&utm_medium=referr
 
           </code></pre></div>
 
+          
+          <hr class="hr-edge-weak">
           </div>
+          
         </div>
       </div>
     </div>
@@ -511,3 +534,5 @@ https://unsplash.com/fr/photos/ZIKnVsJVJpg?utm_source=unsplash&utm_medium=referr
 </body>
 
 </html>
+
+
