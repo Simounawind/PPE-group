@@ -72,7 +72,7 @@ Nous avons soumis plusieurs versions de 7/12 et de 8/12, dans lesquelles nous av
 
 - Séance 11 :
 Nous avons appris comment utiliser iTrameur et comment créer des nuages de mots. Nous pouvons observer les mots liés aux contextes. Ceci nous aidera lors de la construction de notre site web. Début de la création de notre site web, nous avons réalisé plus ébauches de sites jusqu'à se mettre d'accord sur la forme, l'interface ce que l'on souhaitait qui apparaissent etc. Nous avons regarder des vidéos et on c'est intéressés plusieurs plateformes framework nous permettant de styliser notre site à notre image : Bulma, Bootstrap.
-
+Création d'un logo par Tannina afin de l'utiliser pour le site web.
 
 ## Problèmes rencontrés par chacun d'entre nous pendant la création de notre projet
 
@@ -100,6 +100,8 @@ Nous avons appris comment utiliser iTrameur et comment créer des nuages de mots
 * Un autre problème que j'ai pu rencontrer c'est lorsque j'ai fais le compte de mes occurrences, certains urls affichaient 0 occurrences alors qu'il y'en avait. J'ai alors refais me recherche d'urls 3 fois, de même qu'un site a pour code 403 alors que le site est ouvert et libre d'accès avec occurrences.
 
 * J'ai par ailleurs eu des problèmes avec le concordancier que je n'ai pas réussis à régler, certains fichiers sont totalement vides.
+
+* Comme évoqués précédemment Gemma et moi nous n'avons pas réussi la liste stopwords nous avons alors préféré réaliser notre nuage de mot sur une plateforme : nuagedemot.fr. Elle nous a permis de retirer les mots vides manuellement. Nos nuages de mots seront alors plus représentatifs et on pourra distinguer les grandes nuances de notre mot. Les nuages de mots sont des représentations visuelles plus appréciables et l'on peut apercevoir plus facilement les mots "importants". Puisqu'ils s'affichent le plus souvent en grand.
 
 
 ### Simon
