@@ -16,7 +16,7 @@
      * [8]Journaux Monde
      * [9]Journaux Afrique
      * [10]Journaux Am?riques/Ha?ti
-     * [11]Journal en fran?ais facile
+     * [11]Journal en français facile
      * [12]Grille des programmes Monde
      * [13]Grille des programmes Afrique
      * [14]Capter RFI
@@ -30,7 +30,7 @@
      * [20]Afrique Foot
      * [21]Culture et M?dias
      * [22]RFI Musique
-     * [23]Le Fran?ais facile avec RFI
+     * [23]Le français facile avec RFI
      * [24]RFI Connaissances
      * [25]Tech
      * [26]Contenus sponsoris?s
@@ -83,7 +83,7 @@
    des contenus provenant de sites Internet externes. Fr?quentation
    certifi?e par l'ACPM/OJD.
 
-     * [58]Fran?ais
+     * [58]français
      * [59]English
      * [60]Espa?ol
      * [61]Portugu?s
@@ -143,7 +143,7 @@ France: contre la discriminationraciale, rationaliser le recrutement et
    Texte par : [88]Lou Rom?o [89]Suivre
 
    Depuis une r?solution des Nations unies de 1966, chaque 21 mars est
-   consacr? ? Journ?e internationale pour l'?limination de la
+   consacr? ? Journ?e internationale pour l'élimination de la
    discriminationraciale ?. En France, la D?fenseure des droits et
    plusieurs observateurs appellent ? lutter contre leur persistance ?
    travers plusieurs mesures, dont le renforcement des poursuites
@@ -156,7 +156,7 @@ France: contre la discriminationraciale, rationaliser le recrutement et
    discriminations raciales, affirme Malik Salemkour, pr?sident de la
    Ligue des droits de l'Homme. Nous aurions besoin d'une volont?
    politique forte et interminist?rielle, ? l'instar de ce qui est en
-   train d'?tre fait sur la question de l'?galit? homme/femme. ?
+   train d'?tre fait sur la question de l'égalitéhomme/femme. ?
 
    Le [90]rapport annuel de la D?fenseure des droits, paru ce 18 mars
    2021, l'atteste : en France, ? les personnes d'origine ?trang?re ou
@@ -180,7 +180,7 @@ La moiti? des discriminations raciales d?nonc?es portent sur l'embauche
    [91]l'Observatoire des discriminations. En clair, cela veut dire qu'un
    individu portant un nom ?tranger, ? comp?tences ?gales, ? un quart de
    chances de moins d'?tre contact? pour un entretien d'embauche que
-   quelqu'un portant un nom fran?ais. ?
+   quelqu'un portant un nom français. ?
 
    D'apr?s le chercheur, la situation est la m?me aux ?tats-Unis, malgr?
    la mise en place de politiques de discrimination positive. Mais il
@@ -213,7 +213,7 @@ Rationaliser les processus de recrutement
 
    Dans le m?me ordre d'id?e, les ?conomistes Marie-Anne Valfort et
    St?phane Carcillo recommandaient en juin 2020 [93]la mise en place
-   syst?matique de fiches de postes pr?cises et d'entretiens d'embauche
+   systématique de fiches de postes pr?cises et d'entretiens d'embauche
    formels et homog?n?is?s, bas?s sur les comp?tences, pour ?viter toute
    discrimination ? l'embauche.
 
@@ -277,7 +277,7 @@ Renforcer les sanctions pour lutter contre le sentiment d'impunit?
    et les accompagner dans leurs d?marches.
 
    |> ? lire aussi : [100]Macron lance la plateforme
-   ?antidiscriminations?, un outil pour l'?galit? des chances
+   ?antidiscriminations?, un outil pour l'égalitédes chances
 
    NewsletterRecevez toute l'actualit? internationale directement dans
    votre boite mail
@@ -292,9 +292,9 @@ Renforcer les sanctions pour lutter contre le sentiment d'impunit?
    Sur le m?me sujet
 
    Macron lance la plateforme ?antidiscriminations?, un outil pour
-   l'?galit? des chances
+   l'égalitédes chances
 
-   ?La race tue deux fois?, de Rachida Brahim, un complexe fran?ais
+   ?La race tue deux fois?, de Rachida Brahim, un complexe français
    L'Atelier des m?dias
 
    Le ?Projet Adama?, podcast engag?
@@ -336,7 +336,7 @@ Renforcer les sanctions pour lutter contre le sentiment d'impunit?
    mediator servier
    08/01/2023
 
-   Le scandale du Mediator de retour devant la justice fran?aise
+   Le scandale du Mediator de retour devant la justice française
    000_336M7K3
    07/01/2023
 
@@ -361,7 +361,7 @@ Renforcer les sanctions pour lutter contre le sentiment d'impunit?
    07/01/2023
 
    France: au proc?s d'un attentat d?jou? en 2017, la vie myst?rieuse d'un
-   Fran?ais radicalis?
+   français radicalis?
 
    >
 
@@ -882,7 +882,7 @@ References
    [96]Accueil / [97]Id?es et D?bats
    TRIBUNE
 
-discriminationraciale, un h?ritage fran?ais
+discriminationraciale, un h?ritage français
 
    par [98]Michel Wieviorka, sociologue et George Pau-Langevin, d?put?e
    socialiste
@@ -908,7 +908,7 @@ discriminationraciale, un h?ritage fran?ais
 
    La situation, certes, ?volue. Des mesures volontaristes apparaissent
    pour combattre les discriminations. On nous invite ? sauver un des
-   ?l?ments du mod?le fran?ais, l'?litisme r?publicain, en ?largissant la
+   ?l?ments du mod?le français, l'?litisme r?publicain, en ?largissant la
    base sociale au sein de laquelle se recrutent les ?tudiants des grandes
    ?coles, ou assimilables, telle Sciences-Po. Il est vrai que cette base
    est devenue singuli?rement ?troite, et qu'il vaudrait mieux que des
@@ -921,7 +921,7 @@ discriminationraciale, un h?ritage fran?ais
    toute la soci?t? qui doit reconna?tre sa diversit?.
 
    Les difficult?s sociales sont consid?rables. Elles affectent les
-   derni?res g?n?rations de Fran?ais issus de l'immigration, qui subissent
+   derni?res g?n?rations de français issus de l'immigration, qui subissent
    massivement le tarissement de la croissance et le ch?mage de masse. La
    panne de l'int?gration est d'abord sociale : l'ascenseur social s'est
    bloqu? et les derniers arriv?s restent au sous-sol. Cette r?alit? est
@@ -939,20 +939,20 @@ discriminationraciale, un h?ritage fran?ais
    appelle - issus de l'immigration, minorit?s visibles, Arabes,
    Noirs, etc. L'?tudiant au nom arabe qui ne trouve pas de stage,
    contrairement ? ses camarades de m?me milieu social au patronyme bien
-   ?fran?ais?, le dipl?m? noir qui n'est jamais convoqu? pour un entretien
+   ?français?, le dipl?m? noir qui n'est jamais convoqu? pour un entretien
    d'embauche ne sont pas seulement p?nalis?s pour des raisons sociales.
 
    La discriminationraciale existe. Elle est inscrite dans les sch?mas
-   mentaux fran?ais : l'alt?rit? de la couleur de peau, un h?ritage
+   mentaux français : l'alt?rit? de la couleur de peau, un h?ritage
    colonial mal dig?r?, une vision culturaliste de la France en sont des
    facteurs puissants. Elle a ?t? renforc?e par l'agitation politique
    des ann?es lep?nistes - certes sans v?ritable cons?quence dans le droit
-   fran?ais mais avec un fort impact psychologique ?d?sint?grateur? : le
+   français mais avec un fort impact psychologique ?d?sint?grateur? : le
    d?bat sur la nationalit?, avec la volont? de remettre en cause le droit
    du sol au profit d'un droit du sang ?gaulois? ; la crispation sur
    l'islam, avec le rejet du voile et des mosqu?es ; l'affirmation d'une
-   politique d'immigration choisie, renvoyant en miroir aux Fran?ais issus
-   de l'immigration le stigmate de ?Fran?ais subis?.
+   politique d'immigration choisie, renvoyant en miroir aux français issus
+   de l'immigration le stigmate de ?français subis?.
 
    C'est pourquoi des politiques sp?cifiques sont n?cessaires pour faire
    reculer les discriminations. Pour les sanctionner bien s?r mais avant
@@ -963,7 +963,7 @@ discriminationraciale, un h?ritage fran?ais
    discriminations, mieux appr?hender les effectifs et les difficult?s
    sp?cifiques de certaines populations. Le d?bat, l?gitime, sur ?les
    statistiques ethniques? ne doit pas faire oublier cette ?vidence : nous
-   avons besoin de donn?es pr?cises pour agir. Conna?tre notre soci?t?
+   avons besoin de données pr?cises pour agir. Conna?tre notre soci?t?
    dans ses dimensions culturelles, religieuses, d'origine nationale,
    devrait contribuer ? faire reculer le racisme. Et nous permettre de
    tirer profit de notre diversit?.
@@ -1035,7 +1035,7 @@ Conditions g?n?rales
      * [124]Mentions l?gales(Opens in new window)
      * [125]Charte ?thique(Opens in new window)
      * [126]CGVU(Opens in new window)
-     * [127]Protection des donn?es personnelles(Opens in new window)
+     * [127]Protection des données personnelles(Opens in new window)
      * [128]Gestion des cookies(Opens in new window)
      * [129]Licence(Opens in new window)
 
@@ -1196,13 +1196,13 @@ References
  140. https://twitter.com/libe
  141. https://www.liberation.fr/arc/outboundfeeds/collection/accueil-une/?outputType=xml
     #[1]QAPA News ? Flux [2]QAPA News ? Flux des commentaires [3]QAPA News
-   ? Pour 95% des Fran?ais, la discriminationraciale existe encore au
+   ? Pour 95% des français, la discriminationraciale existe encore au
    travail Flux des commentaires [4]alternate [5]alternate [6]alternate
 
    FLASH ACTU
      * [7]Tout savoir sur l'entretien vid?o
      * [8]Tout savoir sur votre entretien vid?o
-     * [9]Les Fran?ais sont moins nombreux ? prendre de bonnes r?solutions
+     * [9]Les français sont moins nombreux ? prendre de bonnes r?solutions
        en d?but d'ann?e : 86 % en 2023 contre 91 % en 2019 !
      * [10]Tout savoir sur votre Compte ?pargne Temps
      * [11]Comment trouver un int?rimaire avec QAPA ?
@@ -1271,7 +1271,7 @@ References
 
    [71]Actualit?
 
-Pour 95% des Fran?ais, la discriminationraciale existe encore au travail
+Pour 95% des français, la discriminationraciale existe encore au travail
 
    [72]L'?quipe QAPA [73]L'?quipe QAPA ? [74]16 mars 2020
    [75]0 [76]7 3.4k [77]2
@@ -1279,18 +1279,18 @@ Pour 95% des Fran?ais, la discriminationraciale existe encore au travail
    L'?quipe QAPA [78]L'?quipe QAPA 2020-03-16
 
    65% pensent que la discriminationraciale au travail est encore plus
-   pr?sente qu'avant. 74% des Fran?ais n'ont jamais eu de patron de
+   pr?sente qu'avant. 74% des français n'ont jamais eu de patron de
    couleur.
 
    Les crit?res les plus discriminatoires pour trouver un emploi : la
-   religion ? 22% et le nom de famille ? 21%. 49% des Fran?ais ont d?j?
+   religion ? 22% et le nom de famille ? 21%. 49% des français ont d?j?
    ?t? victimes d'un acte raciste au travail... Et 75% en ont d?j? ?t? les
-   t?moins. Pourtant, 95% des Fran?ais pensent les comp?tences ne sont pas
+   t?moins. Pourtant, 95% des français pensent les comp?tences ne sont pas
    li?es aux apparence
 
 Le monde (du travail) est-il de plus en plus discriminatoire ?
 
-   ? l'occasion de la Journ?e internationale pour l'?limination de la
+   ? l'occasion de la Journ?e internationale pour l'élimination de la
    discriminationraciale du 21 mars 2020, c'est la question que [79]QAPA,
    la plateforme de recrutement par l'int?rim, a pos? ? plus de 4,5
    millions de candidats et 135 000 recruteurs afin de savoir si certaines
@@ -1306,10 +1306,10 @@ Le monde (du travail) est-il de plus en plus discriminatoire ?
 
 La discrimination au travail augment-t-elle ?
 
-   Lorsque 65% des Fran?ais d?clarent trouver que la discrimination
+   Lorsque 65% des français d?clarent trouver que la discrimination
    raciale au travail est encore plus pr?sente qu'avant et que plus de 31%
    consid?rent qu'elle diminue un peu, il semblerait que la lutte pour
-   l'?galit? entre les hommes et les femmes soit bien loin d'?tre gagn?e.
+   l'égalitéentre les hommes et les femmes soit bien loin d'?tre gagn?e.
 
 Toujours pas de patrons de couleur... ni de DRH !
 
@@ -1318,13 +1318,13 @@ Toujours pas de patrons de couleur... ni de DRH !
    hi?rarchiques de couleur. Les choses sont encore pires en 2020 puisque
    78% des femmes et 69% des hommes n'ont toujours pas eu de chef de
    couleur. M?me constat pour les postes de direction des Ressources
-   Humaines puisque 89% des Fran?ais n'ont jamais pass? d'entretien
+   Humaines puisque 89% des français n'ont jamais pass? d'entretien
    d'embauche avec une personne de couleur.
 
 La religion avant la couleur
 
    La couleur de peau ne semble plus ?tre le crit?re discriminatoire le
-   plus important pour trouver un emploi. En effet, pour 22% des Fran?ais
+   plus important pour trouver un emploi. En effet, pour 22% des français
    c'est la religion qui occasionne le plus de discrimination, devant le
    nom de famille ? 21% et la couleur de la peau qui n'arrive qu'? la
    troisi?me place avec 18%.
@@ -1340,7 +1340,7 @@ Toujours plus de victimes
 
 Comp?tences ne rime pas avec apparences
 
-   Point positif : 95% des Fran?ais pensent heureusement que la couleur de
+   Point positif : 95% des français pensent heureusement que la couleur de
    la peau ou l'apparence physique ne sont pas du tout li?es ? un gage de
    s?rieux ou ? de meilleures comp?tences.
 
@@ -1381,7 +1381,7 @@ Related Posts
 
    [87]Actualit?
 
-[88]Les Fran?ais sont moins nombreux ? prendre de bonnes r?solutions en d?but
+[88]Les français sont moins nombreux ? prendre de bonnes r?solutions en d?but
 d'ann?e : 86 % en 2023 contre 91 % en 2019 !
 
    [89]L'?quipe QAPA
@@ -1432,7 +1432,7 @@ d'ann?e : 86 % en 2023 contre 91 % en 2019 !
 
    86 Views [115]By L'?quipe QAPA
 
-[116]Les Fran?ais sont moins nombreux ? prendre de bonnes r?solutions en
+[116]Les français sont moins nombreux ? prendre de bonnes r?solutions en
 d?but d'ann?e : 86 % en 2023 contre 91 % en 2019 !
 
    131 Views [117]By L'?quipe QAPA
@@ -1450,13 +1450,13 @@ d?but d'ann?e : 86 % en 2023 contre 91 % en 2019 !
 
    [...] (1) Qapa.fr : ? Le slashing c'est quoi ??  [...]
    [123]societe de nettoyage atalian - Zjn
-   on Top 1000 des entreprises fran?aises
+   on Top 1000 des entreprises françaises
 
-   [...] Top 1000 des entreprises fran?aises - qapa.fr [...]
+   [...] Top 1000 des entreprises françaises - qapa.fr [...]
    [124]dubreuil carburants - Zjn
-   on Top 1000 des entreprises fran?aises
+   on Top 1000 des entreprises françaises
 
-   [...] Top 1000 des entreprises fran?aises - qapa.fr [...]
+   [...] Top 1000 des entreprises françaises - qapa.fr [...]
    [125]@Steve Jobs updateur des Tablettes de Mo?se | On N'est Pas des
    Quiches
    on 11 phrases de Steve Jobs pour changer votre fa?on de travailler
@@ -1501,7 +1501,7 @@ Mots-cl?s
 
    SHARE
 
-Pour 95% des Fran?ais, la discriminationraciale existe encore au travail
+Pour 95% des français, la discriminationraciale existe encore au travail
 
 References
 
@@ -1804,8 +1804,8 @@ juridiques divergent.
      n'est pas juridiquement r?pr?hensible. Que la France soit
      culturellement et historiquement un pays chr?tien n'est pas
      probl?matique d?s lors que le droit garantit le respect des autres
-     communaut?s nationales et leur ?galit? devant la loi, outre que
-     l'appartenance ? la nation fran?aise ne soit pas subordonn?e ? une
+     communaut?s nationales et leurégalitédevant la loi, outre que
+     l'appartenance ? la nation française ne soit pas subordonn?e ? une
      appartenance religieuse?, explique-t-il [7]dans un article post? sur
      le site de l'hebdomadaire franco-turc Zamaran.
 
@@ -1817,7 +1817,7 @@ juridiques divergent.
    plan et en les d?signant comme ?incompatibles?:
 
      ?Nadine Morano r?ussit l'exploit de d?finir en r?alit? la nation
-     fran?aise non pas par l'appartenance ? la religion chr?tienne ou
+     française non pas par l'appartenance ? la religion chr?tienne ou
      m?me ? la race blanche, mais ? la non-appartenance ? la religion
      musulmane. C'est un v?ritable appel ? la discrimination
      islamophobe?, argumente-t-il.
@@ -1844,7 +1844,7 @@ racialisme
      d'intelligence le plus pur. C'est ridicule mais pas ill?gal. C'est
      comme [8]affirmer que les noirs courent tr?s vite [de nombreux
      chercheurs se sont [9]pench?s sur la question, ndlr] . Si elle avait
-     dit "je ne veux pas que les musulmans soient fran?ais", alors l?,
+     dit "je ne veux pas que les musulmans soient français", alors l?,
      oui, elle ?tait dans l'incitation ? la haine. Mais on ne peut pas
      condamner quelqu'un qui affirme qu'il ne veut pas que l'int?gralit?
      du pays soit musulman.?
@@ -1944,7 +1944,7 @@ racialisme
    ? l'offensive
 
    Les remous provoqu?s par ce ?loup guerrier?, qui a insult? un chercheur
-   fran?ais sur Twitter, s'inscrivent dans un cadre plus large.
+   français sur Twitter, s'inscrivent dans un cadre plus large.
 
    Richard Arzt -- 27 mars 2021 -- Temps de lecture : 9 min
    [31]VGE, pr?sident du cool trente ans avant Obama
@@ -1965,7 +1965,7 @@ racialisme
    [33]Slate.fr
 
    [34]Slate.com [35]Annonceurs [36]Contacts [37]Qui sommes-nous
-   [38]Mentions l?gales [39]Gestion des donn?es personnelles
+   [38]Mentions l?gales [39]Gestion des données personnelles
 
    Suivez-nous :
    (BUTTON)
@@ -2236,7 +2236,7 @@ Logement et racisme : un an d'enqu?te sur les discriminations
 Une enqu?te de SOS Racisme en Ile-de-France montre que les candidats
 antillais ou d'origine africaine, maghr?bine et asiatique ? la recherche d'un
 logement subissent une discrimination de la part des propri?taires et des
-agences immobili?res.
+agences immobilières.
 
    Les auteurs de l'?tude ont r?pondu ? 775 annonces de location en
    Ile-de-France. 192 tests se sont av?r?s exploitables.
@@ -2249,7 +2249,7 @@ agences immobili?res.
 
    Pour obtenir un logement en Ile-de-France, tous les candidats ne
    partent pas ? armes ?gales : ? Un profil asiatique a 15 % de chance en
-   moins d'avoir un logement qu'une personne d'origine fran?aise ancienne,
+   moins d'avoir un logement qu'une personne d'origine française ancienne,
    une personne d'origine maghr?bine a 28 % de chance en moins et une
    personne ultramarine ou d'Afrique subsaharienne a 38 % de chance en
    moins ?.
@@ -2275,10 +2275,10 @@ Des r?sultats qui peuvent aboutir ? une condamnation
 Un testing men? sur pr?s de 800 annonces
 
    Concr?tement, les auteurs de l'?tude ont r?pondu ? 775 annonces
-   immobili?res de location dans tous les d?partements d'Ile-de-France :
+   immobilières de location dans tous les d?partements d'Ile-de-France :
    avec les m?mes informations mais une seule variable, la consonance du
    nom de famille. 192 tests se sont av?r?s exploitables et les r?sultats
-   obtenus sont ?difiants. ? C'est le profil ayant des origines fran?aises
+   obtenus sont ?difiants. ? C'est le profil ayant des origines françaises
    anciennes qui a obtenu le plus de retours positifs (proposition de
    rendez-vous ou demande de pi?ces compl?mentaires afin d'acc?der au
    rendez-vous) avec 17 % de retours positifs, le profil asiatique a re?u
@@ -2303,7 +2303,7 @@ Un testing men? sur pr?s de 800 annonces
 
    L'association d?nonce au passage la suppression, en novembre dernier,
    de la fonction disciplinaire de l'organe charg? de r?gir le
-   fonctionnement des professions immobili?res. ? Un ind?niable recul ?,
+   fonctionnement des professions immobilières. ? Un ind?niable recul ?,
    tacle SOS.
 
 SOS Racisme veut une campagne de sensibilisation
@@ -2456,7 +2456,7 @@ SOS Racisme veut une campagne de sensibilisation
 
    [156]Je m'abonne
 
-   [157]Centre Fran?ais d'Exploitation du Droit de Copie
+   [157]Centre français d'Exploitation du Droit de Copie
    [158]Archives
    [159]2023[160]2022[161]2021[162]2020[163]2019[164]2018[165]2017[166]201
    6
@@ -2820,7 +2820,7 @@ de 2 et 4 mois de prison avec sursis.
    Par Pauline Darvey
    Le 6 f?vrier 2019 ? 21h23, modifi? le 7 f?vrier 2019 ? 12h13
 
-   ? Nous, citoyens fran?ais, qu'est-ce qu'on a fait pour m?riter d'?tre
+   ? Nous, citoyens français, qu'est-ce qu'on a fait pour m?riter d'?tre
    rel?gu?s au second rang ? cause de notre couleur de peau ? ? Sur le
    banc des parties civiles, ce mercredi, Aissata interpelle d'une voix
    tremblante les deux pr?venus. A la barre, Guy, le p?re de 71 ans et son
@@ -2830,7 +2830,7 @@ de 2 et 4 mois de prison avec sursis.
 
    Faire des cat?gories raciales pour refuser de louer des biens ? des
    personnes d'origine ?trang?re, [104]ce sont les faits qui sont
-   reproch?s ? David, le g?rant d'une agence immobili?re de Palaiseau et
+   reproch?s ? David, le g?rant d'une agence immobilière de Palaiseau et
    son p?re, d?sormais retrait?. Ils sont respectivement condamn?s ? 2 et
    4 mois de prison avec sursis pour quatre dossiers. Ils devront par
    ailleurs payer 17 000 euros de dommages et int?r?ts aux diff?rentes
@@ -3079,7 +3079,7 @@ Appartement plus disponible
 
    [153]Je m'abonne
 
-   [154]Centre Fran?ais d'Exploitation du Droit de Copie
+   [154]Centre français d'Exploitation du Droit de Copie
    [155]Archives
    [156]2023[157]2022[158]2021[159]2020[160]2019[161]2018[162]2017[163]201
    6
@@ -3584,18 +3584,18 @@ Racisme : L'ONU d?nonce la banalisation du discours haineux en France
    Les difficult?s pour les populations Roms pour acc?der aux aires
    d'accueil en France inqui?te l'ONU. ? Marc Ollivier - Ouest France
 
-Le comit? pour l'?limination de la discriminationraciale de l'ONU va
+Le comit? pour l'élimination de la discriminationraciale de l'ONU va
 examiner durant deux jours le cas de la France. Il a d?nonc? des discours
 haineux envers les minorit?s.
 
-   Le comit? pour l'?limination de la discriminationraciale de l[71]'ONU
+   Le comit? pour l'élimination de la discriminationraciale de l[71]'ONU
    va examiner pendant deux jours, la situation en France.
 
    Jusqu'? mercredi le comit? va se pencher sur les mesures prises par la
    France pour lutter contre les discriminations.
 
    La France est l'un des 177 pays ? avoir ratifi? la[72] Convention
-   internationale sur l'?limination de toutes les formes de discrimination
+   internationale sur l'élimination de toutes les formes de discrimination
    raciale de 1965 et doit, ? ce titre, soumettre des rapports r?guliers
    au comit? de 18 experts ind?pendants internationaux. Le dernier examen
    de la France remonte ? 2010
@@ -3609,9 +3609,9 @@ haineux envers les minorit?s.
 
 Des paroles mais peu d'actions
 
-   Thomas Wagner, le repr?sentant de la mission fran?aise aupr?s de l'ONU
+   Thomas Wagner, le repr?sentant de la mission française aupr?s de l'ONU
    a ouvert les d?bats en rappelant que Fran?ois Hollande dans ses voeux
-   aux Fran?ais, avait plac? ? la lutte contre le racisme et
+   aux français, avait plac? ? la lutte contre le racisme et
    l'antis?mitisme en cause nationale pour l'ann?e 2015 ?.
 
    Le comit? ? ?galement salu? le plan de lutte contre le racisme et
@@ -3621,7 +3621,7 @@ Des paroles mais peu d'actions
    Mais ce plan n'est pas suffisant. Comment la France lutte-t-elle contre
    les discours publics racistes et contre les ghettos ? Quel est l'impact
    des attentats de janvier ? Autant de questions auxquelles les
-   repr?sentants fran?ais devront r?pondre.
+   repr?sentants français devront r?pondre.
 
 Les Roms, grandes victimes de la discrimination
 
@@ -3745,15 +3745,15 @@ Les Roms, grandes victimes de la discrimination
 
    [ ] En cochant cette case, j'accepte et je reconnais avoir pris
    connaissance des [95]conditions g?n?rales d'utilisation et de [96]la
-   politique de donn?es personnelles.
+   politique de données personnelles.
 
      (BUTTON) Envoyer
-   Vos donn?es personnelles font l'objet d'un traitement informatique par
+   Vos données personnelles font l'objet d'un traitement informatique par
    la soci?t? Ouest-France Multim?dia, sur le fondement de l'ex?cution
    d'un contrat et sont utilis?es notamment pour prendre en compte,
    mod?rer et r?pondre ? vos commentaires sur les contenus mis en ligne
    sur le site. Elles seront conserv?es conform?ment ? notre politique de
-   donn?es personnelles, sauf dispositions l?gales particuli?res. Vous
+   données personnelles, sauf dispositions l?gales particuli?res. Vous
    disposez d'un droit d'acc?s, de rectification, d'opposition, de
    limitation et de portabilit?, en vous adressant directement ?
    [97]pdp@sipa.ouest-france.fr ou par courrier ? "D?l?gu? ? la Protection
@@ -3805,13 +3805,13 @@ Les Roms, grandes victimes de la discrimination
        ____________________
      * [ ] En cochant cette case, j'accepte et je reconnais avoir pris
        connaissance des [100]conditions g?n?rales d'utilisation et de
-       [101]la politique de donn?es personnelles.
+       [101]la politique de données personnelles.
      * (BUTTON) Annuler (BUTTON) Publier
-     * Vos donn?es personnelles font l'objet d'un traitement informatique
+     * Vos données personnelles font l'objet d'un traitement informatique
        par la soci?t? Ouest-France Multim?dia, sur le fondement de votre
        consentement et sont utilis?es pour r?pondre ? vos demandes
        d'informations. Elles seront conserv?es pendant 3 ans ? compter de
-       la collecte des donn?es sauf dispositions l?gales particuli?res.
+       la collecte des données sauf dispositions l?gales particuli?res.
        Vous disposez d'un droit d'acc?s, de rectification, d'opposition,
        de limitation et de portabilit?, en vous adressant directement ?
        [102]pdp@sipa.ouest-france.fr ou par courrier ? "D?l?gu? ? la
@@ -3851,13 +3851,13 @@ Les Roms, grandes victimes de la discrimination
        ____________________
      * [ ] En cochant cette case, j'accepte et je reconnais avoir pris
        connaissance des [105]conditions g?n?rales d'utilisation et de
-       [106]la politique de donn?es personnelles.
+       [106]la politique de données personnelles.
      * (BUTTON) Annuler (BUTTON) Publier
-     * Vos donn?es personnelles font l'objet d'un traitement informatique
+     * Vos données personnelles font l'objet d'un traitement informatique
        par la soci?t? Ouest-France Multim?dia, sur le fondement de votre
        consentement et sont utilis?es pour r?pondre ? vos demandes
        d'informations. Elles seront conserv?es pendant 3 ans ? compter de
-       la collecte des donn?es sauf dispositions l?gales particuli?res.
+       la collecte des données sauf dispositions l?gales particuli?res.
        Vous disposez d'un droit d'acc?s, de rectification, d'opposition,
        de limitation et de portabilit?, en vous adressant directement ?
        [107]pdp@sipa.ouest-france.fr ou par courrier ? "D?l?gu? ? la
@@ -4374,7 +4374,7 @@ INJUSTICIABILITE DE LA discriminationraciale EN FRANCE
    Un bilan confondant et sans appel apr?s 9 ans de proc?dure devant la
    cour d'appel de Paris
 
-   Thierry BADJECK, m?tis camerounais par sa m?re et fran?ais par son
+   Thierry BADJECK, m?tis camerounais par sa m?re et français par son
    p?re, bard? de dipl?mes apr?s un cursus pluridisciplinaire de 13 ann?es
    d'?tudes sup?rieures, il affirme avoir ?t? victime de discrimination
    raciale. De celui-ci, son employeur AEROPORTS DE PARIS affirme en effet
@@ -4392,7 +4392,7 @@ INJUSTICIABILITE DE LA discriminationraciale EN FRANCE
    travers divers volets judiciaires et extrajudiciaires en raison des
    obstructions de l'employeur et de ses repr?sentants, des concours dont
    il b?n?ficie de la part de tiers, de la d?mesure d?ploy?e depuis lors
-   pour r?gler cette affaire autrement qu'en droit, du refus syst?matique
+   pour r?gler cette affaire autrement qu'en droit, du refus systématique
    des juridictions saisies d'ordonner l'enqu?te sollicit?e, condition
    pr?alable pour la juger ?quitablement.
 
@@ -4466,7 +4466,7 @@ INJUSTICIABILITE DE LA discriminationraciale EN FRANCE
    salari?s d'avoir ? effectuer leur pr?avis ? dessein de leur interdire
    l'acc?s ? leurs domaines personnels sur le lieu de travail et profitait
    de cet ?loignement pour vider 13 armoires sous clef d'environ 9 m^3
-   d'archives, et soustraire et/ou supprimer les donn?es informatiques
+   d'archives, et soustraire et/ou supprimer les données informatiques
    personnelles des int?ress?s contenues dans 8 espaces-disque ainsi que
    les 4 comptes de messagerie  ?lectronique comprenant leurs
    correspondances, ?tant pr?cis? que l'acc?s ? l'ensemble desdits
@@ -4526,7 +4526,7 @@ INJUSTICIABILITE DE LA discriminationraciale EN FRANCE
    fichiers ne peut ?tre restitu?s d?s lors que le mat?riel informatique
    est utilis? ? des fins professionnels et non personnels et que les
    fichiers stock?s sur le r?seau (y compris sur le r?seau P) doivent ?tre
-   des donn?es professionnelles et non personnelles (...) ; Les demandeurs
+   des données professionnelles et non personnelles (...) ; Les demandeurs
    auraient d'ailleurs port? plainte contre la soci?t? ADP relativement au
    traitement de leurs effets personnel or aucune suite n'a ?t? donn?e ?
    ladite plainte. ?
@@ -4964,7 +4964,7 @@ INJUSTICIABILITE DE LA discriminationraciale EN FRANCE
    consid?rer que parce qu'il est noir, Thierry BADJECK n'est pas un sujet
    de droit en France, et qu'aux yeux de l'?lite dirigeante, bien que de
    peau blanche, ses t?moins m?ritent le m?me sort que lui pour avoir os?
-   d?noncer l'ordre racial syst?mique que chacun se compla?t ? constater
+   d?noncer l'ordre racial systémique que chacun se compla?t ? constater
    et ? d?noncer ? peu de frais pour les besoins de communication
    m?diatique ou de campagnes ?lectorales, mais dont tous s'aveuglent  en
    pr?sence d'un cas concret.
@@ -5081,10 +5081,10 @@ INJUSTICIABILITE DE LA discriminationraciale EN FRANCE
 
    Journal -- France
    [80]Chlord?cone aux Antilles : le non-lieu judiciaire alimente la
-   d?fiance vis-?-vis de l'?tat fran?ais
+   d?fiance vis-?-vis de l'?tat français
 
    Le non-lieu rendu dans l'affaire de ce pesticide qui a empoisonn? les
-   Antilles fran?aises pour plusieurs si?cles accentue le sentiment
+   Antilles françaises pour plusieurs si?cles accentue le sentiment
    d'impuissance g?n?ralis?e face ? un fl?au accus? de provoquer des
    cancers de la prostate. La r?ponse des autorit?s semble bien
    insuffisante.
@@ -5192,7 +5192,7 @@ INJUSTICIABILITE DE LA discriminationraciale EN FRANCE
 
    (BUTTON) Fermer le message
 
-   Votre choix pour vos donn?es
+   Votre choix pour vos données
 
    Pour mettre le site et l'application mobile de Mediapart ? votre
    disposition nous utilisons des cookies ou technologies similaires qui
@@ -5599,7 +5599,7 @@ discriminationraciale ? Airbus France: l'audience renvoy?e au 10 juillet
 
    Location Toulouse - M?tro 3 Cocus. Dans un collectif avec piscine,
    maison 4[...]
-   Toutes les annonces immobili?res de Toulouse
+   Toutes les annonces immobilières de Toulouse
    [52]Achat de maison
    [53]Achat d'appartement
    [54]Location maison
@@ -5634,8 +5634,8 @@ discriminationraciale ? Airbus France: l'audience renvoy?e au 10 juillet
    marie31000 Il y a 12 ann?es Le 21/02/2010 ? 12:34
 
    aide juridictionnelle
-   on paye des imp?ts pour que tous citoyens fran?ais puissent obtenir
-   l'?galit? devant le droit !
+   on paye des imp?ts pour que tous citoyens français puissent obtenir
+   l'égalitédevant le droit !
    tous simplement, loyale la r?publique dans ses ?crits. l'application
    restent ? l'appr?ciation du procureur d'instruire ou classer l'affaire
    en fonction de l'appr?ciation et commentaires du policier (ce que
@@ -5720,7 +5720,7 @@ Signaler un abus
      * 3 [72]F?tes et festivals. D?m?nagement du festival "Les
        D?ferlantes" ? Perpignan : la R?gion Occitanie annonce vouloir
        baisser ses subventions
-     * 4 [73]Chasse - P?che. Sondage : pr?s de 8 Fran?ais sur 10 veulent
+     * 4 [73]Chasse - P?che. Sondage : pr?s de 8 français sur 10 veulent
        interdire la chasse le dimanche
      * 5 [74]Sant?. TEMOIGNAGE. Gr?ve des m?decins : "On appelle ? l'aide,
        mais ce ne sont pas des bou?es que l'on nous envoie, ce sont des
@@ -5935,7 +5935,7 @@ References
 
    [ ]
    [ ]
-   Fran?ais
+   français
    Ouvrir le Menu Traduction
    Fermer
    Fermer le Menu Traduction
@@ -5944,7 +5944,7 @@ References
    [5]a+l+e+r+b+y+3+tm
    [6]Deutsch
    [7]Espa?ol
-   [8]Fran?ais
+   [8]français
    [9](J\$B"L(B
    [10]Portugu?s
    [11]Russkij
@@ -5967,8 +5967,8 @@ Entreprises et les Droits de l'Homme
 
    Afficher toutes les langues
    ?
-   Vous naviguez sur notre site en Fran?ais. Par d?faut, nous n'affichons
-   donc que le contenu en Fran?ais. Si vous pr?f?rez afficher tout le
+   Vous naviguez sur notre site en français. Par d?faut, nous n'affichons
+   donc que le contenu en français. Si vous pr?f?rez afficher tout le
    contenu disponible, quelle que soit la langue, veuillez modifier ce
    param?tre.
    [21]Accueil [22]Derni?res actualit?s
@@ -5982,13 +5982,13 @@ Entreprises et les Droits de l'Homme
 
 Centre de Ressources sur les Entreprises et les Droits de l'Homme
 
-   [24]English [25]a+l+e+r+b+y+3+tm [26]Deutsch [27]espa?ol [28]fran?ais
+   [24]English [25]a+l+e+r+b+y+3+tm [26]Deutsch [27]espa?ol [28]français
    [29](J\$B"L(B [30]Portugu?s [31]Russkij [32]? [33]?
 
    Afficher toutes les langues
    ?
-   Vous naviguez sur notre site en Fran?ais. Par d?faut, nous n'affichons
-   donc que le contenu en Fran?ais. Si vous pr?f?rez afficher tout le
+   Vous naviguez sur notre site en français. Par d?faut, nous n'affichons
+   donc que le contenu en français. Si vous pr?f?rez afficher tout le
    contenu disponible, quelle que soit la langue, veuillez modifier ce
    param?tre.
    ____________________ (BUTTON)
@@ -6007,7 +6007,7 @@ Centre de Ressources sur les Entreprises et les Droits de l'Homme
           Nouvel Obs
 
    [42]Foncia
-   [43]Gestion immobili?re
+   [43]Gestion immobilière
    [44]France
    [45]Discrimination fond?e sur la race/? l'ethnie/aux castes/aux
    origines [46]Probl?mes culturels [47]Logement [48]Adequate Living
@@ -6029,7 +6029,7 @@ Centre de Ressources sur les Entreprises et les Droits de l'Homme
    [50]Voir tous les tags
    Voir tous les tags
    [51]Foncia
-   [52]Gestion immobili?re
+   [52]Gestion immobilière
    [53]France
    [54]Discrimination fond?e sur la race/? l'ethnie/aux castes/aux
    origines [55]Probl?mes culturels [56]Logement [57]Adequate Living
@@ -6044,9 +6044,9 @@ Centre de Ressources sur les Entreprises et les Droits de l'Homme
    nationalit? des candidats ? la location parmi les crit?res de
    choix...Un porte-parole de Foncia a d'abord affirm? au Canard que ce
    document ?tait "un faux", destin? ? "nuire au premier administrateur de
-   biens fran?ais" avant que le PDG Jacky Lorenzetti...admette que Foncia
+   biens français" avant que le PDG Jacky Lorenzetti...admette que Foncia
    "ne loue pas ? des ?trangers qui ne donnent pas une garantie solvable
-   fran?aise".
+   française".
 
   Chronologie
 
@@ -6102,13 +6102,13 @@ Derni?res actualit?s
 Centre de Ressources sur les
 Entreprises et les Droits de l'Homme
 
-   [67]?v?nements | [68]Emplois | [69]M?dias | [70]Utilisation des donn?es
+   [67]?v?nements | [68]Emplois | [69]M?dias | [70]Utilisation des données
    et cookies | [71]Contactez-nous
 
    Clause de non-responsabilit? : Le Centre de ressources sur les
    entreprises et les droits de l'homme (BHRRC) et ses partenaires ne
    prennent pas position sur les diff?rents points de vue pr?sent?s dans
-   les liens au sein de la base de donn?es, et nous ne pouvons pas non
+   les liens au sein de la base de données, et nous ne pouvons pas non
    plus garantir l'exactitude factuelle de tous les articles et rapports
    que nous mettons ? disposition. La pr?sence de ces liens ne constitue
    pas une approbation des sites web auxquels ils m?nent ou des
@@ -6209,7 +6209,7 @@ References
   82. https://www.business-humanrights.org/fr/feeds/latest-news/3/
    #[1]Au coeur de l'antiracisme ? Flux [2]Au coeur de l'antiracisme ?
    Flux des commentaires [3]Au coeur de l'antiracisme ? La r?invention
-   fran?aise de la discriminationraciale (3/7) Flux des commentaires
+   française de la discriminationraciale (3/7) Flux des commentaires
    [4]Avis de temp?te sur l'universalisme (2/7) [5]La coloniale ?
    perp?tuit? (4/7) [6]alternate [7]alternate
 
@@ -6221,12 +6221,12 @@ References
 
    Publi? le [10]22 juin 202025 juin 2020 par [11]Emmanuel Debono
 
-La r?invention fran?aise de la discriminationraciale (3/7)
+La r?invention française de la discriminationraciale (3/7)
 
    Le BIG Maze au National Building Museum de Washington ([12]Photo
    originale ? Mark Andre - Retouche JV)
 
-   Contrairement ? la formule consacr?e, la R?publique fran?aise n'est pas
+   Contrairement ? la formule consacr?e, la R?publique française n'est pas
    toujours ? aveugle ? la couleur ?. L'histoire coloniale l'a amplement
    d?montr?, soulignant les tensions qui peuvent se nouer autour des
    pr?tentions ? l'universalisme. Citoyennet? incompl?te, refus?e,
@@ -6254,7 +6254,7 @@ La r?invention fran?aise de la discriminationraciale (3/7)
    socle des pr?jug?s et se traduit par des discours et des actes
    agressifs. Quand, le 21 avril 1939, le gouvernement Daladier ins?re
    dans la loi sur la libert? de la presse, pour la premi?re fois dans la
-   l?gislation fran?aise, des dispositions pour sanctionner l'injure et la
+   l?gislation française, des dispositions pour sanctionner l'injure et la
    diffamation ? raciale ? et religieuse (d?cret-loi Marchandeau), la
    discrimination, dans son acception actuelle, reste de fait ignor?e.
 
@@ -6263,7 +6263,7 @@ La r?invention fran?aise de la discriminationraciale (3/7)
    le 27 octobre 1946, y fait allusion dans son pr?ambule : ? Nul ne peut
    ?tre l?s?, dans son travail ou son emploi, en raison de ses origines,
    de ses opinions ou de ses croyances. ? La m?me consid?ration s'applique
-   ? l'Union fran?aise, l'organisation politique cr??e par la
+   ? l'Union française, l'organisation politique cr??e par la
    Constitution, qui regroupe la France et ses territoires d'outre-mer.
 
    Le ministre de la France d'outre-mer, Paul Coste-Floret, prend la
@@ -6289,7 +6289,7 @@ La r?invention fran?aise de la discriminationraciale (3/7)
    En 1947, l'Assembl?e nationale compte 75 repr?sentants d'outre-mer sur
    un total de 619. Le Conseil de la R?publique (S?nat) en compte 51 sur
    315. La d?nonciation des discriminations dans les territoires de
-   l'Union fran?aise y est d?battue. Sans ?tablir ici la liste des tr?s
+   l'Union française y est d?battue. Sans ?tablir ici la liste des tr?s
    nombreuses prises de paroles sur ce sujet, notons qu'elles pointent
    l'in?galit? de traitement dans ce qu'elle a de plus concret, comme le
    fait Ouezzin Coulibaly, d?put? de la C?te d'Ivoire, le 12 avril 1949 :
@@ -6317,7 +6317,7 @@ La r?invention fran?aise de la discriminationraciale (3/7)
    les deux assembl?es parlementaires, ? un rythme toutefois moins
    fr?quent car les d?put?s du territoire ne sont pas originaires
    d'outre-mer. Ce sont souvent les communistes qui montent au cr?neau,
-   soutenus par ceux de l'Union fran?aise, pr?occup?s par les conditions
+   soutenus par ceux de l'Union française, pr?occup?s par les conditions
    de vie de la main d'oeuvre dans l'Hexagone.
 
    D'autres assembl?es accueillent ces d?bats. Le 15 juillet 1949, au
@@ -6325,7 +6325,7 @@ La r?invention fran?aise de la discriminationraciale (3/7)
    d?plore que ? les discriminations raciales et les mesures vexatoires
    demeurent ? et ?met le voeu ? que le salaire attribu? ? un travailleur
    alg?rien soit, pour un travail identique ?gal ? celui attribu? ? un
-   travailleur fran?ais. ? Le gouvernement campe sur des positions
+   travailleur français. ? Le gouvernement campe sur des positions
    r?publicaines, ? la mani?re du ministre du Travail et de la s?curit?
    sociale, Daniel Mayer, le 28 juillet 1948, ? l'Assembl?e nationale :
    ? Je suis personnellement, comme tous les membres du Gouvernement,
@@ -6364,7 +6364,7 @@ La r?invention fran?aise de la discriminationraciale (3/7)
 
    Les ?lus r?clament de mani?re r?currente une l?gislation pour agir sur
    ce terrain, dans les colonies comme en m?tropole. Il serait n?cessaire,
-   l? aussi, d'effectuer un relev? syst?matique de ces demandes qui
+   l? aussi, d'effectuer un relev? systématique de ces demandes qui
    contribuent ? conscientiser le sujet. Ces revendications sont aussi
    celles d'associations antiracistes, du MRAP en particulier, qui n'a de
    cesse, ? partir de la fin des ann?es 1950, de r?clamer l'amendement de
@@ -6374,7 +6374,7 @@ La r?invention fran?aise de la discriminationraciale (3/7)
 
    Un projet gouvernemental (1959)
 
-   Il serait inexact de croire que le gouvernement fran?ais ne se serait
+   Il serait inexact de croire que le gouvernement français ne se serait
    berc? que de beaux discours sur ce plan. Le 9 novembre 1959, Edmond
    Michelet, ministre de la Justice, d?pose sur le bureau de l'Assembl?e
    nationale, au nom du gouvernement Debr?, un projet de loi contre la
@@ -6389,8 +6389,8 @@ La r?invention fran?aise de la discriminationraciale (3/7)
    auquel il pouvait pr?tendre. ?
 
    Le b?n?fice de la loi est ?tendu ? l'ensemble des populations de la
-   Communaut? fran?aise, l'espace politique qui a succ?d? ? l'Union
-   fran?aise, et qui englobe les territoires d'outre-mer alors engag?s
+   Communaut? française, l'espace politique qui a succ?d? ? l'Union
+   française, et qui englobe les territoires d'outre-mer alors engag?s
    dans le processus de d?colonisation. La fin de cette association
    politique, fin 1960, ne freine par les ardeurs du gouvernement. ?
    l'automne 1961, le texte est sur le point d'?tre soumis ? la discussion
@@ -6403,13 +6403,13 @@ La r?invention fran?aise de la discriminationraciale (3/7)
    Au coeur de l'ambivalence
 
    Il faudra attendre le 1^er juillet 1972 pour que la l?gislation
-   fran?aise int?gre la question des discriminations. Il s'ensuivra de
+   française int?gre la question des discriminations. Il s'ensuivra de
    multiples actions en justice et des condamnations effectives,
    comment?es par la presse. En attendant, la r?alit? discriminatoire est
    observ?e par les militants antiracistes comme par une partie de la
    soci?t? civile, qui s'offusque de ces traitements injustes. La
    s?gr?gation aux ?tats-Unis ?claire d'une lumi?re crue une probl?matique
-   qu'une large partie de la population fran?aise ne veut pas voir
+   qu'une large partie de la population française ne veut pas voir
    s'installer en France. Il suffit d'observer les r?actions ?
    [15]l'affaire de la piscine de Saint-Claude (Jura), au printemps 1964,
    pour s'en convaincre. L'interdiction, par voie d'arr?t? municipal, de
@@ -6437,7 +6437,7 @@ La r?invention fran?aise de la discriminationraciale (3/7)
 
    Cat?gories[18]Non class? ?tiquettes[19]antiracisme, [20]discrimination
 
-4 r?ponses sur "La r?invention fran?aise de la discriminationraciale (3/7)"
+4 r?ponses sur "La r?invention française de la discriminationraciale (3/7)"
 
     1.
    Tristan dit :
@@ -6455,7 +6455,7 @@ La r?invention fran?aise de la discriminationraciale (3/7)
    Palmier dit :
        [23]23 juin 2020 ? 13:23
        Traditionnellement, la France est aveugle aux couleurs. Du moins,
-       une partie des Fran?ais.
+       une partie des français.
     3.
    Yves oua dit :
        [24]25 juin 2020 ? 16:53
@@ -6484,7 +6484,7 @@ Articles r?cents
        R?publique (6/7)
      * [32]La ? blanchit? ? ou l'incrimination ? fleur de peau (5/7)
      * [33]La coloniale ? perp?tuit? (4/7)
-     * [34]La r?invention fran?aise de la discriminationraciale (3/7)
+     * [34]La r?invention française de la discriminationraciale (3/7)
      * [35]Avis de temp?te sur l'universalisme (2/7)
      * [36]L' ? antiracisme politique ? face ? l'Histoire (1/7)
      * [37]?tre ou ne pas ?tre antiraciste
@@ -6723,16 +6723,16 @@ References
 
 Blog
 
-La Journ?e internationale pour l'?limination de la discriminationraciale
+La Journ?e internationale pour l'élimination de la discriminationraciale
 
    15 mars 2021
 
    friends
 
 
-L'?limination de la discriminationraciale
+l'élimination de la discriminationraciale
 
-   La Journ?e internationale pour l'?limination de la discrimination
+   La Journ?e internationale pour l'élimination de la discrimination
    raciale est c?l?br?e chaque ann?e le 21 mars. Ce jour-l?, en 1960, la
    police ouvre le feu et tue 69 personnes lors d'une manifestation
    pacifique ? Sharpeville, en Afrique du Sud, contre les lois de
@@ -6757,10 +6757,10 @@ L'?limination de la discriminationraciale
 
 Sources :
 
-   [35]Nations Unies - Journ?e internationale pour l'?limination de la
+   [35]Nations Unies - Journ?e internationale pour l'élimination de la
    discriminationraciale
 
-   [36]Unesco - Journ?e internationale pour l'?limination de la
+   [36]Unesco - Journ?e internationale pour l'élimination de la
    discriminationraciale
 
    [37]Journ?e internationale
@@ -6789,7 +6789,7 @@ Sources :
      * [47]Statuts et R?glements
      * [48]Mentions L?gales
      * [49]Contact
-     * [50]Traitement des donn?es
+     * [50]Traitement des données
      * [51]R?clamation
 
    Nous Contacter
@@ -7152,7 +7152,7 @@ Son entourage
      * [78]Mentions l?gales
      * [79]Publicit?
      * ? Prisma Media 2023
-     * [80]Charte pour la protection des donn?es
+     * [80]Charte pour la protection des données
      * (BUTTON) Param?trer vos cookies
      * [81]Nos abonnements Magazines
      * [82]?quipe ?ditoriale
@@ -7483,7 +7483,7 @@ Newsletter
    ____________________
    ____________________
 
-   En cliquant sur "M'abonner", j'accepte que les donn?es recueillies par
+   En cliquant sur "M'abonner", j'accepte que les données recueillies par
    Radio France soient destin?es ? l'envoi par courrier ?lectronique de
    contenus et d'informations relatifs aux programmes. (BUTTON) Plus
    d'informations.
@@ -7510,7 +7510,7 @@ Newsletter
    ____________________
    ____________________
 
-   En cliquant sur "M'abonner", j'accepte que les donn?es recueillies par
+   En cliquant sur "M'abonner", j'accepte que les données recueillies par
    Radio France soient destin?es ? l'envoi par courrier ?lectronique de
    contenus et d'informations relatifs aux programmes. (BUTTON) Plus
    d'informations.
@@ -7719,7 +7719,7 @@ References
    Les enjeux contemporains d?crypt?s par nos expert?e?s
      * [25]Travail
           + [26]Droit du travail
-          + [27]Mixit? et ?galit? professionnelle
+          + [27]Mixit? etégalitéprofessionnelle
           + [28]Formation (professionnelle)
           + [29]Le futur du travail
      * [30]Sciences et techniques
@@ -7821,7 +7821,7 @@ Dialogue social
    Ainsi, en mati?re de dialogue social, dans toute entreprise o? est
    pr?sente une organisation syndicale repr?sentative, l'employeur et le
    syndicat doivent n?gocier un accord d'entreprise en vue d'assurer
-   l'?galit? professionnelle entre les femmes et les hommes.
+   l'égalitéprofessionnelle entre les femmes et les hommes.
 
    Un r?gime juridique complet est pr?vu (contenu des n?gociations,
    p?riodicit?, informations ? communiquer par l'employeur aux d?l?gations
@@ -7843,7 +7843,7 @@ Dialogue social
    Concernant les proc?dures d'information et de consultation des ?lus du
    personnel, le comit? ?conomique et social doit recevoir de l'employeur,
    dans toute entreprise d'au moins 50 salari?s, des informations,
-   notamment dans la base des donn?es ?conomiques et sociales, concernant
+   notamment dans la base des données ?conomiques et sociales, concernant
    la situation compar?e des femmes et des hommes dans l'entreprise sur de
    nombreux sujets (r?mun?rations et d?roulements de carri?re notamment).
 
@@ -7947,7 +7947,7 @@ Harmonisation n?cessaire
    n?cessaire de proc?der ? l'harmonisation du droit, ? son ? ?galisation
    dans le progr?s ?, selon la belle formule du droit europ?en.
 
-   Une telle ?volution est indispensable notamment pour les Fran?ais,
+   Une telle ?volution est indispensable notamment pour les français,
    jeunes et moins jeunes, dits ? d'origine ?trang?re ?. Apr?s leurs
    ?tudes et leurs formations, avec leurs titres et leurs dipl?mes, les
    entreprises doivent permettre ? ces personnes comme aux autres d'y
@@ -7983,7 +7983,7 @@ L'auteur
 Dans la m?me rubrique
 
      * [81]Droit du travail
-     * [82]Mixit? et ?galit? professionnelle
+     * [82]Mixit? etégalitéprofessionnelle
      * [83]Formation (professionnelle)
      * [84]Le futur du travail
 
@@ -8018,7 +8018,7 @@ Dans la m?me rubrique
 
      * [104]Travail
           + [105]Droit du travail
-          + [106]Mixit? et ?galit? professionnelle
+          + [106]Mixit? etégalitéprofessionnelle
           + [107]Formation (professionnelle)
           + [108]Le futur du travail
      * [109]Sciences et techniques
@@ -8245,7 +8245,7 @@ discriminationraciale dans l'offre d'un logement
    Un rapport de SOS racisme, qui a men? pendant un an une vaste op?ration
    de testing dans la r?gion parisienne r?v?le qu'une personne per?ue
    comme ayant une origine ?trang?re part avec moins de chances qu'une
-   personne per?ue comme "d'origine fran?aise ancienne" pour louer un
+   personne per?ue comme "d'origine française ancienne" pour louer un
    logement en ?le de France.
 
    Rappelons que pour s?lectionner un locataire parmi les candidats, le
@@ -8260,7 +8260,7 @@ discriminationraciale dans l'offre d'un logement
      * Origine g?ographique, nom de famille, lieu de r?sidence
      * Appartenance ou non-appartenance, r?elle ou suppos?e, ? une ethnie
        ou ? une nation
-     * Langue parl?e (autre que le fran?ais),
+     * Langue parl?e (autre que le français),
      * Sexe ou identit? de genre
      * Situation de famille, grossesse ou maternit?
      * Orientation sexuelle ou moeurs
@@ -8312,7 +8312,7 @@ discriminationraciale dans l'offre d'un logement
    de condamner un propri?taire et son agence ? 3.000 euros chacun pour
    discrimination dans l'offre ou la fourniture d'un bien ou d'un service
    en raison de l'origine, de l'ethnie ou de la nationalit?. Un
-   bailleur avait charg? une agence immobili?re de rechercher des
+   bailleur avait charg? une agence immobilière de rechercher des
    locataires et cette derni?re, pi?g?e par un enregistrement, avait avou?
    ne pas pouvoir proposer cet appartement " ? de gens de couleur ".
 
@@ -8370,7 +8370,7 @@ annule le licenciement d'une salari?e
    l'exp?rimentation avalis?e par l'ANSM aux espoirs des patients >
 
    [24]H?berg? par Overblog [25]Top articles [26]Pages [27]Contact
-   [28]Signaler un abus [29]C.G.U. [30]Cookies et donn?es personnelles
+   [28]Signaler un abus [29]C.G.U. [30]Cookies et données personnelles
    [31]Pr?f?rences cookies [32]Voir le profil de thierry vallat sur le
    portail Overblog
 
@@ -8460,7 +8460,7 @@ D?partement f?d?ral de l'int?rieur
                  climatologie
                o [29]Swissmedic: Institut suisse des produits
                  th?rapeutiques
-               o [30]Bureau f?d?ral de l'?galit? entre femmes et hommes
+               o [30]Bureau f?d?ral de l'égalitéentre femmes et hommes
                  BFEG
 
 Racisme et discriminationraciale : d?finitions
@@ -8599,7 +8599,7 @@ Services sp?cialis?s
 
      * [68]Autorit? f?d?rale de surveillance des fondations
 
-     * [69]Bureau f?d?ral de l'?galit? pour les personnes handicap?es BFEH
+     * [69]Bureau f?d?ral de l'égalitépour les personnes handicap?es BFEH
 
      * [70]Service de lutte contre le racisme SLR
 
@@ -8783,7 +8783,7 @@ Afro-Am?ricains, d?nonce le "Black Power"
 
    Freda Josephine McDonald, de son vrai nom, grandit ? Saint-Louis, dans
    le Missouri, dans une soci?t? s?gr?gationniste [26]o? elle vit un
-   v?ritable enfer. Devenue fran?aise en 1937, Jos?phine Baker n'a jamais
+   v?ritable enfer. Devenue française en 1937, Jos?phine Baker n'a jamais
    oubli? les ?tats-Unis. En 1951, apr?s des ann?es d'absence, elle d?bute
    une tourn?e ? travers le pays. Premi?re escale : la Floride. Devant les
    m?dias, la chanteuse exige que les Noirs puissent assister ? ses
@@ -8799,7 +8799,7 @@ Afro-Am?ricains, d?nonce le "Black Power"
    Jos?phine Baker poursuit son combat pour les droits civiques des
    Afro-am?ricains lors de la c?l?bre marche de 1963 ? Washington. Ce
    jour-l?, elle est la seule femme ? s'exprimer aux c?t?s de Martin
-   Luther King, militant pour la paix et l'?galit? raciale. Quelques
+   Luther King, militant pour la paix et l'égalitéraciale. Quelques
    ann?es plus tard, Jos?phine Baker, pourtant ruin?e, ach?te des billets
    d'avion pour assister avec ses enfants aux obs?ques de Bobby Kennedy,
    engag? dans la lutte contre les discriminations.
@@ -8961,7 +8961,7 @@ Autour de Jos?phine Baker
      * [50]Mentions L?gales
      * [51]Publicit?
      * [52]Gala sur votre Mobile
-     * [53]Protection des donn?es
+     * [53]Protection des données
      * (BUTTON) Param?trer vos cookies
      * [54]Nos Abonnements Magazines
      * [55]Abonnement newsletter
@@ -9715,7 +9715,7 @@ References
      * [329]COMPRENDRE LA PAUVRET?
        megamenu-image-1
        Alors que la lutte contre la pauvret? et le partage des fruits de
-       la croissance ?conomique posent d'immenses difficult?s, les donn?es
+       la croissance ?conomique posent d'immenses difficult?s, les données
        et les travaux de recherche permettent de fixer des priorit?s, de
        mutualiser les connaissances sur les solutions efficaces et de
        mesurer les progr?s accomplis.
@@ -9782,7 +9782,7 @@ References
      * [370]Portugu?s
 
    Cette page en :_
-     * Fran?ais
+     * français
      * [371]English
      * [372]Espa?ol
      * [373]a+l+e+r+b+y+tm
@@ -9853,7 +9853,7 @@ Combattre le racisme et la discriminationraciale
    ? Nous devons trouver des actions concr?tes, dans notre institution,
    nos programmes et nos communaut?s, pour faire ce qui est en notre
    pouvoir pour mettre fin ? ce mal pernicieux, y compris promouvoir
-   l'?galit? raciale au sein du Groupe de la Banque, int?grer la race et
+   l'égalitéraciale au sein du Groupe de la Banque, int?grer la race et
    l'appartenance ethnique dans notre travail de d?veloppement et soutenir
    nos communaut?s locales ? Washington et partout dans le monde. ?
    Image
@@ -9863,7 +9863,7 @@ Combattre le racisme et la discriminationraciale
 
    Enqu?te aupr?s du personnel sur la question raciale
 
-   Afin de recueillir des donn?es probantes pour guider son travail, le
+   Afin de recueillir des données probantes pour guider son travail, le
    Groupe de travail a lanc? en juillet 2020 la toute premi?re enqu?te
    aupr?s du personnel du Groupe de la Banque consacr?e sp?cifiquement ?
    la question de la race, avec l'aide de PricewaterhouseCoopers.
@@ -9934,7 +9934,7 @@ Combattre le racisme et la discriminationraciale
    desquelles il m?ne ses activit?s. Parmi les initiatives en cours, le
    programme de dons en milieu de travail, baptis? [397]? Community
    Connections ?, a augment? le nombre d'organismes de bienfaisance
-   participants qui se consacrent ? l'?limination du racisme et ? la
+   participants qui se consacrent ? l'élimination du racisme et ? la
    multiplication des opportunit?s ?conomiques pour les Noirs, les
    populations autochtones et les personnes de couleur.
 
@@ -9963,7 +9963,7 @@ Combattre le racisme et la discriminationraciale
    Bien que le changement de culture et de comportement prenne du temps,
    ces efforts s'inscrivent dans un engagement ? long terme pour le
    progr?s. Comme le dit Sandie Okoro, ? nous devons tous faire front
-   commun - avec la communaut? internationale - afin que l'?galit? raciale
+   commun - avec la communaut? internationale - afin que l'égalitéraciale
    fasse partie int?grante de notre institution et de nos communaut?s, o?
    chacun de nous peut se sentir respect?, valoris? et en s?curit?. ?
 
@@ -9999,7 +9999,7 @@ LIENS UTILES
    newsletter
    [415]S'abonner
    Cette page en :
-   (BUTTON) Fran?ais
+   (BUTTON) français
      * [416]English
      * [417]Espa?ol
      * [418]e+r+b+y+
@@ -10521,9 +10521,9 @@ Besoin d'un avocat ?
    [21]Trouver mon Avocat
 
    La discriminationraciale contrevient au principe fondamental de
-   l'?galit? juridique des hommes. L'article 1 de la D?claration des
+   l'égalitéjuridique des hommes. L'article 1 de la D?claration des
    Droits de l'Homme et du Citoyen de 1789, int?gr?e ? la Constitution
-   fran?aise, ?nonce que ? les hommes naissent et demeurent libres et
+   française, ?nonce que ? les hommes naissent et demeurent libres et
    ?gaux en droit ?.
 
 La discriminationraciale : une r?alit? en France
@@ -10545,14 +10545,14 @@ La discriminationraciale : une r?alit? en France
    Un rapport de Human Right Watch s'en prenait la m?me ann?e aux
    contr?les au faci?s. Une s?rie d'entretiens men?s aupr?s de la
    population montrait en effet que les contr?les d'identit? de la police
-   fran?aise concernaient davantage les personnes ? non-blanches ?. Un
+   française concernaient davantage les personnes ? non-blanches ?. Un
    rapport qui fait ?cho aux chiffres du CNRS publi?s en 2009 selon
    lesquels les Arabes auraient pr?s de 8 fois plus de chances d'?tre
    contr?l?s que les Blancs et les Noirs six fois plus. Des chiffres
    encore plus ?difiants concernent les fouilles.
 
    La discriminationraciale concerne ?galement l'embauche. Une partie de
-   la population fran?aise, issue en g?n?ral de l'immigration r?cente,
+   la population française, issue en g?n?ral de l'immigration r?cente,
    s'estime victime d'injustice et de stigmatisation ? l'embauche. Toutes
    les ?tudes men?es sur ce sujet confirment ce sentiment. Des
    [22]discriminations ? l'embauche qui se traduisent par des taux
@@ -10612,7 +10612,7 @@ Fouille au corps abusive
 Navigation de l'article
 
    [32]Aides et financements pour le permis de conduire
-   [33]Expulsion : mesures d'?loignement des ?trangers en droit fran?ais
+   [33]Expulsion : mesures d'?loignement des ?trangers en droit français
 
 Besoin d'un avocat ?
 
@@ -10637,10 +10637,10 @@ Vol aggrav? : quelles sont les circonstances aggravantes ?
 
 Qui paie lors d'une collision entre une voiture et une moto ?
 
-   [41]La non-assistance ? personne en danger en droit fran?ais
+   [41]La non-assistance ? personne en danger en droit français
    [42]
 
-La non-assistance ? personne en danger en droit fran?ais
+La non-assistance ? personne en danger en droit français
 
    [43]D?nonciation calomnieuse abusive
    [44]
@@ -10715,7 +10715,7 @@ Suivez-nous
    ain=34794
 
    Nous avons modifi? notre site au regard des nouvelles normes relatives
-   au traitement des donn?es personnelles (RGPD), [70]consultez notre
+   au traitement des données personnelles (RGPD), [70]consultez notre
    politique de confidentialit?. Les cookies que nous posons sur ce site
    servent ? vous proposer une navigation adapt?e ? vos centres d'int?r?ts
    et ? nous permettre de r?aliser des statistiques de visites.
@@ -10835,13 +10835,13 @@ References
    La eliminaci?n de la discriminaci?n racial
 
 
-   Le 21 mars ?tait la Journ?e internationale pour l'?limination de la
+   Le 21 mars ?tait la Journ?e internationale pour l'élimination de la
    discriminationraciale. Nous pourrions penser qu'avec le temps, la
    discriminationraciale n'est plus un sujet de pr?occupation, car la
    soci?t? a ?volu? positivement, mais la v?rit? est qu'elle s'est
    aggrav?e ces derni?res ann?es.
 
-   La Convention internationale sur l'?limination de la discrimination
+   La Convention internationale sur l'élimination de la discrimination
    raciale, a d?fini la discriminationraciale comme ? toute distinction,
    exclusion, restriction ou pr?f?rence fond?e sur la race, la couleur,
    l'ascendance ou l'origine nationale ou ethnique, qui a pour but ou pour
@@ -10852,20 +10852,20 @@ References
    L'Assembl?e g?n?rale des Nations unies a soulign? que toutes les
    doctrines de sup?riorit? raciale cachent des th?ories scientifiquement
    fausses, condamnables, socialement injustes et dangereuses.
-   L'?limination de la discriminationraciale est n?cessaire pour que des
+   l'élimination de la discriminationraciale est n?cessaire pour que des
    millions de personnes, confront?es ? des probl?mes quotidiens dus au
    racisme, puissent vivre dans la dignit?. Si l'on regarde les [21]30
-   articles des droits de l'homme, le droit ? l'?galit? et ? la
+   articles des droits de l'homme, le droit ? l'égalitéet ? la
    non-discrimination est explicitement reconnu.
 
-ORIGINE DE LA JOURN?E INTERNATIONALE POUR L'?LIMINATION DE LA DISCRIMINATION
+ORIGINE DE LA JOURN?E INTERNATIONALE POUR l'élimination DE LA DISCRIMINATION
 RACIALE
 
    Le 21 mars 1960, ? Sharpeville, en Afrique du Sud, la police a tu? 69
    personnes lors d'une manifestation pacifique contre l'apartheid. On se
    souvient de ce jour comme du massacre de Sharpeville. C'est le 26
    octobre 1966 que l'Assembl?e g?n?rale des Nations unies a proclam? le
-   21 mars Journ?e internationale pour l'?limination de la discrimination
+   21 mars Journ?e internationale pour l'élimination de la discrimination
    raciale, dans le but d'exhorter la communaut? internationale ? ?liminer
    toutes formes de discriminationraciale.
 
@@ -10880,7 +10880,7 @@ RACIALE
 
 3 CAUSES DE LA discriminationraciale
 
-   L'?limination de la discriminationraciale commence par la
+   l'élimination de la discriminationraciale commence par la
    compr?hension des causes qui ont conduit une partie de la soci?t? ?
    penser et ? agir de mani?re aussi discriminatoire. Il est indispensable
    de les conna?tre pour pouvoir agir. Voici les plus courantes :
@@ -10915,7 +10915,7 @@ Id?ologie
    environnements o? l'esclavage est encore pratiqu?. C'est le cas de
    certaines industries dans de nombreux pays. De plus, l'id?e que
    certaines personnes sont meilleures que d'autres contribue ? la guerre.
-   L'?limination de la discriminationraciale commence par l'?ducation ?
+   l'élimination de la discriminationraciale commence par l'?ducation ?
    l'?galit?.
 
 Les circonstances socio-?conomiques
@@ -11155,7 +11155,7 @@ L'interdiction de la discriminationraciale au travail
    suppos?e, ? une ethnie, une nation ou une pr?tendue race, des
    convictions religieuses, du nom de famille, du lieu de r?sidence ou de
    la domiciliation bancaire, ou encore de la capacit? ? s'exprimer dans
-   une langue autre que le fran?ais.
+   une langue autre que le français.
 
    Aussi, dans la fonction publique la discrimination est prohib?e par
    l'article 6 de la loi n$B!k(B 83-634 du 13 juillet 1983 dite "Le Pors". La
@@ -11182,7 +11182,7 @@ Caract?risation de la discriminationraciale au travail
      * l'origine g?ographique, le nom de famille, le lieu de r?sidence
      * l'appartenance ou la non-appartenance, r?elle ou suppos?e, ? une
        ethnie ou ? une nation
-     * le fait de parler une autre langue que le fran?ais
+     * le fait de parler une autre langue que le français
      * les convictions religieuses
 
    La discrimination est directe lorsque la personne est trait?e de
@@ -11273,7 +11273,7 @@ Que faire en cas de discriminationraciale au travail ? ? qui s'adresser ?
 
    Tout r?cemment, par jugement en date du 17 d?cembre 2019, le conseil
    des prud'hommes de Paris vient de reconna?tre et de condamner pour la
-   premi?re fois la ? discriminationraciale et syst?mique ? ? l'encontre
+   premi?re fois la ? discriminationraciale et systémique ? ? l'encontre
    de 25 travailleurs sans papiers maliens employ?s dans le secteur du
    b?timent. Assist?es par la CGT Paris et le D?fenseur des droits, les
    victimes obtiennent 34 000 euros de dommages et int?r?ts et sont
@@ -11452,7 +11452,7 @@ References
        avec des ?crits in?dits d'Aragon et deux bonus...
        [56]J'ach?te
        Hors-s?rie
-       Une histoire populaire du foot fran?ais
+       Une histoire populaire du foot français
        124 pages pour vivre l'?pop?e des Bleus, de 1904 ? aujourd'hui,
        sous un angle in?dit.
        [57]J'ach?te
@@ -11615,7 +11615,7 @@ Odieuse discriminationraciale
    Nos th?mes
      * [114]Vid?os
      * [115]Les Blogs et Chroniques
-     * [116]Les Lettres Fran?aises
+     * [116]Les Lettres françaises
 
    Nos services
      * [117]La F?te de l'Humanit?
@@ -11859,20 +11859,20 @@ Traduction de l'ouvrage Le racisme et la discriminationraciale au travail
    conf?rence internationale ? Tackling Racism and Racial Discrimination
    In the Workplace ? le 7 octobre dernier, en cl?ture de la Seri 2022.
    Les ?changes lors de la conf?rence soulignaient la particularit? du
-   contexte fran?ais en mati?re de lutte contre le racisme en milieu
+   contexte français en mati?re de lutte contre le racisme en milieu
    professionnel, un constat que nous avons ?galement fait lors de notre
    travail de traduction.
 
 Plus qu'une traduction, une adaptation
 
    Nous avons en effet d?cid? de ne pas traduire une partie du texte
-   original, tr?s li?e au contexte fran?ais. Certaines expressions
+   original, tr?s li?e au contexte français. Certaines expressions
    n?cessitant une mise en contexte ou des pr?cisions, la version anglaise
    a ?t? enrichie avec des encadr?s et de notes de bas de page
    explicatives. Nous avons par exemple ?clairci l'utilisation du terme ?
-   black ? en fran?ais.
+   black ? en français.
 
-   La traduction, tout comme son pendant fran?ais, donne ? voir comment le
+   La traduction, tout comme son pendant français, donne ? voir comment le
    racisme et la discriminationraciale sont per?us dans le monde
    professionnel et comment ils s'y manifestent. Sur la base de cet ?tat
    des lieux, l'ouvrage propose des pistes d'action pour lutter contre le
@@ -11880,7 +11880,7 @@ Plus qu'une traduction, une adaptation
 
    [31]Consulter la traduction du livre en version PDF
 
-   La version fran?aise de ce travail ?tait accompagn?e de deux affiches
+   La version française de ce travail ?tait accompagn?e de deux affiches
    sur les manifestations et les cons?quences du racisme, mises ?
    disposition des professionnel?le?s pour leur permettre de mieux
    appr?hender ces probl?matiques et de communiquer en interne. Ces
@@ -11900,7 +11900,7 @@ Plus qu'une traduction, une adaptation
 
      * [34]Recrutement
      * Langues
-       [Fran?ais]
+       [français]
 
    Nous suivre
      *
@@ -12081,14 +12081,14 @@ L'OIT est une institution sp?cialis?e des [4]Nations Unies
      * [87]Publications
      * [88]Recherche
      * [89]Normes du travail
-     * [90]Statistiques et donn?es
+     * [90]Statistiques et données
      * [91]Nous contacter
 
 [92]Egalit? et discrimination
 
     1. [93]Egalit? des genres
     2. [94]Protection de la maternit?
-    3. [95]La Coalition internationale pour l'?galit? salariale (EPIC)
+    3. [95]La Coalition internationale pour l'égalitésalariale (EPIC)
     4. [96]Publications
 
     1. [97]Accueil OIT
@@ -12111,7 +12111,7 @@ raciale au travail
    un symposium en ligne. Avec cette initiative, l'OIT esp?re stimuler les
    d?bats politiques mondiaux et nationaux sur la question de l'?galit?
    des chances.
-   Malgr? la reconnaissance universelle du droit ? l'?galit? et ? la
+   Malgr? la reconnaissance universelle du droit ? l'égalitéet ? la
    non-discrimination en mati?re d'emploi et de profession, la
    discrimination, qu'elle soit li?e ? la race, le genre ou autre, touche
    des millions de travailleurs qui rencontrent des obstacles pour trouver
@@ -12307,7 +12307,7 @@ References
  116. https://www.ilo.org/global/topics/equality-and-discrimination/WCMS_840051/lang--fr/index.htm
  117. http://www.facebook.com/sharer.php?u=http://www.ilo.org/global/topics/equality-and-discrimination/WCMS_840051/lang--fr/index.htm?shared_from%3Dshr-tls&t=L%27OIT+lance+un+appel+aux+journaux+pour+aider+%C3%A0+mettre+fin+%C3%A0+la+discrimination+raciale+au+travail
  118. http://twitter.com/share?via=ILO&text=L%27OIT+lance+un+appel+aux+journaux+pour+aider+%C3%A0+mettre+fin+%C3%A0+la+discrimination+raciale+au+travail&url=http://www.ilo.org/global/topics/equality-and-discrimination/WCMS_840051/lang--fr/index.htm?shared_from%3Dshr-tls
-   #[1]L'ADN ? Entreprises : pour 68 % des Fran?ais, les discriminations
+   #[1]L'ADN ? Entreprises : pour 68 % des français, les discriminations
    raciales impactent les carri?res Flux des commentaires [2]alternate
    [3]alternate [4]alternate
 
@@ -12475,14 +12475,14 @@ References
      * [128]#monde du travail
      * [129]#Travail
 
-Entreprises : pour 68 % des Fran?ais, les discriminations raciales impactent
+Entreprises : pour 68 % des français, les discriminations raciales impactent
 les carri?res
 
    Par [130]Peggy Baron - Le 3 novembre 2022
    ? dashu83 - Getty
 
    [131]Accueil > [132]L'Actualit? de L'ADN > Entreprises : pour 68 % des
-   Fran?ais, les discriminations raciales impactent les carri?res
+   français, les discriminations raciales impactent les carri?res
      *
      *
      *
@@ -12493,7 +12493,7 @@ les carri?res
    interrog?es rapportent avoir ?t? t?moins ou victimes de discrimination
    raciale et ethnique en entreprise.
 
-   Si pour de nombreux Fran?ais [133]travailler pour une entreprise
+   Si pour de nombreux français [133]travailler pour une entreprise
    inclusive et soucieuse de la diversit? est devenu un crit?re plus
    important que l'[134]?quilibre entre vie professionnelle et vie priv?e,
    ou m?me que[135] la r?mun?ration, une r?cente [136]enqu?te* de
@@ -12506,7 +12506,7 @@ Constat? ou v?cu, le racisme en entreprise se maintient
    t?moins ou [137]victimes de discriminationraciale et ethnique en
    entreprise. Cela repr?sente une hausse de 3 % par rapport ? 2019. En
    effet, dans une pr?c?dente ?tude de Glassdoor, 28 % des employ?s
-   fran?ais d?claraient avoir ?t? [138]victimes ou t?moins de racisme au
+   français d?claraient avoir ?t? [138]victimes ou t?moins de racisme au
    travail (?tude ? [139]Diversit? et inclusion 2019 ? ). Conjointement,
    23 % de r?pondants d?clarent avoir ?t? t?moins ou [140]victimes de
    discriminations raciales et ethniques lors d'un [141]processus de
@@ -12544,23 +12544,23 @@ Un plus grand ?cart de salaire li? ? l'origine ethnique
    ?galement dans l'int?r?t des entreprises de valoriser les comp?tences
    et l'exp?rience et de passer outre certains biais. ?
 
-Top 10 des entreprises Fran?aises avec les meilleurs scores de diversit? et
+Top 10 des entreprises françaises avec les meilleurs scores de diversit? et
 d'inclusion
 
    L'?quipe de recherche ?conomique de Glassdoor, acteur mondial de
    l'information sur les emplois et les entreprises, a analys? plus de 80
-   000 avis d'employ?s fran?ais, afin d'?tablir une liste des meilleures
+   000 avis d'employ?s français, afin d'?tablir une liste des meilleures
    entreprises en mati?re de diversit? et d'inclusion. Quelles sont les 10
-   entreprises Fran?aises avec les meilleurs scores de diversit? et
+   entreprises françaises avec les meilleurs scores de diversit? et
    d'inclusion selon leurs employ?s ?
    Classement GlassDoor
      __________________________________________________________________
 
      * ?tude One Poll pour Glassdoor men?e du 16 au 20 septembre 2022,
-       aupr?s de 1 000 employ?s fran?ais ?g?s de plus de 18 ans et
+       aupr?s de 1 000 employ?s français ?g?s de plus de 18 ans et
        salari?s ? temps plein.
        ** ?tude One Poll pour Glassdoor men?e du 30 mars au 1 avril 2022,
-       aupr?s de 1 000 employ?s fran?ais ?g?s de plus de 18 ans et
+       aupr?s de 1 000 employ?s français ?g?s de plus de 18 ans et
        salari?s ? temps plein.
 
    [145]Peggy Baron
@@ -12576,7 +12576,7 @@ d'inclusion
    [147]Le chiffre 2,3 sur fond rose avec deux filles de chaque c?t? Le
    chiffre 2,3 sur fond rose avec deux filles de chaque c?t?
 
-[148]En 2035, les Fran?ais occuperont en moyenne 2,3 emplois
+[148]En 2035, les français occuperont en moyenne 2,3 emplois
 
    [149]Un jeune homme noir allong? sur son lit entour? d'objets Un jeune
    homme noir allong? sur son lit entour? d'objets
@@ -12632,7 +12632,7 @@ Grande R?signation
    post-it imitant les yeux ouverts
    [158]L'Actualit? de L'ADN [159]News
 
-[160]Sommeil : les Fran?ais veulent faire la sieste au boulot
+[160]Sommeil : les français veulent faire la sieste au boulot
 
      *
      *
@@ -13024,7 +13024,7 @@ Main navigation
      * [32]Deutsch
      * [33]a+l+e+r+b+y+tm
      * [34]Russkij
-     * [35]Fran?ais
+     * [35]français
 
 Fil d'Ariane
 
@@ -13223,14 +13223,14 @@ Discrimination, d?finition : quel est le sens pr?cis de ce terme ?
        diff?remment des personnes en fonction de crit?res li?s ? leurs
        caract?ristiques sociales (riches/pauvres), raciales
        (blancs/noirs), religieuses, sexuelles (homme/femme,
-       homosexuel/h?t?rosexuel) ou ethniques (?trangers/fran?ais). Dans ce
+       homosexuel/h?t?rosexuel) ou ethniques (?trangers/français). Dans ce
        cadre, la discrimination n'est plus un terme neutre, mais a un sens
        p?joratif et consiste ? traiter certaines personnes de mani?re
        d?favorable.
      * Dans le champ social et politique, la discrimination va ?
        l'encontre du principe d'?galit? des hommes ou d'?galit? des
        citoyens devant la loi. La discrimination porte ?galement atteinte
-       ? l'?galit? des droits et ? l'?galit? des chances.
+       ? l'égalitédes droits et ? l'égalitédes chances.
      * L'[26]article 225-1 du Code p?nal ?num?re 20 crit?res de
        discrimination :
 
@@ -13244,7 +13244,7 @@ Discrimination, d?finition : quel est le sens pr?cis de ce terme ?
    leurs moeurs, de leur orientation sexuelle, de leur identit? de genre,
    de leur ?ge, de leurs opinions politiques, de leurs activit?s
    syndicales, de leur capacit? ? s'exprimer dans une langue autre que le
-   fran?ais, de leur appartenance ou de leur non-appartenance, vraie ou
+   français, de leur appartenance ou de leur non-appartenance, vraie ou
    suppos?e, ? une ethnie, une Nation, une pr?tendue race ou une religion
    d?termin?e ?.
 
@@ -13276,7 +13276,7 @@ Discrimination positive en France : d?finition
 
    Il n'existe en France qu'une seule loi rattach?e directement ? l'id?e
    de discrimination positive. Il s'agit de la loi du 11 f?vrier 2005
-   relative aux personnes handicap?es. La loi pour l'?galit? des droits et
+   relative aux personnes handicap?es. La loi pour l'égalitédes droits et
    des chances, la participation et la citoyennet? des personnes
    handicap?es fixe des quotas obligatoires pour les employeurs. Elle vise
    entre autres ? favoriser l'acc?s ? l'emploi des personnes en situation
@@ -13535,7 +13535,7 @@ Suivez-nous
    ain=34794
 
    Nous avons modifi? notre site au regard des nouvelles normes relatives
-   au traitement des donn?es personnelles (RGPD), [79]consultez notre
+   au traitement des données personnelles (RGPD), [79]consultez notre
    politique de confidentialit?. Les cookies que nous posons sur ce site
    servent ? vous proposer une navigation adapt?e ? vos centres d'int?r?ts
    et ? nous permettre de r?aliser des statistiques de visites.
@@ -13696,7 +13696,7 @@ References
           + [14]Immobilier
                o [15]Immobilier
                o [16]Toute la rubrique Immobilier
-               o [17]Annonces immobili?res
+               o [17]Annonces immobilières
                o [18]Actualit?s
                o [19]Prix de l'immobilier
                o [20]Cr?dit immobilier
@@ -13889,24 +13889,24 @@ d?nonce SOS Racisme
      *
 
    SOS Racisme n'a not? qu'une faible diminution de la pratique de la
-   discriminationraciale par les agences immobili?res. Photo
+   discriminationraciale par les agences immobilières. Photo
    d'illustration. (Schluesseldienst / Pixabay)
 
    SOS Racisme n'a not? qu'une faible diminution de la pratique de la
-   discriminationraciale par les agences immobili?res. Photo
+   discriminationraciale par les agences immobilières. Photo
    d'illustration. (Schluesseldienst / Pixabay)
 
 Apr?s une pr?c?dente ?tude il y a trois ans, SOS Racisme a men? une campagne
-de testing pour savoir si les agences immobili?res appliquaient des crit?res
+de testing pour savoir si les agences immobilières appliquaient des crit?res
 de discriminationraciale pour les locations. Les mentalit?s ont peu boug?,
 avec pr?s de la moiti? des agences qui adoptent cette pratique.
 
    Les conclusions de la nouvelle campagne de testing men?e par SOS
-   Racisme sont implacables. 48,50 % des 136 agences immobili?res audit?es
+   Racisme sont implacables. 48,50 % des 136 agences immobilières audit?es
    acc?dent aux exigences discriminatoires des propri?taires des logements
    dont elles g?rent la location. Pour le besoin de cette ?tude, les
    militants de SOS Racisme se sont fait passer pour des propri?taires de
-   logements aupr?s des agences immobili?res, explique [125]franceinfo .
+   logements aupr?s des agences immobilières, explique [125]franceinfo .
    Ils ont exig? que des r?gles discriminatoires soient appliqu?es dans la
    s?lection du locataire.
 
@@ -13929,7 +13929,7 @@ Discrimination ill?gale
 
    Un peu moins d'une agence sur deux (70 agences sur 136) refuse
    d'effectuer une s?lection sur la base d'un crit?re discriminatoire
-   racial. Les trois-quarts des agences immobili?res test?es ont pr?cis?
+   racial. Les trois-quarts des agences immobilières test?es ont pr?cis?
    que toutes formes de discrimination ?tait interdite.
 
    En comparant le r?sultat de ce testing avec le dernier en date, r?alis?
@@ -13967,7 +13967,7 @@ Signaler le commentaire
 
    Fermer
 
-   Annonces immobili?res
+   Annonces immobilières
    [129]Appartement 3 pi?ces 65 m? Beauvais
    [130]Appartement 3 pi?ces 65 m?
    60000 Beauvais
@@ -14077,13 +14077,13 @@ Signaler le commentaire
      * [178]Politique d'ex?cution
      * [179]Rapport de meilleure s?lection 2021
 
-   S?curit? et donn?es personnelles
+   S?curit? et données personnelles
      * [180]Avertissement L?gal
      * [181]G?rer mes cookies
      * [182]Politique de cookies
-     * [183]Politique de protection des donn?es clients
-     * [184]Politique de protection des donn?es membres et visiteurs
-     * [185]Politique de protection des donn?es prospects
+     * [183]Politique de protection des données clients
+     * [184]Politique de protection des données membres et visiteurs
+     * [185]Politique de protection des données prospects
 
    Nos sites
      * [186]Affiliation
@@ -14428,7 +14428,7 @@ l'ONU
    Le si?ge des Nations unies ? Gen?ve.
 
    Le si?ge des Nations unies ? Gen?ve. - Fabrice Coffrini
-   Le Comit? de l'ONU pour l'?limination de la discriminationraciale a
+   Le Comit? de l'ONU pour l'élimination de la discriminationraciale a
    dit ce vendredi son inqui?tude devant "l'ampleur" des discours de haine
    raciale en France, notamment dans les m?dias, sur internet mais aussi
    en provenance de "certains responsables politiques". Tout en saluant
@@ -14436,15 +14436,15 @@ l'ONU
    l'a enjoint ? "redoubler d'efforts" en la mati?re.
 
    "L'ampleur" des discours de [72]haine raciale en France inqui?te le
-   Comit? de l'[73]ONU pour l'?limination de la discriminationraciale
+   Comit? de l'[73]ONU pour l'élimination de la discriminationraciale
    (Cerd), qui salue toutefois les efforts d?ploy?s par les autorit?s.
 
 L'avis de 18 experts
 
    Les 18 experts ind?pendants du Cerd ont ?mis une s?rie d'observations
    et recommandations, apr?s l'examen r?gulier, les 15 et 16 novembre, de
-   la politique fran?aise envers ses minorit?s. Ils ont not? "la
-   d?termination et la volont? politique du gouvernement fran?ais pour ce
+   la politique française envers ses minorit?s. Ils ont not? "la
+   d?termination et la volont? politique du gouvernement français pour ce
    qui est de lutter contre le racisme et la discriminationraciale sous
    toutes leurs formes". Le comit? souligne toutefois que malgr? les
    efforts dans la lutte contre les discours de haine raciale, il "demeure
@@ -14469,7 +14469,7 @@ Le th?me des violences polici?res ?galement ?voqu?
 
    Les violences polici?res et le profilage racial alarment ?galement les
    experts du comit?, auquel tous les Etats parties de la Convention
-   internationale sur l'?limination de toutes les formes de discrimination
+   internationale sur l'élimination de toutes les formes de discrimination
    raciale sont tenus de pr?senter des rapports r?guliers.
 
      Le comit? met en exergue "le recours fr?quent aux contr?les
@@ -14478,7 +14478,7 @@ Le th?me des violences polici?res ?galement ?voqu?
      police ou les forces de l'ordre, ciblant de mani?re disproportionn?e
      certaines minorit?s, en particulier les personnes africaines,
      d'ascendance africaine, d'origine arabe, les Roms, les gens du
-     voyage et les non ressortissants" fran?ais.
+     voyage et les non ressortissants" français.
 
    Il se dit pr?occup? particuli?rement par l'absence de contr?le
    judiciaire et de tra?abilit? de ce type de contr?les d'identit?,
@@ -14886,7 +14886,7 @@ Une autre plainte en pr?paration
 
    Franceinfo s?lectionne chaque jour des contenus issus de m?dias
    audiovisuels publics europ?ens, membres de l'Eurovision. Ces contenus
-   sont publi?s en anglais ou en fran?ais.
+   sont publi?s en anglais ou en français.
 
    contenus sponsoris?s
 
@@ -15050,7 +15050,7 @@ Mesurer les discriminations raciales en France
    populations
    pouvant en ?tre victimes, sont aujourd'hui le produit de multiples
    hypoth?ses et
-   extrapolations, en l'absence de donn?es quantitatives sur le sujet.
+   extrapolations, en l'absence de données quantitatives sur le sujet.
 
    Ces statistiques de la diversit? ont permis des avanc?es significatives
    dans la lutte contre les discriminations raciales en France :
@@ -15132,7 +15132,7 @@ Aidez-nous ? mettre fin aux discriminations
    Pour offrir les meilleures exp?riences, nous utilisons des technologies
    telles que les cookies pour stocker et/ou acc?der aux informations des
    appareils. Le fait de consentir ? ces technologies nous permettra de
-   traiter des donn?es telles que le comportement de navigation ou les ID
+   traiter des données telles que le comportement de navigation ou les ID
    uniques sur ce site. Le fait de ne pas consentir ou de retirer son
    consentement peut avoir un effet n?gatif sur certaines caract?ristiques
    et fonctions.
@@ -15295,10 +15295,10 @@ Un comit? de l'ONU d?fend Assa Traor? face ? des syndicats policiers
    [50]Je m'abonne ? 1EUR le 1er mois
 
    ? L'ampleur ? des discours de [51]haine raciale en France inqui?te le
-   comit? de l'ONU pour l'?limination de la discriminationraciale (Cerd),
+   comit? de l'ONU pour l'élimination de la discriminationraciale (Cerd),
    relaie [52]Le Monde. Les 18 experts ind?pendants du Cerd ont ?mis une
    s?rie d'observations et de recommandations. S'il a not? ? la
-   d?termination et la volont? politique du gouvernement fran?ais pour ce
+   d?termination et la volont? politique du gouvernement français pour ce
    qui est de lutter contre le racisme et la discriminationraciale sous
    toutes leurs formes ?, le comit? ? demeure pr?occup? par la persistance
    et l'ampleur des [53]discours ? caract?re raciste et discriminatoire,
@@ -15322,7 +15322,7 @@ Menaces ? l'encontre d'Assa Traor?
    d?lictuelles [...], ciblant de mani?re disproportionn?e certaines
    minorit?s, en particulier les personnes africaines, d'ascendance
    africaine, d'origine arabe, les Roms, les gens du voyage et les
-   non-ressortissants ? fran?ais.
+   non-ressortissants ? français.
 
    [55]? LIRE AUSSIAffaire Adama Traor? : l'? opportunisme total ? du
    comit?
@@ -15346,7 +15346,7 @@ Menaces ? l'encontre d'Assa Traor?
 
    Newsletter international
 
-   Vous pouvez consulter notre [58]Politique de protection des donn?es
+   Vous pouvez consulter notre [58]Politique de protection des données
    personnelles.
 
    La r?daction du Point vous conseille
@@ -15995,22 +15995,22 @@ en France inqui?te l'ONU
    responsables politiques?, ainsi que la prolif?ration des propos haineux
    et discriminants dans les m?dias.
    ?Nous n'allons pas citer de noms?, a d?clar? un des experts du comit?.
-   (Image d'illustration du Parlement fran?ais)
+   (Image d'illustration du Parlement français)
 
    ?Nous n'allons pas citer de noms?, a d?clar? un des experts du comit?.
-   (Image d'illustration du Parlement fran?ais)
+   (Image d'illustration du Parlement français)
    AFP
 
    ?L'ampleur? des discours de haine raciale en France inqui?te le Comit?
-   [26]de l'ONU pour l'?limination de la discriminationraciale (Cerd),
+   [26]de l'ONU pour l'élimination de la discriminationraciale (Cerd),
    qui salue les efforts d?ploy?s par les autorit?s.
 
 Experts ?pr?occup?s?
 
    Les 18 experts ind?pendants du Cerd ont ?mis une s?rie d'observations
    et de recommandations, ? la suite de l'examen r?gulier, les 15 et 16
-   novembre, de la politique fran?aise envers ses minorit?s. Ils ont not?
-   ?la d?termination et la volont? politique du Gouvernement fran?ais pour
+   novembre, de la politique française envers ses minorit?s. Ils ont not?
+   ?la d?termination et la volont? politique du Gouvernement français pour
    ce qui est de lutter contre le racisme et la discriminationraciale
    sous toutes leurs formes?. Toutefois, le comit? ?demeure pr?occup? par
    la persistance et l'ampleur des discours ? caract?re raciste et
@@ -16043,7 +16043,7 @@ Violences polici?res et profilage racial
    persistantes que subissent les Roms et les gens du voyage. Les
    violences polici?res et le [27]profilage racial alarment ?galement les
    experts du comit?, auquel tous les Etats parties de la Convention
-   internationale sur l'?limination de toutes les formes de
+   internationale sur l'élimination de toutes les formes de
    discriminations raciales sont tenus de pr?senter des rapports
    r?guliers.
 
@@ -16053,7 +16053,7 @@ Violences polici?res et profilage racial
    d?lictuelles (...), ciblant de mani?re disproportionn?e certaines
    minorit?s, en particulier les personnes africaines, d'ascendance
    africaine, d'origine arabe, les Roms, les gens du voyage et les non
-   ressortissants? fran?ais. Il se dit pr?occup? particuli?rement par
+   ressortissants? français. Il se dit pr?occup? particuli?rement par
    l'absence de contr?le judiciaire et de tra?abilit? de ce type de
    contr?les d'identit?, ?lesquels sont souvent accompagn?s de propos et
    d'actes racistes et discriminatoires?. Les experts demandent ? la
@@ -16128,7 +16128,7 @@ References
      * [16]Africa
      * [17]Australia
      * [18]Canada
-     * [19]Canada (fran?ais)
+     * [19]Canada (français)
      * [20]Espa?a
      * [21]Europe
      * [22]Global
@@ -16191,7 +16191,7 @@ Partenaires
    [47]Voir les partenaires de The Conversation France
    [file-20200708-31-5eq3nl.jpg?ixlib=rb-1.1.0&amp;rect=107%2C175%2C788%2C
    386&amp;q=45&amp;auto=format&amp;w=926&amp;fit=clip]
-   Sur ce sujet, le droit fran?ais n'est pas pleinement conforme avec les
+   Sur ce sujet, le droit français n'est pas pleinement conforme avec les
    directives europ?ennes. Hyejin Kang / Shutterstock
    [48]Adresse ?lectronique
    [49]Twitter
@@ -16245,7 +16245,7 @@ Dialogue social
    Ainsi, en mati?re de dialogue social, dans toute entreprise o? est
    pr?sente une organisation syndicale repr?sentative, l'employeur et le
    syndicat doivent n?gocier un accord d'entreprise en vue d'assurer
-   l'?galit? professionnelle entre les femmes et les hommes.
+   l'égalitéprofessionnelle entre les femmes et les hommes.
 
    Un r?gime juridique complet est pr?vu (contenu des n?gociations,
    p?riodicit?, informations ? communiquer par l'employeur aux d?l?gations
@@ -16267,7 +16267,7 @@ Dialogue social
    Concernant les proc?dures d'information et de consultation des ?lus du
    personnel, le comit? ?conomique et social doit recevoir de l'employeur,
    dans toute entreprise d'au moins 50 salari?s, des informations,
-   notamment dans la base des donn?es ?conomiques et sociales, concernant
+   notamment dans la base des données ?conomiques et sociales, concernant
    la situation compar?e des femmes et des hommes dans l'entreprise sur de
    nombreux sujets (r?mun?rations et d?roulements de carri?re notamment).
 
@@ -16371,7 +16371,7 @@ Harmonisation n?cessaire
    n?cessaire de proc?der ? l'harmonisation du droit, ? son ? ?galisation
    dans le progr?s ?, selon la belle formule du droit europ?en.
 
-   Une telle ?volution est indispensable notamment pour les Fran?ais,
+   Une telle ?volution est indispensable notamment pour les français,
    jeunes et moins jeunes, dits ? d'origine ?trang?re ?. Apr?s leurs
    ?tudes et leurs formations, avec leurs titres et leurs dipl?mes, les
    entreprises doivent permettre ? ces personnes comme aux autres d'y
@@ -16576,7 +16576,7 @@ References
     2. [20]Les services du Premier ministre
     3. [21]D?l?gation interminist?rielle ? l'h?bergement et ? l'acc?s au
        logement
-    4. Audition de la France devant le Comit? de l'ONU pour l'?limination
+    4. Audition de la France devant le Comit? de l'ONU pour l'élimination
        de la discriminationraciale : la Dihal apporte une contribution
        sur la lutte contre l'antitsiganisme dont peuvent ?tre victimes les
        gens du voyage et les personnes ressortissantes de pays
@@ -16610,7 +16610,7 @@ Navigation
 
    Affaires sociales
 
-Audition de la France devant le Comit? de l'ONU pour l'?limination de la
+Audition de la France devant le Comit? de l'ONU pour l'élimination de la
 discriminationraciale : la Dihal apporte une contribution sur la lutte
 contre l'antitsiganisme dont peuvent ?tre victimes les gens du voyage et les
 personnes ressortissantes de pays
@@ -16618,13 +16618,13 @@ personnes ressortissantes de pays
 
    Publi? 22/11/2022 | Modifi? 22/11/2022
    Les 15 et 16 novembre dernier avait lieu ? Gen?ve l'audition de la
-   France devant le Comit? de l'ONU pour l'?limination des discriminations
-   raciales (CERD). La Dihal faisait partie de la d?l?gation fran?aise
+   France devant le Comit? de l'ONU pour l'élimination des discriminations
+   raciales (CERD). La Dihal faisait partie de la d?l?gation française
    conduite par Sophie Eliz?on, d?l?gu?e interminist?rielle ? la lutte
    contre le racisme, l'antis?mitisme et la haine anti-LGBT (DILCRAH).
 
    Le CERD est charg? de veiller au respect de la Convention
-   internationale sur l'?limination de toutes les formes de discrimination
+   internationale sur l'élimination de toutes les formes de discrimination
    raciale (adopt?e en 1965 et entr?e en vigueur en 1969) par ses Etats
    parties, tels que la France qui l'a ratifi? en 1971. Il est compos? de
    18 experts ind?pendants ?lus par les Etats parties ? la Convention
@@ -16645,20 +16645,20 @@ personnes ressortissantes de pays
    Lors des ?changes qui ont suivi avec les membres du Comit?, la Dihal a
    ?t? invit?e ? intervenir sur la question de la lutte contre
    l'antitsiganisme (ou racisme anti-roms) qui est un des trois piliers de
-   la strat?gie fran?aise 2020-2030 en r?ponse ? la recommandation du
+   la strat?gie française 2020-2030 en r?ponse ? la recommandation du
    Conseil de l'Union europ?enne sur l'?galit?, l'inclusion et la
    participation des Roms.
 
    Manuel Demougeot, directeur de cabinet du Dihal, a ainsi rappel? que la
    reconnaissance de cette forme sp?cifique de racisme et sa d?signation
    en tant que telle, tout en l'inscrivant dans le cadre universaliste
-   fran?ais, ?taient des ?l?ments nouveaux par rapport ? la pr?c?dente
+   français, ?taient des ?l?ments nouveaux par rapport ? la pr?c?dente
    audition de la France devant le CERD.
 
    Tout en soulignant l'actualit? de ce racisme et la force des
    st?r?otypes, Il a ?galement rappel? des progr?s intervenus depuis 2015
    concernant les populations vis?es, qu'il s'agisse des gens du voyage
-   fran?ais ou des personnes ressortissantes de pays europ?ens consid?r?es
+   français ou des personnes ressortissantes de pays europ?ens consid?r?es
    ou se consid?rant comme roms. Concernant les premiers, il a soulign? la
    fin en 2017 de leur r?gime administratif d?rogatoire et la
    reconnaissance en 2016 de la responsabilit? de la France dans
@@ -16846,7 +16846,7 @@ References
      * [34]?conomie
           + [35]?conomie
           + [36]?conomie mondiale
-          + [37]?conomie fran?aise
+          + [37]?conomie française
           + [38]M?dias
           + [39]Emploi
           + [40]Argent & placements
@@ -17020,7 +17020,7 @@ References
 Une instance de l'ONU s'inqui?te de la ? haine raciale ? et des
 ? interpellations discriminatoires ? par la police en France
 
-   Le Comit? pour l'?limination de la discriminationraciale pointe
+   Le Comit? pour l'élimination de la discriminationraciale pointe
    notamment des discours racistes tenus par des responsables politiques
    et des contr?les policiers ciblant ? de mani?re disproportionn?e
    certaines minorit?s ?.
@@ -17053,10 +17053,10 @@ Une instance de l'ONU s'inqui?te de la ? haine raciale ? et des
 
    L'? ampleur ? des discours de haine en France, mais aussi les
    ? interpellations discriminatoires ? conduites par les forces de
-   l'ordre inqui?tent le Comit? de l'ONU pour l'?limination de la
+   l'ordre inqui?tent le Comit? de l'ONU pour l'élimination de la
    discriminationraciale (CERD). Ses 18 experts ind?pendants ont diffus?
    vendredi 2 d?cembre [109]une s?rie d'observations et de recommandations
-   apr?s examen de la politique fran?aise concernant les minorit?s du
+   apr?s examen de la politique française concernant les minorit?s du
    pays.
 
    Lire aussi : Article r?serv? ? nos abonn?s [110]Un comit? de l'ONU
@@ -17076,7 +17076,7 @@ Une instance de l'ONU s'inqui?te de la ? haine raciale ? et des
 ? Redoubler d'efforts ?
 
    Le CERD constate ? la d?termination et la volont? politique du
-   gouvernement fran?ais pour ce qui est de lutter contre le racisme et la
+   gouvernement français pour ce qui est de lutter contre le racisme et la
    discriminationraciale sous toutes leurs formes ?, mais demande ? la
    France ? de redoubler d'efforts pour pr?venir et combattre efficacement
    les discours de haine raciale ?, y compris par l'application effective
@@ -17084,7 +17084,7 @@ Une instance de l'ONU s'inqui?te de la ? haine raciale ? et des
    de haine raciale dans les espaces publics, notamment dans les m?dias et
    sur Internet.
 
-   Lire aussi : Article r?serv? ? nos abonn?s [111]Les Fran?ais se disent
+   Lire aussi : Article r?serv? ? nos abonn?s [111]Les français se disent
    moins racistes, mais les ? vieux clich?s ? ont la vie dure
 
    Les violences polici?res et le profilage racial alarment aussi les
@@ -17094,14 +17094,14 @@ Une instance de l'ONU s'inqui?te de la ? haine raciale ? et des
    police ou les forces de l'ordre ciblant de mani?re disproportionn?e
    certaines minorit?s, en particulier les personnes africaines,
    d'ascendance africaine, d'origine arabe, les Roms, les gens du voyage
-   et les non-ressortissants ? fran?ais.
+   et les non-ressortissants ? français.
 
    Il se dit pr?occup? particuli?rement par l'absence de contr?le par la
    justice et de tra?abilit? de ce type de contr?les d'identit?,
    ? lesquels sont souvent accompagn?s de propos et d'actes racistes et
    discriminatoires ?. Les experts demandent ? la France d'inclure dans sa
    l?gislation la d?finition et l'interdiction du profilage racial ou
-   ethnique, et de veiller ? ce que soient donn?es ? la police et ? tout
+   ethnique, et de veiller ? ce que soient données ? la police et ? tout
    agent des forces de l'ordre ? des directives claires ? sur le sujet.
 
    Lire aussi : Article r?serv? ? nos abonn?s [112]Antis?mitisme dans
@@ -17530,7 +17530,7 @@ References
      * [6]a+l+e+r+b+y+tm
      * [7]?
      * [8]English
-     * [9]Fran?ais
+     * [9]français
      * [10]Russkij
      * [11]Espa?ol
      * [12]Portugu?s
@@ -17594,7 +17594,7 @@ Audio and Subscription
      * [59]Audioth?que
      * [60]S'abonner
 
-Il est urgent de s'attaquer au racisme syst?mique et aux doctrines de
+Il est urgent de s'attaquer au racisme systémique et aux doctrines de
 sup?riorit? raciale
 
    Des personnes d?filent contre la discriminationraciale en Caroline du
@@ -17605,15 +17605,15 @@ sup?riorit? raciale
 
    [61]Facebook [62]Twitter [63]Imprimer [64]Courriel
 
-Il est urgent de s'attaquer au racisme syst?mique et aux doctrines de
+Il est urgent de s'attaquer au racisme systémique et aux doctrines de
 sup?riorit? raciale
 
    14 novembre 2022 [65]Droits de l'homme
 
-   ? Il est plus urgent que jamais de s'attaquer au racisme syst?mique et
+   ? Il est plus urgent que jamais de s'attaquer au racisme systémique et
    structurel, aux doctrines de sup?riorit? raciale et aux s?quelles du
    colonialisme ?, a d?clar? lundi un haut responsable de l'ONU, ?
-   l'ouverture ? Gen?ve de la 108e session du Comit? pour l'?limination de
+   l'ouverture ? Gen?ve de la 108e session du Comit? pour l'élimination de
    la discriminationraciale.
 
    Selon Mahamane Ciss?-Gouro, le Directeur de la Division du Conseil des
@@ -17636,14 +17636,14 @@ sup?riorit? raciale
    personnes et des communaut?s vuln?rables ? la sant?, au logement, ?
    l'emploi et ? l'?ducation.
 
-Programme de transformation pour la justice et l'?galit? raciales
+Programme de transformation pour la justice et l'égalitéraciales
 
    Dans le m?me temps, le deuxi?me rapport du Haut-Commissaire sur la
-   justice et l'?galit? pour les Africains et les personnes d'ascendance
+   justice et l'égalitépour les Africains et les personnes d'ascendance
    africaine, pr?sent? au Conseil des droits de l'homme ? sa cinquante et
    uni?me session, a r?it?r? l'appel du Haut-Commissaire ? mettre en
    oeuvre les 20 actions contenues dans le programme de transformation
-   pour la justice et l'?galit? raciales.
+   pour la justice et l'égalitéraciales.
 
    Plus globalement, le racisme structurel et la discriminationraciale
    r?v?l?s par la pand?mie de Covid-19 sont un bon exemple de cette
@@ -17664,11 +17664,11 @@ L'impact de la pand?mie sur les minorit?s nationales et ethniques
 
    S'attaquer aux cons?quences de la pand?mie de Covid-19 et assurer une
    reprise durable devrait se faire sous l'angle des droits de l'homme, y
-   compris l'?limination de la discriminationraciale et la promotion de
+   compris l'élimination de la discriminationraciale et la promotion de
    l'?galit?, a-t-il insist?.
 
    Au cours de sa cent huiti?me session, qui se tient ? Gen?ve jusqu'au 2
-   d?cembre, le Comit? pour l'?limination de la discriminationraciale
+   d?cembre, le Comit? pour l'élimination de la discriminationraciale
    examinera les rapports pr?sent?s par Bahre?n, le Botswana, le Br?sil,
    la France, la G?orgie et la Jama?que. Durant cette session, le Comit?
    continuera en outre de discuter de son projet de recommandation
@@ -17996,7 +17996,7 @@ L'Or?al et Adecco condamn?s pour discriminationraciale ? l'embauche
        Copier le lien Lien copi?
 
 Apr?s cinq ann?es de proc?dure, SOS Racisme a obtenu la condamnation du
-leader fran?ais de l'int?rim, de sa filiale Ajilon et du fabricant de
+leader français de l'int?rim, de sa filiale Ajilon et du fabricant de
 cosm?tiques, Garnier (groupe l'Or?al), pour discriminationraciale. Ces
 entreprises utilisaient le code BBR pour "Bleu Blanc Rouge" pour s?lectionner
 des int?rimaires. Cette d?cision de la cour d'appel de Paris promet de faire
@@ -18025,7 +18025,7 @@ jurisprudence.
    supermarch?s. Selon SOS Racisme, l'agence d'int?rim aurait alors envoy?
    un fax au si?ge d'Adecco pour pr?ciser que seules les candidates
    r?pondant au code "BBR" (ndlr, Bleu Blanc Rouge en r?f?rence au drapeau
-   fran?ais) devaient ?tre s?lectionn?es. "Les maghr?bines, les noires et
+   français) devaient ?tre s?lectionn?es. "Les maghr?bines, les noires et
    les femmes d'origine ?trang?re ?taient forc?ment recal?es", commente
    Samuel Thomas. Parmi les autres crit?res de s?lection : un ?ge compris
    entre 18 et 22 ans, des mensurations ne d?passant pas la taille 42.
@@ -18075,7 +18075,7 @@ jurisprudence.
      * [51]Discrimination ? l'embauche : apr?s 20 ans de proc?dure...
        Adecco renvoy? en proc?s
      * [52]Tesla poursuivi par la Californie pour "discriminationraciale
-       syst?matique et harc?lement"
+       systématique et harc?lement"
      * [53]Un grand mus?e parisien condamn? pour discrimination sexuelle
 
    Vous lisez actuellement :
@@ -18161,7 +18161,7 @@ jurisprudence.
      * [74]pr?l?vement lib?ratoire
 
      * [75]Conditions g?n?rales d'utilisation
-     * [76]Charte pour la protection des donn?es
+     * [76]Charte pour la protection des données
      * (BUTTON) Param?trer vos cookies
      * [77]Mentions l?gales
      * [78]Tous vos magazines
@@ -18290,7 +18290,7 @@ Portrait du pol?miste par lui-m?me.
    L&#39;id&eacute;ologue d&#39;extr&ecirc;me droite fran&ccedil;ais
    &Eacute;ric Zemmour pose lors d&#39;une s&eacute;ance photo &agrave;
    Paris. |&nbsp;Jo&euml;l Saget / AFP
-   L'id?ologue d'extr?me droite fran?ais ?ric Zemmour pose lors d'une
+   L'id?ologue d'extr?me droite français ?ric Zemmour pose lors d'une
    s?ance photo ? Paris. | Jo?l Saget / AFP
    (BUTTON)
    Partager sur Facebook
@@ -18336,14 +18336,14 @@ Un audacieux
    s'agit l? d'une opinion philosophique. Quelques heures plus tard,
    CNews, ? qui il manque d?j? tant, lance d?bats en plateau et sondages
    en ligne. Histoire de transformer une simple opinion philosophique
-   issue d'un esprit sup?rieur en ?pr?occupation des Fran?ais? qu'un
+   issue d'un esprit sup?rieur en ?pr?occupation des français? qu'un
    candidat ? l'?lection pr?sidentielle ne saurait ne pas consid?rer.
    Qu'est-ce que l'audace? demande-t-on aux bacheliers philosophes. La
    voici, sous sa pire forme.
 
 Un anti-lui
 
-   Lui, pr?sident de la R?publique, ?un Fran?ais n'aura pas le droit
+   Lui, pr?sident de la R?publique, ?un français n'aura pas le droit
    d'appeler son fils Mohamed?.
 
    IFRAME: [9]https://www.youtube-nocookie.com/embed/pOtCCkVzYVY?start=274
@@ -18435,15 +18435,15 @@ Un m?lomane
    armes en vente libre? qui peuvent expliquer pourquoi l'essayiste
    pr?f?rerait que les rappeurs soient analphab?tes.
 
-Un massacreur, oui, mais fran?ais!
+Un massacreur, oui, mais français!
 
    ?Quand le g?n?ral Bugeaud arrive en Alg?rie, il commence ? massacrer
    les musulmans, et m?me certains juifs. Et bien moi, je suis aujourd'hui
-   du c?t? du g?n?ral Bugeaud. C'est ?a, ?tre fran?ais!?
+   du c?t? du g?n?ral Bugeaud. C'est ?a, ?tre français!?
 
      "Quand le g?n?ral Bugeaud arrive en Alg?rie, il commence ? massacrer
      les musulmans, et m?me certains juifs. Et bien moi je suis
-     aujourd'hui du c?t? du g?n?ral Bugeaud. C'est ?a, ?tre fran?ais !"
+     aujourd'hui du c?t? du g?n?ral Bugeaud. C'est ?a, ?tre français !"
      Non, ?a, c'est ?tre un monstre.
      [23]#Zemmour[24]pic.twitter.com/46r15D8Ke6
      -- Ian Brossat (@IanBrossat) [25]October 23, 2019
@@ -18508,15 +18508,15 @@ Un humoriste
    ____________________ Votre e-mail
    (BUTTON) S'abonner
    ____________________
-   [37]Le sport fran?ais va-t-il bient?t cesser de s'autofinancer?
+   [37]Le sport français va-t-il bient?t cesser de s'autofinancer?
    (BUTTON)
    Partager sur Facebook
    (BUTTON)
    Partager sur Twitter
 
-   [38]Le sport fran?ais va-t-il bient?t cesser de s'autofinancer?
+   [38]Le sport français va-t-il bient?t cesser de s'autofinancer?
 
-   Alors que le sport fran?ais brille ? travers le monde gr?ce ? sa
+   Alors que le sport français brille ? travers le monde gr?ce ? sa
    politique de redistribution, en place depuis les ann?es 1960, les
    derni?res d?cisions des gouvernements Castex et Borne semblent remettre
    en cause cette logique verticale.
@@ -18553,7 +18553,7 @@ Un humoriste
    [43]Slate.fr
 
    [44]Slate.com [45]Annonceurs [46]Contacts [47]Qui sommes-nous
-   [48]Mentions l?gales [49]Gestion des donn?es personnelles
+   [48]Mentions l?gales [49]Gestion des données personnelles
 
    Suivez-nous :
    (BUTTON)
@@ -18703,7 +18703,7 @@ References
           + [8]R?ception TV
           + [9]Direct TV
      * [10]Info
-     * [11]Langue fran?aise
+     * [11]Langue française
      * [12]Afrique
      * (BUTTON) Plus
           + Et aussi ...
@@ -18763,7 +18763,7 @@ France : des travailleurs maliens font condamner leur employeur pour
    [38]AFP
 
 Vingt-cinq travailleurs maliens ont obtenu mardi des dommages et int?r?ts
-notamment pour "discriminationraciale et syst?mique", devant le conseil de
+notamment pour "discriminationraciale et systémique", devant le conseil de
 prud'hommes de Paris. Ces personnes, toutes des immigr?s clandestins, ?taient
 employ?es ill?galement sur un grand chantier ? Paris en 2016.
 
@@ -18775,7 +18775,7 @@ employ?es ill?galement sur un grand chantier ? Paris en 2016.
    plac?e en liquidation judiciaire en ao?t 2018.
 
    Les ouvriers, employ?s ill?galement sur un chantier du tr?s chic VIIe
-   arrondissement de la capitale fran?aise, s'?taient mis en gr?ve,
+   arrondissement de la capitale française, s'?taient mis en gr?ve,
    soutenus par le syndicat CGT, apr?s deux accidents graves dont une
    chute d'un ?chafaudage non s?curis?. L'employeur avait refus? d'appeler
    les pompiers alors qu'un ouvrier malien ?tait sans connaissance au sol.
@@ -18783,7 +18783,7 @@ employ?es ill?galement sur un grand chantier ? Paris en 2016.
    Les ouvriers, qui ont depuis ?t? embauch?s par l'entreprise Capron
    (premier sous-traitant du donneur d'ordre du chantier) r?clamaient
    devant les prud'hommes pr?s de 66.000 euros chacun pour travail
-   dissimul? et "discriminationraciale syst?mique". Le conseil des
+   dissimul? et "discriminationraciale systémique". Le conseil des
    prud'hommes est une instance charg?e de r?gler les conflits entre
    employeurs et salari?s en France.
 
@@ -18800,7 +18800,7 @@ employ?es ill?galement sur un grand chantier ? Paris en 2016.
    ?conomiques" et pour les "cantonner" aux t?ches les plus p?nibles dans
    des conditions de s?curit? "indignes".
 
-"Discrimination syst?mique" envers ces travailleurs maliens
+"Discrimination systémique" envers ces travailleurs maliens
 
    Le conseil des prud'hommes reconna?t dans son jugement que "tous les
    travailleurs maliens ?taient des manoeuvres assign?s aux t?ches les
@@ -18810,14 +18810,14 @@ employ?es ill?galement sur un grand chantier ? Paris en 2016.
    ni gants", d?plore-t-il.
    Dipa Camara (? droite), l&#039;un des vingt-cinq travailleurs maliens ?
    avoir obtenu des dommages et int?r?ts notamment pour
-   &lt;em&gt;&quot;discriminationraciale et syst?mique&quot;&lt;/em&gt;,
+   &lt;em&gt;&quot;discriminationraciale et systémique&quot;&lt;/em&gt;,
    devant le conseil de prud&#039;hommes de Paris.
    Dipa Camara (? droite), l'un des vingt-cinq travailleurs maliens ?
    avoir obtenu des dommages et int?r?ts notamment pour "discrimination
-   raciale et syst?mique", devant le conseil de prud'hommes de Paris.
+   raciale et systémique", devant le conseil de prud'hommes de Paris.
    ? TV5MONDE / Patrice F?rus
 
-   Autant de faits qui caract?risent une "discrimination syst?mique", un
+   Autant de faits qui caract?risent une "discrimination systémique", un
    concept "encore jamais reconnu dans une quelconque d?cision de
    justice", selon Ma?tre Chanu.
    "Les ouvriers disaient tous que sur les chantiers, on les appelait
@@ -19097,7 +19097,7 @@ References
    (BUTTON) Menu complet
    [25]Retour ? l'accueil
 
-   Soci?t? De nombreuses agences immobili?res discriminent encore, affirme
+   Soci?t? De nombreuses agences immobilières discriminent encore, affirme
    SOS Racisme
      * Partager sur Messenger
      * Partager sur Facebook
@@ -19164,7 +19164,7 @@ des agences, selon SOS Racisme
 
    Dans un rapport publi? lundi 21 mars, l'association [43]SOS Racisme
    d?nonce les [44]discriminations raciales dans les [45]locations
-   immobili?res. Selon [46]France Info, 48,5 % des 136 agences concern?es
+   immobilières. Selon [46]France Info, 48,5 % des 136 agences concern?es
    par l'?tude ont adopt? ces pratiques ill?gales.
 
    Les candidats ? un bail victimes de ces comportements sont souvent
@@ -19191,7 +19191,7 @@ Des agences ?pingl?es deux fois de suite
    SOS Racisme r?clame donc le ? renforcement des sanctions p?nales en cas
    de discriminations ?. Elle veut aussi le r?tablissement de la fonction
    disciplinaire du Conseil national de la transaction et de la gestion
-   immobili?re, supprim?e en 2018 par la loi Elan. Pour l'heure, les
+   immobilière, supprim?e en 2018 par la loi Elan. Pour l'heure, les
    agents immobiliers coupables de discrimination ? [51]la location
    s'exposent ? trois ans de prison et 45.000 euros d'amende.
    Soci?t?
@@ -19334,7 +19334,7 @@ Des agences ?pingl?es deux fois de suite
      * [124]Publicit?
      * [125]Mentions l?gales
      * [126]CGU
-     * [127]Protection des donn?es personnelles
+     * [127]Protection des données personnelles
      * [128]Gestion des cookies
      * [129]Supprimer les cookies publicitaires ?diteur
      * [130]Nous contacter
@@ -19587,7 +19587,7 @@ SOS RACISME DANS LA DISCRIMINATION DANS L ACCES AU LOGEMENT
    que nous aurions peut-?tre d? expliciter davantage dans le mail la
    notion de dossier de synth?se documentaire. Finalement, nous avons
    d?cid? de travailler avec SOS Racisme. Le choix op?r?: SOS Racisme SOS
-   Racisme est une association fran?aise cr??e en 1984, dont le pr?sident
+   Racisme est une association française cr??e en 1984, dont le pr?sident
    actuel est Dominique Sopo. Elle poss?de des bureaux un peu partout en
    France, mais son bureau national est ? Paris. L'objectif de
    l'association est de lutter contre toutes les formes de discrimination,
@@ -19649,7 +19649,7 @@ SOS RACISME DANS LA DISCRIMINATION DANS L ACCES AU LOGEMENT
    association. - Offrir un site ? SOS Racisme afin que les diff?rents
    juristes travaillant au sein de l association aient une connaissance d
    ensemble des engagements juridiques de celle-ci. Ainsi serait mise au
-   point une sorte de base de donn?es non-exhaustive. Signal: - Les
+   point une sorte de base de données non-exhaustive. Signal: - Les
    archives du p?le discrimination ne sont pas organis?es; l information
    et donc difficilement accessible. - Le site officiel de SOS Racisme est
    incomplet et donne peu d informations sur des notions g?n?rales telles
@@ -19684,14 +19684,14 @@ SOS RACISME DANS LA DISCRIMINATION DANS L ACCES AU LOGEMENT
    progr?s induits par cette lutte contre la discrimination au logement.
    Nous r?pondrons ainsi ? toutes les attentes de notre commanditaire: une
    organisation des documents du p?le discrimination de l association, un
-   site r?unissant des donn?es pour les professionnels du droit et un site
+   site r?unissant des données pour les professionnels du droit et un site
    proposant des informations plus g?n?rales pour le public.
 
    8 IV / METHODOLOGIE DE RECHERCHE ET RESULTATS Suite ? la d?finition du
    probl?me de recherche d informations, nous avons d?cid? de concentrer
    notre recherche de plusieurs axes. 1 er axe: trouver des documents
    utiles ? la d?finition de la discrimination au logement en g?n?ral
-   (donn?es chiffr?es et textes de lois notamment) 2 ?me axe: trouver les
+   (données chiffr?es et textes de lois notamment) 2 ?me axe: trouver les
    documents relatifs aux proc?s qu a men? SOS Racisme: les jurisprudences
    et les documents journalistiques les ?voquant. 3 ?me axe: faire une
    liste des diff?rents organismes jouant un r?le dans la lutte contre les
@@ -19717,7 +19717,7 @@ SOS RACISME DANS LA DISCRIMINATION DANS L ACCES AU LOGEMENT
    -Emeline a travaill? sur la discrimination au logement en g?n?ral
    (d?finitions, lois, chiffres) Les outils - Internet, en utilisant les
    moteurs de recherche: Google et Abondance - L agent de veille Copernic
-   - La base de donn?es Factiva (acc?s gratuit ? la BU de Paris 8) Les
+   - La base de données Factiva (acc?s gratuit ? la BU de Paris 8) Les
    mots-cl?s Proc?s; SOS Racisme; discriminationraciale; logement;
    justice; location; immobilier; racisme
 
@@ -19725,7 +19725,7 @@ SOS RACISME DANS LA DISCRIMINATION DANS L ACCES AU LOGEMENT
    sur un blog: (identifiant: Vanpoucke; mot de passe: cvebsm). Il
    contient plusieurs pages, contenant des r?sum?s de nos recherches et
    qui correspondent ? la fa?on dont nous avons r?parti le travail,
-   chacune d entre nous s occupant soit des d?finitions et donn?es
+   chacune d entre nous s occupant soit des d?finitions et données
    g?n?rales, soit des jurisprudences, soit des retomb?es de la lutte. De
    plus, le blog pr?sente la synth?se de notre travail, ? laquelle l
    internaute peut acc?der en cliquant sur les noms de chaque partie,
@@ -19830,7 +19830,7 @@ SOS RACISME DANS LA DISCRIMINATION DANS L ACCES AU LOGEMENT
    Racisme, Bureau national 51, avenue de Flandre Paris. Demandeur:
    Commission juridique discrimination. Christina Desylla: responsable du
    p?le discrimination. Date de la demande: 9 d?cembre 2008 Contexte
-   g?n?ral: Sos Racisme est une association fran?aise cr??e en 1984, dont
+   g?n?ral: Sos Racisme est une association française cr??e en 1984, dont
    le pr?sident actuel est Dominique Sopo. Elle poss?de des bureaux un peu
    partout en France, mais son bureau national est ? Paris. L'objectif de
    l'association est de lutter contre toutes les formes de discrimination,
@@ -19851,7 +19851,7 @@ SOS RACISME DANS LA DISCRIMINATION DANS L ACCES AU LOGEMENT
    SOS Racisme afin que les diff?rents juristes travaillant avec l
    association aient une connaissance d ensemble des engagements
    juridiques de celle-ci. Ainsi serait form?e une sorte de base de
-   donn?es non-exhaustive. Signal: Les archives du p?le discrimination ne
+   données non-exhaustive. Signal: Les archives du p?le discrimination ne
    sont pas organis?es; l information et donc difficilement accessible. Le
    site officiel de SOS Racisme est incomplet et donne peu d information
    sur des notions g?n?rales telles que le racisme ou encore la
@@ -19886,12 +19886,12 @@ SOS RACISME DANS LA DISCRIMINATION DANS L ACCES AU LOGEMENT
    progr?s induits par cette lutte contre la discrimination au logement.
    Nous r?pondrons ainsi ? toutes les attentes de notre commanditaire: une
    organisation des documents du p?le discrimination de l association, un
-   site r?unissant des donn?es pour les professionnels du droit et un site
+   site r?unissant des données pour les professionnels du droit et un site
    proposant des informations plus g?n?rales pour le public. Exhaustivit?:
    Il n y a aucune limite de date, notre ?tude s ?tendant sur toute la
    dur?e de vie de l association (elle n a pu se porter partie civile dans
    des proc?s que depuis sa cinqui?me ann?e d existence), et de la lutte
-   contre la discrimination. Certaines de nos donn?es remontent ainsi ?
+   contre la discrimination. Certaines de nos données remontent ainsi ?
    Cependant le sujet est limit? ? la discrimination au logement.
    N?anmoins, le blog sera utilis?, par la suite, comme support de
    diffusion d ?tudes sur d autres types de discrimination, par SOS
@@ -19908,7 +19908,7 @@ SOS RACISME DANS LA DISCRIMINATION DANS L ACCES AU LOGEMENT
    documents qui se trouvaient dans les bureaux de l association:
    jurisprudences, coupures de presse, rapports d activit? de SOS Racisme
    - Internet, en utilisant les moteurs de recherche: Google et Copernic.
-   - La base de donn?es de presse: Factiva - Les sites Internet:
+   - La base de données de presse: Factiva - Les sites Internet:
    Legifrance, Insee - Les sites Internet d autres associations ou
    institutions luttant contre la discrimination au logement : la HALDE,
    la Licra - Les sites Internet de nombreux journaux: L Humanit?, Le
@@ -19922,7 +19922,7 @@ SOS RACISME DANS LA DISCRIMINATION DANS L ACCES AU LOGEMENT
    effectuer pour la fin du mois d avril. Co?t: nous avons du nous rendre
    plusieurs fois aux bureaux de l association et nous y avons pass? deux
    journ?es pour travailler. Nous avons eu besoin d un acc?s ? Internet.
-   Nous avons eu besoin d un acc?s ? la base de donn?es payante Factiva
+   Nous avons eu besoin d un acc?s ? la base de données payante Factiva
    (biblioth?que de Paris8).
 
    15 ANNEXE 2: JOURNAL DE BORD (chronologique) 18 mars 2009 Nous avons
@@ -19972,8 +19972,8 @@ SOS RACISME DANS LA DISCRIMINATION DANS L ACCES AU LOGEMENT
    cette partie. -Synth?se concernant l affaire de l office municipale du
    Cap d Agde ? partir d articles de presse trouv?s avec Copernic. Mots
    clefs: office municipale du Cap d Agde + discrimination -Synth?se
-   concernant l affaire de l agence immobili?re Montcel ? partir d
-   articles de presse (mot clef: Soci?t? immobili?re Moncel Sos racisme )
+   concernant l affaire de l agence immobilière Montcel ? partir d
+   articles de presse (mot clef: Soci?t? immobilière Moncel Sos racisme )
    -Mise ? jour de la bibliographie 3 f?vrier Publication de la synth?se
    du rapport du Conseil National de l Habitat -Publication d un sch?ma d
    acteurs (dans articles ) fait ? partir du rapport. 29 janvier J ai mis
@@ -20055,22 +20055,22 @@ SOS RACISME DANS LA DISCRIMINATION DANS L ACCES AU LOGEMENT
    recherches. Ainsi, la demande se pr?cise: il s agit de traiter des
    diff?rents men?s par Sos racisme contre la discrimination au logement.
    5 d?cembre 2008 Je me rends ? la BU de Paris8, afin de pouvoir acc?der
-   ? la base de donn?es de Factiva. Je parviens ? faire la liste de 28
-   proc?s entre 1995 et Je consulte ?galement la base de donn?es de
+   ? la base de données de Factiva. Je parviens ? faire la liste de 28
+   proc?s entre 1995 et Je consulte ?galement la base de données de
    lextenso, mais je trouve les m?mes r?sultats que sur Legifrance.fr 3
    d?cembre 2008 Je cherche des proc?s ayant eu lieu entre 1995 et 2000 et
    auxquels SOS racisme aurait particip?. En utilisant les mots-clefs
    proc?s et SOS racisme sur ina.fr, je trouve plusieurs proc?s. Sur
-   Legifrance.fr, j utilise la base de donn?es des jurisprudences,
+   Legifrance.fr, j utilise la base de données des jurisprudences,
    toujours avec les m?mes mots-clefs. le r?sultat est moyen: seulement 3
    proc?s trouv?s. 25 Novembre 2008 J ai cherch? si il existait des bases
-   de donn?es juridiques. J ai utilis? google.fr mais ?galement
+   de données juridiques. J ai utilis? google.fr mais ?galement
    dadi.univlyon1.fr. Je trouve ainsi lextenso.fr et Legifrance. Le
    premier est payant et donc inutilisable. 24 Novembre 2008 J ai fait des
    recherches sur Internet gr?ce ? google.fr et Ina.fr pour trouver des
    proc?s en rapport avec sosracisme dans l ann?e Google a donn? tr?s peu
    de r?sultats. Mais j ai trouv? quelques images gr?ce ? la base de
-   donn?es de l Ina. Factiva.com n est pas accessible au public. 21
+   données de l Ina. Factiva.com n est pas accessible au public. 21
    Novembre 2008 Nous nous sommes concert?es pour discuter de l
    organisation de nos recherches. Dans un premier temps, nous nous sommes
    mises d accord pour effectuer un travail de recherche initial sur les
@@ -20095,7 +20095,7 @@ SOS RACISME DANS LA DISCRIMINATION DANS L ACCES AU LOGEMENT
    des proc?s P?an, Adecco, L Or?al et Ajilon revenait souvent. Je les ai
    donc entr? en mot-clefs. J ai ?galement consult? le site officiel d SOS
    racisme et ai relev? quelques grands proc?s tels que celui de l agence
-   immobili?re Mil Im. J ai copi? les liens dans la page de notre site
+   immobilière Mil Im. J ai copi? les liens dans la page de notre site
    r?serv? ? cet effet en essayant de les cat?goriser. 10 Novembre 2008
    Nous nous sommes rendues au rendez-vous. Mr Drame (responsable
    Ile-de-France) nous explique qu il serait utile ? l association d avoir
@@ -20173,7 +20173,7 @@ SOS RACISME DANS LA DISCRIMINATION DANS L ACCES AU LOGEMENT
    ?diteur du Blog (Wordpress) [utilisation de la charte graphique et du
    logo] Les liens hypertextes Panorama de presse 2. Les probl?mes li?s ?
    la protection de notre blog Responsabilit?s Les mentions l?gales Nos
-   droits d auteur La protection des donn?es personnelles
+   droits d auteur La protection des données personnelles
    Introduction Notre dossier de synth?se documentaire porte sur la
    discrimination au logement et notre commanditaire est l association SOS
    Racisme. Il est visible ? l adresse suivante: http://www.
@@ -21513,24 +21513,24 @@ References
 
    International
 
-discriminationraciale : Les agences immobili?res en France complices de
+discriminationraciale : Les agences immobilières en France complices de
 s?gr?gation
 
    R?dig? par La r?daction Mardi 22 Mars 2022
 
-Selon une enqu?te men?e par SOS Racisme aupr?s des agences immobili?res
-fran?aises, la moiti? d'entre elles pratiquent le d?lit de faci?s. Des
+Selon une enqu?te men?e par SOS Racisme aupr?s des agences immobilières
+françaises, la moiti? d'entre elles pratiquent le d?lit de faci?s. Des
 discriminations qui perdurent.
 
-   [48]discriminationraciale : Les agences immobili?res en France
+   [48]discriminationraciale : Les agences immobilières en France
    complices de s?gr?gation discriminationraciale : Les agences
-   immobili?res en France complices de s?gr?gation
-   Une agence immobili?re fran?aise sur deux accepte de discriminer ou de
+   immobilières en France complices de s?gr?gation
+   Une agence immobilière française sur deux accepte de discriminer ou de
    se rendre complice de discriminations, a r?v?l? une enqu?te men?e par
    l'organisation non gouvernementale (ONG) SOS Racisme.
    Selon les r?sultats du testing, publi?s lundi 21 mars par l'association
-   (qui co?ncide avec la journ?e mondiale pour l'?limination de la
-   discriminationraciale), parmi les 136 agences immobili?res pass?es au
+   (qui co?ncide avec la journ?e mondiale pour l'élimination de la
+   discriminationraciale), parmi les 136 agences immobilières pass?es au
    crible, une sur quatre (soit 34 agences) accepte d'effectuer elle-m?me
    une s?lection des candidats ? la location sur la base d'un crit?re
    discriminatoire racial, alors qu'une agence sur quatre (soit 32
@@ -21541,7 +21541,7 @@ discriminations qui perdurent.
    l'ill?galit? de telles discriminations, ce qui signifie qu'environ une
    agence sur deux faisant un tel rappel, op?re n?anmoins ces
    discriminations en violation ouverte et d?lib?r?e de la loi.
-   Ainsi, une agente immobili?re ? qui l'on demande que les "Maghr?bins"
+   Ainsi, une agente immobilière ? qui l'on demande que les "Maghr?bins"
    soient exclus de la liste des candidats, exprime son accord total avec
    le membre de l'ONG, se pr?sentant comme un client.
    "Alors l?, je vous rejoins compl?tement, pour avoir v?cu plusieurs
@@ -21558,7 +21558,7 @@ discriminations qui perdurent.
    membres des groupes immobiliers telles que FNAIM, Century 21, Guy
    Hocquet, St?phane Plaza et Orpi. En 2019, une enqu?te men?e par la m?me
    ONG dans la r?gion ?le-de-France, avait r?v?l? que 51% des agences
-   immobili?res sollicit?es avaient accept? d'op?rer ou de se rendre
+   immobilières sollicit?es avaient accept? d'op?rer ou de se rendre
    complices de discriminationraciale.
    SOS Racisme en d?duit que cette situation inacceptable "d?montre que
    les pratiques discriminatoires dans le secteur de l'immobilier
@@ -21569,7 +21569,7 @@ discriminations qui perdurent.
    L'ONG appelle ? un "renforcement des sanctions p?nales en cas de
    discriminations" ainsi qu'? la "mise en place d'un ordre disciplinaire"
    par le r?tablissement de "la fonction disciplinaire du Conseil national
-   de la transaction et de la gestion immobili?re, supprim?e par la loi
+   de la transaction et de la gestion immobilière, supprim?e par la loi
    Elan de 2018".
 
    [49]Facebook [50]Twitter [51]LinkedIn
@@ -22192,7 +22192,7 @@ References
  143. https://twitter.com/intent/tweet?url=https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte&status=La%20CGT%20va%20d%C3%A9poser%20plainte%20pour%20discrimination%20raciale%20et%20syndicale%20contre%20Auchan+https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte
  144. http://www.linkedin.com/shareArticle?mini=true&url=https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte&title=La%20CGT%20va%20d%C3%A9poser%20plainte%20pour%20discrimination%20raciale%20et%20syndicale%20contre%20Auchan&source=https://www.cgt.fr/actualites/hauts-de-france/commerce/conditions-de-travail-discriminations/la-cgt-va-deposer-plainte
    #[1]MySweetimmo ? Location et discriminationraciale : Pr?s d'1 agence
-   immobili?re sur 2 accepte encore des demandes ill?gales Flux des
+   immobilière sur 2 accepte encore des demandes ill?gales Flux des
    commentaires [2]alternate [3]alternate [4]alternate
 
    Je me connecte
@@ -22261,13 +22261,13 @@ References
      * [61]En continu (BUTTON) +
 
    [62]Accueil ? [63]Actualit?s ? [64]Dans l'actu ? Location et
-   discriminationraciale : Pr?s d'1 agence immobili?re sur 2 accepte
+   discriminationraciale : Pr?s d'1 agence immobilière sur 2 accepte
    encore des demandes ill?gales
 
- Location et discriminationraciale : Pr?s d'1 agence immobili?re sur 2 accepte
+ Location et discriminationraciale : Pr?s d'1 agence immobilière sur 2 accepte
                          encore des demandes ill?gales
 
-   A l'occasion de la journ?e internationale pour l'?limination de la
+   A l'occasion de la journ?e internationale pour l'élimination de la
    discriminationraciale du 21 mars, SOS Racisme a publi? les r?sultats
    d'un testing sur les pratiques discriminatoires dans l'immobilier. Ce
    qu'il faut en retenir.
@@ -22281,18 +22281,18 @@ References
 
    Sommaire
 
-   [67]1. 136 agences immobili?res "test?es" par SOS Racisme[68]2. 48,5%
+   [67]1. 136 agences immobilières "test?es" par SOS Racisme[68]2. 48,5%
    des agences ne respectent pas la loi anti-antidiscrimination[69]3. SOS
    Racisme d?plore la persistance pratiques discriminatoires[70]4. 10
    revendications pour lutter contre les discriminations raciales au
    logement
 
-   Les agences immobili?res acceptent-elles d'acc?der aux demandes
+   Les agences immobilières acceptent-elles d'acc?der aux demandes
    discriminatoires de certains propri?taires bailleurs ? C'est la
    question que s'est pos?e SOS Racisme ? l'occasion d'une nouvelle
    campagne de testing.
 
-   Il y a 3 ans, un testing similaire r?alis? sur les agences immobili?res
+   Il y a 3 ans, un testing similaire r?alis? sur les agences immobilières
    situ?es en Ile-de-France avait montr? que 51% d'entre elles acceptaient
    l'ordre discriminatoire ou s'en faisaient les complices. Trois ans plus
    tard, a d?cid? de tester cette fois-ci sur l'ensemble du territoire
@@ -22300,28 +22300,28 @@ References
    plusieurs agences appartenant au r?seau de la FNAIM. Les diff?rentes
    entreprises test?es repr?sentent, ? elles seules, un peu plus de 2,5
    milliards d'euros de chiffre d'affaires et la quasi-totalit? de
-   l'activit? de location immobili?re en France.
+   l'activit? de location immobilière en France.
 
-136 agences immobili?res ? test?es ? par SOS Racisme
+136 agences immobilières ? test?es ? par SOS Racisme
 
-   Les militants de SOS Racisme ont contact? des agences immobili?res par
+   Les militants de SOS Racisme ont contact? des agences immobilières par
    t?l?phone en se faisant passer pour un propri?taire fictif, dont le nom
-   laisse apparaitre des origines fran?aises anciennes, souhaitant mettre
+   laisse apparaitre des origines françaises anciennes, souhaitant mettre
    en location un bien et ayant des exigences discriminatoires par rapport
    ? la s?lection des locataires. Ils demandaient syst?matiquement aux
-   agences immobili?res s'il ?tait possible pour l'agence de s?lectionner
+   agences immobilières s'il ?tait possible pour l'agence de s?lectionner
    les dossiers en fonction de l'origine des candidats et de leur
    pr?senter uniquement les dossiers de locataires de type europ?en et non
    les profils dits arabes ou noirs afin d'?viter les probl?mes de
    voisinage.
 
-   Au total 136 agences immobili?res appartenant au r?seau de la FNAIM et
-   ? 10 des plus grandes enseignes d'agences immobili?res choisies selon
-   leur nombre et leur implantation sur le territoire fran?ais ont ?t?
+   Au total 136 agences immobilières appartenant au r?seau de la FNAIM et
+   ? 10 des plus grandes enseignes d'agences immobilières choisies selon
+   leur nombre et leur implantation sur le territoire français ont ?t?
    test?es.
 
      Les discriminations raciales au logement? Un fl?au pour des millions
-     de Fran?ais. Une th?matique absente de la pr?sidentielle. Une
+     de français. Une th?matique absente de la pr?sidentielle. Une
      r?alit? qu'? [71]@SOS_Racisme nous montrons & d?non?ons. La promesse
      de la R?publique, ?a n'est pas le [72]#racisme, c'est l'?galit?!
      [73]https://t.co/fxKNWX2hnW
@@ -22329,7 +22329,7 @@ References
 
 48,5% des agences ne respectent pas la loi anti-antidiscrimination
 
-   Les r?sultats indiquent que 48,5 % des agences immobili?res contact?es
+   Les r?sultats indiquent que 48,5 % des agences immobilières contact?es
    acc?dent aux exigences discriminatoires en acceptant d'effectuer la
    s?lection ou bien en indiquant au propri?taire qu'il pourra
    proc?der lui-m?me ? la s?lection. ? Concr?tement, cela signifie que,
@@ -22397,7 +22397,7 @@ SOS Racisme d?plore la persistance pratiques discriminatoires
 
 10 revendications pour lutter contre les discriminations raciales au logement
 
-   SOS Racisme a profit? de la journ?e internationale pour l'?limination
+   SOS Racisme a profit? de la journ?e internationale pour l'élimination
    de la discriminationraciale pour formuler des revendications en terme
    de pr?vention et en terme des sanctions afin de lutter contre les
    discriminations raciales au logement.
@@ -22411,7 +22411,7 @@ SOS Racisme d?plore la persistance pratiques discriminatoires
        gr?ce ? la m?thode du testing
     3. Elargir la formation (en pr?sentiel et obligatoire sous peine de
        sanctions) ? la lutte contre les discriminations ? l'ensemble des
-       personnes travaillant en agence immobili?re, s'assurer de
+       personnes travaillant en agence immobilière, s'assurer de
        l'effectivit? de ces formations, s'assurer de l'?laboration du
        contenu de ces derni?res en concertation avec les acteurs
        associatifs et veiller ? ce que ces formations abordent la
@@ -22422,7 +22422,7 @@ SOS Racisme d?plore la persistance pratiques discriminatoires
        non-discrimination, obligation assortie de sanctions financi?res en
        cas de non-respect.
     5. Imposer aux sites internet immobiliers une obligation d'information
-       des utilisateurs (propri?taires, agences immobili?res et candidats)
+       des utilisateurs (propri?taires, agences immobilières et candidats)
        au droit ? la non-discrimination, ainsi que la mise en place d'un
        dispositif de signalement sur les plateformes.
     6. Diffuser une campagne nationale de communication et de
@@ -22435,7 +22435,7 @@ SOS Racisme d?plore la persistance pratiques discriminatoires
     2. Mise en place d'un ordre disciplinaire comme garantie de la rigueur
        et du s?rieux de la communaut? professionnelle en r?tablissant la
        fonction disciplinaire du Conseil national de la transaction et de
-       la gestion immobili?re (retir? par la loi ELAN de 2018)
+       la gestion immobilière (retir? par la loi ELAN de 2018)
     3. Mise en oeuvre d'une politique p?nale ferme et adapt?e pour lutter
        contre les discriminations au logement
     4. Elaboration, avec le concours des associations, d'un guide
@@ -22478,7 +22478,7 @@ SOS Racisme d?plore la persistance pratiques discriminatoires
      * Cr?dit Cr?dit immobilier : Des hausses de taux records en janvier
      * Juridique Diagnostic immobilier : Du nouveau pour l'?tat des
        risques et pollution d'un bien ? vendre ou ? louer
-     * Acheter / Vendre ? quoi sert une soci?t? de promotion immobili?re ?
+     * Acheter / Vendre ? quoi sert une soci?t? de promotion immobilière ?
      * R?novation Immobilier : La r?novation, une habitude ancr?e dans la
        routine des propri?taires ?
      * Mon Podcast Immo S?verine Amate : ? Ma nouvelle vie professionnelle
@@ -22516,17 +22516,17 @@ Les plus populaires
 
 Articles recommand?s
 
-   Location : Calculez en ligne les honoraires de l'agence immobili?re !
+   Location : Calculez en ligne les honoraires de l'agence immobilière !
 
    Investissement locatif : 51% pr?f?rent passer par une agence
-   immobili?re pour la location
+   immobilière pour la location
 
    [87]Alexandre-cordani-Kevin-Garcia
-   Alexandre Cordani : Comment cr?er son agence immobili?re ?
+   Alexandre Cordani : Comment cr?er son agence immobilière ?
 
-   Le Secours catholique va ouvrir sa propre agence immobili?re
+   Le Secours catholique va ouvrir sa propre agence immobilière
 
-   Proprioo r?invente l'agence immobili?re
+   Proprioo r?invente l'agence immobilière
 
    Abonnez-vous ? la Newsletter MySweet'Immo
    ____________________
@@ -22556,7 +22556,7 @@ Podcasts
    ? Une web-s?rie sur la copropri?t? ?, Julien Martinez (Opera Energie)
 
    [96]Sophie Richard au micro de Mon Podcast IMMO
-   ? L'unique franchise immobili?re sp?cialiste du viager ?, Sophie
+   ? L'unique franchise immobilière sp?cialiste du viager ?, Sophie
    Richard (Viagimmo)
 
    [97]Jonathan Le Corronc Clady au micro de mon podcast immo
@@ -22759,15 +22759,15 @@ References
  147. https://www.mysweetimmo.com/2018/01/11/secours-catholique-va-ouvrir-propre-agence-immobiliere/
  148. https://www.mysweetimmo.com/2019/04/12/proprioo-reinvente-lagence-immobiliere/
     #[1]QAPA News ? Flux [2]QAPA News ? Flux des commentaires [3]QAPA News
-   ? L'?galit? des chances dans l'emploi n'existe pas pour 57 % des
-   Fran?ais Flux des commentaires [4]alternate [5]alternate [6]alternate
+   ? l'égalitédes chances dans l'emploi n'existe pas pour 57 % des
+   français Flux des commentaires [4]alternate [5]alternate [6]alternate
 
    FLASH ACTU
      * [7]Comment modifier mon compte QAPA ?
      * [8]Comment modifier mes crit?res de recherche ?
      * [9]Tout savoir sur l'entretien vid?o
      * [10]Tout savoir sur votre entretien vid?o
-     * [11]Les Fran?ais sont moins nombreux ? prendre de bonnes
+     * [11]Les français sont moins nombreux ? prendre de bonnes
        r?solutions en d?but d'ann?e : 86 % en 2023 contre 91 % en 2019 !
      * [12]Tout savoir sur votre Compte ?pargne Temps
      * [13]Comment trouver un int?rimaire avec QAPA ?
@@ -22835,17 +22835,17 @@ References
    [71]Actualit?[72]Emploi[73]Entretien
    d'embauche[74]Int?rim[75]Recruter[76]Recruteurs[77]Salaires[78]sondage
 
-L'?galit? des chances dans l'emploi n'existe pas pour 57 % des Fran?ais
+l'égalitédes chances dans l'emploi n'existe pas pour 57 % des français
 
    [79]L'?quipe QAPA [80]L'?quipe QAPA ? [81]6 d?cembre 2021
    [82]0 [83]0 736 [84]0
 
    L'?quipe QAPA [85]L'?quipe QAPA 2021-12-06
 
-   Pour 78 % des Fran?ais, leur entreprise n'est pas dans un processus
+   Pour 78 % des français, leur entreprise n'est pas dans un processus
    ?galitaire : 49 % pas du tout et 29 % seulement en partie
 
-   58 % des Fran?ais ont d?j? ?t? victime de discrimination
+   58 % des français ont d?j? ?t? victime de discrimination
 
    Parmi eux : 68 % de femmes victimes de sexisme et 59 % d'hommes de
    racisme
@@ -22857,7 +22857,7 @@ L'?galit? des chances dans l'emploi n'existe pas pour 57 % des Fran?ais
 
    Paris, 6 d?cembre 2021
 
-   A l'occasion de la Journ?e mondiale de l'?galit? des chances du 5
+   A l'occasion de la Journ?e mondiale de l'égalitédes chances du 5
    d?cembre, QAPA, la solution digitale Adecco 100% online, d?voile les
    r?sultats d'une enqu?te* men?e aupr?s de ses 4,5 millions de candidats.
 
@@ -22865,16 +22865,16 @@ L'?galit? des chances dans l'emploi n'existe pas pour 57 % des Fran?ais
 
    Libert?, in?galit?, fraternit? ?
 
-   Plus de 57 % des Fran?ais sont convaincus que l'?galit? des chances
+   Plus de 57 % des français sont convaincus que l'égalitédes chances
    dans l'emploi n'existe pas du tout ! Qui plus est, 31 % pensent que
-   cette ?galit? n'est effective qu'en partie et seulement et seulement 12
+   cetteégalitén'est effective qu'en partie et seulement et seulement 12
    % estiment qu'elle est d?j? pr?sente en France.
 
    Races, sexes et religions
 
    Parmi toutes les actions discriminantes possibles, certaines semblent
    plus pr?sentes que d'autres. Ainsi, en t?te de ce triste classement, la
-   discriminationraciale ou ethnique est cit?e par 72 % des  Fran?ais,
+   discriminationraciale ou ethnique est cit?e par 72 % des  français,
    juste devant le sexe ? 66 % ou la religion et les convictions ? 61 %.
 
    Sexisme pour les femmes et racisme pour les hommes
@@ -22894,7 +22894,7 @@ L'?galit? des chances dans l'emploi n'existe pas pour 57 % des Fran?ais
    c?t?, 41 % des hommes consid?rent que la s?gr?gation a eu un impact
    direct sur l'embauche et n'ont pas d?croch? de contrat de travail.
 
-   Plus d'1 Fran?ais sur 2 t?moin de discrimination
+   Plus d'1 français sur 2 t?moin de discrimination
 
    ? la question ? Avez-vous ?t? t?moin de discrimination au travail ? ?,
    plus de 57 % des personnes interrog?es avouent par l'affirmative.
@@ -22903,18 +22903,18 @@ L'?galit? des chances dans l'emploi n'existe pas pour 57 % des Fran?ais
 
    Que l'on soit en CDD, en CDI ou en int?rim, a une importance en ce qui
    concerne la s?gr?gation dont on peut ?tre victime. C'est en tous cas ce
-   que pensent plus de 41 % des Fran?ais qui estiment qu'il y a plus de
+   que pensent plus de 41 % des français qui estiment qu'il y a plus de
    s?gr?gation pour les contrats ? dur?e ind?termin?, quand les CDD n'ont
    que 33 % de votes et l'int?rim 24 %.
 
    Des entreprises pas du tout ?galitaires
 
-   Les entreprises fran?aises ont encore beaucoup de travail pour ?tablir
-   une ?galit? parfaite entre les salari?s. En effet, 49 % des personnes
+   Les entreprises françaises ont encore beaucoup de travail pour ?tablir
+   uneégalitéparfaite entre les salari?s. En effet, 49 % des personnes
    interrog?es avouent que leur soci?t? n'est pas du tout dans un
-   processus qui favorise l'?galit? des chances au travail et 29 % que
+   processus qui favorise l'égalitédes chances au travail et 29 % que
    cette prise de conscience est effective seulement en partie. Ainsi, 22
-   % seulement des soci?t?s fran?aises favorisent l'?galit?.
+   % seulement des soci?t?s françaises favorisent l'?galit?.
 
    ? Nous sommes particuli?rement impliqu?s chez QAPA dans la lutte contre
    tous les types de s?gr?gation. Ainsi, depuis plusieurs ann?es, nous
@@ -23030,7 +23030,7 @@ Related Posts
 
    90 Views [128]By L'?quipe QAPA
 
-[129]Les Fran?ais sont moins nombreux ? prendre de bonnes r?solutions en
+[129]Les français sont moins nombreux ? prendre de bonnes r?solutions en
 d?but d'ann?e : 86 % en 2023 contre 91 % en 2019 !
 
    135 Views [130]By L'?quipe QAPA
@@ -23040,13 +23040,13 @@ d?but d'ann?e : 86 % en 2023 contre 91 % en 2019 !
 
    [...] (1) Qapa.fr : ? Le slashing c'est quoi ??  [...]
    [132]societe de nettoyage atalian - Zjn
-   on Top 1000 des entreprises fran?aises
+   on Top 1000 des entreprises françaises
 
-   [...] Top 1000 des entreprises fran?aises - qapa.fr [...]
+   [...] Top 1000 des entreprises françaises - qapa.fr [...]
    [133]dubreuil carburants - Zjn
-   on Top 1000 des entreprises fran?aises
+   on Top 1000 des entreprises françaises
 
-   [...] Top 1000 des entreprises fran?aises - qapa.fr [...]
+   [...] Top 1000 des entreprises françaises - qapa.fr [...]
    [134]@Steve Jobs updateur des Tablettes de Mo?se | On N'est Pas des
    Quiches
    on 11 phrases de Steve Jobs pour changer votre fa?on de travailler
@@ -23091,7 +23091,7 @@ Mots-cl?s
 
    SHARE
 
-L'?galit? des chances dans l'emploi n'existe pas pour 57 % des Fran?ais
+l'égalitédes chances dans l'emploi n'existe pas pour 57 % des français
 
 References
 
