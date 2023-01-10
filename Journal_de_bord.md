@@ -6,7 +6,7 @@ Nous avons choisi le mot "discrimination", plus spécifiquement "**discriminatio
 
 - Gemma prend charge du corpus en Anglais
 - Tannina prend charge du corpus en Français
-- Simon prend charge du corpus en Chinois
+- Xiaohua prend charge du corpus en Chinois
 
 
 ## Comment nous avons choisis nos URL's
@@ -30,7 +30,7 @@ Pendant cette séance "d'introduction" nous avons crées nos comptes GitHub pers
 
 - Séance 2 : 12.10.2022
 
-Aujourd'hui nous avons choisi notre groupe qui consistera de : Gemma, Tannina et Simon. Nous avons parlé du projet afin de pouvoir commencer à travailler dessus. Étant qu'au début de la création de notre projet, nous commencons à réfléchir au mot sur lequel nous souhaiterons s'appuyer.
+Aujourd'hui nous avons choisi notre groupe qui consistera de : Gemma, Tannina et Xiaohua. Nous avons parlé du projet afin de pouvoir commencer à travailler dessus. Étant qu'au début de la création de notre projet, nous commencons à réfléchir au mot sur lequel nous souhaiterons s'appuyer.
 Gemma a crée un Github qu'on a nommé PPE-group pour pouvoir travailler tous ensemble sur notre projet du semestre. Nous avons ensuite fait un clonage du dossier sur chacun de nos machines.
 
 De plus, nous avons appris les commandes de shell (cd, rm, mv, diff etc...) qui nous aideront à accéder à nos fichiers.
@@ -60,15 +60,15 @@ Etudes des commandes html qu'on utilisera pour créer notre site web.
 
 - Séance 8 : 23.11.2022
 
-Nous avons appris un peu de CSS et l'application de Bulma afin de créer un beau site web. Notre site a été crée avec le fichier *"index.html"*. Simon a commencé à ajouter les informations basiques de notre tableau. Il nous a aidé à comprendre comment le faire aussi. C'est très intéressant d'apprendre comment créer un site web, nous espérons pouvoir réussir.
+Nous avons appris un peu de CSS et l'application de Bulma afin de créer un beau site web. Notre site a été crée avec le fichier *"index.html"*. Xiaohua a commencé à ajouter les informations basiques de notre tableau. Il nous a aidé à comprendre comment le faire aussi. C'est très intéressant d'apprendre comment créer un site web, nous espérons pouvoir réussir.
 
 - Séance 9 : 30.11.2022
 
-Aujourd'hui nous avons appris iTrameur en cours par contre nous n'avons pas pu avancer puisque nous devons d'abord créer les fichiers *"dump-texts"* et les *"aspirations"*. Ces dossiers ont été créés à l'aide au script appellé "dumps_aspirations.sh". Grâce à l'aide du Simon, nous avons modifié un peu le script afin de créer un tableau avec plus d'informations, y compris les occurrences.
+Aujourd'hui nous avons appris iTrameur en cours par contre nous n'avons pas pu avancer puisque nous devons d'abord créer les fichiers *"dump-texts"* et les *"aspirations"*. Ces dossiers ont été créés à l'aide au script appellé "dumps_aspirations.sh". Grâce à l'aide du Xiaohua, nous avons modifié un peu le script afin de créer un tableau avec plus d'informations, y compris les occurrences.
 
 - Séance 10 : 07.12.2022
 
-Nous avons soumis plusieurs versions de 7/12 et de 8/12, dans lesquelles nous avons amélioré le tableau, et en se basant sur l'interface du prof, Simon a crée le site de notre groupe : index.html (https://github.com/gemmafelton/PPE-group/blob/main/index.html). En plus, nous avons ajouté 3 colomns : *"dump-texts"*, *"HTML"* et *"concordances"*. Ce que nous devons faire ensuite, c'est de savoir ce que signifie le contexte et comment le tirer et l'ajouter dans le tableau. Et enfin il faut s'aider et travailler ensemble pour achever le projet !!
+Nous avons soumis plusieurs versions de 7/12 et de 8/12, dans lesquelles nous avons amélioré le tableau, et en se basant sur l'interface du prof, Xiaohua a crée le site de notre groupe : index.html (https://github.com/gemmafelton/PPE-group/blob/main/index.html). En plus, nous avons ajouté 3 colomns : *"dump-texts"*, *"HTML"* et *"concordances"*. Ce que nous devons faire ensuite, c'est de savoir ce que signifie le contexte et comment le tirer et l'ajouter dans le tableau. Et enfin il faut s'aider et travailler ensemble pour achever le projet !!
 
 - Séance 11 :
 Nous avons appris comment utiliser iTrameur et comment créer des nuages de mots. Nous pouvons observer les mots liés aux contextes. Ceci nous aidera lors de la construction de notre site web. Début de la création de notre site web, nous avons réalisé plus ébauches de sites jusqu'à se mettre d'accord sur la forme, l'interface ce que l'on souhaitait qui apparaissent etc. Nous avons regarder des vidéos et on c'est intéressés plusieurs plateformes framework nous permettant de styliser notre site à notre image : Bulma, Bootstrap.
@@ -104,7 +104,7 @@ Création d'un logo par Tannina afin de l'utiliser pour le site web.
 * Comme évoqués précédemment Gemma et moi nous n'avons pas réussi la liste stopwords nous avons alors préféré réaliser notre nuage de mot sur une plateforme : nuagedemot.fr. Elle nous a permis de retirer les mots vides manuellement. Nos nuages de mots seront alors plus représentatifs et on pourra distinguer les grandes nuances de notre mot. Les nuages de mots sont des représentations visuelles plus appréciables et l'on peut apercevoir plus facilement les mots "importants". Puisqu'ils s'affichent le plus souvent en grand.
 
 
-### Simon
+### Xiaohua
 
 1. Au début du semestre, je ne connaissais presque rien au contrôle de version Git, j'ai donc rencontré beaucoup de problèmes de conflits de versions, j'ai donc tout appris sur Git sur le site vidéo bilibili, y compris les quatre partitions, les commandes courantes git rest -hard, reflog, merge hot-fix, etc. Depuis lors, j'ai été en mesure de gérer git.
 

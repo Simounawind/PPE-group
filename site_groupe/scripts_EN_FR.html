@@ -33,11 +33,10 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="header fixed-top bg-dark">
-    <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
-
+  <header class="header fixed-top bg-dark">
+    <div class="container-fluid d-flex align-items-center justify-content-between">
       <a class="logo">
-        <img src="assets/img/logo.png">
+        <img src="assets/img/groupeicon.jpeg">
         <span>Projet Encadré</span>
       </a>
 
@@ -55,12 +54,19 @@
           <li class="dropdown scrollto active"><a class="nav-link scrollto active"><span>Script</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="scripts_cn.html">Script - CN</a></li>
-              <li><a class="nav-link scrollto active" href="scripts_fr.html">Scripts - EN | FR </a></li>
+              <li><a class="nav-link scrollto active" href="scripts_EN_FR.html">Scripts - EN | FR </a></li>
             </ul>
           </li>          
-          <li><a class="nav-link scrollto" href="#portfolio">iTrameur&Nuages</a></li>
-          <li><a class="nav-link scrollto" href="nous.html">Nous</a></li>
-          <li><a href="">Blog</a></li>
+          <li class="dropdown"><a href="#"><span>iTrameur&Nuages</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="itrameur_nuages.html">Chinois</a></li>
+              <li><a href="itrameur_nuages_FR.html">Français</a></li>
+              <li><a href="itrameur_nuages_EN.html">Anglais</a></li>
+            </ul>
+          </li>
+          <li><a class="nav-link" href="propos.html">Nous</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <a href="https://github.com/gemmafelton/PPE-group" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
           </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
@@ -73,7 +79,7 @@
   <main id="main">
 
     <section class="modul">
-      <div class="bg-image h-100" style="margin-bottom: -60px ; background-image: url('https://w.wallhaven.cc/full/1p/wallhaven-1p35kv.png');">
+      <div class="bg-image h-100" style="margin-bottom: -60px ; background-image: url('https://images.wallpapersden.com/image/download/programming-coding-language_bGhpbm6UmZqaraWkpJRqZmdlrWdtbWU.jpg');">
       <div class="mask align-items-center h-100" style="background-color: rgba(0, 0, 0, 0.25); "> 
         
         <section>
@@ -81,9 +87,12 @@
           <h2>Racial discrimination | Discrimination raciale</h2>
           <p style="color:whitesmoke ;">Les Scripts Anglais et Français</p>
           <p></p>
-          <h6 style="margin-top: 70px; color:rgb(241, 240, 240) ;"> Afin de traiter nos corpus anglais et français, Gemma et Tannina ont chosi de faire une partie générale. Les scripts sont basés sur ceux qui ont été etudié pendant les cours et qui ont été modifé par Simon. Néanmoins, nos scripts ne contient pas les lgines de script spécifique au chinois, comme la tokénisation. Cela nous permet d'avoir des scripts plus simplifiés. </p>
-          <h6 style="margin-top: 20px; color:rgb(241, 240, 240) ;"> Elles ont bien-sûr modifiés les noms des fichiers ou encore les noms des chemins de fichiers selon leurs contextes et/ou leur langue.</p>
-          <h6 style="margin-top: 20px; color:rgb(241, 240, 240) ;"> Il existe 4 scripts qui sert chacun à construire une certaine partie de notre corpus :</p>
+          <h5 style="margin-top: 70px; color:rgb(241, 240, 240) ;"> Afin de traiter nos corpus anglais et français, Gemma et Tannina ont choisi de faire une partie rassemblée.</h5>
+          <h5 style="margin-top: 10px; color:rgb(241, 240, 240) ;"> Les scripts sont basés sur ceux qui ont été etudié pendant les cours et qui ont été modifé par Xiaohua.</h5>
+          <h5 style="margin-top: 10px; color:rgb(241, 240, 240) ;"> Afin qu'il n'y ait pas de différences entre nos scripts et notre site web.</h5>
+          <h5 style="margin-top: 10px; color:rgb(241, 240, 240) ;"> Néanmoins, nos scripts ne contient pas les lignes de script spécifique au chinois, comme la tokénisation. Cela nous permet d'avoir des scripts plus simplifiés.</h5>
+          <h5 style="margin-top: 10px; color:rgb(241, 240, 240) ;"> Elles ont bien-sûr modifiés les noms des fichiers ou encore les noms des chemins de fichiers selon leurs contextes et/ou leur langue.</h5>
+          <h5 style="margin-top: 10px; color:rgb(241, 240, 240) ;"> Il existe 4 scripts qui sert chacun à construire une certaine partie de notre corpus :</h5>
         
         </header>
         </section>
@@ -346,29 +355,6 @@ echo "&lt;/lang&gt;" &gt;&gt; contexte.txt
                             </code></pre></div>
                           </div>
 
-
-
-    <!-- ======= script-4 Nuage de mots======= -->   
-
-    <div class="row motifs-tabs">          
-      <div class="forwhat3 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
-        <h3>4 - Script pour la création d'une nuage de mots</h3>
-        <p style="color:azure; text-align: justify;">  </p>
-        <br>
-        <p>
-        <a href="https://github.com/gemmafelton/PPE-group/blob/main/wordcloud/anglais/wordcloud.py" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
-        &ensp;&ensp;&ensp;
-        <a href="https://github.com/gemmafelton/PPE-group" class="download"><i class="bi bi-download" style="font-size: 40px;"></i></a>
-        </p>
-      </div>
-      
-    <div class="col-lg-6">
-    <pre class='script python' ><code>
-
-import matplotlib.pyplot as plt
-#########script à insérer 
-          </code></pre></div>
-        </div>
 
 
   <br><br><br>        
