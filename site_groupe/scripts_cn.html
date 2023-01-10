@@ -112,7 +112,7 @@
           <div class="col-lg-6">
           <pre class='script Bash' ><code>
 #!/usr/bin/env bash
-fichier_urls=$1 # le fichier d'URL en entrée
+fichier_urls=$1 
 lignenum=1;
 cible="种族歧视"
 while read URL || [[ -n $URL ]];
@@ -178,8 +178,8 @@ exit
               <pre class='script Bash' ><code>
 #!/usr/bin/env bash
 
-fichier_urls=$1 # le fichier d'URL en entrée
-fichier_tableau=$2 # le fichier HTML en sortie
+fichier_urls=$1 
+fichier_tableau=$2 
 
 if [[ $# -ne 2 ]]
 then
@@ -213,7 +213,7 @@ echo "&lt;tr&gt;
 lignenum=1;
 while read -r URL || [[ -n ${URL} ]]; do
 
-  # la façon attendue, sans l'option -w de cURL
+  
   code=$(curl -ILs $URL | grep -e "^HTTP/" | grep -Eo "[0-9]{3}" | tail -n 1)
   charset=$(curl -Ls $URL | grep -Eo "charset=(\w|-)+" |tail | cut -d= -f2 |tail -n 1)
   Occurences=$(w3m -cookie $URL | egrep "种族歧视" -wc)
@@ -412,12 +412,11 @@ from PIL import Image
 text_from_file = open('dumps.txt', 'r', encoding='UTF-8')
 data = text_from_file.read()
 seg_list = jieba.cut(data, cut_all=False)
-# open & read file for tokenization -> tokenize line by line
+
 
 fW = open('dumps-ch_token.txt', 'w', encoding='UTF-8')
 word_space = ' '.join(seg_list)
 fW.write(word_space)
-# put result in new file, separate tokens by space
 
 text_from_file.close()
 fW.close()
@@ -438,12 +437,11 @@ my_wordcloud = WordCloud(
     scale=6,
     background_color='white',  # 设置背景颜色
     mask=img,  # 背景图片
-    max_words=200,  # 设置最大显示的词数
-    stopwords=STOPWORDS,  # 设置停用词
-    # 设置字体格式，字体格式 .ttf文件需自己网上下载，最好将名字改为英文，中文名路径加载会出现问题。
+    max_words=200,  # 最大显示的词数
+    stopwords=STOPWORDS,  # 停用词
     font_path='alima.ttf',
     max_font_size=150,  # 设置字体最大值
-    random_state=50,  # 设置随机生成状态，即多少种配色方案
+    random_state=50,  
 ).generate(word_space)
 
 image_colors = ImageColorGenerator(img)
