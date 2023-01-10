@@ -10,8 +10,6 @@ Sur notre site, vous pourrez y découvrir toutes les étapes effectuées jusqu'a
 
 Dans les premiers jours de notre brainstorming, nous voulions étudier un mot qui a une grande importance, qui se manifeste chaque jour dans non seulement nos vies quotidiennes, mais dans le monde entier. Avec la possibilité d'étudier une multitude de contextes dans nos trois langues choisies : français, anglais et chinois. Nous avons alors examiné quelques sites internet afin de trouver des idées des mots qui apparaissent souvent. Deux mots nous sont venus en tête : discrimination et racisme.
 
-On s'est alors demandé si la discrimination raciale pouvait se dérouler dans des situations précises qui sont semblables dans chacun de nos pays ou si c'était plutôt "culturel". Par la suite, on s'est demandé quelles populations était la plus affectée par les discriminations raciales.
-
 **Discrimination** *nom féminin*
 Action de discerner, de distinguer les choses les unes des autres avec précision.
 
@@ -20,16 +18,19 @@ Discrimination, hostilité violente envers un groupe humain.
 
 En revanche, nous nous sommes rendu compte que ppur le mot **discrimination** les contextes étaient trop vastes vu le nombre de types : raciale, sexuelle, religieuse, entre autres.
 
-Nous avons alors choisi de prendre la combinaison de ces deux mots, le syntagme **discrimination raciale**, un sujet que nous avons trouvé intéressant à étudier.
+Nous avons alors choisi de prendre la combinaison de ces deux mots, le syntagme **discrimination raciale**, un sujet que nous avons trouvé intéressant à étudier. On s'est alors demandé si la discrimination raciale pouvait se dérouler dans des situations précises qui sont semblables dans chacun de nos pays ou si c'était plutôt "culturel". Par la suite, on s'est demandé quelles populations était la plus affectée par les discriminations raciales.
+
 **Discrimination raciale**
 Désigne tout traitement défavorable d’une personne ou d’un groupe de personnes en raison de :
 - L’origine réelle ou supposée
 - L’appartenance ou non-appartenance à une ethnie, une nation, une « race » ou une religion déterminée.
 
+
+
  **discrimination raciale**
  En France, la discrimination raciale a tendance à correspondre à une population dite "étrangère": elle s'adresse aux individus de couleurs Elle peut subvenir dans différents contextes comme dans la vie quotidienne, dans la recherche d'emploi, la recherche de logement, dans le système universitaire...
  
  **racial discrimination** en anglais
-Nous entendons de plus en plus souvent des histoires concernant la discrimination raciale aux Etats Unis. Elles sont comprises des attitudes et points de vues négatifs sur la race ou l'éthnicité, souvent des personnes de couleur de peau noire. Nous remarquons que, depuis un certain temps, les histoires de discrimination raciale concernent des violences policiers injustes.
+Nous entendons de plus en plus souvent des histoires concernant la discrimination raciale aux Etats Unis. Elles sont comprises des attitudes et points de vues négatifs sur la race ou l'éthnicité, souvent des personnes de couleur de peau noire. Nous remarquons que, depuis un certain temps, les histoires de discrimination raciale concernant des crimes de haine / des violences policiers injustes des victimes comme : George Floyd, Breonna Taylor et Ahmaud Arbery sont devenus trop fréquents.
 
  **种族歧视** en chinois
