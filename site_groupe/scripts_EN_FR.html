@@ -81,7 +81,7 @@
           <h2>Racial discrimination | Discrimination raciale</h2>
           <p style="color:whitesmoke ;">Les Scripts Anglais et Français</p>
           <p></p>
-          <h6 style="margin-top: 70px; color:rgb(241, 240, 240) ;"> Afin de traiter nos corpus anglais et français, Gemma et Tannina ont chosi d'utiliser les mêmes scripts pour obtenir les résultats le plus fiables possible. </p>
+          <h6 style="margin-top: 70px; color:rgb(241, 240, 240) ;"> Afin de traiter nos corpus anglais et français, Gemma et Tannina ont chosi de faire une partie générale. Les scripts sont basés sur ceux qui ont été etudié pendant les cours et qui ont été modifé par Simon. Néanmoins, nos scripts ne contient pas les lgines de script spécifique au chinois, comme la tokénisation. Cela nous permet d'avoir des scripts plus simplifiés. </p>
           <h6 style="margin-top: 20px; color:rgb(241, 240, 240) ;"> Elles ont bien-sûr modifiés les noms des fichiers ou encore les noms des chemins de fichiers selon leurs contextes et/ou leur langue.</p>
           <h6 style="margin-top: 20px; color:rgb(241, 240, 240) ;"> Il existe 4 scripts qui sert chacun à construire une certaine partie de notre corpus :</p>
         
@@ -101,10 +101,10 @@
 <div class="row motifs-tabs">          
   <div class="forwhat2 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
     <h3>1 - Le script utilisé pour créer les tableaux du corpus anglais et du corpus français :</h3>
-    <p style="color:azure; text-align: justify;">Ce script nous permet de créer un tableau contenant les urls que nous avons choisis afin de pouvoir créer un tableau avec nos URLs. On obtiendra aussi un fichier dumps-text qui contient le contenu de la page concernée. </p>
+    <p style="color:azure; text-align: justify;">Ce script nous permet de créer un tableau contenant les urls que nous avons choisis afin de pouvoir créer un tableau avec nos URLs. On obtiendra aussi un fichier dumps-text qui contiendra le contenu de la page concernée. </p>
     <p style="color:azure; text-align: justify;">Il nous faut trois arguments : le fichier script, le fichier urls en format txt et le fichier_tableau en format html.</p>
     <p style="color:azure ; text-align: justify;">En lançant la ligne de commande suivante : bash base traitement_url_base.sh fichier_urls.txt fichier_tableau.txt, on obtiendra un tableau contenant les informations suivantes : </p>
-    <p style="color:azure ; text-align: justify;"> Le numéro de ligne, le code de retour (indiqué dans le script), l'URL, l'encodage, le dumps-html, le dumps-text, les occurrences du mot cible, les contexte, les concordances</p>
+    <p style="color:azure ; text-align: justify;"> Le numéro de ligne, le code de retour ((200 : ✅ ; 400 : ❌)), l'URL, l'encodage, le dumps-html, le dumps-text, les occurrences du mot cible, les contexte, les concordances</p>
     <br>
     <p>
     <a href="https://github.com/gemmafelton/PPE-group/blob/main/scripts/anglais/base_tableaux_fichier_en.sh" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
@@ -305,8 +305,8 @@ exit
 
 #!/usr/bin/zsh
 #===============================================================================
-# Ce script traite notre fichier dumps-text en les reunissant tous afin de créer un seul fichier qui s'appellera contexte.txt. 
-# Il s'utilise avec la ligne de commande suivante : ***********
+# Ce script traite notre fichier dumps-text en les reunissant tous afin de créer un seul fichier qui s'appellera condumps_entier.txt. 
+# Il s'utilise avec la ligne de commande suivante : cat *.txt >>dumps_entier.txt
 # On utilise ensuite ce fichier de sortie sur le site : http://www.tal.univ-paris3.fr/trameur/iTrameur/ afin de faire une analyse textométrique de données. 
 #==============================================================================
 if  [[ $# -ne 2 ]]
