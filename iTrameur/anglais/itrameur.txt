@@ -1,0 +1,40 @@
+Nous souhaitons d'abord avoir une vue globale du mot "racial discrimination". L'expression régulière nous montrera un graphe de cooccurrents sur un ensemble de pôles définis, donc ici le mot "racial discrimination", qu'il commence par une majuscule ou bien une minuscule.
+Voici l'expression régulière : "(R|r)acialdiscrimination"
+
+<image : regexp> 
+
+Les mots qui nous sautent aux yeux sont : "intentionally", "international", "prohibitations", "persistence", "elimination", "xenophobia". 
+
+
+Lors de notre présentation du projet, nous avons évoqué le sujet des violences policiers aux États-Unis qui deviennent de plus en plus répandus. Nous avons donc décidé de comparer les contextes des deux mots : "racial discrimination" et "police".
+ <coocs_ang.png>
+ 
+ Ce graphe de cooccurrents sur un pôle donné : "racial discrimination". Nous constatons dans ce graphe de cooccurrents que le mot "police" n'en fait pas partie. En revanche, nous savons que ce mot est souvent lié au sujet de discrimination raciale. 
+ 
+<police.jpeg>
+Nous avons donc examiné le contexte dans un graphe de cooccurrents sur un pôle donné : "police" afin de trouver des contextes. Des mots importants à observer sont : "brutality", "violence", "killings", "shootings". En connaissant les histoires écœurantes de George Floyd et Breonna Taylor, ces résultats nous permettent de se rendre compte de l'impact que la police a sur le sujet de la discrimation raciale. 
+
+<violences>
+
+Nous pouvons comprendre ici que le syntagme "Racial discrimination" se trouve dans des contextes négatifs et sont liés à un certain nombre de thématiques, comme la justice qui a été évoqué précedemment dans la partie français. De plus, nous avons constaté qu'il n'existe pas de grandes differences lorsqu'on utilise l'expression régulière. 
+
+
+
+
+   <div class="col-lg-4" style="margin: 190px 0 20px 50px ; color: rgb(13, 211, 241);">
+            <h3>Graphe de concurrents sur un pôle donné </h3>
+            <br>
+            <p style="color:rgb(124, 129, 129); text-align: justify;">Lors de notre présentation du projet, nous avons évoqué le sujet des violences policiers aux États-Unis qui deviennent de plus en plus répandus. Nous avons donc décidé de comparer les contextes des deux mots : "racial discrimination" et "police".</p>
+            <br>
+            <p style="color:rgb(124, 129, 129); text-align: justify;">Ce graphe de cooccurrents sur un pôle donné : "racial discrimination". Nous constatons dans ce graphe de cooccurrents que le mot "police" n'en fait pas partie. En revanche, nous savons que ce mot est souvent lié au sujet de discrimination raciale. </p>
+          </div>
+          <div class="col-lg-5" style="margin: 400px 0 30px 50px ; color: rgb(13, 211, 241);">
+            <img src="assets/img/itrameur_en/coocs_en.png" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
+            <br>
+            <p style="color:rgb(124, 129, 129); text-align: justify;">Ce graphe de cooccurrents sur un pôle donné : "racial discrimination". Nous constatons dans ce graphe de cooccurrents que le mot "police" n'en fait pas partie. En revanche, nous savons que ce mot est souvent lié au sujet de discrimination raciale. </p>
+            <br>
+          <div class="col-lg-12" style="margin: 50px 0 30px 1px ; color: rgb(13, 211, 241);">
+            <img src="assets/img/itrameur_en/police.png" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
+            </div>
+            <br><br><br><br><br><br>
+          </div>
