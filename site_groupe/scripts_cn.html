@@ -156,11 +156,11 @@ exit
 
               <div class="row motifs-tabs">          
                 <div class="forwhat2 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
-                  <h3>Script créant le tableau cru </h3>
-                  <p style="color:azure; text-align: justify;">C'est le script pour créer le tableau cru.</p>
-                  <p style="color:azure; text-align: justify;">Avec ce script, on obtiendra des infos utiles concernant les urls, leur contenu, y compris l'occurence du mot cible, ses coordances, son contexte etc... </p>
+                  <h3>Script créant le tableau </h3>
+                  <p style="color:azure; text-align: justify;">C'est le script pour créer le tableau.</p>
+                  <p style="color:azure; text-align: justify;">Avec ce script, on obtiendra des infos utiles concernant les urls, leur contenu, y compris les occurrences du mot cible, ses concordances, son contexte etc... </p>
                     <p style="color:azure ; text-align: justify;">la commande <i style="color:rgb(22, 227, 90);">curl</i> correspande aux fichiers aspirés, <i style="color:rgb(239, 184, 18);">lynx</i> aux dumps-texts, et <i style="color:rgb(13, 159, 243);">w3m</i> pour obtenir les dumps-texts chinois. On a aussi utilisé fréquemment le <i style="color:rgb(232, 4, 4);">tube</i> de linux pour transporter les contenus.</p>
-                    <p style="color:azure ; text-align: justify;">Enfin, on affichera tout ce qu'on a obtenu dans le tableau de style très simple, qui contient 9 colonnes et ainsi les qu'on a obtenu par ce script</p>
+                    <p style="color:azure ; text-align: justify;">Enfin, on affichera tout ce qu'on a obtenu dans le tableau de style très simple, qui contient 9 colonnes et ainsi ceux qu'on a obtenu par ce script</p>
                   <br>
                   <p>
                   <a href="https://github.com/Simounawind/PPE1/blob/main/projet_final/scripts/base_tableaux_fichier_ch.sh" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
@@ -269,8 +269,8 @@ echo "&lt;/body&gt;&lt;/html&gt;" &gt;&gt; $fichier_tableau
     <div class="row motifs-tabs">          
       <div class="forwhat1 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
         <h3>Script concaténant les dumps text</h3>
-        <p style="color:azure; text-align: justify;">Après avoir obtenu tant de fichier text, il faut les concaténer dans un fichier d'ensemble tout en insérant les délimiteurs comme &lt;page="ch-24"&gt.</p>
-        <p style="color:azure; text-align: justify;">Il suffit d'employer des connaissances de bash, de shell qu'on a appris au cours pour réaliser cela.</p>
+        <p style="color:azure; text-align: justify;">Après avoir obtenu tant de fichier text, il faut les concaténer dans un seul fichier, tout en insérant les délimiteurs comme &lt;page="ch-24"&gt.</p>
+        <p style="color:azure; text-align: justify;">Il suffit d'employer des connaissances de bash et de shell qu'on a appris en cours pour réaliser cela.</p>
 
             <br>
         <p>
@@ -331,7 +331,7 @@ echo "&lt;/lang&gt;" &gt;&gt; contexte.txt
                       <h3>Script créant le corpus iTrameur</h3>
                           <p style="color:azure; text-align: justify;">C'est le script le plus difficile pour moi. Je l'utilisais pour créer le fichier txt avec des mots segmentés et pertinents. </p>
                           <p style="color:azure; text-align: justify;">Basé sur le "contexte.txt" déjà crée, il faut aussi segmenter son contenu parce qu'il n'y a pas de space entre chaque mots chinois dans une phrase. Donc j'ai utilisé <i style="color:rgb(93, 93, 233)">jieba</i>, qui est un set de fonctions qui nous permet de segmenter les textes en chinois. J'ai utilisé le mode normal pour ne pas créer des mots redondants.</p>
-                          <p style="color:azure; text-align: justify;">Mais là j'ai eu un problème que j'arrivais toujours pas à résoudre. Avec jieba, on segmente aussi les délimiteurs. Avec <i style="color:coral">jieba.load_userdict('userdict.txt')</i> je n'arrive non plus à garder les délimiteurs, parce que jieba n'accepte pas les crochets pointus, donc je cherchais sur Internet et a modifié les codes source de jieba, enfin les délimiteurs sont gardés. Mais les stopwords existent encore !!! Donc j'ai dû corriger manuellement les délimiteurs, mais heureusement cela ne coûte pas beaucou de temps.
+                          <p style="color:azure; text-align: justify;">Mais là j'ai eu un problème que je n'arrivais toujours pas à résoudre. Avec jieba, on segmente aussi les délimiteurs. Avec <i style="color:coral">jieba.load_userdict('userdict.txt')</i> je n'arrive pas non plus à garder les délimiteurs, parce que jieba n'accepte pas les crochets pointus, j'ai donc cherché sur Internet et j'ai modifié les codes source de jieba, enfin les délimiteurs sont gardés. Mais les stopwords existent encore !!! Donc j'ai dû corriger manuellement les délimiteurs. Heureusement cela ne m'a pas coûté pas beaucoup de temps.
                              Mais grâce à ce script, les contenus dans context.txt sont annotés avec les délimiteurs suggérés dans le site officiel d'iTrameur, et le contenu est assez nettoyé.</p>
                              <p style="color:azure; text-align: justify;"> Nous pouvons ainsi utiliser le fichier sans délimiteurs pour la création des nuages de mots. ☁️</p>
                           <br>
@@ -382,9 +382,9 @@ inputs.close()
                       <div class="row motifs-tabs">          
                         <div class="forwhat1 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
                           <h3>Script - Nuages des mots ☁️</h3>
-                          <p style="color:azure; text-align: justify;">C'est le script qui segmente les mots chinois, et ensuite créer l'image nuage de mots.</p>
-                      <p style="color:azure; text-align: justify;">Toujour avec jieba, nous pouvons créer le nuage des mots avec wordcloud. Ayant maitrîsé les commandes de base de wordcloud, j'ai imité les codes d'autrui pour ajouter des coleurs et le beau font style.</p>
-                        <p style="color:azure ; text-align: justify;">J'ai aussi créé un set STOPWORDS ⛔️ , qui contient tous les mots ou lettres qu'on veut pas afficher dans l'image.</p>
+                          <p style="color:azure; text-align: justify;">C'est le script qui segmente les mots chinois, et ensuite crée l'image nuage de mots.</p>
+                      <p style="color:azure; text-align: justify;">Toujour avec jieba, nous pouvons créer le nuage des mots avec wordcloud. Ayant maitrîsé les commandes de base de wordcloud, j'ai imité les codes d'autrui pour ajouter des couleurs et le beau font stylé.</p>
+                        <p style="color:azure ; text-align: justify;">J'ai aussi créé un set de STOPWORDS ⛔️, qui contient tous les mots ou lettres qu'on ne veut pas afficher dans l'image.</p>
                          <br>
                          
                           <p>
@@ -481,7 +481,7 @@ https://getbootstrap.com/docs/5.3/getting-started/
 
     <div class="row motifs-tabs">          
       <div class="forwhat4 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
-        <h3 id="sourceimage"> 📷 d'où viennent les images </h3>
+        <h3 id="sourceimage"> 📷 D'où viennent les images </h3>
         <p style="color:azure; text-align: justify;">merciiiiii</p>
         <br>
       </div>
