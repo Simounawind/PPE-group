@@ -28,6 +28,8 @@ Désigne tout traitement défavorable d’une personne ou d’un groupe de perso
 
  **discrimination raciale**
  En France, la discrimination raciale a tendance à correspondre à une population dite "étrangère": elle s'adresse aux individus de couleurs Elle peut subvenir dans différents contextes comme dans la vie quotidienne, dans la recherche d'emploi, la recherche de logement, dans le système universitaire...
+ 
  **racial discrimination** en anglais
- L'histoire de l'Afrique du Sud
+Nous entendons de plus en plus souvent des histoires concernant la discrimination raciale aux Etats Unis. Elles sont comprises des attitudes et points de vues négatifs sur la race ou l'éthnicité, souvent des personnes de couleur de peau noire. Nous remarquons que, depuis un certain temps, les histoires de discrimination raciale concernent des violences policiers injustes.
+
  **种族歧视** en chinois
