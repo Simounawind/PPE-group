@@ -29,8 +29,10 @@ Désigne tout traitement défavorable d’une personne ou d’un groupe de perso
 
  **discrimination raciale**
  En France, la discrimination raciale a tendance à correspondre à une population dite "étrangère": elle s'adresse aux individus de couleurs Elle peut subvenir dans différents contextes comme dans la vie quotidienne, dans la recherche d'emploi, la recherche de logement, dans le système universitaire...
- 
+
  **racial discrimination** en anglais
 Nous entendons de plus en plus souvent des histoires concernant la discrimination raciale aux Etats Unis. Elles sont comprises des attitudes et points de vues négatifs sur la race ou l'éthnicité, souvent des personnes de couleur de peau noire. Nous remarquons que, depuis un certain temps, les histoires de discrimination raciale concernant des crimes de haine / des violences policiers injustes des victimes comme : George Floyd, Breonna Taylor et Ahmaud Arbery sont devenus trop fréquents.
 
  **种族歧视** en chinois
+
+Ce sujet n'est pas nouveau, mais il vaut la peine d'être exploré. Bien qu'il n'y ait pas beaucoup de discrimination à l'égard des autres races en Chine, nous entendons toujours le terme "discrimination raciale" aux news et sur web, et j'étais donc curieux de savoir de quoi on parlait en même temps. J'aime beaucoup la culture noire et je veux donc, par ce projet, attirer davantage l'attention sur ce mal social, non seulement contre les Noirs, mais aussi contre les Jaunes. C'est donc un sujet qui mérite d'être étudié.
