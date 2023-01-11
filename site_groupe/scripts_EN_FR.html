@@ -43,10 +43,10 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link" href="index.html">Accueil</a></li>   <!-- ======= avec presentation ======= -->
-          <li><a class="nav-link " href="index.html#presentation">Presentation</a></li>
+          <li><a class="nav-link " href="index.html#presentation">Présentation</a></li>
           <li class="dropdown"><a class="nav-link"><span>Tableaux</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="Tableaux-CN.html">Tableau - CN</a></li>
+              <li><a href="tableaux-cn.html">Tableau - CN</a></li>
               <li><a href="Tableaux-FR.html">Tableau - FR</a></li>
               <li><a href="Tableaux-EN.html">Tableau - EN</a></li>
             </ul>
@@ -54,7 +54,7 @@
           <li class="dropdown scrollto active"><a class="nav-link scrollto active"><span>Script</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="scripts_cn.html">Script - CN</a></li>
-              <li><a class="nav-link scrollto active" href="scripts_EN_FR.html">Scripts - EN | FR </a></li>
+              <li class="active"><a href="scripts_EN_FR.html" class="active">Scripts - EN | FR </a></li>
             </ul>
           </li>          
           <li class="dropdown"><a href="#"><span>iTrameur&Nuages</span> <i class="bi bi-chevron-down"></i></a>
@@ -79,7 +79,7 @@
   <main id="main">
 
     <section class="modul">
-      <div class="bg-image h-100" style="margin-bottom: -60px ; background-image: url('https://images.wallpapersden.com/image/download/programming-coding-language_bGhpbm6UmZqaraWkpJRqZmdlrWdtbWU.jpg');">
+      <div class="bg-image h-100" style="margin-bottom: -60px ; background-image: url('assets/img/code.jpeg');">
       <div class="mask align-items-center h-100" style="background-color: rgba(0, 0, 0, 0.25); "> 
         
         <section>
@@ -88,11 +88,11 @@
           <p style="color:whitesmoke ;">Les Scripts Anglais et Français</p>
           <p></p>
           <h5 style="margin-top: 70px; color:rgb(241, 240, 240) ;"> Afin de traiter nos corpus anglais et français, Gemma et Tannina ont choisi de faire une partie rassemblée.</h5>
-          <h5 style="margin-top: 10px; color:rgb(241, 240, 240) ;"> Les scripts sont basés sur ceux qui ont été etudié pendant les cours et qui ont été modifé par Xiaohua.</h5>
+          <h5 style="margin-top: 10px; color:rgb(241, 240, 240) ;"> Les scripts sont basés sur ceux qui ont été étudié pendant les cours et qui ont été modifié par Xiaohua.</h5>
           <h5 style="margin-top: 10px; color:rgb(241, 240, 240) ;"> Afin qu'il n'y ait pas de différences entre nos scripts et notre site web.</h5>
-          <h5 style="margin-top: 10px; color:rgb(241, 240, 240) ;"> Néanmoins, nos scripts ne contient pas les lignes de script spécifique au chinois, comme la tokénisation. Cela nous permet d'avoir des scripts plus simplifiés.</h5>
+          <h5 style="margin-top: 10px; color:rgb(241, 240, 240) ;"> Néanmoins, nos scripts ne contiennent pas les lignes de script spécifique au chinois, comme la tokénisation. Cela nous permet d'avoir des scripts plus simplifiés.</h5>
           <h5 style="margin-top: 10px; color:rgb(241, 240, 240) ;"> Elles ont bien-sûr modifiés les noms des fichiers ou encore les noms des chemins de fichiers selon leurs contextes et/ou leur langue.</h5>
-          <h5 style="margin-top: 10px; color:rgb(241, 240, 240) ;"> Il existe 4 scripts qui sert chacun à construire une certaine partie de notre corpus :</h5>
+          <h5 style="margin-top: 10px; color:rgb(241, 240, 240) ;"> Il existe 3 scripts qui sert chacune à construire une certaine partie de notre corpus :</h5>
         
         </header>
         </section>
@@ -110,10 +110,10 @@
 <div class="row motifs-tabs">          
   <div class="forwhat2 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
     <h3>1 - Le script utilisé pour créer les tableaux du corpus anglais et du corpus français :</h3>
-    <p style="color:azure; text-align: justify;">Ce script nous permet de créer un tableau contenant les urls que nous avons choisis afin de pouvoir créer un tableau avec nos URLs. On obtiendra aussi un fichier dumps-text qui contiendra le contenu de la page concernée. </p>
-    <p style="color:azure; text-align: justify;">Il nous faut trois arguments : le fichier script, le fichier urls en format txt et le fichier_tableau en format html.</p>
+    <p style="color:azure; text-align: justify;">Ce script nous permet de créer un tableau contenant les urls que nous avons choisi afin de pouvoir créer un tableau avec nos URLs. On obtiendra aussi un fichier dumps-text qui contiendra le contenu de la page concernée. </p>
+    <p style="color:azure; text-align: justify;">Il nous faut trois arguments pour sa création : le fichier script, le fichier urls en format txt et le fichier_tableau en format html.</p>
     <p style="color:azure ; text-align: justify;">En lançant la ligne de commande suivante : bash base traitement_url_base.sh fichier_urls.txt fichier_tableau.txt, on obtiendra un tableau contenant les informations suivantes : </p>
-    <p style="color:azure ; text-align: justify;"> Le numéro de ligne, le code de retour ((200 : ✅ ; 400 : ❌)), l'URL, l'encodage, le dumps-html, le dumps-text, les occurrences du mot cible, les contexte, les concordances</p>
+    <p style="color:azure ; text-align: justify;"> Le numéro de ligne, le code de retour ((200 : ✅ ; 400 : ❌)), l'URL, l'encodage, le dumps-html, le dumps-text, les occurrences du mot cible, les contexte, les concordances.</p>
     <br>
     <p>
     <a href="https://github.com/gemmafelton/PPE-group/blob/main/scripts/anglais/base_tableaux_fichier_en.sh" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
@@ -227,8 +227,8 @@ echo "&lt;/body&gt;&lt;/html&gt;" &gt;&gt; $fichier_tableau
           <div class="row motifs-tabs">          
             <div class="forwhat1 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
               <h3>2 - Script de concaténation </h3>
-              <p style="color:azure; text-align: justify;"> Ce script sert à obtenir le corpus qui reste et de les trier dans leurs dossiers respectifs. Il n'a besoin qu'un seul argument : le fichier_urls.txt</p>
-              <p style="color:azure; text-align: justify;"> Les dossiers concernées sont : aspirations, dumps-text, contextes (gauche et droit), concordances et occurrences.</p>
+              <p style="color:azure; text-align: justify;"> Ce script nous sert à obtenir les dernières données manquantes du corpus et de les trier dans leurs dossiers respectifs. Il n'a besoin qu'un seul argument : le fichier_urls.txt</p>
+              <p style="color:azure; text-align: justify;"> Les dossiers concernés sont : aspirations, dumps-text, contextes (gauche et droit), concordances et occurrences.</p>
               <br>
               <p>
               <a href="https://github.com/gemmafelton/PPE-group/blob/main/scripts/anglais/dumps_asp_conc_cont_en.sh" class="github"><i class="bi bi-github" style="font-size: 40px;"></i></a>
@@ -299,7 +299,7 @@ exit
             <div class="row motifs-tabs">          
               <div class="forwhat1 col-lg-4" style="margin: 0 0 20px 50px ; color: rgb(154, 241, 13);">
                 <h3>3 - Script créant le fichier base pour iTrameur</h3>
-                <p style="color:azure; text-align: justify;">C'est le script pour créer le fichier txt brut au bon format d'iTrameur. Avec ce script, on peut concatener tous les contenus des fichiers dumps-texts dans un seul fichier, qui s'appelle "contexte.txt"</p>
+                <p style="color:azure; text-align: justify;">C'est le script permettant la création du fichier txt brut au bon format d'iTrameur. Avec ce script, on peut concatener tous les contenus des fichiers dumps-texts dans un seul fichier, qui s'appelle "contexte.txt"</p>
                 <p style="color:azure; text-align: justify;">Grâce à ce script, les contenus dans context.txt sont annotés avec les délimiteurs suggérés dans le site officiel d'iTrameur.</p>
                 <br>
                 <p>
