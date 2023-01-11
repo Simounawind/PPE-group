@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
   <meta charset="utf-8">
@@ -72,17 +72,17 @@
 
 
   
-<main id="main">
-  <section class="modul">
-  <div class=" h-100" style="margin-bottom: -60px ; background-image: url('https://w.wallhaven.cc/full/1p/wallhaven-1p35kv.png');">
-  <div class="mask align-items-center h-100" style="background-color: rgba(0, 0, 0, 0.25); "> 
-    <section>
-      <header class="section-header">
+  <main id="main">
+    <section class="modul">
+    <div class=" h-100" style="margin-bottom: -60px ; background-image: url('https://w.wallhaven.cc/full/1p/wallhaven-1p35kv.png');">
+    <div class="mask align-items-center h-100" style="background-color: rgba(0, 0, 0, 0.25); "> 
+      <section>
+        <header class="section-header">
         <h2>&nbsp&nbsp&nbsp&nbsp iTrameur | Nuages des mots</h2>
-        <p style="color:whitesmoke ;">iTrameur — Racial discrimination</p>
+        <p style="color:whitesmoke ;">iTrameur — Discrimination raciale</p>
         <p></p>
           <h6 style="margin-top: 70px; color:rgb(241, 240, 240) ;"> Itrameur est une plateforme permettant d'analyser certains mots à partir d'un corpus, celle-ci va analyser et répertorier tous les mots se trouvant proche du mot recherché.</h6>
-          <h6 style="margin-top: 20px; color:rgb(241, 240, 240) ;"> Cela nous permettra d'inspecter les différents contextes qui lui sont assignés. Ici, nous cherchons précisément le mot " racial discrimination ".</h6>
+          <h6 style="margin-top: 20px; color:rgb(241, 240, 240) ;"> Cela nous permettra d'inspecter les différents contextes qui lui sont assignés. Ici, nous cherchons précisément le mot " discrimination racial ".</h6>
           <h6 style="margin-top: 20px; color:rgb(241, 240, 240) ;"> Afin d'avoir le syntagme en entier, nous avons enlevé l'espace.</h6>
         </header>
     </section>
@@ -92,67 +92,58 @@
       <div class="col-12">
         <div class="card bg-dark">
           <div class="row motifs-tabs">    
-          <div class="col-lg-4" style="margin: 110px 0 20px 50px ; color: rgb(13, 211, 241);">
+          <div class="col-lg-4" style="margin: 70px 0 20px 50px ; color: rgb(13, 211, 241);">
             <br> <br>
-            <h3> Réseau de cooccurrences spécifiques</h3>
+            <h3> Cooccurrences spécifiques</h3>
             <br><br>
-            <h5> Utilisation d'une expression régulière </h5>
-            <br><br>
-            <p style="color:rgb(124, 129, 129) ; text-align: justify;">Nous souhaitons d'abord avoir une vue globale du mot "racial discrimination". L'expression régulière nous montrera un graphe de cooccurrents sur un ensemble de pôles définis, donc ici le mot "racial discrimination", qu'il commence par une majuscule ou bien une minuscule.	</p>
+            <p style="color:rgb(124, 129, 129) ; text-align: justify;">Nous avons fait appel à l'outil iTrameur-CooCs pour réaliser cette observation. Le graphe nous ressort pas mal de mots vides tels que les articles, conjonctions etc. Nous allons faire abstraction et se focaliser sur les mots pleins.</p>
             <br>
-            <p style="color:rgb(124, 129, 129); text-align: justify;">Voici l'expression régulière :</p>
-            <p style="color:rgb(124, 129, 129); text-align: justify;">"(R|r)acialdiscrimination"</p>
-            <br>
-            <p style="color:rgb(124, 129, 129); text-align: justify;"> "Les mots qui nous sautent aux yeux sont : "intentionally", "international", "prohibitations", "persistence", "elimination", "xenophobia".</p>
-           
+            <p style="color:rgb(124, 129, 129); text-align: justify;"> On peut apercevoir les mots qui ont le plus d'occurrences en rouge "Racisme", "élimination", "sanctions". Le syntagme "sanctions" a un lien avec la justice.</p>
+            <p style="color:rgb(124, 129, 129); text-align: justify;"> Cela nous permet de comprendre que la justice s'efforce à y remédier, et qu'ils essayent de proscrire ces agissements discriminatoires. On peut y ajouter d'autres syntagmes portant sur cette thématique: "Plaint", "syndicale", "coupable", "poursuivi", "encourt","complices".</p>
+            <p style="color:rgb(124, 129, 129); text-align: justify;"> De plus, on peut observer de nombreux mots ayant un lien avec les journées de sensibilisation contre la discrimination raciale, on distingue différents mots portant sur ce sujet : ''élimination", "ONU", "lutter", "victime", "contre" et "comit?" représentant "comité".</p>
             <br>
           </div>
-          <div class="col-lg-6" style="margin: 150px 0 20px 50px ; color: rgb(13, 211, 241);">
-            <img src="assets/img/itrameur_en/regexp.png" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
+          <div class="col-lg-6" style="margin: 300px 0 20px 50px ; color: rgb(13, 211, 241);">
+            <img src="assets/img/itrameur_fr/graphe_cooc_specifique.jpeg" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
             <br><br><br><br><br><br><br>
           </div>
 
           <hr class="hr-edge-weak">
 
-          <div class="col-lg-4" style="margin: 190px 0 20px 50px ; color: rgb(13, 211, 241);">
-            <h3>Graphe de concurrents sur un pôle donné </h3>
+          <div class="col-lg-4" style="margin: 70px 0 20px 50px ; color: rgb(13, 211, 241);">
+            <h3>Contextes</h3>
             <br>
-            <p style="color:rgb(124, 129, 129); text-align: justify;">Lors de notre présentation du projet, nous avons évoqué le sujet des violences policiers aux États-Unis qui deviennent de plus en plus répandus. Nous avons donc décidé de comparer les contextes des deux mots : "racial discrimination" et "police".</p>
-            <br><br>
-            <p style="color:rgb(124, 129, 129); text-align: justify;">Ce graphe de cooccurrents sur un pôle donné : "racial discrimination". Nous constatons dans ce graphe de cooccurrents que le mot "police" n'en fait pas partie. En revanche, nous savons que ce mot est souvent lié au sujet de discrimination raciale. </p>
+            <p style="color:rgb(124, 129, 129); text-align: justify;"> De nombreux mots apparaissent permettant de dénoncer les différentes situations où l'on peut y trouver de la discrimination raciale: "travail", "Location", "immobilières", "agence", "embauche". Cela confirme que la discrimination raciale peut se dérouler dans n'importe quelles situations: vie quotidienne en vacances par exemple ou lors d'une recherche d'emploi.</p>
+            <br><br><br>
+            <p style="color:rgb(124, 129, 129); text-align: justify;"> On a aussi pu constater que certaines firmes telles qu' "Airbus" et "Foncia" ont été attaquées pour propos racistes envers leurs employés et discrimination raciale à l'embauche.</p>
+            <br><br><br>
           </div>
-          <div class="col-lg-6" style="margin: 425px 0 30px 50px ; color: rgb(13, 211, 241);">
-            <img src="assets/img/itrameur_en/coocs_en.png" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
+          <div class="col-lg-6" style="margin: 175px 0 30px 50px ; color: rgb(13, 211, 241);">
+            <img src="assets/img/itrameur_fr/contexte1.jpeg" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
+            <br><br><br>
+          </div>
+          <div class="col-lg-6" style="margin: -200px 0 30px 535px ; color: rgb(13, 211, 241);">
+            <img src="assets/img/itrameur_fr/contexte2.jpeg" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
             <br><br><br>
           </div>
 
-
-          <div class="col-lg-4" style="margin: 1px 0 30px 50px ; color: rgb(13, 211, 241);">
-            <h3></h3>
-            <br><br>
-            <p style="color:rgb(124, 129, 129); text-align: justify;">Ce graphe de cooccurrents sur un pôle donné : "racial discrimination". Nous constatons dans ce graphe de cooccurrents que le mot "police" n'en fait pas partie. En revanche, nous savons que ce mot est souvent lié au sujet de discrimination raciale.</p>
-            <br><br><br><br><br>
-          </div>
-          <div class="col-lg-6" style="margin: 10px 0 30px 50px ;">
-            <img src="assets/img/itrameur_en/police.png" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
-            <br><br><br><br><br><br>
-          </div>
           
           <hr class="hr-edge-weak">
 
-          <div class="col-lg-4" style="margin: 1px 0 30px 50px ; color: rgb(13, 211, 241);">
-            <h3></h3>
+
+          <div class="col-lg-4" style="margin: 205px 0 30px 50px ; color: rgb(13, 211, 241);">
+            <h3> Utilisation d'une expression régulière </h3>
             <br><br>
-            <p style="color:rgb(124, 129, 129); text-align: justify;"> Nous pouvons comprendre ici que le syntagme "Racial discrimination" se trouve dans des contextes négatifs et sont liés à un certain nombre de thématiques, comme la justice qui a été évoqué précedemment dans la partie français.</p>
-            <p style="color:rgb(124, 129, 129); text-align: justify;"> De plus, nous avons constaté qu'il n'existe pas de grandes differences lorsqu'on utilise l'expression régulière. 
-            <br><br><br><br><br>
+            <p style="color:rgb(124, 129, 129); text-align: justify;"> Nous avons utlisé l'outil iTrameur-CooCs-regexp permettant de réaliser une recherche avec l'utilisation d'une expression régulière : (D|d)iscrimination. Cela nous a permis d'avoir un réseau de coocurrents spécifiques avec expression régulière celui-ci nous présente les mêmes thématiques exprimées plus haut.</p>
+            <br><br><br><br><br><br><br><br>
+            <p style="color:rgb(124, 129, 129); text-align: justify;"> À partir de ces deux outils on peut donc constater les mêmes thématiques reviennent: la justice, l'emploi, vie quotidienne ou encore la lutte contre le racisme.</p>
           </div>
-          <div class="col-lg-5" style="margin: 125px 0 30px 100px ;">
-            <img src="assets/img/itrameur_en/violences.png" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
-            <br><br><br><br><br><br>
+          <div class="col-lg-6" style="margin: 125px 0 30px 50px ;">
+            <img src="assets/img/itrameur_fr/graphe_reseau_cooc.jpeg" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
+            <br><br><br><br><br><br><br>
           </div>
 
-          
+          <hr class="hr-edge-weak">
 
         </div>
       </div>
@@ -168,15 +159,15 @@
           <div class="card bg-white">
             <div class="row motifs-tabs">    
               <div class="col-lg-6" style="margin: 40px 0 20px 50px ;">
-                <img src="assets/img/racial_discrimination.jpg" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
+                <img src="assets/img/discrimination_raciale.jpeg" style="width: 1000px; ;" class="img-fluid" alt="cndict1">
                 <br>
               </div>    
               <div class="col-lg-4" style="margin: 100px 0 20px 50px ; color: rgb(4, 4, 4);">
-                <h1 style="font-family: Pacifico;">Nuage de mots anglais</h3>
+                <h1 style="font-family: Pacifico;">Nuage de mots français</h3>
                   <br>
-                <h2 style="font-family: Pacifico;">" Racial discrimination "</h3>
+                <h2 style="font-family: Pacifico;">" Discrimination Raciale "</h3>
                   <br>
-                <p style="color:rgb(10, 46, 46); text-align: justify;">Tannina et moi nous n'avons pas réussi la liste stopwords nous avons alors préféré réaliser notre nuage de mot sur une plateforme : nuagedemot.fr. Elle nous a permis de retirer les mots vides manuellement. Nos nuages de mots seront alors plus représentatifs et on pourra distinguer les grandes nuances de notre mot. Les nuages de mots sont des représentations visuelles plus appréciables et l'on peut apercevoir plus facilement les mots "importants". Puisqu'ils s'affichent le plus souvent en grand.</p>
+                <p style="color:rgb(10, 46, 46); text-align: justify;">Gemma et moi n'avons pas réussi la liste stopwords. Nous avons alors préféré réaliser notre nuage de mot sur une plateforme : nuagedemot.fr. Elle nous a permis de retirer les mots vides manuellement. Nos nuages de mots seront alors plus représentatifs et on pourra distinguer les grandes nuances de notre mot. Les nuages de mots sont des représentations visuelles plus appréciables et l'on peut apercevoir plus facilement les mots "importants". Puisqu'ils s'affichent le plus souvent en grand.</p>
                 </div>
         </div>
       </div>
@@ -193,9 +184,9 @@
           <div class="card bg-white">
             <div class="row motifs-tabs">     
               <div class="col-lg-12" style="margin: 60px 60px 70px 60px ; color: rgb(4, 4, 4);">
-                <h1 style="font-family: Pacifico; margin-right: 80px;">Conclusion du corpus anglais</h3>
+                <h1 style="font-family: Pacifico; margin-right: 80px;">Conclusion du corpus français</h3>
                   <br>
-                <h2 style="font-family:Pacifico;margin-right: 80px;">" Racial discrimination"</h3>
+                <h2 style="font-family:Pacifico;margin-right: 80px;">" Discrimination raciale "</h3>
                   <br>
                 <h5 style="margin-right: 130px; text-indent: 2em; line-height: 30px; color:rgb(10, 46, 46); text-align: justify;"> xxx </h5>
             </div>
